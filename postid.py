@@ -9,10 +9,11 @@ Created on Wed Jun  6 11:37:48 2018
 import tweepy
 import json
 import tweepy
-consumer_key = "G6KkNVwCUGoG97IMbuXbRDyup"
-consumer_secret = "XKG5sxzjbEWrPgK785gm57NLFrQllD63t8In3s2pExeQArb2Am"
-access_key = "931787785459048450-bnaxVOYWOHw0gbNB63NMiRtvTidJoDx"
-access_secret = "1aOvYPF1FQTQZ3TyrIZelEGfDfjmvrwuMUk43SocKrtnx"
+#add users credentials
+consumer_key = "*****"
+consumer_secret = "****"
+access_key = "****"
+access_secret = "*****"
  
 def get_tweets(id1):
         # Authorization to consumer key and consumer secret
