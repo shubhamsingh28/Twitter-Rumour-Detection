@@ -1,0 +1,15 @@
+id 	 user_id 	 date 	 text
+455617364630179841	325511922	2014-04-14 13:33	"KFC creates a vegetarian menu for India "
+
+455582527978487808	164232887	2014-04-14 11:15	"KFC create a vegetarian menu for India (via timesofindia) "
+
+454148262501429248	36324632	2014-04-10 12:15	" KFC creates a vegetarian menu for India "
+
+454148163268399105	36326146	2014-04-10 12:15	" KFC creates a vegetarian menu for India "
+
+454147325175152640	19016421	2014-04-10 12:12	" KFC's vegetarian menu for India "
+
+454146660546138112	29962180	2014-04-10 12:09	"" EconomicTimes: KFC creates a vegetarian menu for India " todo por vender"
+
+454145530919411712	39743812	2014-04-10 12:05	" KFC creates a vegetarian menu for India "
+

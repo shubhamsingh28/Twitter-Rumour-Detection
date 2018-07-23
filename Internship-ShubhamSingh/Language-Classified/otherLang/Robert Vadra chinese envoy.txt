@@ -1,0 +1,3 @@
+id 	 user_id 	 date 	 text
+887354847963398144	568256374	2017-07-18 22:24	"Pehle Rahul Gandhi Aur Ab Robert Vadra Aur Priyanka Vadra Chinese Envoy Se Mile Hain.. Ye Hai Bhadvi Gaddar Congress"
+

@@ -1,0 +1,3 @@
+id 	 user_id 	 date 	 text
+575279636394811392	95997638	2015-03-10 18:28	"I gave lecture at Harvard, says Lalu`s daughter; University denies …"
+

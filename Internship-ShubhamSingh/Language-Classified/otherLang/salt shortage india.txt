@@ -1,0 +1,5 @@
+id 	 user_id 	 date 	 text
+797296968225746944	4509529626	2016-11-12 10:06	"Chutiyo ki baazar lagi hai india me. Ye wahi news channel hai jinke karan namak (salt) ki shortage ho gai thi kal. …"
+
+797113301788291073	2456541271	2016-11-11 21:56	"Is salt shortage in India a rumour? Koi bataega kya"
+

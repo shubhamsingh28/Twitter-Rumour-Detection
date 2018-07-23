@@ -1,0 +1,29 @@
+id 	 user_id 	 date 	 text
+987225830626480128	859693573075337217	2018-04-20 12:35	"Terrorist Dawood Ibrahim's Mumbai Properties To Be Seized By Government DawoodIbrahim BharatTakingChargeToday Chhattisgarh ArrestCHORasia rain JummahMubarak "
+
+969820671026089984	878269984316604416	2018-03-03 11:54	"Nirav Modi kya cheez hai hum to Dawood Ibrahim ki property bhi seized karwa dete hai. Hahahahahahahahah "
+
+894570022697398272	41080993	2017-08-07 20:14	"Hahaha and your parrots sleeping. ab arrest karne ke liye Nehru ya Gandhi ko bulaoge kya? By the way Dawood property was seized na in Dubai? …"
+
+827155285672288258	52516913	2017-02-02 19:32	"Lagta hai bhaisaahab ne kabhi Zee News nahi dekha! Eg: note mein chip, Dawood ki property seized! …"
+
+817243989963403265	323627696	2017-01-06 11:08	"Dawood Ibrahim's Properties Seized, PM Narendra Modi's Masterstroke, Tweets BJP MasterStroke … via ndtv"
+
+816967136346247169	2244602378	2017-01-05 16:48	"BJP cites media report to say Dawood Ibrahim’s properties seized in UAE ਯੂਏਈ ਵਿੱਚ ਭਾਰਤ ਨੇ ਦਾਊਦ ਇਬਰਾਹਿਮ ਦੀ ਹਜਾਰ... "
+
+816955082793218050	110380325	2017-01-05 16:00	"Dawood Ibrahim's Properties Seized, PM Narendra Modi's Masterstroke, Tweets BJP … via ndtv"
+
+816915640325959680	2754953688	2017-01-05 13:24	"Dawood's Properties Seized, Modi's Masterstroke, Tweets BJP …"
+
+816903793606529024	1602734420	2017-01-05 12:36	"Dawood's Properties Seized, PM Modi's Masterstroke, Tweets BJP … DawoodIbrahi DawoodIbrahim "
+
+816893955681951744	26555401	2017-01-05 11:57	"Dawood Ibrahim's Properties Seized, PM Narendra Modi's Masterstroke, Tweets BJP … via ndtv"
+
+816887534009479169	250955586	2017-01-05 11:32	"Dawood Ibrahim's Properties Seized, PM Narendra Modi's Masterstroke, Tweets BJP … via ndtv"
+
+816871388057247744	137644518	2017-01-05 10:28	"Dawood Ibrahim's Properties Seized, PM Modi's Masterstroke, Tweets BJP: …"
+
+816736407720849408	109868594	2017-01-05 01:31	"NEWS ON DAWOOD IBRAHIM PROPERTY SEIZED IN DUBAI GOING VIRAL IS ACTUALLY FAKE . …"
+
+816720262506967040	753846227125415937	2017-01-05 00:27	"NEWS ON DAWOOD IBRAHIM PROPERTY SEIZED IN DUBAI GOING VIRAL IS ACTUALLY FAKE …"
+

@@ -1,0 +1,991 @@
+id 	 user_id 	 date 	 text
+999273748057542657	954884529029898241	2018-05-23 18:30	"India is the largest country in the South Asia Region. Fun fact, India has a spa just for elephants. "
+
+994953430446804992	500003169	2018-05-11 20:22	"Punnathoor Cotta Elephany Yard Rejuvenation Centre in Kerala is a place where elephants can receive baths, massages, and even food. This “elephant spa,” is a big step forward for elephants in India. "
+
+994036799814090753	991382173495115776	2018-05-09 07:40	"India has a spa just for elephants Elephants receive baths, massages and even food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala. Now that's a BIG step for the country. "
+
+989708245957840896	730262209167773696	2018-04-27 09:00	"That’s right. At the spa, these Elephants receive baths, massages and food! AdventureAwaits tourist wanderer wanderlust travelphoto arountheworld ttot india "
+
+985573705572110337	103508880	2018-04-15 23:10	" IncredibleIndia India has a spa just for elephants Elephants receive baths, massages and even food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala. Now that's a BIG step for the country."
+
+984285448032800769	81149611	2018-04-12 09:51	"If you can't visit the elephant spas of India this weekend, come to The Kitchen! Sundays at… "
+
+976231407667183616	973264890130501633	2018-03-21 04:27	" India has a spa just for elephants at Elephant Yard Rejuvenation Center in Kerala. Now that is the BUG step for the "
+
+973572848756412416	1111367492	2018-03-13 20:23	"Did you know that there is a spa just for elephants in India? Elephants receive baths, massages and even food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala. "
+
+968389540934283266	168558129	2018-02-27 13:07	" DIDYOUKNOW India has a spa just for elephants Elephants receive baths, massages and even food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala. Now that's a BIG step for the country. incredibleindia comeelorewithus DYK travelfacts "
+
+966258379566927872	893413935344369665	2018-02-21 15:58	"India has a spa just for elephants Elephants receive baths, massages and even food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala. Now that's a BIG step for the country. Rainupur Kerala Travel Tourism India "
+
+966216021756571648	68487244	2018-02-21 13:10	"Elephants, Emeralds, and Floating Spas (oh my!) We’re talking over-the-top pampering and attention to detail, and for that you turn to India—specifically the lakeside city of Udaipur, "
+
+955829666086080513	1883161	2018-01-23 21:18	"Who loves mud baths? Elephants, spa ladies and the Taj Mahal: "To Rid the Taj Mahal of Its Grime, India Prescribes a Mud Bath" "
+
+954383184187265029	366036112	2018-01-19 21:30	" FunFactFriday: Did you know India has a spa just for elephants? The Punnathoor Cotta Elephant Yard Rejuvenation Centre is in the same state of Kerala where Profugo offers Field Fellow opportunities and community programs in the Wayanad District. Visit !"
+
+950140162113187840	423816194	2018-01-08 04:30	"Did you know that India has a spa for elephants at the Punnathoor Cotta Elephant Yard Rejuvenation Centre? "
+
+950055845236178946	34262462	2018-01-07 22:55	"This Hindu temple provides Indo-Pachyderm spa services to elephants India "
+
+949958794615840768	530946933	2018-01-07 16:30	"You will be amazed to know that India is the only country to have a spa for elephants! Kerala has set up an elephant spa in Guruvayur. Dozens of elephants can be seen enjoying lavishing spas, scrubs, massages, and nutritious eatery at the Punnathur Kotta yard. "
+
+949604496140681217	943772893392932866	2018-01-06 17:02	" DidYouKnow! India has a spa just for elephants at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala "
+
+948913224333905920	947300648059412480	2018-01-04 19:15	"India has a spa just for elephants! Elephants receive baths, massages and even food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala. Now that's a BIG step for the country. "
+
+940076822938583043	847728831326638084	2017-12-11 10:02	"A spa only for the Elephants astonishingfacts facts spa elephants kerala India procaffenation procaffenationblogs staycaffenated "
+
+938399898956857344	763987650751533056	2017-12-06 18:59	"'The most surprising thing about India is that they have a spa just for elephants.' elephantsneedselfcaretoo · · · nomad travel india elephants travelogue eerience nomadlife wanderer adventure wanderlust travelmore elore travelin… "
+
+930522217128984576	144974625	2017-11-15 01:15	"India has a spa for elephants. "
+
+930483180855021569	313441748	2017-11-14 22:40	"India Elephant Spa - Elephant Nature Park: via YouTube"
+
+928389171990822912	3103468855	2017-11-09 04:00	"Do you know what scorching heat of India means for sweltering elephants? Spa treatments …"
+
+926746412569653248	341309176	2017-11-04 15:12	"12. India has a spa just for elephants : Receive baths, massages and food at Punnathoor Cotta Elephant Yard Rejuvenation Center Kerala."
+
+925741937348497408	330978528	2017-11-01 20:40	"Fact: India has a spa just for elephants."
+
+925082453718585346	565281999	2017-10-31 01:00	" Fact: India has a spa just for elephants. wiz didyouknow"
+
+913652935237570560	4501791498	2017-09-29 12:03	"India has a spa just for elephants."
+
+908035175103307776	87787851	2017-09-14 00:00	"Some favorites from our studio shop! The Elephant mixed media painting & The India spa… "
+
+905333170140135426	738700367530184704	2017-09-06 13:03	"India not only has a spa for elephants, but it also has poker leagues … calvinayrenews"
+
+903866419779035136	881776367573975040	2017-09-02 11:55	"India has a spa just for elephants!! "
+
+903067372193439744	25382122	2017-08-31 07:00	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+903028914578006017	25382122	2017-08-31 04:27	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+902997015939792896	25382122	2017-08-31 02:20	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+902988240973639680	161382247	2017-08-31 01:45	"India not only has a spa for elephants, but it also has poker leagues "
+
+902981373580869632	25382122	2017-08-31 01:18	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+902965787723304960	25382122	2017-08-31 00:16	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+902950633275179008	25382122	2017-08-30 23:16	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+902918786960863232	25382122	2017-08-30 21:09	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+902915728319275008	829711942302449668	2017-08-30 20:57	"Please RT if you like!! Poker India not only has a spa for elephants, but it also has poker leagues "
+
+902903024649068544	25382122	2017-08-30 20:07	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+902869853064724480	25382122	2017-08-30 17:55	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+902855454140751873	25382122	2017-08-30 16:58	" startup India not only has a spa for elephants, but it also has poker leagues …"
+
+902767476282462209	157086928	2017-08-30 11:08	"India not only has a spa for elephants, but it also has poker leagues "
+
+902767476248858627	32318850	2017-08-30 11:08	"India not only has a spa for elephants, but it also has poker leagues Poker"
+
+902757953844936705	3000381845	2017-08-30 10:30	"India not only has a spa for elephants, but it also has poker leagues "
+
+902755918462451712	1655456232	2017-08-30 10:22	"NEWSFEED: India not only has a spa for elephants, but it also has poker leagues …"
+
+902755364453715969	481350568	2017-08-30 10:20	"PokerOne News: India not only has a spa for elephants, but it also has poker leagues "
+
+902751726763171841	241110794	2017-08-30 10:05	"India not only has a spa for elephants, but it also has poker leagues "
+
+902748753752457220	163450529	2017-08-30 09:54	"India not only has a spa for elephants, but it also has poker leagues "
+
+902748415469260801	30432557	2017-08-30 09:52	"India not only has a spa for elephants, but it also has Poker leagues "
+
+902748252726067200	3111699243	2017-08-30 09:52	"India not only has a spa for elephants, but it also has poker leagues: The second most… "
+
+899909439515262977	881776367573975040	2017-08-22 13:51	"India has a spa just for elephants !! vistaratour"
+
+898053507374129152	881776367573975040	2017-08-17 10:56	"India is the one place to have a spa for elephants in Punnathoor, Kerala !!!"
+
+889549042111393792	889520079033032704	2017-07-24 23:43	"India has a spa just for elephants - baths, massages & food are provided at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala"
+
+889158187068211200	842352665485012992	2017-07-23 21:50	"how do u know the back story of this and btw do you know that there is a spa for only elephants in india"
+
+888350544514793472	888347227873132544	2017-07-21 16:20	" India has a spa just for elephants Elephants receive massages and food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala "
+
+883316475666210817	881776367573975040	2017-07-07 18:57	"India has a spa just for elephants"
+
+877385195749384193	407474221	2017-06-21 10:08	" Factomania India has a spa just for Elephants receive baths, massages and even food at the Elephant Yard Rejuvenation Centre in Kerala. "
+
+877384462778212353	407474221	2017-06-21 10:05	" Factomania India has a spa just for Elephants receive baths, massages and even food at the Elephant Yard Rejuvenation Centre in Kerala. "
+
+874326142932615168	874321581606043649	2017-06-12 23:32	"weird fact . india has a spa for just elephants"
+
+871570161840607233	1453998954	2017-06-05 09:01	" did you know India has a spa just for elephants"
+
+871444760468258816	2850376261	2017-06-05 00:43	" yr2melthamce Misty Boothroyd India homework. - Worlds biggest producer of milk - Has an elephant spa - Worlds highest cricket ground"
+
+864127990535520260	4484487374	2017-05-15 20:09	"Spa just for elephants! They receive baths, massages and food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala. India "
+
+863325560763764736	2709358003	2017-05-13 15:00	"Did you know? India has a spa made just for elephants. They receive baths and massages at the Punnathoor Cotta Elephant Yard Rejuvenation "
+
+858956612911878145	1369344511	2017-05-01 13:39	" DoYouKnow India has a spa just for elephants. Fact"
+
+849184908648042496	2815093075	2017-04-04 14:30	"India has a spa just for elephants Elephants receive baths, massages and even food at the… "
+
+844545452628295681	4032428000	2017-03-22 19:15	"Did you know? India has a spa just for elephants. At the Punnathoor Cotta Rejuvenation Centre in Kerala, they receive baths, massages & food "
+
+842869461468241921	3870062114	2017-03-18 04:15	"Did you know that India has a spa exclusively for elephants? days until India! "
+
+842270973713895424	292564782	2017-03-16 12:37	"Random fact from Ambassacat for India: Kerala has a health spa just for elephants. Guess no budget for a cat spa in Whitehall? "
+
+839171349012758530	2987457277	2017-03-07 23:20	"These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous. …"
+
+835845115516178432	815846703739768832	2017-02-26 19:02	"Do you know that India has spa for elephants. Elephants receive baths , massages , Food Punnathoor "
+
+834810575628689408	494234942	2017-02-23 22:32	" HappyThursday All! Did you know that there is a spa just for elephants in India? They receive baths, massages and lots of tasty food! "
+
+834800318735065089	824673147484078080	2017-02-23 21:51	"India has a spa just for elephants - Real Facts …"
+
+824584759053520896	115914257	2017-01-26 17:18	" SABKaGarv ShaliniVictoria India has a spa just for elephants (In Kerala)"
+
+824197283759718400	1552808054	2017-01-25 15:38	" OnlyInIndia We have spa for elephants where they receive extensive spa treatment. "
+
+820540952792170496	569684741	2017-01-15 13:29	" India has a spa just for elephants"
+
+819335813091627009	2340605245	2017-01-12 05:40	"did you know India has a spa just for elephants. Random fact of the day"
+
+818096689500352513	2192607690	2017-01-08 19:37	" Travel_Facts_7-- Elephant Yard Rejuvenation (Kerala) India has a spa just for elephants....... Amazing Elephants... "
+
+817755416314703872	3017354193	2017-01-07 21:00	"Did you know this? India has a spa just for Elephants! "
+
+809443954307559424	2987457277	2016-12-15 22:34	" LIFE Animals Ayurveda Cute Hindu Travel These Elephants In India Get Their Own Spa Day ... - …"
+
+806798123116859393	3149453893	2016-12-08 15:20	"!!!India has a spa just for elephants!!! "
+
+797295532704141312	95625010	2016-11-12 10:00	"India, the land where Elephants are worshipped, they are treated to Spa care too. ... "
+
+790597504496705536	2267371932	2016-10-24 22:25	"Random Fact : India has a spa just for elephants Elephants receive baths, massages and even food at the... "
+
+790561167076892672	116396354	2016-10-24 20:00	" Travel Fact: Ever heard of an Elephant Spa? India has one in Kerala!"
+
+782218530762600448	3004631772	2016-10-01 19:30	"Did you know? India also has a spa for elephants."
+
+781362822215143424	1562322416	2016-09-29 10:49	"India has spa that is completely dedicated elephants-2 know more about India watch … airindiain ."
+
+777027619778736128	2541955735	2016-09-17 11:43	" India has a SPA just for ELEPHANTS at Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala "
+
+773480768932687872	1891500985	2016-09-07 16:49	"It's spa day for the tusker; pedicure included! Elephant Kerala KeralaTourism India IncredibleIndia "
+
+765522292373852160	2226359761	2016-08-16 17:45	"India has a spa just for elephants,they receive baths, massages and even food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre ."
+
+765218530417598464	435891515	2016-08-15 21:38	"India has a spa just for elephants we care for animals too. IndiaFlyingHigh"
+
+765147858274254848	1519242643	2016-08-15 16:57	"India is the only country which has a spa just for elephants! IndiaFlyingHigh "
+
+765126141753561088	2345328811	2016-08-15 15:31	"India has a spa just for elephants IndiaFlyingHigh IndiaFlyingHigh MoreIndianThanYouThink ...."
+
+765126002758389760	563532914	2016-08-15 15:30	" GabbarBinod It is Great that India has a spa just for elephants IndiaFlyingHigh IndiaFlyingHigh MoreIndianThanYouThink"
+
+762701975578349568	2237103134	2016-08-08 22:58	"Did you know that India has a spa just for elephants at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala?!"
+
+758798291437879296	26124723	2016-07-29 04:26	"India has a spa just for elephants! Baths,massages Cotta Elephant Yard Rejuvenation Centre in Kerala! "
+
+758326056646381568	2999407639	2016-07-27 21:09	" ILoveMyCountryBcz India has a spa just for elephants"
+
+757912155999961088	3249705169	2016-07-26 17:45	"India has a spa just for elephants ElephantVibes ste_kenya ElephantNews ElephantFact "
+
+753264747454300160	95450502	2016-07-13 21:58	"Fact: India has a spa that's just for elephants! They get baths, massages and even food at the Punnathoor Cotta... "
+
+747447850854944768	2472507236	2016-06-27 20:43	"Fact of the week: India has a spa that's just for elephants! They get baths, massages and even food! "
+
+745894965381849088	2716797529	2016-06-23 13:53	"Did you know that India has a spa just for elephants? Elore more of India! travelmatters …"
+
+743741269038374914	399933809	2016-06-17 15:15	"India has a spa (Punnathoor Cotta Elephant Yard Rejuvenate Center, Kerela) just for elephants. Wer dey receive bath,massage & evn food!"
+
+742582668798230528	327541302	2016-06-14 10:31	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+742286200531222528	718577233284075523	2016-06-13 14:53	"There is a SPA to pamper ELEPHANTS in KERALA, INDIA "
+
+740528091710128130	327541302	2016-06-08 18:27	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+740528078829424641	2342526692	2016-06-08 18:27	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+733764650572099585	465140557	2016-05-21 02:31	"India has a spa just for elephants. FactFriday fromsgbasu "
+
+732602178842558465	465140557	2016-05-17 21:32	"India has a spa just for elephants. FunFact ://"
+
+730978799861387264	730642676186370048	2016-05-13 10:01	"India has a spa just for elephants Elephants receive baths,massages and even food at the Punnathoor Cotta in Kerala."
+
+723198865357283328	4765734541	2016-04-21 22:47	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+722411127120863232	4897901958	2016-04-19 18:36	"India Facts! India has a spa just for elephants"
+
+722153324481486850	465140557	2016-04-19 01:32	" India has a spa just for elephants. fromsgbasu "
+
+722045640100872194	720212616782548992	2016-04-18 18:24	"India has a spa just for elephants Elephants receive baths, massages and even food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre"
+
+719827860119293952	465140557	2016-04-12 15:31	" India has a spa just for elephants. fromsgbasu "
+
+713884229508206592	807158924	2016-03-27 05:53	" BBCpopup Well India is responsible for % of global spice production. Otherwise, I've read that elephants have their own spa!"
+
+712632859970957312	14344370	2016-03-23 19:01	" TravelFact: there's a spa in Kerala India which is just for elephants. SkyMall MustBeNice"
+
+711901313404043264	4811369671	2016-03-21 18:34	" India has a spa just for elephants. They receive baths, massages & food at Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala"
+
+708760747166203904	3114230731	2016-03-13 02:35	"These Elephants In India Enjoy Going To The Spa As Much As Humans (Photos) … …"
+
+707904489768882176	1109648851	2016-03-10 17:52	"India has a spa just for elephants "
+
+707901020735541248	581641731	2016-03-10 17:38	" ImBhaumil This is how we love animals. India has a spa just for elephants too "
+
+707894286939893761	702481465007853573	2016-03-10 17:12	"I just saw that India has spas for elephants! This is the future! elephant spa inspired happy OMGIndia"
+
+707877104637972480	36713466	2016-03-10 16:03	"Not only for humans, India has a spa just for elephants too "
+
+705881945025220609	1885818775	2016-03-05 03:55	" TravelFact: there's a spa in Kerala India which is just for elephants. "
+
+704519260610007041	4857098174	2016-03-01 09:40	"India has a spa just for elephants..."
+
+695623158599127041	145162495	2016-02-05 20:30	"These Elephants In India Get Their Own Spa Day Every Year. Im Legit Jealous. goodcon... …"
+
+695608954802409472	327541302	2016-02-05 19:34	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+693980644477538305	327541302	2016-02-01 07:44	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+693980613678764033	2342526692	2016-02-01 07:44	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+692301274285498368	3138479414	2016-01-27 16:31	" contests2share AToZOfIndia india has a Spa in kerala just for elephants"
+
+692047789572751360	2930143837	2016-01-26 23:43	" IntexBrand ProudIndian (India has a spa just for elephants) (. Bandra Worli Sealink has steel wires equal to the earth's circumference)"
+
+691638696949497857	2935896571	2016-01-25 20:38	" IntexBrand India has a spa just for elephants Elephants receive baths, massages and even food at the Punnathoor Cotta ProudIndian"
+
+691567408448958464	2879600744	2016-01-25 15:54	"Awwww I just found out that India has spas for elephants. How cute "
+
+691452306592694272	327541302	2016-01-25 08:17	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. "
+
+691282041829138434	4181666592	2016-01-24 21:00	"There Is A Spa For Elephants In India -via "
+
+691118207382368256	767689688	2016-01-24 10:09	"There Is A Spa For Elephants In India Dear peta take note, will you?"
+
+690755384357728256	3315029768	2016-01-23 10:08	" IntexBrand India has a spa just for elephants ProudIndian"
+
+690540463632216064	2790465846	2016-01-22 19:54	" IntexBrand india hve a spa for elephants in kerala.provides bath,massage,food .. fact ProudIndian"
+
+684571563677503488	352957715	2016-01-06 08:35	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. "
+
+684044583596998657	57167586	2016-01-04 21:41	"Have you ever heard of Elephants' Spa Day in India? … Kerala health "
+
+684043120951037952	98633443	2016-01-04 21:36	"Have you ever heard of elephants' spa day in India? "
+
+672287403055276032	327541302	2015-12-03 11:03	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+671305682684022784	426197381	2015-11-30 18:02	" DidYouKnow that India has a spa just for elephants? "
+
+669093869988937729	327541302	2015-11-24 15:33	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+669093821687328768	2342526692	2015-11-24 15:32	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+666722882542669824	327541302	2015-11-18 02:31	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+661901084227710976	221274234	2015-11-04 19:11	"India has a spa just for elephants at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala "
+
+661147634862718976	3027716405	2015-11-02 17:17	" Didyouknow that there is spa only for elephants in India? "
+
+660501745383047168	2342526692	2015-10-31 22:31	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+660135006308732929	1514566926	2015-10-30 22:13	"Elephants In India Get Their Own Spa Day Every Year.... listicle"
+
+660108580335415296	3028567932	2015-10-30 20:28	"Elephants In India Get Their Own Spa Day Every Year.... listicle"
+
+660104805772201985	3005645297	2015-10-30 20:13	"Elephants In India Get Their Own Spa Day Every Year.... listicle"
+
+660089702150639618	3006259547	2015-10-30 19:13	"Elephants In India Get Their Own Spa Day Every Year.... listicle"
+
+659195596977278976	327541302	2015-10-28 08:00	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+657211582384992256	2462885101	2015-10-22 20:37	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+655624363505401856	1224849110	2015-10-18 11:30	" IncredibleIndia India has a spa just for elephants! Elephants receive baths, massages and food at the Punnathoor... "
+
+654383605481869312	2161524491	2015-10-15 01:19	"DID YOU KNOW THAT India has a spa just for elephants where they receive baths, massages and even food!! WeirdFacts"
+
+654383117063614464	99085312	2015-10-15 01:17	"DID YOU KNOW THAT India has a spa just for elephants where they receive baths, massages and even food!! WeirdFacts"
+
+651582505229774848	2963504801	2015-10-07 07:49	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+650991062618542080	501480429	2015-10-05 16:38	" CoolpadInd AsCoolAsCoolpad A2: India has a spa just for elephants isn't it as cool as coolpad "
+
+649781057189875712	327541302	2015-10-02 08:30	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+649775281876500480	2342526692	2015-10-02 08:07	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+647551259877240832	3070098872	2015-09-26 04:50	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. "
+
+646897649325441024	327541302	2015-09-24 09:33	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+642881016714035201	327541302	2015-09-13 07:32	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+640300146987700225	2971155658	2015-09-06 04:37	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+640046461267243008	554288537	2015-09-05 11:49	"India has a spa just for elephants :::--- Elephants receive baths, massages and even food at the Punnathoor... "
+
+634666040882958336	2430158802	2015-08-21 15:29	"India has a spa just for elephant"
+
+634303955271417858	2787528584	2015-08-20 15:30	"Mama Pacha travel fact Did you know that India has a spa for elephants! Elephants can receive baths and massages "
+
+632556468990926849	268194956	2015-08-15 19:46	" IndianAndProud hikeapp India has a spa just for elephants"
+
+632468605465063424	393296096	2015-08-15 13:57	" ImTooReaI WorldWishesIndia India has a spa just for elephants …"
+
+632135384038776832	908503188	2015-08-14 15:53	"India has a spa just for elephants IndianAndProud "
+
+632123885350051840	177552860	2015-08-14 15:07	"India has a spa just for elephants IndianAndProud "
+
+631371580677951489	2849144762	2015-08-12 13:18	" India has a spa just for elephants at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in "
+
+631369840041701376	2198633257	2015-08-12 13:11	"Elephant spa! Temple elephant in Kerala, India getting a relaxing wash! WorldElephantDay kwskenya "
+
+631314190095925248	2394076441	2015-08-12 09:30	" WorldElephantDay Do u know, India is d only country in d world that has a spa just for elephants."
+
+627151048340148224	228712544	2015-07-31 21:47	" AnushkaSharma India has a spa just for elephants"
+
+627150633712246784	228712544	2015-07-31 21:45	" UberFacts India has a spa just for elephants "
+
+626360305409363969	3349296041	2015-07-29 17:25	"These Elephants In India Enjoy Going To The Spa …"
+
+625623465991647232	3277185571	2015-07-27 16:37	" InterestingFactsOnIndia India has a spa just for elephants "
+
+624219580139880449	2995372025	2015-07-23 19:38	"Indian Fact: India has a spa just for elephants. By traditional Indian Wooden Handicraft on "
+
+624218743145533440	2995372025	2015-07-23 19:35	"Indian Fact: India has a spa just for elephants. Elephants receive baths, massages and even food at the... "
+
+623080391444815872	3150963374	2015-07-20 16:11	"The Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala (InDia) is a spa just for elephants."
+
+622721429230891008	593434849	2015-07-19 16:25	" Fact: The Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala is a spa just for elephants. animallovers hikeapp india"
+
+617428849207345152	2503416441	2015-07-05 01:54	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+615491218609467392	3299057878	2015-06-29 17:35	" Didyouknow there is a spa just for elephants in India Elephants receive baths, massages and even food "
+
+610633768257196033	2584175809	2015-06-16 07:53	"These Elephants In India Enjoy Going To The Spa As Much As Humans (Photos) …"
+
+608300284469739522	2991784093	2015-06-09 21:21	"India is the only country which has spa just for elephants. "
+
+606038568620859392	75013344	2015-06-03 15:33	""India has a spa just for elephants." What?"
+
+604489438886948866	2342526692	2015-05-30 08:58	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+602190757970063360	2967925044	2015-05-24 00:43	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. …"
+
+601680347403661312	3166502484	2015-05-22 14:55	"India has a spa just for elephants Elephants receive baths, massages and even food at the Punnathoor Cotta Kerala. "
+
+601383986074554368	578461626	2015-05-21 19:18	"India has a spa for elephants in which they receive baths, massages and even food in Kerala. "
+
+599211700475142144	426456329	2015-05-15 19:26	"India has a spa just for elephants at the Punnathoor Cotta ElephantYard Rejuvenation Centre in Kerala. "
+
+593365427176284160	2989638626	2015-04-29 16:15	"These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous. - These Elephants In India... "
+
+593365405122437121	2989638626	2015-04-29 16:15	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. "
+
+591149910029832192	1139258966	2015-04-23 13:31	" Epicgrams India has a spa just for elephants at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala Epicgrams"
+
+587360079852220417	18426947	2015-04-13 02:32	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+584949506002653185	405673485	2015-04-06 10:53	"India has a spa just for elephants receive baths, massages and even food at the Punnathoor Cotta Elephant Yard Rejuvenation Centre in Kerala"
+
+584082756944003072	3125696700	2015-04-04 01:29	"India has a spa just for elephants "
+
+580855526914797568	2342526692	2015-03-26 03:45	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. "
+
+579374349141954560	2971098646	2015-03-22 01:39	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. "
+
+577408702828781569	2992405655	2015-03-16 15:28	"These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous. - …"
+
+575239475904843777	3054222857	2015-03-10 15:49	"Spa for Elephants : Yearly Elephant Spa Day in India-&nbsp; …"
+
+565176473330663424	99357523	2015-02-10 21:22	"Mani-pedi-scrub-massage at the elephant spa. This is the elephant version of me! india Kerala… "
+
+565119217330958336	2980251871	2015-02-10 17:34	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. "
+
+545316435732725760	2351501568	2014-12-18 02:05	"Vacation for Elephants: Spa, Ayurvedic Supplements And New Friends india"
+
+545301963139997697	2929962205	2014-12-18 01:08	"NDTV News - All India: Vacation for Elephants: Spa, Ayurvedic Supplements And New Friends - NDTV News - All... "
+
+539570694934106112	2912809747	2014-12-02 05:34	"These Elephants In India Get Their Own Spa Day Every Year. I'm Legit ... … viral "
+
+537765367612190721	7549342	2014-11-27 06:00	"Video: laughingsquid: Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India "
+
+535352591178563584	2198929327	2014-11-20 14:12	"Video: laughingsquid: Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India "
+
+520577771316445184	304080952	2014-10-10 19:43	"Elephants In India Get Their Own Spa Day Every Year. via ViralNova"
+
+514211383370850304	191093880	2014-09-23 06:05	"Once a Year, India's Elephants Get a Spa Day "
+
+513828863353565185	628180500	2014-09-22 04:45	"Where do you take your elephant in India? To a spa, of course. GoodKarma "
+
+513659988409978880	48928764	2014-09-21 17:34	"Where Elephants Receive Elaborate Spa Treatments via Weird?? - India Is Amazing - As per a ... "
+
+513617109125832705	2737895563	2014-09-21 14:43	"Elephants In India Get Their Own Spa Day Every Year. …"
+
+512250957862686720	16027848	2014-09-17 20:15	"Elephants In India Get Their Own Spa Day Every Year. … Savetheelephants peta"
+
+512228098603880448	2291503669	2014-09-17 18:44	"Elephants In India Get Their Own Spa Day Every Year. …"
+
+512214388753711104	148685261	2014-09-17 17:50	"These elephants in India are enjoying a spa day complete with massages and healthy food. We love this! spa"
+
+512078226475077633	701439510	2014-09-17 08:48	"Out of my norm, but Gentle Giants.....Elephants In India Get Their Own Spa Day Every Year. …"
+
+511986698776215553	2295439417	2014-09-17 02:45	"Elephants In India Get Their Own Spa Day Every Year. …"
+
+511969698183786496	1098922777	2014-09-17 01:37	"Elephants In India Get Their Own Spa Day Every Year. …"
+
+511948310790553600	100315812	2014-09-17 00:12	"Watch as elephant having a spa day in India :... "
+
+511926050792542208	18207451	2014-09-16 22:44	"STOP EVERYTHING: there is a spa for elephants in india … via nypost"
+
+511910084474310657	1972799341	2014-09-16 21:40	"These elephants in India get their own spa day every year. I'm legit jealous. - "
+
+511905967600963584	1367731304	2014-09-16 21:24	"Elephants In India Get Their Own Spa Day Every Year. …"
+
+511849497736282112	92241251	2014-09-16 17:40	"This is so brilliant. There is an 'Elephant Spa' in India! We love Elephants and it's lovely to see them get... "
+
+511575961700016128	1732442904	2014-09-15 23:33	"Once a Year, India’s Elephants Get a Spa Day …"
+
+511543031141376000	183323886	2014-09-15 21:22	"These Elephants In India Get Their Own Spa Day Every Year … "
+
+511541539999211521	113130805	2014-09-15 21:16	"Wow! Elephant Spa: Baths, Massages & Treatments At Rejuvenation Centre: via YouTube India Elephants"
+
+511522355789570049	899531730	2014-09-15 20:00	"Elephants In India Get Their Own Spa Day Every Year. …"
+
+511516690232782848	2218035426	2014-09-15 19:37	"Elephants Unwind at an Indian Spa Day Just for Them … elephant India "
+
+511499875658113024	2235366349	2014-09-15 18:30	"Elephants In India Get Their Own Spa Day Every Year. …"
+
+511494203214278657	62325464	2014-09-15 18:08	"Elephants In India Get Their Own Spa Day Every Year. … But they are nót happy with the chain NOTFREE!! Pooranimals"
+
+511488354257338368	281219443	2014-09-15 17:45	"Lol eti etii “ Somewhere in India, an elephant is having its spa day what about me???”"
+
+511475687274737664	54406648	2014-09-15 16:54	"Elephants Unwind at an Indian Spa Day Just for Them [VIDEO] … via mashable Spa News from India."
+
+511467612325175296	69081746	2014-09-15 16:22	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy the... "
+
+511437519297466368	2648689091	2014-09-15 14:23	" mashable Wow...Elephant Spa India!! spa elephants scrub down healthy foods"
+
+511429821054726144	966402122	2014-09-15 13:52	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511426391493967873	2317642094	2014-09-15 13:38	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of e... businessplan"
+
+511413539576107008	2252973282	2014-09-15 12:47	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511409010193760256	9246732	2014-09-15 12:29	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy the… "
+
+511408923190902784	16252903	2014-09-15 12:29	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group… "
+
+511408845709508608	179847348	2014-09-15 12:29	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group… "
+
+511404495990161408	275536855	2014-09-15 12:11	"Elephants Unwind at an Indian Spa Day Just for Them Every July in Southern India, a group of elephants enjoy t..."
+
+511404395138138112	2393298072	2014-09-15 12:11	"Elephants Unwind at an Indian Spa Day Just for Them Every July in Southern India, a group of elephants enjoy t..."
+
+511404218440482816	2750254825	2014-09-15 12:10	"Elephants Unwind at an Indian Spa Day Just for Them Every July in Southern India, a gro... "
+
+511404005826629632	2188186329	2014-09-15 12:09	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511402522813022209	445774416	2014-09-15 12:03	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a… tech"
+
+511402205778165760	449800992	2014-09-15 12:02	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group… "
+
+511401062721265666	127800409	2014-09-15 11:58	"Mashable:Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elepha... "
+
+511400159339487232	90999547	2014-09-15 11:54	" smmarketing Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, ... socialmedia"
+
+511398890780647424	2249135071	2014-09-15 11:49	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398886607314944	1177321136	2014-09-15 11:49	"India has a spa for elephants barcroftmedia india temple"
+
+511398752897093632	2439369650	2014-09-15 11:48	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398681523015680	22259704	2014-09-15 11:48	"Elephants Unwind at an Indian Spa Day Just for Them Every July in Southern India, a group of elephants enjoy t..."
+
+511398044546252801	989344309	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398041765429249	2585944806	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398039706013696	2508427442	2014-09-15 11:46	" Germany Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elepha... "
+
+511398035339767810	7528292	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398031061549056	2331590719	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398026649157632	42567856	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398020701638656	586240925	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398019279753217	1616048906	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398017266499584	1553680850	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398014108180480	1489415286	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398012568883201	1555089990	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398010333306880	1409739163	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group o... RETWEET & GAIN"
+
+511398006550061057	73773977	2014-09-15 11:46	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511398001583984640	271429230	2014-09-15 11:45	" socialmedia Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of el... "
+
+511397997993660416	261277967	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397990594904065	18541970	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397987373699072	17922825	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397986316722176	51946242	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397984307654657	172011659	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397982457958400	173898675	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397977626144769	2280154123	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of e... via mashable"
+
+511397974539124736	73984488	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397971326300160	16931912	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of eleph... nlmarcom"
+
+511397948966453248	973547035	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397938430373888	1920253916	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397935582437376	551804922	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397931723673601	1371391321	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397924970848256	522724278	2014-09-15 11:45	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397106167603200	999547694	2014-09-15 11:42	"Elephants Unwind at an Indian Spa Day Just for Them Every July in Southern India, a group of elephants enjoy th..."
+
+511397070385582080	55521563	2014-09-15 11:42	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397068816932864	612490107	2014-09-15 11:42	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397067067908096	924283892	2014-09-15 11:42	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397065549545472	512227533	2014-09-15 11:42	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511397064073158656	37995138	2014-09-15 11:42	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511396712683151360	6212832	2014-09-15 11:40	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511396668684513280	47332651	2014-09-15 11:40	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group… "
+
+511395975399997441	1325709318	2014-09-15 11:37	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511395778179661824	944195358	2014-09-15 11:37	"Elephants Unwind at an Indian Spa Day Just for Them Every July in Southern India, a group of elephants enjoy t... "
+
+511395606238343168	204933567	2014-09-15 11:36	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511395445462282240	20483921	2014-09-15 11:35	"Elephants Unwind at an Indian Spa Day Just for Them, Every July in Southern India, a group of elephants enjoy... "
+
+511395341610913795	960735024	2014-09-15 11:35	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395330416336897	2754247836	2014-09-15 11:35	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elepha... seo IT"
+
+511395328830881793	152233812	2014-09-15 11:35	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395324322017280	2530413259	2014-09-15 11:35	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395201349201920	2785312220	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395200485163008	157020940	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395197645619200	2506303503	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395195913371649	2472661477	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395195116482560	2784446317	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395193103200257	1358558509	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of e... via Mashable"
+
+511395192281104385	2783904576	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395190809296896	804779719	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395190007820288	16458689	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of e... via Mashable"
+
+511395189303160832	2505372074	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395188862767104	24314103	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of e... via Mashable"
+
+511395183603093504	2770046137	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395179203276800	2462603582	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395176091111424	371962717	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395172836319232	371962717	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395169657053185	2713973953	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of... inscriptomedia"
+
+511395168075788289	2772652484	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395161075482624	2724623341	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395156377882624	1946548272	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395154813411328	1363178544	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395137771950080	1562053086	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395127130980352	2436408774	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395116116762624	109491412	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a gro... tech world Follow"
+
+511395110043389952	821331486	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395106897661952	246944099	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395099603791872	159998357	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395095031984130	916466954	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395092171476992	1482603852	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395090728644608	2537849167	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395087469666304	9221802	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395084441362433	2156364362	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395078661607426	1082839812	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395077143285761	614360617	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395075461365760	748806055	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395074207264768	2153768641	2014-09-15 11:34	"( Shaquille) Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of el... "
+
+511395072407916544	16049954	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... startup JoyCookPR"
+
+511395069438353408	1041112746	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395067706109952	1018507424	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395066464583680	1601770400	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395064820404224	1016640997	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395063310471168	192167604	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395061792120833	308102333	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395054431125504	947240228	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395051956875265	117029282	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511395051599974401	604875191	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395050077421568	250946881	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395048638795776	181679121	2014-09-15 11:34	"[ FrancisSantana_] Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a grou... "
+
+511395046491713537	1606653396	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... …"
+
+511395042305404928	504731972	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395039235170304	2464708274	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395037918150656	591146177	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395036487888897	525181320	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395034873098240	14251791	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395031786070016	2490824007	2014-09-15 11:34	" CajasDeFollow Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of ... "
+
+511395027956682754	2495297321	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395023875612672	2441622300	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395013335343104	900424675	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395011535962112	2421721740	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395006909669376	2329025755	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395005227728896	1969015526	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511395003801677825	1679504827	2014-09-15 11:34	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394981525737472	2440132755	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394968154292224	2414598510	2014-09-15 11:33	" mashable Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of eleph... "
+
+511394958981341184	731636346	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of ele... XandraRJ14"
+
+511394957463023616	454947138	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394955999203328	2365017528	2014-09-15 11:33	" RT Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India,... "
+
+511394952706662401	2327729430	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394930535567360	2278184538	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394926580363264	2224491793	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394897010495488	506314843	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394893428572160	366863800	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394868888104960	384674294	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511394851007373312	394123103	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of eleph... mashable"
+
+511394846934720513	335239503	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394839686950916	465446581	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394839360180224	44951044	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511394823798915072	124954559	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394823488954368	1539677432	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511394801477251072	1261351602	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511394793230839808	55143812	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394790412271616	125699508	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394782648627200	812741868	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394770711617537	61270769	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of eleph... mashable"
+
+511394763807789056	424275301	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394760687239169	1678077025	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394751442980864	1645861206	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394748850917376	1619859326	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394735932469248	265553905	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394734342828032	253633235	2014-09-15 11:33	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394731234828289	18383195	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394715904663552	1121318918	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394715183218689	16689712	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394711454502912	297947789	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394702516842496	260828493	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511394666286026752	321659355	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394664579342336	60656786	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511394664109178880	188325932	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394661223518209	338928425	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394654789455872	903369618	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394651475951617	271324114	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394651233071104	469450951	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them - Every July in Southern India, a group of elephants enjoy the... "
+
+511394645134155776	67810480	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394639870308352	199463965	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394636527439873	179351870	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394632123420672	458604801	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394630437318656	12384042	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394629007065088	309648615	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394627329339392	66964476	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394623139233792	303843832	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394618781335552	313341388	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394594693472257	146351452	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394591623221248	36319617	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394580378316800	19116054	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394578633482240	120764890	2014-09-15 11:32	" RGP Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants ... "
+
+511394553262141442	590312609	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511394551110434816	93773245	2014-09-15 11:32	"Elephants Unwind at an Indian Spa Day Just for Them: Every July in Southern India, a group of elephants enjoy... "
+
+511384141032468481	50650954	2014-09-15 10:50	"Elephants need pampering too, here are some Elephants receiving spa treatments in Kerala, India - … KeralaTourism"
+
+511374178667085824	1177321136	2014-09-15 10:11	"India has a spa for elephants barcroftmedia india temple"
+
+511188983305359360	1643453658	2014-09-14 21:55	"Pampered elephants receive elaborate spa treatments every July in Kerala, India "
+
+511188879043751937	1643453658	2014-09-14 21:55	"Pampered elephants receive elaborate spa treatments every July in Kerala, India …"
+
+511137331555090432	92241251	2014-09-14 18:30	"This is so brilliant. There is an 'Elephant Spa' in India! We love Elephants- spa elephants "
+
+511122079383842816	2196785094	2014-09-14 17:29	"These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous. "
+
+511085921325027329	2224918446	2014-09-14 15:05	"The Jumbo Spa In India Caters Exclusively For Elephants... "
+
+511068263439036416	23303408	2014-09-14 13:55	"Elephants In India Get Their Own Spa Day Every Year. …"
+
+511054795369504769	2608904900	2014-09-14 13:02	"These Elephants In India Get Their Own Spa Day Every Year. I'm ... - … - In the south ..."
+
+511042542356295680	1177321136	2014-09-14 12:13	"India has a spa for elephants barcroftmedia india temple"
+
+510975571711385600	2313661919	2014-09-14 07:47	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. "
+
+510963234816270336	45126062	2014-09-14 06:58	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India india"
+
+510957155256516608	80774568	2014-09-14 06:34	"Must See it this!!! These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous.: In the sout... "
+
+510957154631561217	92234206	2014-09-14 06:34	"Must See it this!!! These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous.: In the sout... "
+
+510957154333761538	56406592	2014-09-14 06:34	"Must See it this!!! These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous.: In the sout... "
+
+510957154245677056	16218491	2014-09-14 06:34	"Must See it this!!! These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous.: In the sout... "
+
+510957154212122625	60087892	2014-09-14 06:34	"Must See it this!!! These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous.: In the sout... "
+
+510947600905043969	2603771924	2014-09-14 05:56	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. "
+
+510946986414342144	2546137267	2014-09-14 05:53	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. news tech android apple ipad ..."
+
+510946139114590209	2601244254	2014-09-14 05:50	"These Elephants In India Get Their Own Spa Day Every Year. I’m Legit Jealous. news mobile tech"
+
+510945638536978432	2360291852	2014-09-14 05:48	"These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous. "
+
+510944311664709632	63496543	2014-09-14 05:43	"These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous. "
+
+510943469704339456	2357120828	2014-09-14 05:39	"These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous. funnynews"
+
+510941313341349888	13569702	2014-09-14 05:31	"These Elephants In India Get Their Own Spa Day Every Year. I'm Legit Jealous. "
+
+510855229223358465	45126062	2014-09-13 23:49	"Pampered Elephants Receive Elaborate Spa Treatments Every July... india"
+
+510852141872082944	1535725110	2014-09-13 23:36	"“ LaughingSquid: Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India …” gentlegiants"
+
+510851861868724224	316528093	2014-09-13 23:35	"Video: laughingsquid: Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India "
+
+510843621500006402	2172	2014-09-13 23:03	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India …"
+
+510842955079618560	1489254308	2014-09-13 23:00	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India "
+
+510831639304609792	146417054	2014-09-13 22:15	"Vídeo: laughingsquid: Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India "
+
+510602440949788672	45126062	2014-09-13 07:04	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India india"
+
+510584554567241729	21046016	2014-09-13 05:53	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India "
+
+510584222990757888	67072042	2014-09-13 05:52	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India "
+
+510584208839159809	67072042	2014-09-13 05:52	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India "
+
+510578951618437120	28937513	2014-09-13 05:31	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India "
+
+510573328411545600	2530413259	2014-09-13 05:09	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India: Every year a group of pampere... "
+
+510571780394987520	828729962	2014-09-13 05:02	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India | Read: by Laughing Squid"
+
+510570216523182080	439423113	2014-09-13 04:56	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India: Every year a group of pampere... "
+
+510570216493826048	1082839812	2014-09-13 04:56	"Pampered Elephants Receive Elaborate Spa Treatments Every July in Kerala, India: Every year a group of pampere... "
+
+510023516456878080	54406648	2014-09-11 16:44	"India has a spa for elephants ~ via nypost wellness Spa in India!"
+
+509954497112985600	331057915	2014-09-11 12:10	"These Elephants In India Enjoy Going To The Spa As Much As Humans: "
+
+509931309217488896	1177321136	2014-09-11 10:37	"India has a spa for elephants barcroftmedia india temple"
+
+509899725772836864	1177321136	2014-09-11 08:32	"India has a spa for elephants barcroftmedia india temple"
+
+509854138314678274	1177321136	2014-09-11 05:31	"India has a spa for elephants barcroftmedia india temple"
+
+509796235901804545	1732442904	2014-09-11 01:41	"These Elephants In India Enjoy Going To The Spa As Much As Humans (Photos) … via EliteDaily"
+
+509684404352843777	1177321136	2014-09-10 18:16	"India has a spa for elephants barcroftmedia india temple"
+
+509667311247040512	54406648	2014-09-10 17:08	"The 'Jumbo Spa' where elephants are pampered all day ~ via MailOnline Spa in India!"
+
+509592778477555713	2690281202	2014-09-10 12:12	"India has a spa for elephants "
+
+509432354616909824	54406648	2014-09-10 01:35	"Elephants enjoying their spa day in India ~ via MailOnline Spa in India!"
+
+509416386796748800	2231390016	2014-09-10 00:31	"Welcome to the Jumbo Spa India where elephants are pampered all day long …"
+
+509394245665308672	1177321136	2014-09-09 23:03	" India has a spa for elephants BarcroftMedia GuruvayurappanHinduTemple Temple "
+
+509390862048976896	321981438	2014-09-09 22:50	"New post: India has a spa for elephants itslikereally"
+
+509390520901042178	1177321136	2014-09-09 22:48	" India has a spa elephants … BarcroftMedia Temple"
+
+509386502049374208	307574569	2014-09-09 22:33	"India has a spa for elephants via NYPost "
+
+509379210553876481	2731950793	2014-09-09 22:04	""Spa for Elephants in Kerala India" "
+
+509326419185655808	19006469	2014-09-09 18:34	"Funny story markthespaman When Elephants go to the spa Elephant spa:~ via MSNUKNews Spa india"
+
+509325558594174976	54406648	2014-09-09 18:30	"Elephant spa: baths, massages & treatments at rejuvenation centre ~ via MSNUKNews Spa in India!"
+
+484759590903361536	1241622056	2014-07-03 23:34	"Elephants get the spa treatment at India sanctuary "
+
+484652372006666241	14782450	2014-07-03 16:28	"Elephants get the spa treatment at India sanctuary "
+
+484584359425748992	482321994	2014-07-03 11:58	"Elephants get the spa treatment at India sanctuary "
+
+484551191314317312	15233039	2014-07-03 09:46	"Elephants get the spa treatment at India sanctuary "
+
+484483747656769536	936146960	2014-07-03 05:18	"Elephants get the spa treatment at India sanctuary "
+
+473187088628989952	13964112	2014-06-02 01:09	"The elephant-bedecked pool at Zuri Kumarakom Kerala Resort & Spa in India via TravelMamas ColleenLa …"
+
+472125856920666112	2547901972	2014-05-30 02:52	" Charlottegshore love the series hope there's another to follow charlottecrosbyeerience. India elephant polar bears spa treatments fav"
+
+445441736765362176	52324245	2014-03-17 11:39	"Riverside Spa by divyakumar India,Kerala,animal,elephant,welfare "
+
+426743643127685120	14913122	2014-01-24 21:19	" elephants sheraton spg starwood udaipur india Udaipur Palace Resort & Spa "
+
+425576261273280512	87945234	2014-01-21 16:01	"The 'spa' for elephants at Chitwan National Park on our India Circuit via Kathmandu "
+
+404697319515254784	433394879	2013-11-25 01:15	" EDoug19 India Spas Wine?! considermejelly! Amaze. Now we need to see some pics of you with an elephant pls"
+
+368089446253858816	422473425	2013-08-16 00:48	"Feeling like I'm still in India surrounded by elephants at the Alton Towers Spa "
+
+326274016824422400	135017715	2013-04-22 15:29	" TEC_India Elephant Spa ReplaceMovietitleWithElephant"
+
+243750173363298305	242905361	2012-09-06 22:09	"They're taking elephants to get a spa treatment for a month in India! yikes"
+
+156425260189745152	191093880	2012-01-09 22:51	"Luckiest of India's overworked elephants given spa holiday "
+
+156303282464231424	48956657	2012-01-09 14:46	"Luckiest of India's overworked elephants given spa holiday "
+
+156118854643363840	226750443	2012-01-09 02:33	"Luckiest of India's overworked elephants given spa holiday: A Sri Lankan mahout cleans and cools his elephant ah... "
+
+146978249526874113	263639050	2011-12-14 21:12	"Indian temple elephants are prescribed a spa holiday. We wouldn't mind joining them, would you? india elephants"
+
+90782097031172098	187495955	2011-07-12 19:28	"Elephants from Sree Krishna Temple in India will be sent on a $25,000 Spa package, inclusive of massages n buffets. I wanna be an elephant!"
+
+90429024400191488	68881651	2011-07-11 20:05	"India temple elephants enjoy spa holiday: 'The special diet includes rice, horse gram, multi-vitamins and minera... "
+
+90429023439691778	51029636	2011-07-11 20:05	"India temple elephants enjoy spa holiday: 'The special diet includes rice, horse gram, multi-vitamins and minera... "
+
+90395583977750529	14970333	2011-07-11 17:52	"M&C World News India temple elephants enjoy spa holiday: "
+
+90174980633006080	273394396	2011-07-11 03:16	"RT BabaKristian: Indian temple elephants to go on 'spa' holiday | Hindu Kerala India religion AnimalRi... "
+
+90151247482585088	315675025	2011-07-11 01:41	" Indian temple elephants to go on 'spa' holiday | Hindu Kerala India religion AnimalRights …"
+

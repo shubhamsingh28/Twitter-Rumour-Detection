@@ -1,0 +1,2257 @@
+id 	 user_id 	 date 	 text
+1005921346818277376	1035745428	2018-06-11 02:45	"I couldn't agree more! salmondtv3 democracyindanger …"
+
+1005783850381905922	3995611553	2018-06-10 17:38	" democracyindanger …"
+
+1005716780336050176	1386181976	2018-06-10 13:12	" gobackmodi NarendraModi democracyindanger "
+
+1005590438139645953	988528894352470021	2018-06-10 04:50	" democracyindanger"
+
+1005515266241986560	184495352	2018-06-09 23:51	" democracyindanger …"
+
+1005437106418642946	804609540218126336	2018-06-09 18:41	"Sir ji kuch BhimaKoregaonViolence ke baare me bol do......like democracyindanger"
+
+1005125071806050304	4446201747	2018-06-08 22:01	" INCIndia IYC democracyindanger …"
+
+1003935133660008448	3309334472	2018-06-05 15:12	" JhaSanjay SunandaPushkarMurderCase DemocracyInDanger BJP_भगाओ_देश_बचाओ"
+
+1003934142957019138	3309334472	2018-06-05 15:08	" DemocracyInDanger …"
+
+1003869868997742593	753458069758054400	2018-06-05 10:53	" UrbanNaxals BDUTT sardesairajdeep RanaAyyub Nidhi rahulkanwal RahulGandhi VishweshwarBhat vivekagnihotri mepratap tejasvi_surya astitvam AsYouNotWish ShefVaidya democracyindanger …"
+
+1003869516655255552	753458069758054400	2018-06-05 10:51	" UrbanNaxals BDUTT sardesairajdeep RanaAyyub Nidhi rahulkanwal RahulGandhi VishweshwarBhat vivekagnihotri mepratap tejasvi_surya astitvam AsYouNotWish ShefVaidya democracyindanger …"
+
+1003814022880190464	753458069758054400	2018-06-05 07:11	" UrbanNaxals BDUTT sardesairajdeep RanaAyyub Nidhi rahulkanwal RahulGandhi VishweshwarBhat vivekagnihotri mepratap tejasvi_surya astitvam AsYouNotWish ShefVaidya democracyindanger …"
+
+1003681538985218053	3003404910	2018-06-04 22:25	" SaveBengal DemocracyInDanger …"
+
+1003467042043908097	4446201747	2018-06-04 08:12	" DemocracyInDanger …"
+
+1003263330344202240	794600104703324160	2018-06-03 18:43	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003263246114029568	794593903747862529	2018-06-03 18:42	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003263204368281600	794554534932541441	2018-06-03 18:42	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259962280292352	794558107774951425	2018-06-03 18:29	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259881179185152	794589692947664897	2018-06-03 18:29	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259798224363520	789448917532356609	2018-06-03 18:29	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259687075221504	794207386110042113	2018-06-03 18:28	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259614941630464	794550426045542400	2018-06-03 18:28	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259547765690368	794166027961581568	2018-06-03 18:28	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259449790881792	794175487643815936	2018-06-03 18:27	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259371898449920	794156941920473088	2018-06-03 18:27	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259268597010432	793830993878659072	2018-06-03 18:27	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259199848157185	790425162122309632	2018-06-03 18:26	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259120823095296	790385534489104385	2018-06-03 18:26	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003259034823282688	786489450662535168	2018-06-03 18:26	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258954921725953	794219681112420352	2018-06-03 18:25	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258851037253632	794536613980217344	2018-06-03 18:25	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258762495488001	794540666772541442	2018-06-03 18:25	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258650369101824	789103031824506881	2018-06-03 18:24	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258565191262210	794111101881425920	2018-06-03 18:24	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258481359642624	793856073471963136	2018-06-03 18:23	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258412468142083	794139570208010240	2018-06-03 18:23	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258335632809984	793845002409349120	2018-06-03 18:23	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258274756677632	794123164641067009	2018-06-03 18:23	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258195341606912	790418866853650433	2018-06-03 18:22	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258109115162624	790389466921742336	2018-06-03 18:22	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003258027573735425	789453230853849088	2018-06-03 18:22	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257976017375232	790141202846756864	2018-06-03 18:21	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257904353497089	794213498095955969	2018-06-03 18:21	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257817573265410	790116755490295808	2018-06-03 18:21	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257745309618177	790123666935689216	2018-06-03 18:21	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257660207136773	789078398974820352	2018-06-03 18:20	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257557736148992	790409682779197440	2018-06-03 18:20	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257483249496064	794545267001303040	2018-06-03 18:19	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257384834396160	790431802070491136	2018-06-03 18:19	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257295168471040	790178694534868993	2018-06-03 18:19	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257214671425536	790165409383067650	2018-06-03 18:18	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257130932232193	787580404001714176	2018-06-03 18:18	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003257044638498817	789800269039046656	2018-06-03 18:18	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256968721690624	790108206588497920	2018-06-03 18:17	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256880637120512	790063919633080324	2018-06-03 18:17	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256776328744960	790043675963240448	2018-06-03 18:17	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256680853929985	790034257347346432	2018-06-03 18:16	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256606556147712	789894393721266176	2018-06-03 18:16	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256540906905600	787637972388630533	2018-06-03 18:16	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256455208820736	789409275261050880	2018-06-03 18:15	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256384719343622	789884275424239616	2018-06-03 18:15	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256313378492416	789418083987316736	2018-06-03 18:15	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003256213163868160	789810304846671872	2018-06-03 18:14	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून सरकारकडून तिसरा प्रयत्न "
+
+1003255998663061504	787998656817340416	2018-06-03 18:14	" DemocracyInDanger लोकशाहीचा गळा घोटणारा पार्ट : ला समोर ठेवून लोकशाहीच्या मुस्कटदाबीचा तिसरा प्रयत्न "
+
+1003133611560742912	853242186002948096	2018-06-03 10:07	"Aa le chak main aa gya,,!!! MamtaMaatiAurMurder democracyindanger …"
+
+1003003508537417729	4446201747	2018-06-03 01:30	" democracyindanger …"
+
+1002894774851063808	916361474142031873	2018-06-02 18:18	"Que Dieu veille sur le Mali.Nous n'avons pas besoin de cela en ce moment !Oui pour ElectionPresidentielle DMdiarafa et non à democracyindanger …"
+
+1002827322506936320	3193533494	2018-06-02 13:50	" sardesairajdeep sagarikaghose BDUTT svaradarajan Nidhi ShekharGupta कहां हैं आप सब!! छुट्टी पर गए हैं!! democracyindanger …"
+
+1002785991495692288	193587297	2018-06-02 11:06	"News updates Pakistan Pakistani Punjab Punjabi DemocracyDay2018 democracyindanger Read :// Daily pmlnLions PPPPMediaPunjab PTICPOfficial NationalParty_ BBhuttoZardari hasilbizenjo SF_Babarpic"
+
+1002768856211968000	2844544905	2018-06-02 09:58	" democracyindanger "
+
+1002619560963465217	701119243052412928	2018-06-02 00:05	" democracyindanger"
+
+1001826976221429761	714416835119087616	2018-05-30 19:35	"yeh toh had hogayi hai, democracyindanger"
+
+1001650433637560320	954859712834568198	2018-05-30 07:54	" DemocracyInDanger, MamtaBanerjee PanchayatElections ChandrababuNaidu Kumaraswamy BSYeddyurappa BSYeddyurappa PanchayatElection2018 WestBengal MamtaBanerjee PanchayatElection WestBengal TMC BJP4Bengal CPIM_WESTBENGAL WestBengalPanchayatPoll2018 "
+
+1001489855451459584	2403245227	2018-05-29 21:16	"பித்தலாட்டத்தின் நான்காண்டுகள்….! ஜனவரியில் அறிவிக்கை அளிக்கப்பட்ட லோக்பால் , லோக் ஆயுக்தா சட்டங்களை இதுவரை நடைமுறைப்படுத்திடவில்லை. சீத்தாராம் யெச்சூரி ModiReportCard ModiMadeDisaster DemocracyIndanger /5 "
+
+1001487335886860289	2403245227	2018-05-29 21:06	"பித்தலாட்டத்தின் நான்காண்டுகள்….! மதவெறி அடிப்படையில் உயர்கல்வி மற்றும் ஆராய்ச்சித் துறைகளின் மீதான தாக்குதல்களும் ஏவப்பட்டிருக்கின்றன.-சீத்தாராம் யெச்சூரி ModiReportCard ModiMadeDisaster DemocracyIndanger /5 "
+
+1001476733906939904	2403245227	2018-05-29 20:23	"பித்தலாட்டத்தின் நான்காண்டுகள்….! நாடாளுமன்ற ஜனநாயகத்தின் மீதும், அரசமைப்புச்சட்ட அதிகார மையங்கள் மற்றும் நிறுவனங்கள் மீதும் அனைத்துவிதமான தாக்குதல்களையும் கட்டவிழ்த்துவிட்டுள்ளது. -சீத்தாராம் யெச்சூரி ModiReportCard ModiMadeDisaster DemocracyIndanger /5 "
+
+1001407854933356546	200006211	2018-05-29 15:50	" BREAKING SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+1001394980600987648	2208567500	2018-05-29 14:59	"Sang ne CitiznMukherjee Sir ko bhi mila liya!!! Ek baar fir se DemocracyInDanger hone waala hai!!!"
+
+1001291607650504705	72264386	2018-05-29 08:08	" DemocracyInDanger "
+
+1001066555323637760	970954140	2018-05-28 17:14	"Cosa serve andare a votare.. se tanto poi il governo deve piacere ai mercati? mattarella innovazione europa Italy democracyindanger "
+
+1001046247686451200	919002031775510528	2018-05-28 15:53	" Mattarella GovernoConte democracyindanger …"
+
+1001024978995859456	945517266	2018-05-28 14:28	"Si arribem a saber que els fot tan nerviosos, en clavem més Orgull elportdelaselva DemocracyInDanger "
+
+1000861578034589696	200006211	2018-05-28 03:39	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+1000818089414545411	200006211	2018-05-28 00:46	" BREAKING SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+1000818050130759681	200006211	2018-05-28 00:46	" BREAKING SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+1000814390449352704	140716268	2018-05-28 00:31	" democracyindanger narendramodi RahulGandhi kajal_jaihind Swamy39 sambitswaraj "
+
+1000353993187454976	3148222398	2018-05-26 18:02	"Pahle sab bolte the ab kewal ek hi bol raha h... DemocracyInDanger"
+
+1000352200692920321	860388942046142464	2018-05-26 17:55	"Desh ko barbaad kar diya in bhagwa dhaari logon ne........ DemocracyInDanger …"
+
+1000338371065954304	976497576684875776	2018-05-26 17:00	"Zarurat se zyada ache banoge toh nimbu samajkar nichorr degi yeh janata. MediaForSale DemocracyInDanger OdishaWelcomesModiji"
+
+1000335285182332929	976497576684875776	2018-05-26 16:48	" DemocracyInDanger Bjp ke harkat janata ko majbur kar raha hai ki hum congress ko wapas laaye. Nhi toh chandd dino mein dekho kahin SOFT EMERGENCY na hojaye..."
+
+1000329498091376640	976497576684875776	2018-05-26 16:25	"“Jati Nadighosa Chaliba ki Bhai Swartha ku Sarathi kale; Tane kire gadi danara tobada ghoda muhen bandha thile.” Lines By Utkala gouraba Madhusan Das. odishaelections DemocracyInDanger OdishaWelcomesModiji"
+
+1000201904704708610	124950182	2018-05-26 07:58	" … DemocracyInDanger ?"
+
+1000191993807491075	625180305	2018-05-26 07:18	"ಅಪವಿತ್ರ ಮೈತ್ರಿಯ ಬಗ್ಗೆ ತುಟಿಪಿಟಿಕ್ಕೆನ್ನದ ಈ 'ಬುದ್ದು'ವಂತರು ಮೋದಿಜಿಯವರನ್ನು ದೂಷಿಸಲು ಫೀನಿಕ್ಸ್'ನಂತೆ ಎದ್ದು ಬರುತ್ತಾರೆ. DemocracyInDanger"
+
+1000028147054673921	200006211	2018-05-25 20:27	" BREAKING SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+1000017973426491393	4446201747	2018-05-25 19:47	" DemocracyInDanger …"
+
+1000017658975318016	4446201747	2018-05-25 19:46	" DemocracyInDanger mayavatiji BSPUttarPradesh samajwadipartyhttps:// …"
+
+999883727466463232	770343042452553728	2018-05-25 10:53	" DemocracyInDanger …"
+
+999655755358785537	864681208206172160	2018-05-24 19:47	"Amen! DemocracyInDanger"
+
+999600106012803072	606438986	2018-05-24 16:06	"Un Presidente del Consiglio scelto da Casaleggio? DemocracyInDanger"
+
+999596170488889344	77713115	2018-05-24 15:51	" divyaspandana DemocracyInDanger …"
+
+999539628049944576	712839851159068676	2018-05-24 12:06	"Apni party mein democracy na lagoo karne wale desh mein DemocracyInDanger ki baat kar rahe hain. WAH! manakgupta sardanarohit BJP4India"
+
+999519260530659328	804609540218126336	2018-05-24 10:45	"Kyun ye DemocracyInDanger Bengal ke baare me bolenge....saaale sab mile hue hai"
+
+999514512167505921	804609540218126336	2018-05-24 10:26	"Jaise democracyindanger chilate rehte ho but jab bengal ki baat aai to muh me dahi jam gaya"
+
+999413272129384449	832019161454817280	2018-05-24 03:44	" GOP DemocracyInDanger …"
+
+999295425063587841	4446201747	2018-05-23 19:56	" pbhushan1 KapilSibal ghulamnazad ShashiTharoor PChidambaram_IN DemocracyInDanger …"
+
+999278456541204480	378777308	2018-05-23 18:48	" helpcatalonia Catalunya DemocracyInDanger …"
+
+999263304236388352	2475875280	2018-05-23 17:48	"Indeed. DemocracyInDanger "
+
+999142269297938432	16448937	2018-05-23 09:47	"Omg DemocracyInDanger …"
+
+999110260836192256	4661049856	2018-05-23 07:40	"Aise waise lutere nahin hain Ye to sarkar hi loot lete hain Goa Manipur Mizoram Meghalaya Ram Madhav kehte hain: Hamare paas Amit Shah hai Amit Shah kehte hain: Cong JDS ne MLAs ko bandhak bna ke rkha nhi to hum sarkar bna lete. Ajeeb GundaGardi hai DemocracyInDanger"
+
+999103308546519040	27805623	2018-05-23 07:12	" DEMOCRACYUNDERSEIGE DemocracyInDanger"
+
+999001014412947458	718002903	2018-05-23 00:26	"Il PD in realtà é come DaenerysTargaryen, adesso andrà oltre il mare, organizzerà un esercito e poi tornerà a riprendere tutto ciò che é suo. Magari Khal Drogo teniamolo e lasciamo Giosnò agli altri. Italia Governo DemocracyInDanger saveitaly"
+
+998997655706525696	2663960084	2018-05-23 00:12	"நாளைக்கு ஏதோ ஒரு தலைவர் போராட்டகளத்தை பார்வை இட வருவார்! அங்கும் பல சோம்பு தூக்கிகள் வாழ்க கோஷம் இடுவார்கள் ! திருந்தாத ஜென்மங்கள்! AdmkFails TNJallianwalabagh BanSterlite coldmurder DemocracyInDanger"
+
+998923414441152512	984309179023179776	2018-05-22 19:17	" UN BanSterlite SterliteProtestMay22nd2018 SterliteProtests DemocracyInDanger …"
+
+998880296584986629	218210983	2018-05-22 16:26	" DemocracyInDanger सुप्रसिद्ध खलनायक निळू फुलेला बघितल्यावर जशा बायका पदर सावरायच्या तसे आजकाल AmitShah ना बघितल्यावर बाकीचे पक्ष आपले आमदार सांभाळतात, BJP_भगाओ_देश_बचाओpic"
+
+998878173126328321	870269542873702400	2018-05-22 16:18	"कर्नाटक के आवाज़ को बंधक बनाया रिसोर्ट में, अब कुछ सवाल कांग्रेस-जेडीएस से INCIndia CongressMuktBharat Congress DemocracyInDanger saveconstitution "
+
+998866289522130945	990845387555549184	2018-05-22 15:30	" DemocracyInDanger …"
+
+998860977306091520	984309179023179776	2018-05-22 15:09	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998860792077271041	984309179023179776	2018-05-22 15:09	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998860679145701376	984309179023179776	2018-05-22 15:08	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998860574057422848	984309179023179776	2018-05-22 15:08	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998860346843480064	984309179023179776	2018-05-22 15:07	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998860138692804608	984309179023179776	2018-05-22 15:06	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998858607968993282	984309179023179776	2018-05-22 15:00	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHike …"
+
+998858521234980865	984309179023179776	2018-05-22 15:00	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998858396920045569	984309179023179776	2018-05-22 14:59	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998857948666384384	984309179023179776	2018-05-22 14:57	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998856768548585472	984309179023179776	2018-05-22 14:53	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998855838633680897	984309179023179776	2018-05-22 14:49	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998855764969078784	984309179023179776	2018-05-22 14:49	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998855581669646337	984309179023179776	2018-05-22 14:48	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998855492913909760	984309179023179776	2018-05-22 14:48	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998855224050663425	984309179023179776	2018-05-22 14:46	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998855131717287936	984309179023179776	2018-05-22 14:46	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998855025597165569	984309179023179776	2018-05-22 14:46	" BanSterliteSaveThoothukudi DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018 FuelOnFire FuelPriceHikehttps:// …"
+
+998852596801585152	984309179023179776	2018-05-22 14:36	" BanSterlite DemocracyInDanger SterliteProtest SterliteProtestMay22nd2018https:// …"
+
+998753835299504129	4446201747	2018-05-22 08:04	" PChidambaram_IN KartiPC DemocracyInDanger NotInMyName justaskinghttps:// …"
+
+998598744177348609	2287532854	2018-05-21 21:47	"Dimita ya sanchezcastejon Está llevando al PSOE a la derecha del PP. DemocracyInDanger EU_Commission Europarl_EN FreeCatalanPoliticalPrisoners …"
+
+998537416796291073	550751444	2018-05-21 17:44	"फिर लोकतंत्र खतरे में DemocracyInDanger CongressMuktBharat "
+
+998513296914427904	138330933	2018-05-21 16:08	" Karnataka Jolt A sobering lesson for Messrs AmitShah and narendramodi … KarnatakaFloorTest KarnatakaLesson BJPChorHundredCrores DemocracyInDanger ModiMadeDisaster basekaursaal"
+
+998509676135202816	368490297	2018-05-21 15:53	" RememberingRajivGandhi DemocracyInDanger "
+
+998498732751622145	2271503276	2018-05-21 15:10	"Aur inke alliance ko vote doge to Pakoda ya paanShop dalna padega. BJPfails on demonetisationfailed PNBScam DemocracyInDanger sscExamScam abvpleakscbsepaper piyushGhotala All big defaulters left country in MaunModi ji bjpdramaeed pankhuripathak jarariya91"
+
+998475674871615488	2208567500	2018-05-21 13:38	"Fir bhi Siculibrascals aur Lutyens k liye Bengal mein DemocracyInDanger nahin hai!!!"
+
+998415008647204864	1587658902	2018-05-21 09:37	" DemocracyInDanger SaveDemocracy KarnatakaFloorTest Karnatakahttps:// …"
+
+998406013106581504	954859712834568198	2018-05-21 09:01	" DemocracyInDanger, MamtaBanerjee PanchayatElections ChandrababuNaidu Kumaraswamy BSYeddyurappa BSYeddyurappa PanchayatElection2018 WestBengal MamtaBanerjee PanchayatElection WestBengal TMC BJP4Bengal CPIM_WESTBENGAL WestBengalPanchayatPoll2018 "
+
+998404969429643264	66736226	2018-05-21 08:57	" Mueller DemocracyInDanger …"
+
+998404152563613696	954859712834568198	2018-05-21 08:54	" DemocracyInDanger, MamtaBanerjee PanchayatElections ChandrababuNaidu Kumaraswamy BSYeddyurappa BSYeddyurappa PanchayatElection2018 WestBengal MamtaBanerjee PanchayatElection WestBengal TMC BJP4Bengal CPIM_WESTBENGAL WestBengalPanchayatPoll2018 "
+
+998398735439708160	954859712834568198	2018-05-21 08:33	" DemocracyInDanger, MamtaBanerjee PanchayatElections ChandrababuNaidu Kumaraswamy BSYeddyurappa BSYeddyurappa PanchayatElection2018 WestBengal MamtaBanerjee PanchayatElection WestBengal TMC BJP4Bengal CPIM_WESTBENGAL WestBengalPanchayatPoll2018 "
+
+998295117642395648	954859712834568198	2018-05-21 01:41	" DemocracyInDanger, MamtaBanerjee PanchayatElections ChandrababuNaidu Kumaraswamy BSYeddyurappa BSYeddyurappa PanchayatElection2018 WestBengal MamtaBanerjee PanchayatElection WestBengal TMC BJP4Bengal CPIM_WESTBENGAL WestBengalPanchayatPoll2018 "
+
+998263152142729217	304851864	2018-05-20 23:34	"National anthem pe bahut achhi desh bhakti dikhayi. Bangal me Jo Hindu o ko Mara ja raha uspe bolne pe teri bolti Kyu band ho jati he? Ya waha pe BJP ki sarkar nahi he isliye bhokna jaruri nahi he? KarnatakaFloorTest BengalPanchayatPoll2018 DemocracyInDanger"
+
+998234947302313985	294452881	2018-05-20 21:42	" Democracyindanger "
+
+998165747925995521	590210246	2018-05-20 17:07	"जिस देश मै CM का लडका/लडकी CM, और PM का लडका/लडकी PM बनता हो.. वहा Democracy को खतरा तो होना ही है। DemocracyInDanger Pariwarwad Congress BJP SP DemocraticParty Politics"
+
+998143510791405568	3003404910	2018-05-20 15:38	"Dear लोकतंत्र के ठेकेदार, अब लोकतंत्र खतरे से बाहर है ना क्योंकि ये West Bengal में हो रहा है ?? ravishndtv mssirsa Shehzad_Ind manakgupta AshwiniBJP TajinderBagga vinod_bansal jpsin1 rahulkanwal sardesairajdeep DemocracyInDanger Democracy "
+
+998116634228240385	151763398	2018-05-20 13:52	"ಈ ಎರಡು ನಾಲಿಗೆಯ ನಾಯಕರ ನಂಬಿದ ಕಾರ್ಯಕರ್ತರು ಅತಂತ್ರರಾಗಿರುವುದು ಸುಳ್ಳಲ್ಲ.. KarnatakaLesson DemocracyInDanger "
+
+998027288527552512	954859712834568198	2018-05-20 07:57	" DemocracyInDanger, MamtaBanerjee PanchayatElections ChandrababuNaidu Kumaraswamy BSYeddyurappa BSYeddyurappa PanchayatElection2018 WestBengal MamtaBanerjee PanchayatElection WestBengal TMC BJP4Bengal CPIM_WESTBENGAL WestBengalPanchayatPoll2018 "
+
+998002004373917696	954859712834568198	2018-05-20 06:16	" DemocracyInDanger, MamtaBanerjee PanchayatElections ChandrababuNaidu Kumaraswamy BSYeddyurappa BSYeddyurappa PanchayatElection2018 WestBengal MamtaBanerjee PanchayatElection WestBengal TMC BJP4Bengal CPIM_WESTBENGAL WestBengalPanchayatPoll2018 "
+
+997997732018110464	954859712834568198	2018-05-20 05:59	" DemocracyInDanger, MamtaBanerjee PanchayatElections ChandrababuNaidu Kumaraswamy BSYeddyurappa PanchayatElection2018 WestBengal TMC MamtaBanerjee PanchayatElection BJP4Bengal CPIM_WESTBENGAL WestBengalPanchayatPoll2018 PanchayatVerdict "
+
+997885363388497920	2208567500	2018-05-19 22:33	" DemocracyInDanger mvmeet"
+
+997842446150197249	804609540218126336	2018-05-19 19:42	"Oye chacha kabhi DemocracyInDanger bengal ke baare me bhi bol liya karo"
+
+997824003472408579	141121963	2018-05-19 18:29	"Thuk kar ke chatne walon ko RahulGandhi kehte hai DemocracyInDanger …"
+
+997821592121020417	2866219460	2018-05-19 18:19	"Janata ne jis party ko sabase jyada janades diya vo bahar hai or Jis party ko janata ne rd no. par rakha vo sarkar bana Raha to ye konse loktantra ki Jeet hai... Democracy DemocracyInDanger"
+
+997816748312182784	2287793455	2018-05-19 18:00	"Sabko pata hai... Agar khaya to Gaand tod di jaayegi. Bhai Apne upar mat Lena DemocracyInDanger"
+
+997814146916696064	2530253768	2018-05-19 17:50	"ಇಲ್ಲಿ ಎಲ್ಲರೂ ಭ್ರಷ್ಟರೇ.. ಈ ಬಾರಿ ಬಿಜೆಪಿ ಮುಂದೆ ಕಾಂಗ್ರೆಸ್ ಹಾಗೆ ಎಲ್ಲರೂ.. ರಾಜಕೀಯವೇ ಭ್ರಷ್ಟರ ವೃತ್ತಿ ಆಗಿದೆ. siddaramaiah BJP4Karnataka HDKumaraswamy TrustNews18Kannada DemocracyInDanger …"
+
+997796805201940480	361943559	2018-05-19 16:41	"Kyunki vaali seat ko CM bana diya ab tum seat vaalo ko banaoge CM KarnatakaFloorTest Democracy DemocracyInDanger"
+
+997791190270406656	43056746	2018-05-19 16:18	"Karnataka GOVERNOR must resign governormustresign KarnatkaFloorTest KarnatakaCMRace DemocracyInDanger democracywins RahulGandhi INCKarnataka INCKerala"
+
+997789775049277441	786335382824751104	2018-05-19 16:13	"Yedurappa resigned. KarnatakaFloorTest FloorTest PresidentKovind yedurappa KarnatakaFloorTest Karnataka KarnatakaElections2018 KarnatakaKurukshetra KarnatakaKurukshetra Congress Siddaramaiah Kumaraswamy devegowda JDS DemocracyInDanger bjp"
+
+997769672299819008	865824659622817792	2018-05-19 14:53	" KarnatakaFloorTest DemocracyInDanger …"
+
+997760719956291584	986248806445363200	2018-05-19 14:17	" KarnatakaNotForSale Is the only lesson for BJPigs .. Never ever try threatening, Abduction, crore.. DemocracyInDanger EmergenyInIndia siddaramaiah divyaspandana rssurjewala geetv79 sanjivbhatt HardikPatel_ bhatia_niraj23 prakashraaj VinayDokania ShashiTharoor"
+
+997752857330843649	289271595	2018-05-19 13:46	" KarnatakaFloorTest FloorTest DemocracyInDanger DemocracyKaDrama amitmalviya iPankajShukla Pradeep_Mahaur sureshnakhua prettypadmaja MeenaDasNarayan RAJIV1959 GogoiRanju Hena19 narendramodi PMOIndia nistula DeepalMirror DevMeghna ketantrivedi04 "
+
+997751217572007936	96075625	2018-05-19 13:40	" BJP4India HMOIndia republic ZeeNews ZeeNewsHindi Presstitutes pressawards MamataKillsDemocracy LiberalismIsAMentalDisease FREEDOMOFSPEECH DemocracyInDanger AzmiShabana RahulGandhi INCIndia MallikarjunINC PChidambaram_IN kavita_krishnan KapilSibal "
+
+997750540263096322	2749754317	2018-05-19 13:37	""Apna kaam banta bhaad mei jaye Janta" - INCIndia BJP4India JantaDalSecular sardesairajdeep IndianEress TimesNow republic KarnatakaFloorTest FloorTest BSYNammaCM DemocracyInDanger "The Great Indian DeMOC(K)racy" "
+
+997749261373755392	994252478316134400	2018-05-19 13:32	"भारतीय लोकतंत्र ऐसी ही किसी कुर्सी पर बैठा प्रतीत हो रहा है। FloorTest KarnatakaFloorTest KarnatakaCMRace BJPkaTest Yeddyurappa DemocracyInDanger "
+
+997745379029340161	4033711514	2018-05-19 13:16	"Jisko lakh lene hai Modi se unke paise aaj karnatak ne lag gaye to but MLA’s .... KarnatakaElectionResults2018 DemocracyInDanger"
+
+997744831609761792	4033711514	2018-05-19 13:14	"Na khauga, na khane duga... par congress mukt bharat ke liye congree jaise bn jauga KarnatakaElections2018 bjp modi DemocracyInDanger"
+
+997739506857062400	52735532	2018-05-19 12:53	" OperationKamala DemocracyInDanger …"
+
+997723904516018176	956915902838026241	2018-05-19 11:51	"Ab toh tamasha LIVE dekhega duniya... Ummeed hai...kisi bhi tarah Democracy bach jaye... DemocracyInDanger KarnatakaFloorTesthttps:// …"
+
+997720333313490945	2705850073	2018-05-19 11:37	"100-100 करोड़ मंत्रियों को खरीदने के लिए रखे थे इसलिए देश के तमाम atm खाली थे. BJP_भगाओ_देश_बचाओ DemocracyInDanger KarnatakaElections2018 Mamta_Singh_BJP dhruv_rathee bjpswati ashutosh83B"
+
+997692928867749888	990215408010412034	2018-05-19 09:48	" KarnatakaVerdict DemocracyInDanger MLAsForSale kal__natak"
+
+997684367957766144	940846737719259141	2018-05-19 09:14	"मोदिजी आमदार घ्यायला पैसे कमी पडले तर माझ्या लाखातुन घ्या पण सरकार भाजपचीच बनली पाहिजे.... KarnatakaFloorTest DemocracyInDanger KarnatakaElections2018 biswap_in INCKarnataka INCIndia"
+
+997609248958828544	954859712834568198	2018-05-19 04:15	" KarnatakaElections2018 KarnatakaVoting KarnatakaFloorTest DemocracyInDanger HorseTrading SaveDemocracy DemocracyKaDrama AmithShah MurderOfDemocracy RahulGandhi KarnatakaVerdict "
+
+997606735480156160	954859712834568198	2018-05-19 04:05	" KarnatakaElections2018 KarnatakaVoting KarnatakaFloorTest DemocracyInDanger HorseTrading SaveDemocracy DemocracyKaDrama AmithShah MurderOfDemocracy RahulGandhi KarnatakaVerdict "
+
+997606680497012736	954859712834568198	2018-05-19 04:05	" KarnatakaElections2018 KarnatakaVoting KarnatakaFloorTest DemocracyInDanger HorseTrading SaveDemocracy DemocracyKaDrama AmithShah MurderOfDemocracy RahulGandhi KarnatakaVerdict "
+
+997526189618053120	2602714524	2018-05-18 22:45	"சட்டங்கள் எவ்வளவு சிறந்ததாக இருந்தாலும் அதை அமல்படுத்துபவன் அயோக்கியனாக இருந்தால் அதனால் எவ்வித பயனும் இராது. - அம்பேத்கர். DemocracyKaDrama DemocracyInDanger democracy"
+
+997523397583278080	1467670674	2018-05-18 22:34	"परिवार और सरकार बचाने के लिए किसी भी हद से गुजर जाना चाहिए amitmalviya TajinderBagga sambitswaraj KarnatakaCMRace Democracy DemocracyInDanger DemocracyKaDrama"
+
+997520585432289280	864921506513645569	2018-05-18 22:23	"ज्या नमुन्यांना democracy ची धड स्पेल्लिंग येत नाही ते नमुने आज black_day_for_democracy चे dp ठेवत आहेत जा आधी घराच्या नळाला पाणी नाही येत आहे त्याच पहा पाहिले आले मोठे DemocracyInDanger वाले जे_पेरलं_ते_उगवलं"
+
+997512285043220480	3515232507	2018-05-18 21:50	"Geht doch, lieber MesutOzil1088, IlkayGuendogan ... und ausserdem schaut er viel freundlicher! Danke ekindeligoez, AZ_Augsburg ! trikotgate vorbilder FreeThemAll DemocracyInDanger "
+
+997495726769717249	504507398	2018-05-18 20:44	"ದುಡ್ಡು ಕೊಟ್ಟು ಜಡ್ಜ್ ಬುಕ್ ಮಾಡಿದ ರೆಡ್ಡಿ ದುಡ್ಡು ಕೊಟ್ಟು ರಾಜ್ಯಪಾಲರನ್ನೆ ಬುಕ್ ಮಾಡ್ತಿವಿ - ನೆನ್ನೆ ದುಡ್ಡು ಕೊಟ್ಟು ಸ್ಪೀಕರ್ ಬುಕ್ ಮಾಡ್ತಿವಿ - ಈಗ ಆದ್ರೂ ಆರ್ ಸಿ ಬಿ ಗೆ ಮ್ಯಾಚ್ ಗೆಲ್ಲೋದು ಗೋತಾಗ್ತಿಲ್ಲ.. DemocracyInDanger KarnatakaCMRace KarnatakaFloorTest HDKumaraswamy hdkforcm"
+
+997486429000187905	791634467769245697	2018-05-18 20:07	" CongressMuktBharat DemocracyInDanger KarnatakaWithBJP KarnatakaFloorTest "
+
+997482580248117248	4824735997	2018-05-18 19:52	" DemocracyInDanger "
+
+997479025445490694	1960020787	2018-05-18 19:38	"ಈ ಟೀವಿ ಚಾನಲ್ ನವ್ರು ಮುಂದಿನ ಕರ್ನಾಟಕದ ' boss' ಯಾರ್ ಆಗ್ತಾರೆ ಅಂತ ಹೇಳೋದು ಬಿಡ್ಬೇಕು! Boss ಯಾವಾಗ್ಲೂ ಬ್ಯುಸಿನೆಸ್ ಮಾಡ್ತಾರೆ, ಸಿಎಂ ಪದವಿ ಸೇವೆ ಮಾಡೋಕೆ! DemocracyInDanger ಸ್ವಲ್ಪ ಯೋಚಿಸಿ.. BelagaviKunda"
+
+997464288242622464	102093586	2018-05-18 18:39	" KarnatakaVerdict DemocracyInDanger …"
+
+997454596049195008	720135098880933889	2018-05-18 18:01	" DemocracyInDanger …"
+
+997433034402971648	3080337410	2018-05-18 16:35	" DemocracyInDanger …"
+
+997427197680893953	932845141785583616	2018-05-18 16:12	" FloorTest SaveDemocracyDay KarnatakaCMRace Bjp floor test me v Jeet jayegi hr me bjp MLA ko khrid_frokt kr k , pralovan de k, dra_dhamka ke, kuchh ko Ed_It_CBI se dra kr ke baitha degi gayab kr degi sankhya_Juta_Legi DemocracyInDanger "
+
+997424762946183168	2486509195	2018-05-18 16:02	"காவிகள் கொலைசெய்த ஜனநாயகத்தை விரைவில் உயிர்ப்பிக்கும் எங்கள் கருப்பு dravidanadu MKStalin DMK DemocracyInDanger"
+
+997414138753138688	2555051318	2018-05-18 15:20	"Will BSYeddyurappa will resign before floortest ? KarnatakaCMRace DemocracyInDanger Karnataka KarnatakaVerdict KarnatakaElections2018 KarnatakaKaFaisla"
+
+997413409783197696	2208567500	2018-05-18 15:17	"Jinko apne hi widhayakon pe bharosa nahin hai, unpe janta bharosa kyon karein!!! DemocracyInDanger BattleForKarnatakahttps:// …"
+
+997412848283324416	2208567500	2018-05-18 15:15	" DemocracyInDanger isako kahte hai!!! Jara in figures ko dekho to aapko sachmuch ka Pakistan dikhega, lekin INCIndia k Mann, wachan aur karma se!!! …"
+
+997375793796866048	935129178747240448	2018-05-18 12:48	"Sale sale sale . MLA's At Sale. DemocracyInDanger"
+
+997364888040288256	857109228347158529	2018-05-18 12:04	"शक्ति प्रदर्शन के लिये कांग्रेस INCIndia तैयार, और भक्ति प्रदर्शन के लिये राज्यपाल सहित भाजपा BJP4India... SaveDemocracy DemocracyInDanger Democracy KarnatakaCongress RahulGandhi siddaramaiah"
+
+997357419394093056	204772234	2018-05-18 11:35	"கர்நாடகாவில் நாளை மாலை மணிக்கு ள் நம்பிக்கை வாக்கெடுப்பு நடத்த உச்சநீதிமன்றம் உத்தரவு. Karnataka BattleForKarnataka DemocracyInDanger"
+
+997350569881849856	125028804	2018-05-18 11:08	"ye aram ka mamlaaa hai ..... dhanna seth ke unche rate kahaan thehr paayenge sidhant waadi aur socialist vicharon ke krantikaari vidwaaan DemocracyInDanger …"
+
+997349476854480896	65712985	2018-05-18 11:03	"Samay bada balwan re bhaiya, kal tak jo the sanghi aaj ban gaye sathi PiratesOfDemocracy KarnatakaElections DemocracyInDanger YehUnDinonKiBaatHai Indianhttps:// …"
+
+997340238585380864	797105256022896640	2018-05-18 10:26	"இதோட அடுத்தகட்ட வளர்ச்சியா நாலு MLA வ போட்டு தள்ளிட்டு Majority காட்டிட்டு போங்க ன்னு ஒரு நாள் சொல்லுவாங்க.. DemocracyInDanger Karnataka"
+
+997321775959556096	845884669027594240	2018-05-18 09:13	" democracyindanger "
+
+997306958460825600	814761498128084992	2018-05-18 08:14	"ಆಪರೇಷನ್ ಕಮಲ ಮಾಡಿದ್ರೆ ಮೋದಿ ಮತ್ತು ಟೀಂಗೆ ಭ್ರಷ್ಟಚಾರದ ಬಗ್ಗೆ ಮಾತಾಡೋ ಯಾವ ನೈತಿಕತೆಯೆ ಇಲ್ಲ.. DemocracyInDanger GoBackVajuBaiVala gobackculpritmodi BJPChor100Crore"
+
+997301429382533120	120970645	2018-05-18 07:52	" DemocracyInDanger "
+
+997297916359380992	152676223	2018-05-18 07:38	"Present situation in karnataka KarnatakaCMRace BJP DemocracyKaDrama DemocracyInDanger …"
+
+997266703401631744	115487231	2018-05-18 05:34	" NewProfilePic DemocracyInDanger ഇനി അതിന്മേലെ മാത്രേ കൈ വെക്കാൻ ബാക്കിയുള്ളൂ "
+
+997246083590897665	954859712834568198	2018-05-18 04:12	" DemocracyInDanger "
+
+997245979999916033	954859712834568198	2018-05-18 04:12	" DemocracyInDanger "
+
+997204604390490112	441737235	2018-05-18 01:27	"It's not DemocracyInDanger it is DynastyInDanger ..... DemocracyInIndia KarnatakaCMRace Karnataka KarnatakaElections2018 KarnatakaVerdict RahulPakInsult RahulWantsToBePM"
+
+997192115066056705	452358489	2018-05-18 00:38	" Yeddyurappa Karnataka KarnatakaElections2018 Constitution karnataka GodiMedia BJP4India INCIndia DemocracyInDanger "
+
+997175046404632576	2936744977	2018-05-17 23:30	"ജനം വോട്ടു ചെയ്തു ജയിപ്പിച്ചവനെ ഒക്കെ ഒളിപ്പിച്ചുവെക്കണ്ട അവസ്ഥ DemocracyInDanger"
+
+997173726461480963	865824659622817792	2018-05-17 23:25	" Karnataka DemocracyInDanger …"
+
+997169116371824640	823061988649660416	2018-05-17 23:06	"भाजपचा फक्त सत्ता मिळवणे हा एकमेव उद्देश दिसतोय, काँग्रेस आमदार निवासी असलेल्या निवास स्थानातून पोलिस संरक्षण काढून घेणे, त्यांच्या विमानांना उडण्यास परवानगी नाकारणे यावरून एकच दिसतंय की यांना फक्त घोडे बाजार मांडायचाय. DemocracyInDanger BJPMurdersDemocracy"
+
+997168221974233088	85122161	2018-05-17 23:03	"அடேய் டுமீல்ஸ் , ஒரு வோட்டு ,5000 னு ,20 ரூபாய் token லாம் வாங்கி ஜனநாயகத்தை வித்த நீங்க. கர்நாடகா ல பிஜேபி எதிர்க்கட்சி எம்.எல்.ஏ களை பணம் கொடுத்து வாங்குது னு குற்றம் சாத்த என்ன அருகதை இருக்கு ? வெக்கமா இல்லையா? ஜனநாயகம்வித்தடுமீல்ஸ் DemocracyKaDrama DemocracyInDanger"
+
+997164132985180160	3188368632	2018-05-17 22:47	"कांग्रेस + जेडीएस + निर्दल = भाजपा + मीडिया + एक गवर्नर + चुनाव आयोग + सुप्रीम कोर्ट + रामनाथ कोविंद = democracyindanger RahulGandhi ajaymaken Kundra_Vishal SharmaMange INCIndia"
+
+997160911931572226	3248571265	2018-05-17 22:34	"SC verdict - Rajnikanth b sworn n as new CM of Karnataka KarnatakaElections2018 KarnatakaVerdict DemocracyInDanger KarnatakaCMRace"
+
+997157785241468928	4797493135	2018-05-17 22:21	"Janta, think about it Karnataka DemocracyInDanger "
+
+997154648044617728	797307173575462912	2018-05-17 22:09	"সততা শব্দটা মুছেছে মমতা MamataOfficial মমতা শব্দটা মুছবে জনতা WestBengal DemocracyInDanger"
+
+997140088462065665	2963678343	2018-05-17 21:11	"Well said ji DemocracyInDanger"
+
+997132580200861697	135901523	2018-05-17 20:41	" DemocracyInDanger SaveDemocracySaveKarnataka IYC IYCWestBengal IYC_UPEast IYCTelangana IYCMeghalaya IYCGujarat IYCJammuKashmir IYCAssam IYCKerala divyaspandana "
+
+997121817381765120	2785604947	2018-05-17 19:59	"Modi is worst. DemocracyInDanger"
+
+997119814673068032	951498710986375168	2018-05-17 19:51	"ಜೈಲು ಹಕ್ಕಿ ವಿಧಾನಸೌಧದಲ್ಲಿ, ಪ್ರಜಾತಂತ್ರವು ಹಿಂದುತ್ವದ ಹೆಸರಿನಲ್ಲಿ ಮಾರಾಟವಾಗಿದೆ KarnatakaCMRace DemocracyInDanger KarnatakaVerdict"
+
+997113745175293952	2785604947	2018-05-17 19:26	" narendramodi AmitShah Desh ko barbad karne main agar kisi ka bada hath hain toh woh BJP ka hain. DemocracyInDanger UnconstitutionalCMYeddy"
+
+997111114872901632	973252463171067904	2018-05-17 19:16	"ಪಾವಗಡ ಶಾಸಕ ವೆಂಕಟರಮಣಪ್ಪ ಅಪ್ತ ಶೆಂಕರ ರೆಡ್ಡಿ ಮತ್ತು ಗೌರಿಬಿದನೂರು ಶಾಸಕ ಶಿವಶೆಂಕರ ರೆಡ್ಡಿ ಆಪ್ತ ನರಸಿಂಹ ಮೂರ್ತಿ ಜೊತೆ ಬಳ್ಳಾರಿ ರೆಡ್ಡಿ ಆಪ್ತ ಸುಭಾಷ್ ನಡೆಸಿದರು ಎನ್ನಲಾದ ಆಡಿಯೋ ಬಿಡುಗಡೆ. ಏನ್ ಕರ್ಮ ಗುರು ನಿಮ್ದು. BJPChor100Crore DemocracyKaDrama DemocracyInDanger BJP4Karnataka BSYBJP "
+
+997109489471033344	865824659622817792	2018-05-17 19:10	" DemocracyInDanger KarnatakaCMRacehttps:// …"
+
+997100038810726400	4446201747	2018-05-17 18:32	" DemocracyInDanger …"
+
+997092154517442561	991597863158370304	2018-05-17 18:01	" one_by_two RahulGandhi PChidambaram_IN IYC INCKarnataka ahmedpatel PChidambaram_IN sardesairajdeep abpnewstv ZeeNewsHindi ndtv aajtak KarnatakaNataka KarnatakaVerdict KarnatakaElections2018 DemocracyKaDrama DemocracyInDanger BJPChor100Crore "
+
+997078434969989120	1218715074	2018-05-17 17:06	"लोकतंत्र नहीं आपका वजूद खतरे में है... INCIndia RahulGandhi DemocracyKaDrama DemocracyInDanger emergency News18India aajtak ZeeNews abpnewshindi ndtv NewsX republic sardanarohit awasthis anjanaomkashyap nehapant19 RubikaLiyaquat "
+
+997077725323051008	44569650	2018-05-17 17:03	" KarnatakaElections DemocracyInDanger NatakaInKarnataka Indiahttps:// …"
+
+997069120926445568	2468915753	2018-05-17 16:29	"Karnataka's manufacturer CM Yeddyurappa made by motaBhai DemocracyKaDrama Yeddyurappa DemocracyInDanger"
+
+997067644070019073	115487231	2018-05-17 16:23	" SaveDemocracy ഇവിടെ ഒ.രാജഗോപാൽ പ്രദീക്ഷയിലാണ്.... DemocracyInDanger"
+
+997059219827363840	3043019035	2018-05-17 15:50	"ಜೈಲು ಹಕ್ಕಿ ವಿಧಾನಸೌಧದಲ್ಲಿ, ಪ್ರಜಾತಂತ್ರವು ಹಿಂದುತ್ವದ ಹೆಸರಿನಲ್ಲಿ ಮಾರಾಟವಾಗಿದೆ KarnatakaCMRace DemocracyInDanger KarnatakaVerdict"
+
+997039603629506560	2785604947	2018-05-17 14:32	"Mam sabse pehele no. Ata hain vajubhai vala bjp agent ka VajubhaiVala BJPChor100Crore DemocracyInDanger"
+
+997034145787166721	821730885703757824	2018-05-17 14:10	" sambitswaraj वैसे तो आप बौहत ही ईमानदारी के बल्ले झाडते है BJP4India के लिये.... तो फिर आज BJP4Karnataka पे आप क्या बोलेगें ?? DemocracyInDanger Awhadspeaks supriya_sule ameytirodkar Jayant_R_Patil"
+
+997030470880608257	898503717799862274	2018-05-17 13:56	" DemocracyInDanger"
+
+997030091422097408	815926758801227777	2018-05-17 13:54	"ഇവന്മാർ ഇന്ത്യൻ ജനാധിപത്യത്തെ കൊന്നു... © Nivin Poly SaveDemocracy trollsangh DemocracyInDanger "
+
+997019471083524096	2195573468	2018-05-17 13:12	" DemocracyInDanger"
+
+997017310354427904	973252463171067904	2018-05-17 13:03	"Karnataka people's are fit to be ruled, not to rule..!! BJPChor100Crore DemocracyKaDrama DemocracyInDanger jds_hdk JDSNEWZ usa_jds_support jds4karnataka eesanjenews prajavani prajakeeyauppi puttarajubr ArpithaK_Gowda SowmyaHDK1 "
+
+997004412324327425	855059037695561728	2018-05-17 12:12	" dainikjagran DemocracyInDanger …"
+
+996991183002857472	953664209073639424	2018-05-17 11:19	"ഇന്ത്യന്‍ ജനാധിപത്യം അന്തരിച്ചു. വയസായിരിന്നു. സംസ്കാരം രാവിലെ മണിക്ക് രാജ്ഭവനില്‍ നടന്നു. DemocracyInDanger"
+
+996986290947149824	755624132012871680	2018-05-17 11:00	"Only the person who can train north Indians to say " Karnataka" and " Kannada" and not "Karnatak" and Kannad" is my CM. DemocracyinDanger KarnatakaVerdict KarnatakaCMRace NatakaInKarnataka"
+
+996985603194470402	301358388	2018-05-17 10:57	"சட்டங்கள் எவ்வளவு சிறந்ததாக இருந்தாலும் அதை அமல்படுத்துபவன் அயோக்கியனாக இருந்தால் அதனால் எவ்வித பயனும் இராது. - அம்பேத்கர். DemocracyKaDrama DemocracyInDanger democracy"
+
+996971510341419008	940511643154333696	2018-05-17 10:01	" StayAwayCongJDS NammaKarnataka BSYNammaCM DemocracyInDanger …"
+
+996963266894020609	135054595	2018-05-17 09:29	"நல்ல வேலை பிஜேபி ஒரு mla கூட இல்லை, இல்லைனா ஆளுநர் வச்சி ஆட்சியை புடிச்சி இருப்பாங்க தமிழ் நாட்டுல.. DemocracyInDanger"
+
+996949976583319553	2943883452	2018-05-17 08:36	"En guru idu, DemocracyInDanger …"
+
+996927401530572800	847161046569644032	2018-05-17 07:06	" KarnatakaCMRace I don't have words. Bs yhii bolskte h "har kutte Ka din aata h" democracyInDanger"
+
+996925082768326656	900698703035482112	2018-05-17 06:57	" DemocracyinDanger >104 ఇంకా నయం సంవత్సరాలు బలనిరూపణకు సమయం ఇవ్వలేదు "
+
+996916123349192710	890148091659038720	2018-05-17 06:21	"അർദ്ധരാത്രിയിൽ പ്രഖ്യാപിച്ച രാജ്യത്തിന്റെ സ്വാതന്ത്ര്യം സംരക്ഷിക്കാൻ കോൺഗ്രസ്സ് വീണ്ടും അർദ്ധരാത്രിയിൽ ചീഫ് ജസ്റ്റിസിന്റെ വീട്ടിൽ.. KarnatakaCMRace DemocracyInDanger KarnatakaElections2018 KeralaNsui"
+
+996846604102463488	515248811	2018-05-17 01:45	"Very true DemocracyInDanger ke time par sabhi parties ko aapsi matbhed bhula kar saath aana chaliye aur BJPChor100Crore ko sabak sikhana chahiye.... INCIndia NCPspeaks bjd_odisha tmc4india AamAadmiParty abpnewstv aajtakhttps:// …"
+
+996819998625722369	189807667	2018-05-16 23:59	"അർദ്ധരാത്രിയിൽ പ്രഖ്യാപിച്ച രാജ്യത്തിന്റെ സ്വാതന്ത്ര്യം സംരക്ഷിക്കാൻ കോൺഗ്രസ്സ് വീണ്ടും അർദ്ധരാത്രിയിൽ ചീഫ് ജസ്റ്റിസിന്റെ വീട്ടിൽ.. DemocracyInDanger"
+
+996819817624727552	189807667	2018-05-16 23:58	"Haris Mudur അർദ്ധരാത്രിയിൽ പ്രഖ്യാപിച്ച രാജ്യത്തിന്റെ സ്വാതന്ത്ര്യം സംരക്ഷിക്കാൻ കോൺഗ്രസ്സ് വീണ്ടും അർദ്ധരാത്രിയിൽ ചീഫ് ജസ്റ്റിസിന്റെ വീട്ടിൽ.. DemocracyInDanger"
+
+996818284526866432	973252463171067904	2018-05-16 23:52	"ಈ ವಜುಭಾಯಿ ವಾಲ ಏನು ಕರ್ನಾಟಕದ ಗೋರ್ನಾರೋ ಅಥವಾ ಬಿಜೆಪಿಯಾ ಬ್ರೋಕರೊ ಒಂದು ನನಗೆ ಅರ್ಥ ಆಗ್ತಾಯಿಲ್ಲ. ಇದು ಪ್ರಜಾಪ್ರಭುತ್ವ ಕೊಲೆ,ಪ್ರಜಾಪ್ರಭುತ್ವ ವ್ಯವಸ್ಥೆ ಅಪಾಯದಲ್ಲಿದೆ. BJPChor100Crore DemocracyKaDrama DemocracyInDanger jds_hdk jds4karnataka JDSCircle ArpithaK_Gowda JdsTumkur puttarajubr"
+
+996796475928662022	973252463171067904	2018-05-16 22:26	"ಇವನೇನು ವಜುಭಾಯಿ ವಾಲಾನೋ, ದುಡ್ಡಿಗೆ ಏನಾದರೂ ಸೆಲ್ ಆದನೋ ಒಂದು ಗೊತಿಲ್ಲ. BJPChor100Crore DemocracyKaDrama DemocracyInDanger jds_hdk JDSNEWZ karnataka_jds jds4karnataka ArpithaK_Gowda puttarajubr JanataDal_S jds_yuvabrigade HDKsupporters SowmyaHDK1 hddevegowda_fc Thimmaraju80"
+
+996790654121295872	3075235134	2018-05-16 22:03	"short term gain = long term pain for BJP4India Forget now. India gains Indians WIN NatakaInKarnataka KarnatakaElections2018 DemocracyInDanger INCIndiahttps:// …"
+
+996784755256381441	297398241	2018-05-16 21:39	" DemocracyInDanger karnataka elections"
+
+996738800821915648	34870112	2018-05-16 18:37	" DemocracyInDanger …"
+
+996679285778903040	973252463171067904	2018-05-16 14:40	"ಪ್ರಜಾಪ್ರಭುತ್ವ ದೇಶದಲ್ಲಿ ಪ್ರಜೆಗಳ ಬಾಯಿ ಮುಚ್ಚಲು ಹೊರಟ ನಮ್ಮ ಹೆಮ್ಮೆಯ ಪ್ರಧಾನಿ ಕಾಂಗ್ರೇಸ್ +ಜೆಡಿಎಸ್+ಬಿ.ಎಸ್.ಪಿ ಸರಕಾರ ರಚಿಸಲು ಅವಕಾಶ ಕೊಡಲ್ವಂತೆ ಪ್ರಜಾಪ್ರಭುತ್ವ ಏನ್ ಇವರಪ್ಪನ್ ಮನೆ ಆಸ್ತಿನಾ? BJPChor100Crore DemocracyInDanger bjp narendramodi BSYBJP jds_hdk JDS_party JDSNEWZ "
+
+996663397340143616	3252463021	2018-05-16 13:37	" DemocracyInDanger"
+
+996639037787078656	3252463021	2018-05-16 12:00	" DemocracyInDanger"
+
+996638244216373249	3252463021	2018-05-16 11:57	" DemocracyInDanger"
+
+996629257211203584	192193650	2018-05-16 11:21	"Goa, Manipur and now Karnataka. KarnatakaElections2018 KarnatakaVerdict DemocracyInDanger KarnatakaElectionResults2018"
+
+996450800720375814	929200692950003712	2018-05-15 23:32	" DemocracyinDanger యడ్యూరప్పకు ,మోడీ భక్తుడు(కర్నాటక గవర్నర్) ప్రభుత్వ ఏర్పాటుకు వారం రోజుల గడువు రోజుకో ఎంఎల్ఏ ని కొనేస్తే అయిపోతాది. RahulGandhi INCTelangana"
+
+996428213629800449	113875042	2018-05-15 22:02	" disappointed DemocracyInDanger shame BJP4Karnataka BJP4India INCKarnataka INCIndiahttps:// …"
+
+996360251917193216	831326876	2018-05-15 17:32	""Goebbels también era culto, toda la planta nazi lo era" palabras de una (periodista) hace media hora en ARV LlibertatPresosPolítics catalonia fascistas DemocracyInDanger"
+
+996117883217367040	2192743506	2018-05-15 01:29	" RahulGandhi DemocracyInDanger gang koi kuch nahi bolega ab kyunki didi se support bhi toh leni BengalPanchayatPolls MamtaKillsDemocracy "
+
+996043693751599104	320166968	2018-05-14 20:34	" democracyindanger IRONY JUST COMMITTED SUICIDE.. Democracy in danger under BJP rule: Mamata Banerjee... …"
+
+996027081585709056	441737235	2018-05-14 19:28	"Where r abhisar_sharma ppbajpai sagarikaghose sardesairajdeep kavita_krishnan who always shouting democracyindanger?"
+
+995474493035298816	1075759008	2018-05-13 06:53	" Propaganda DemocracyInDanger …"
+
+995329384692174848	1587658902	2018-05-12 21:16	" democracyindanger indiaindanger Fascismhttps:// …"
+
+995143057505841153	986248806445363200	2018-05-12 08:56	"BJP is tempering all EVM?? DemocracyInDanger RahulGandhi siddaramaiahhttps:// …"
+
+994829628358447104	948066865711943680	2018-05-11 12:10	"oh no dunia m do hi log to imaandar bache h ek journalists dusra AAPTARDS ab modi sarkar unko bhi arrest kar rahi h.... democracyindanger …"
+
+994619961887911936	756067127900114944	2018-05-10 22:17	"Nous sommes en et France CharlemagnePrize charlemagne democratie democracyindanger LREM. Ferrand rappelle à l’ordre les députés qui déposent leurs propres amendements … via ouestfrance"
+
+994599644423434242	112999887	2018-05-10 20:56	"Ik vrees van wel omdat de economische belangen steevast prevaleren zoals in Italy met eni en worden schendingen op mensenrechten terzijde gezet! EU lijkt geen boodschap te hebben aan unesco UN of amnesty leadershipmatters PressFreedom FactsMatter democracyindanger …"
+
+994422598741225472	103029808	2018-05-10 09:13	" DemocracyInDanger TruthInDangerhttps:// …"
+
+994408668840984576	66736226	2018-05-10 08:17	" democracyindanger …"
+
+994103074238189570	200006211	2018-05-09 12:03	" BREAKING SPAIN spanien espagne DemocracyInDanger …"
+
+992696986209079296	483215089	2018-05-05 14:56	"En el congresoFESP sindicato periodismo FeSPeriodistas periodistescat Madrid EFJEUROPE IFJGlobal journalism DemocracyinDanger …"
+
+992282251168645120	483215089	2018-05-04 11:28	" periodismo DemocracyinDanger …"
+
+991318419134803969	1697643332	2018-05-01 19:38	" BJP4India PrakashJavdekar PMOIndia narendramodi INCIndia BBCHindi washingtonpost RahulGandhi Abhishek_Mshra democracyInDanger savewestbengal savedemocracy saveIndia savehinduism"
+
+990980431611944960	103029808	2018-04-30 21:15	" DemocracyInDanger …"
+
+990810208590065664	66736226	2018-04-30 09:58	" democracyindanger …"
+
+990637350169530370	200006211	2018-04-29 22:32	" BREAKING SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+989843019611467781	200006211	2018-04-27 17:55	" SPAIN Fasciststate DemocracyinDanger LaManada. YoSíTeCreo NoEsNo josietcrec NoEsAbusoEsViolacion JusticiaPatriarcal LaManadaA3Nhttps:// …"
+
+989842866741633025	200006211	2018-04-27 17:55	" SPAIN Fasciststate DemocracyinDanger LaManada. YoSíTeCreo NoEsNo josietcrec NoEsAbusoEsViolacion JusticiaPatriarcal LaManadaA3Nhttps:// …"
+
+989440441379631104	483215089	2018-04-26 15:15	" DemocracyinDanger no155 LlibertatPresosPolíticshttps:// …"
+
+988644431862657025	714180747624468480	2018-04-24 10:32	"Bilkul sahi kaha. Isme koi sandeh nahi. Sare institutions ka Sanghikaran ho chooka ha jo loktantra k liye bahut bada khatra ha. DemocracyInDanger SaveThe_Institutions SaveTheConstitution BJP_भगाओ_देश_बचाओ"
+
+988622174624862208	2271503276	2018-04-24 09:04	"Very sad. DalalMedia SaveTheConstitution DemocracyInDanger bainjal abhisar_sharma yadavtejashwi aajtak IYC pankhuripathak yadavakhilesh jarariya91 rssurjewala pbhushan1 ashokgehlot51 ashoswai jigneshmevani80 manojkjhadu LambaAlka"
+
+988523142535630849	200006211	2018-04-24 02:30	" SPAIN repression in CATALONIA democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+988455941547868162	1587658902	2018-04-23 22:03	" democracyindanger …"
+
+988455897222426624	1587658902	2018-04-23 22:03	" democracyindanger …"
+
+988333504910917632	152524424	2018-04-23 13:57	"50%Rajya Sabha MPs can remove VenkaiahNaiduBhagaoDeshBachao DemocracyInDanger"
+
+988315827987517440	200006211	2018-04-23 12:47	"Ecuador tv SPAIN repression in CATALONIA democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+988272768914460677	2271503276	2018-04-23 09:56	"Very sad. Is this Not a terrorism activities? Is this sabka saath sabka Vikas? narendramodi ji DemocracyinDanger RahulGandhi bainjal yadavtejashwi laluprasadrjd MamataOfficial pankhuripathak yadavakhilesh abhisar_sharma rssurjewala manojkjhaduhttps:// …"
+
+988085420633227264	200006211	2018-04-22 21:31	" SPAIN repression in CATALONIA democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+988067535898759168	200006211	2018-04-22 20:20	" SPAIN repression in CATALONIA democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+988066998411321344	200006211	2018-04-22 20:18	" SPAIN repression in CATALONIA democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+988066914260922368	200006211	2018-04-22 20:18	" SPAIN repression in CATALONIA democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+988066765921050625	200006211	2018-04-22 20:17	" SPAIN repression in CATALONIA democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+988066314139983872	200006211	2018-04-22 20:15	" SPAIN government in CATALONIA democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+988065835821555712	200006211	2018-04-22 20:13	" BREAKING SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+987697980370276352	2399045929	2018-04-21 19:52	" YashwantSinha quits BJP saying India's democracyindanger. NewDelhi Mumbai NarendraModi "
+
+987629820942077954	3230003706	2018-04-21 15:21	" Impeachment democracyindanger"
+
+987614436428001280	2271503276	2018-04-21 14:20	"Very sad. DemocracyInDanger As media spreading propaganda BoycottJagran pbhushan1 bainjal pankhuripathak siddaramaiah INCKarnataka yadavtejashwi IYC khushsundar kavita_krishnan sanjivbhatt MamataOfficial aflatoonarman ashoswai manojkjhaduhttps:// …"
+
+987542670502395904	200006211	2018-04-21 09:34	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+987342582668816384	200006211	2018-04-20 20:19	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+987341770483752960	200006211	2018-04-20 20:16	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+987068471988060161	592998481	2018-04-20 02:10	" DemocracyInDanger"
+
+987062231652339715	200006211	2018-04-20 01:45	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+987062159984209920	200006211	2018-04-20 01:45	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+987061855863693313	200006211	2018-04-20 01:44	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+987045902304055296	205887078	2018-04-20 00:40	"Hoy Suiza a través Ginebra se ha ofrecido como mediador entre España y Cataluña. Y los informes del juez revelan errores incluso al sumar cifras. España y la justicia.. democracyindanger"
+
+986883889732964352	200006211	2018-04-19 13:57	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+986717302694522880	200006211	2018-04-19 02:55	" BREAKING SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+986258314395873280	200006211	2018-04-17 20:31	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+986023465789612032	200006211	2018-04-17 04:58	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+986022974921871361	200006211	2018-04-17 04:56	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+985978449260105731	200006211	2018-04-17 01:59	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+985978393194835968	200006211	2018-04-17 01:59	" SPAIN democracyindanger catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+985347794889142272	3198753937	2018-04-15 08:13	" DemocracyInDanger PaidGvmt "
+
+985201275393343488	815926758801227777	2018-04-14 22:31	" DemocracyInDanger under ModiSarkar AntiDalitBJP BalatkariJanataParty TrollSangh RapistRSS BJPShieldsRapist "
+
+985200726409297920	815926758801227777	2018-04-14 22:28	" DemocracyInDanger under ModiSarkar AntiDalitBJP BalatkariJanataParty TrollSangh RapistRSS BJPShieldsRapist "
+
+984850808675209216	928553477487206400	2018-04-13 23:18	" DemocracyInDanger under ModiSarkar AntiDalitBJP BalatkariJanataParty TrollSangh RapistRSS BJPShieldsRapist "
+
+984849445773856769	847540994300162048	2018-04-13 23:13	" DemocracyInDanger under "
+
+984425659190493186	242198631	2018-04-12 19:09	" DemocracyinDanger in WestBengal? BJP4India gauravbh BJPLive AmitShah PMOIndia HMOIndia narendramodi AskAnshul ippatel ShefVaidya OpIndia_com Swamy39 AtulMhatre13 KiranKS NanaPatekarr VashiMant vivekagnihotri vprakash68 nandaji1958 hstapanghoshhttps:// …"
+
+984423886505693184	242198631	2018-04-12 19:01	" DemocracyinDanger In West Bengal Lutyens Media Silent? No Outrage-No Comments? RahulGandhi sagarikaghose sardesairajdeep BDUTT ShekharGupta AzmiShabana IJaising ArvindKejriwal MamataOfficial KapilMishra_IND KiranKS RituRathaur Deveshvari BJP4India nandaji1958https:// …"
+
+983707857962094592	278432530	2018-04-10 19:36	"Ab kaha gye wo DemocracyInDanger wale , ab FOE khatre me ni hai kya …"
+
+983592977300905984	378777308	2018-04-10 12:00	" democracyindanger HelpCatalonia LlibertatPresosPoliticshttps:// …"
+
+983591961272647680	378777308	2018-04-10 11:56	" democracyindanger HelpCatalonia CatalanRepublic LlibertatPresosPolitics BILD SPIEGEL_Top SPIEGELONLINEhttps:// …"
+
+983485592788000769	796775348960632833	2018-04-10 04:53	"US Supreme Court: La gent fa la Constitució i aquesta és la creació de la seva voluntat, i perviu mentre sigui aquesta (la seva voluntat) La voluntat d'un poble democracyindanger catalonia LlibertatPresosPolitics "
+
+983176980001509376	382088228	2018-04-09 08:27	" DemocracyInDanger demand Back2Ballot ShabnamHashmi RahulGandhi SitaramYechury ahmedpatel yadavakhilesh MamataOfficial rohanrguptahttps:// …"
+
+983115924713758720	543675296	2018-04-09 04:24	" Brazil Lula DemocracyInDanger …"
+
+983067252470796289	113579513	2018-04-09 01:11	"Ai mare! No seré jo qui m'impedeixi somiar, ja n'assabentarà algun dia que ni està unida, ni és respectada i que no és una democràcia. Ah no!, espera, que això últim ja ho sap. Rajoy DemocracyInDanger …"
+
+983046236503789568	291697218	2018-04-08 23:47	" DemocracyInDanger …"
+
+983038152712556544	923972437221494784	2018-04-08 23:15	" freecatalonia from nazionalism, HelpCatalonia DemocracyInDanger …"
+
+982758293381709825	797767086	2018-04-08 04:43	" soscatalunya freedomcatalonia catalunya Constitucion DerechosHumanos CDR DemocracyInDanger Democracia "
+
+982757100886601729	797767086	2018-04-08 04:38	" soscatalunya freedomcatalonia freepeople Catalunya Constitucion humanrigths CDR DemocracyInDanger democraciaenllamas LlibertatPresosPolitics"
+
+982737393529884673	396600061	2018-04-08 03:20	"Y ahí están, diciendo DemocracyInDanger por LulaNaCadeia.. Yo no sé si no dan más de pelotudos o piensan que todos los demás lo somos... FelizSábado"
+
+982714507658235905	148330706	2018-04-08 01:49	"یہ جو کولیکشن ہو رہی ہے دراصل کوریکشن ہو رہی ہے. بےجمہور ے اب جمہور سے الگ ہوں گے انکا مقام آمریت کے گھڑے ہیں, جمہور کے کے اجلے نشان پر کھڑے رہ ہی نہیں سکتے. DemocracyInDanger"
+
+982607865973231617	205887078	2018-04-07 18:45	"para los que tenían dudas sobre los matices del color naranja Tabarnia DemocracyInDanger LlibertatPresosPolitics …"
+
+982343976299589635	112999887	2018-04-07 01:17	"En opnieuw verdwenen fotojournalisten zoals ShawkanZeid in Egypte! Meer info over monddood maken van journalisme onder AlsisiOfficial op mei nvj Beeld&Geluid Hilversum, 0u! ThisIsEgypt Journalismisnotacrime journalismmatters HumanRightsViolations DemocracyInDanger …"
+
+982328737634004994	940649474241777664	2018-04-07 00:16	" DemocracyInDanger modimadeDisaster ModiMuktBharat ModiRobsIndia"
+
+982328713328013313	940649474241777664	2018-04-07 00:16	" DemocracyInDanger modimadeDisaster ModiMuktBharat ModiRobsIndiahttps:// …"
+
+982290590346825728	3184981105	2018-04-06 21:45	" DemocracyInDanger pachimBangal presidentRuleNeeded smritiirani AnupamPKher AmitShah RahulGandhi IndianEress narendramodi ravishndtv anjanaomkashyap sardanarohit BJPLivehttps:// …"
+
+982011754724151296	291342180	2018-04-06 03:17	"MIM XAMA PFV, pq eu quero elodir o PV se o ferrim não virar os q levou do Galo e passar pra próxima fase da Copa do Brasil (risos nervosos). DemocracyInDanger"
+
+982002749951938560	483215089	2018-04-06 02:41	"Bravo por la valentía de una parte de los garantes de la Justicia DemocracyInDanger …"
+
+981761937364135936	1038336506	2018-04-05 10:44	" NiUnPasEnrere Oct LlibertatPresosPolítics ElPoderDelPoble democracyindanger somrepública"
+
+981635160708960256	1286248532	2018-04-05 02:20	" Mes324 Nihil novum sub sole Entrevista a mare d'un dels joves d'Altsasu empresonats durant més de dies sense judici. Bel Pozueta:‘Els nostres fills són presos arran d’una política de revenja de l’estat espanyol" democracyindanger AltsasukoakAskehttps:// …"
+
+981575662883561472	291697218	2018-04-04 22:24	"very true democracyindanger …"
+
+981469277529280512	131949469	2018-04-04 15:21	"La démocratie suisse est-elle mise en danger par le phénomène des fake news et la multiplications des sources d’informations? alain_berset répondait à nos questions après la conférence organisée avec ClubDiploGE et unige_en ! fakenews DemocracyInDanger swiss "
+
+981389561975762944	978098764941373440	2018-04-04 10:04	"Quero ver esse povo que defende intervenção quando os militares bloquearem o xvideos e o pornhub. IntervencaoMilitar LulaPeloBrasil DemocracyInDanger"
+
+981155513483300864	200006211	2018-04-03 18:34	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+981155407086407682	200006211	2018-04-03 18:34	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+981155308906143745	200006211	2018-04-03 18:33	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+981154830256353280	200006211	2018-04-03 18:31	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+981152355218575360	200006211	2018-04-03 18:22	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+980533417790984192	832019161454817280	2018-04-02 01:22	" democracy democracyindanger …"
+
+980517618225303552	1587658902	2018-04-02 00:19	" NaMo ModiMadeDisaster democracyindanger …"
+
+980515838577999873	1038336506	2018-04-02 00:12	"Doncs em semblaria bé que FCBarcelona_cat no jugi la finaldecopadelrei LlibertatPresosPolítics SomRepública democracyindanger …"
+
+980447657230520320	740877815160131584	2018-04-01 19:41	" democracyindanger …"
+
+980126808099074048	1717995871	2018-03-31 22:26	"ये रक्त नहीं आपका वोट बैंक बह रहा है narendramodi PMOIndia DemocracyInDanger rajnathsingh "
+
+980125194281828352	1717995871	2018-03-31 22:20	" DemocracyInDanger PMOIndia narendramodi "
+
+979217781609713664	729052841071943680	2018-03-29 10:14	"EVM पर्यंत ठीक होत ... परंतु निवडणूक आयोगाला निवडणूक जाहीर करण्याचा अधिकार तरी राहू दया . DemocracyInDanger AmitShahGamler SaveDemocracy TheyAreTryingHijackDemocracy"
+
+978586463771283457	3662984178	2018-03-27 16:26	"Nunca será demasiado el agradecimiento a quien lucha por la Democracia como tu. BeatrizTalegon: Gracias! Moltes Gràcies! Spain : DemocracyInDanger"
+
+978578812194689024	2271503276	2018-03-27 15:55	"Jago Andhbhakto jago. democracyinDanger"
+
+978564491486093312	2271503276	2018-03-27 14:58	"Hahahahaha. Sir please itna force na karo bata hi denge. Kaya bolte ho Andhbhakto. democracyindanger ? abhisar_sharma meamabhishek bainjal pankhuripathak rssurjewala IYC yadavtejashwi AkhileshPSingh aflatoonarman BSP4Bharat Jai Hind"
+
+978548352311705600	917369791601549313	2018-03-27 13:54	"കുമ്മനംജിയെ കൊണ്ട് ചെങ്ങന്നൂർ ഇലക്ഷൻ പ്രഖ്യാപിക്കണം എന്നുള്ളത് കൊണ്ടാണ് ഇന്ന് പ്രഖ്യാപിക്കാതിരുന്നത്.. DemocracyInDanger"
+
+978375759617282048	30437978	2018-03-27 02:28	" democracyindanger indyref2https:// …"
+
+978366708766380032	30437978	2018-03-27 01:52	" democracyindanger indyref2https:// …"
+
+978270874649448448	30437978	2018-03-26 19:32	" democracyindanger indyref2https:// …"
+
+977852580612231170	200006211	2018-03-25 15:49	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977850741309177857	200006211	2018-03-25 15:42	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977850664255737857	200006211	2018-03-25 15:42	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977799552693686272	483215089	2018-03-25 12:19	" Catalunya democracyindanger shameonSpainhttps:// …"
+
+977648538170675201	200006211	2018-03-25 02:19	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977629190001487873	483215089	2018-03-25 01:02	" libertadpresos democracyindanger …"
+
+977623525241614338	483215089	2018-03-25 00:39	"Q PSOE y ahorapodemos traguen y no piloten manifestaciones es desgarrador. El crack del democracyindanger …"
+
+977532581532094464	200006211	2018-03-24 18:38	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977532402993127424	200006211	2018-03-24 18:37	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpring …"
+
+977531993306095616	200006211	2018-03-24 18:36	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977531915472433154	200006211	2018-03-24 18:35	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977530998534615041	200006211	2018-03-24 18:32	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977530185380761600	200006211	2018-03-24 18:28	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977530053876699136	200006211	2018-03-24 18:28	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien PrimaveraCatalana CatalanSpringhttps:// …"
+
+977529622391939073	200006211	2018-03-24 18:26	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+977467930060492800	3245946230	2018-03-24 14:21	"Means president is not independent!!!! DemocracyInDanger"
+
+977346281495392256	200006211	2018-03-24 06:18	" SPAIN democracyindanger shameOnSpain FreedomOfEression Politicalprisoners catalonia CataloniaRise PrimaveraCatalana catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+977345817664081920	200006211	2018-03-24 06:16	" SPAIN democracyindanger shameOnSpain FreedomOfEression Politicalprisoners catalonia CataloniaRise PrimaveraCatalana catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+977345740144955392	200006211	2018-03-24 06:15	" SPAIN democracyindanger shameOnSpain FreedomOfEression Politicalprisoners catalonia CataloniaRise PrimaveraCatalana catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+977345665779998720	200006211	2018-03-24 06:15	" SPAIN democracyindanger shameOnSpain FreedomOfEression Politicalprisoners catalonia CataloniaRise PrimaveraCatalana catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+977345333330984961	200006211	2018-03-24 06:14	" SPAIN democracyindanger shameOnSpain FreedomOfEression Politicalprisoners catalonia CataloniaRise PrimaveraCatalana catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+977344038343917568	200006211	2018-03-24 06:09	" SPAIN democracyindanger shameOnSpain FreedomOfEression Politicalprisoners catalonia CataloniaRise PrimaveraCatalana catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+977343685191856129	200006211	2018-03-24 06:07	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia CataloniaRise PrimaveraCatalana catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+977258931797012480	200006211	2018-03-24 00:31	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanienhttps:// …"
+
+976997206929657858	4379170632	2018-03-23 07:11	" SCAMFREEINDIA STOP LAUGHING WHEN SOMEONE SAY (EVM) IS HACKED WATCH THIS AND DECIDE... DEMOCRACYINDANGER... "
+
+976898990649221122	887275259640123396	2018-03-23 00:40	" SaveDemocracy RahulGandhi sardesairajdeep INCIndia DemocracyInDanger"
+
+976575040048259072	483215089	2018-03-22 03:13	" LibertadDeEresion democracyindanger LeyMordazahttps:// …"
+
+976515787438608386	30437978	2018-03-21 23:18	" democracyindanger …"
+
+976401699094040576	30437978	2018-03-21 15:44	" democracyindanger …"
+
+975663351689773056	951753770387427330	2018-03-19 14:50	" DemocracyInDanger AadhaarFail Aadhaar AadhaarAlerts aadhaarreliefhttps:// …"
+
+975624201301315584	66736226	2018-03-19 12:15	" democracyindanger …"
+
+975338929040842753	103029808	2018-03-18 17:21	" TruthInDanger DemocracyInDanger …"
+
+975033946181287936	254633632	2018-03-17 21:09	" McCabeFired Midterm2018 DemocracyInDanger "
+
+974952001602715649	30437978	2018-03-17 15:44	" democracyindanger …"
+
+974934025017155585	27539658	2018-03-17 14:32	" democracyindanger"
+
+974922179375718400	943823524388589568	2018-03-17 13:45	" narendramodi BJP is not fit to rule my Country! India MamataBanerjee IndiaToday rajinikanth ikamalhaasan TamilNadu AndhraPradesh PavanKalyan Nawazuddin_S Chiranjeevi ameerkhan_ democracyindanger …"
+
+974849072141164544	831583427010899971	2018-03-17 08:55	" DemocracyInDanger …"
+
+974777063793152001	4778883448	2018-03-17 04:08	" RuthBaderGinsburg DemocracyInDanger …"
+
+974725816511758336	859034059	2018-03-17 00:45	"Our DemocracyInDanger"
+
+974690649508319233	707203777313382400	2018-03-16 22:25	" DemocracyInDanger"
+
+974618314780573697	555290738	2018-03-16 17:38	"Nakon svega sto se desilo u Boru pre i tokom ovih izbora, od sledecih mozemo da ocekujemo i ono najgore - da muce i ubijaju DemocracyInDanger"
+
+974611939568500737	309699751	2018-03-16 17:12	" ssc black friday SSCCGLSCAM Cpcforbanker pakoda DemocracyInDanger"
+
+974543682702487553	908410587952173063	2018-03-16 12:41	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+974520533214638081	928553477487206400	2018-03-16 11:09	" SumitraMahajan... Speaker or Undertaker?! DemocracyInDanger LokSabha ModiSarkar FinanceBill "
+
+974349298442829824	200006211	2018-03-15 23:49	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+974310643351281666	955506948434116609	2018-03-15 21:15	" … DemocracyInDanger"
+
+974293900239175680	2271503276	2018-03-15 20:09	" DemocracyInDanger under PakodaSarkar PNBScam all bhagora nimo MehulChoksi VijayMallya lalitmodi n many more left countries in MaunModi yadavtejashwi IYC rssurjewala NitishKumar RifatJawaid abhisar_sharma bainjal aflatoonarman Ab ChaukidarBadloYaarhttps:// …"
+
+974280523496546304	918813768418775040	2018-03-15 19:15	"Stop this Nonsense - vote AfD ! AfD BILD BILD Welt Merkel Merkelmussweg Deutschland Patriotism Weidel gauland welt DemocracyInDanger freiheithttps:// …"
+
+974279684560171008	2849891422	2018-03-15 19:12	"Avui Sorayapp parla d’”aspiracions polítiques il·legals”. Quan una aspiració política defensada pacíficament esdevé il·legal es supera el pitjor escenari d’Orwell a . On queda la llibertat de pensament? DemocracyInDanger"
+
+974259346652712961	2271503276	2018-03-15 17:51	" democracyindanger BJP_भगाओ_देश_बचाओ IYC yadavakhilesh MamataOfficial SitaramYechury ncbn SharadYadavMP sanjaynirupam PawarSpeaks rssurjewala abhisar_sharma Fairoz_JK bainjal sanjivbhatt AcharyaPramodk jigneshmevani80 HardikPatel_ AnotherVemulahttps:// …"
+
+974212589721800705	2576630347	2018-03-15 14:45	" DemocracyInDanger"
+
+973927317075562496	25116518	2018-03-14 19:52	"Les comparto mi ultimo artículo, … Decline democracyindanger Hungary Poland Israel USA"
+
+973841381943861248	871771315	2018-03-14 14:10	" democracyindanger BJP4India IYC INCIndia BJP4Gujarathttps:// …"
+
+973820691270291456	794248915214184448	2018-03-14 12:48	" democracyindanger"
+
+973660638386929664	152441867	2018-03-14 02:12	" ConorLambPA VoteBlue2018 pa18 VoteLamb saynototrump democracyindanger"
+
+973654836729217024	932528603656486912	2018-03-14 01:49	"Si no vols caldo, dues tasses. DestronemLo cdrenxarxa democracyindanger …"
+
+973608940612345857	200006211	2018-03-13 22:47	" SPAIN democracyindanger Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+973549442187038720	421549256	2018-03-13 18:50	" TV9Telugu party lu jump ayinappudu suspend cheyyani speaker .. ippudu ala vyavaharunchadam Tappu .. vallko nyayam vullako nyayama. TRSVsCong democracyindanger"
+
+973378812284084226	809786839242444801	2018-03-13 07:32	" GOP you're complicit democracyindanger"
+
+973361653122248704	4446201747	2018-03-13 06:24	" democracyindanger …"
+
+973120517287759872	970945719581331456	2018-03-12 14:26	"SSC is no more... sscki13vi pmoindia democracyindanger "
+
+973086917440032768	4853588893	2018-03-12 12:12	" arunjaitley ji ko janta sansad me nhi bheji to bjp ne backdoor se bhej rhi hai RajyaSabha democracyindanger"
+
+973083228100800513	200006211	2018-03-12 11:58	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Spanienhttps:// …"
+
+973082871396229120	200006211	2018-03-12 11:56	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Espanienhttps:// …"
+
+972933962371948545	30437978	2018-03-12 02:05	" democracyindanger indyref2https:// …"
+
+972843446179389444	565738202	2018-03-11 20:05	""Das lässt sich doch nicht vergleichen. Das war was ganz anderes." Lässt es. War es nicht. Schaut euch an, was in den er Jahren passiert ist. Nicht danach. Danach war es zu spät. Es geht schleichend voran und die Basis wird jetzt gelegt. Bleibt wachsam. democracyindanger …"
+
+972816888458891264	27539658	2018-03-11 18:19	" democracyindanger "
+
+972532185977602048	1587658902	2018-03-10 23:28	" democracyindanger DestroyTheAadhaar …"
+
+972496182030295043	1038336506	2018-03-10 21:05	"Endavant consellera. Ferma i valenta. Està clar, que Espanya està en fallida, no podran amb un poble unit, alegre i conbatiu democracyindanger LlibertatPresosPolítics ElPoderDelPoble "
+
+972104631261294593	799767482898743298	2018-03-09 19:09	" judgejeanine democracyindanger …"
+
+972079766110134272	23237571	2018-03-09 17:30	"I’m not. notnormal resist dissident democracyindanger"
+
+972030067692912641	2798331204	2018-03-09 14:13	" narendramodi rashtrapatibhvn MamataOfficial ncbn Naveen_Odisha mkstalin pbhushan1 ArvindKejriwal drramadoss vijayanpinarayi CMofKarnataka MoHFW_INDIA AgriGoI CNN BBCWorld IndiaToday AmitShah INCIndia yadavakhilesh laluprasadrjd democracyindanger …"
+
+971394439833899008	886629373444476928	2018-03-07 20:07	"agar kuch kaam kiya hota saal me, to vote lene ke liye hindu-muslim na bolna padta. DemocracyDemonetised democracyindanger पकौड़ा_नहीं_रोजगार_चाहिए"
+
+971340712527695872	103029808	2018-03-07 16:34	" democracyindanger …"
+
+971248210990829568	66736226	2018-03-07 10:26	" democracyindanger …"
+
+971165201432240129	103029808	2018-03-07 04:56	" democracyindanger …"
+
+971000399804039168	628434069	2018-03-06 18:01	" berozgaari mehengaai corruption sab badhne ke baad bhi, bjp narendramodi elections jeet rahe hain, kya desh ki janta narendramodi ko unhe berozgaar hone ki khusi mein vote de rahe hain?, democracyindanger EVMvoting band karo. Desh k0 bachao, EVM voting band karo."
+
+970917081628729344	928553477487206400	2018-03-06 12:30	"Congrats Tripura! TripuraElections2018 AchcheDin ManikSarkar ModiSarkar MonkeySarkar DemocracyInDanger "
+
+970756858838441984	87681955	2018-03-06 01:54	"اگلے الیکشن میں نواز کے جیتنے کا کوئی چانس نہیں ۔۔۔ انشاءاللہ سعد رفیق احمقوں کی جنت میں رھتا ھے ۔۔ شیر زنجیریں توڑ کر لوٹے گا، واپس آکر محاذ آرائی نہیں کریں گے: سعد رفیق PMLN PTI ImranKhan NawazSharif Punjab democracy democracyindanger Pakistan "
+
+970738366432989184	75746259	2018-03-06 00:40	"Mere mann ko bhaya, Mai Syria ki dhamki de aaya. :Mr Mr … The likeness is amazing DemocracyDemonetised democracyindanger "
+
+970691004201304065	715514103	2018-03-05 21:32	" Modi ka Politrics narendramodi democracyindanger …"
+
+970640575350292481	141170212	2018-03-05 18:12	" democracyindanger "
+
+970612166704357376	959105474380509184	2018-03-05 16:19	"விமர்சனங்களை உள்வாங்குகிற பக்குவத்தை தமிழகம் இழந்து வருகிறது. ஆண்டவனையே கேள்விக்கேட்ட பெரியாரின் பூமியில் , ஆள்பவர்களை கேள்விகேட்டால் கொலை மிரட்டல் விடுகிறார்கள். ஜனநாயகம் என்ற வானத்தை , என் கேள்வி என்னும் சிறகால் தொடர்ந்து அலங்கரிப்பேன். AIADMK democracyindanger TnPolitics"
+
+970578010574413825	200006211	2018-03-05 14:03	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien Marzo2018 marchhttps:// …"
+
+970577724480937984	200006211	2018-03-05 14:02	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien FriendsOfCataloniahttps:// …"
+
+970577438177726465	200006211	2018-03-05 14:01	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien FriendsOfCataloniahttps:// …"
+
+970577309538365440	200006211	2018-03-05 14:00	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien FriendsOfCataloniahttps:// …"
+
+970577225547468801	200006211	2018-03-05 14:00	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien FriendsOfCataloniahttps:// …"
+
+970399394393739264	200006211	2018-03-05 02:13	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+970399168131936257	200006211	2018-03-05 02:12	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+970398614227963904	200006211	2018-03-05 02:10	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+970398309260124160	200006211	2018-03-05 02:09	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+970279629855580160	29345592	2018-03-04 18:17	"A giorni avremo in condominio un'assemblea. Ho il terrore che la Russia possa e voglia influenzarla, imponendo i propri delegati. A chi posso rivolgermi, escluso l'FBI? democracyindanger"
+
+970219847027183616	25340647	2018-03-04 14:20	" democracyindanger …"
+
+970189323227328513	200006211	2018-03-04 12:18	" SPAIN democracyindanger Catalonia Spanien Katalonien espagne catalogne Foreign_Cathttps:// …"
+
+970188216878993408	200006211	2018-03-04 12:14	" SPAIN democracyindanger Catalonia Spanien Katalonien espagne catalogne Foreign_Cathttps:// …"
+
+970188075342188544	200006211	2018-03-04 12:13	" SPAIN democracyindanger Catalonia Spanien Katalonien espagne catalogne Foreign_Cathttps:// …"
+
+970187970149081089	200006211	2018-03-04 12:13	" SPAIN democracyindanger Catalonia Spanien Katalonien espagne catalogne Foreign_Cathttps:// …"
+
+970187838775021569	200006211	2018-03-04 12:13	" SPAIN democracyindanger Catalonia Spanien Katalonien espagne catalogne Foreign_Cathttps:// …"
+
+970110077163077632	960226212252549121	2018-03-04 07:04	" democracyindanger …"
+
+969846707373596672	1587658902	2018-03-03 13:37	" cpimspeak AamAadmiParty RashtraManch _SwarajIndia INCIndia BSP4Bharat yadavakhilesh SitaramYechury SanjayAzadSln _YogendraYadav democracyindanger …"
+
+969800463439802368	1307956561	2018-03-03 10:33	"Delictes d'opinió???? Podeu seguir aplaudint i essent-ne part PSOE socialistes_cat ahorapodemos CatEnComu_Podem vergonya SilenciÉsComplicitat DemocràciaEnPerill Shame SilenceisComplicity DemocracyInDanger …"
+
+969709255262703617	112999887	2018-03-03 04:31	"Nederlandse journaliste RenaNetjes te gast in een programma nav de BBCWorld reportage van OrlaGuerin op Egyptische oppositiezender Mukamilleen. Jammergenoeg geen ondertiteling! Journalismisnotacrime Egypt democracyindanger …"
+
+969663646916849664	745440157952839680	2018-03-03 01:30	"Aaj, yaha BJP Jeeti aur waha tampering, intolerance democracyindanger aur bhi Na Jane kya kya ka Randi rona karenge liberal secular aur intellectual brigade wale bas ElectionResults aane do. theskindoctor13 SirJadeja Ra_Bies FrustIndian GabbbarSingh"
+
+969511873287786502	1038336506	2018-03-02 15:26	"Que grande eres. Mil gracias por ayudar a difundir la causa ! ElPoderDelPoble SomRepública DemocracyInDanger MarcaEspaña"
+
+969510185155907584	1587658902	2018-03-02 15:20	" DestroyTheAadhaar DemocracyInDanger …"
+
+969493722617524224	200006211	2018-03-02 14:14	" SPAIN democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+969493352671477760	200006211	2018-03-02 14:13	" democracyindanger"
+
+969493111100633088	200006211	2018-03-02 14:12	" SPAIN democracyindanger catalogne katalonien Каталония 加泰羅尼亞 西班牙 Espagne Espanien FriendsOfCatalonia More news about Catalonia Foreign_Cathttps:// …"
+
+969492721164521472	200006211	2018-03-02 14:10	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+969488936555962369	200006211	2018-03-02 13:55	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+969488327568175106	200006211	2018-03-02 13:53	"Carles Puigdemont quits bid for Catalan presidency SPAIN democracyindanger Politicalprisoners catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCatalonia More news about Catalonia Foreign_Cathttps:// …"
+
+969487849946001408	200006211	2018-03-02 13:51	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCatalonia More news about Catalonia Foreign_Cathttps:// …"
+
+969486869393301504	200006211	2018-03-02 13:47	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+969361561172234241	200006211	2018-03-02 05:29	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+969360417905631238	200006211	2018-03-02 05:25	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCatalonia Foreign_Cathttps:// …"
+
+969353368291500032	200006211	2018-03-02 04:57	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+968920944503697413	2195573468	2018-03-01 00:18	" narendramodi PMOIndia mygovassam himantabiswa mukulsangma BadruddinAjmal NITIAayog moayush JPNadda nanglucky arunjaitley smritiirani Justice4Homeopaths DemocracyInDanger DemocracyInDanger GauravGogoiAsm drcpjoshi INCIndiahttps:// …"
+
+968849675867455488	936149429060374528	2018-02-28 19:35	" democracyindanger narendramodi JPNadda himantabiswa"
+
+968580885183418369	22998135	2018-02-28 01:47	"You can just feel the pressure democracyindanger …"
+
+968517877904150528	54816518	2018-02-27 21:37	"E' piu faciel essere Fascista in un Paese Liberale, che Liberale in un Paese che non lo è. democracyindanger FreedomOfSpeech libertà elezioni paesereale destroyingtheillusion TuesdayThoughts"
+
+968343479683371008	960226212252549121	2018-02-27 10:04	" democracyindanger MuellerTime Midtermshttps:// …"
+
+968287837639634945	885123291656204288	2018-02-27 06:23	" democracyindanger …"
+
+967817404612038657	861457488721436672	2018-02-25 23:13	"Xi jinping sollicite la présidence à vie. L'info nous est annoncée en même temps que le finish des JO en Corée. democracyindanger Dictature China Stop"
+
+967758926283526144	4446201747	2018-02-25 19:21	" UNHumanRights HumanRights Rohingyas RohingyaCrisis pbhushan1 Ram_Guha WithCongress INCMumbai INCGujarat INCKarnataka INCUttarPradesh INCKerala INCIndiaLive IYC INCMizoram INCMeghalaya INCMaharashtra INCMP democracyindanger …"
+
+967539094434734080	1076173357	2018-02-25 04:47	"<(‘ ) auspol democracyindanger …"
+
+967495685829529600	205887078	2018-02-25 01:55	"Europe is waking up democracyindanger. La pudor de podrit arriba cada dia més lluny... tv3cat NousRepublicans SupportPep yellowribbon :// …"
+
+967485533726433281	1038336506	2018-02-25 01:15	"Los catalanes hacen cosas, però els belgues també. ElPoderDelPoble SomRepública democracyindanger"
+
+967328580970733568	205887078	2018-02-24 14:51	"Peut ètre que quelqun rigole avec ce-lui ci, mais c'est vraiment triste. democracyindanger"
+
+967098652715028483	2411345456	2018-02-23 23:37	"Federació anglesa obre un eedient a Pep Guardiola per portar llaç groc. democracyindanger …"
+
+967039457907105792	112999887	2018-02-23 19:42	"Een tussenstop in Caïro zodat minister SigridKaag de mensenrechtensituatie in Egypte in hetzelfde verslaglegging kan plaatsen. Een reisverbod naar Iran én Egypte is het minste wat de NL regering kan doen! vvd cda christenunie D66 democracyindanger HumanRightsViolationshttps:// …"
+
+966948437601202176	112999887	2018-02-23 13:40	"Voor wie het gemist heeft gisteren... ik verwees in mijn vorige tweet dus naar dit artikel in parool van RenaNetjes en janjaapderuiter Propaganda voor de komende verkiezingen in Egypte! mustread ThisIsEgypt HumanRightsViolations democracyindanger …"
+
+966900236386951168	64072941	2018-02-23 10:29	"Hi paltu nahi bana wo marwa diya gaya Democracyindanger"
+
+966855911649234944	3358023833	2018-02-23 07:33	" democracyindanger …"
+
+966735953275518977	599235939	2018-02-22 23:36	"چور کو بچا لے ۔۔ جمھوریت کی خیر ھے۔۔ یہ وہ دور تھوری ہے کہ جس میں عام آدمی حآکم سے سوال کرے کہ حضور ۔۔خالفت سے پہلے دو جوڑے کپرے تھے ابھی چار کہا سے آئے۔۔۔ نہ وہ لوگ نہ وہ حکمران NawazSharif democracyindanger KlasraRauf"
+
+966726645116784640	200006211	2018-02-22 22:59	" SPAIN amnesty report /18 democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCatalonia Foreign_Cat KRLS "
+
+966670380227182592	441737235	2018-02-22 19:15	"Ye kalutosh ashutosh_83B & aalutosh SanjayAzadSln kal se hi jhoot pe jhoot bol rahe hai..... democracyindanger in Delhi....."
+
+966604740175040512	200006211	2018-02-22 14:55	" SPAIN democracyindanger shameonspain FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien FriendsOfCataloniahttps:// …"
+
+966604492971106304	200006211	2018-02-22 14:54	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien FriendsOfCataloniahttps:// …"
+
+966604303808040960	200006211	2018-02-22 14:53	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Spanien FriendsOfCataloniahttps:// …"
+
+966604000492687360	200006211	2018-02-22 14:52	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+966603886516727808	200006211	2018-02-22 14:51	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+966603666265341952	200006211	2018-02-22 14:50	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCataloniahttps:// …"
+
+966601806431313920	200006211	2018-02-22 14:43	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCatalonia euronewshttps:// …"
+
+966316446446911492	2849891422	2018-02-21 19:49	"Avui al curs d’observació electoral del ColpisCat parlem de regressió democràtica al món. Trist que l’actualitat no pari de donar exemples democracyindanger …"
+
+966293168990846977	64072941	2018-02-21 18:16	"Sharmnak. Kutte ki tarah toh bjp ke log bhauk rahe hain democracyindanger"
+
+966171348698615809	4212757940	2018-02-21 10:12	" jigneshmevani80 HardikPatel_ AlpeshThakor_ aap toh Yuva Neta hai .... ek Yuva student ki aesi pitaai hui. Democracyindanger"
+
+966162771866935296	335105584	2018-02-21 09:38	" Triggered Snowflake democracyindanger"
+
+966129932379279360	4446201747	2018-02-21 07:28	" INCIndia IndiaToday indiatvnews IYC BJP4India iSupportNamo timesofindia INCKarnataka INCGujarat INCMaharashtra INCMP RahulGandhi NaMo ModiRobsIndia JustAsking democracyindanger IndiaFirst CongresslootedIndia CongressPNBscamhttps:// …"
+
+965879954562060288	200006211	2018-02-20 14:55	" SPAIN DemocracyInDANGER katalonien Каталония 加泰羅尼亞 Spanien Espagne Catalogne foreign_cat FriendsOfCataloniahttps:// …"
+
+965719325834448897	2927263784	2018-02-20 04:16	"i ADORE DrJillStein ! JillStein JillSteinForPresident BDS BLM BlackTwitter blacktivist democracynow democracyindanger …"
+
+965711869645385728	200006211	2018-02-20 03:47	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCatalonia Foreign_Catpic"
+
+965649060928606209	200006211	2018-02-19 23:37	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCatalonia Foreign_Cat lizcastro ramirp denterd d4veCAT CollectiuEmma ERC_INTL "
+
+965647434830446592	200006211	2018-02-19 23:31	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien FriendsOfCatalonia Foreign_Catpic"
+
+965489227759865861	483215089	2018-02-19 13:02	"OMG y un presidente plasma elogiando semejante letra de Himno democracyindanger …"
+
+965314727642587136	200006211	2018-02-19 01:29	" Foreign_Cat FriendsofCatalonia SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne "
+
+965206301419634689	829044137181769730	2018-02-18 18:18	"En democràcia, el què vam votar tots, és (hauria de ser) el mandat del poble. En democràcia, el poble és (hauria de ser) sobirà. En democràcia, el president és (hauria de ser) el que nosaltres hem escollit. democracyindanger"
+
+965185936266027015	908410587952173063	2018-02-18 16:57	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+965185934277955584	908410587952173063	2018-02-18 16:57	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+965121219472314368	200006211	2018-02-18 12:40	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+965116579917778944	200006211	2018-02-18 12:21	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+965021833903788032	335704578	2018-02-18 06:05	"Yet. cdnpoli RuleOfLaw democracy democracyindanger …"
+
+964967647023595521	876214740	2018-02-18 02:29	" SPAIN Catalonia democracyindanger FreedomOfEression LaLlenguaNoEsToca Politicalprisoners CatalanRepublic EU_Commission Europe katalonien Каталония 加泰羅尼亞 Spanien Espagne Catalogne …"
+
+964946077307822081	200006211	2018-02-18 01:04	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+964939757389303808	200006211	2018-02-18 00:39	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+964939595107446784	200006211	2018-02-18 00:38	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+964938941374828544	200006211	2018-02-18 00:35	" Foreign_Cat SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+964830849391833088	920050533024616448	2018-02-17 17:26	"Fa MESOS que els Jordis són a la presó i hem reclamat la seva LLIBERTAT! Davant de l'Ajuntament de Barcelona. LlibertatPresosPolítics NiUnPasEnrere Democràcia FreeCatalanPoliticalPrisoners SomRepública Dempeus Democracyindanger RepúblicaCatalana "
+
+964797161979498497	908410587952173063	2018-02-17 15:12	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964797153259507712	908410587952173063	2018-02-17 15:12	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964797143054802944	908410587952173063	2018-02-17 15:12	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964745186818408448	51777003	2018-02-17 11:45	" democracyindanger alertawardwapasiganghttps:// …"
+
+964621049777225728	200006211	2018-02-17 03:32	" Foreign_Cat SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+964598640269516801	200006211	2018-02-17 02:03	" Foreign_Cat SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+964523186141442048	200006211	2018-02-16 21:03	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964523026711801856	200006211	2018-02-16 21:03	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964522844108611584	200006211	2018-02-16 21:02	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964522729385930756	200006211	2018-02-16 21:01	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964522387134996481	200006211	2018-02-16 21:00	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964522211649511425	200006211	2018-02-16 20:59	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964521973752778752	200006211	2018-02-16 20:58	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964521217549000706	200006211	2018-02-16 20:55	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964521004730060801	200006211	2018-02-16 20:55	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964520846051160066	200006211	2018-02-16 20:54	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanien RepiCAThttps:// …"
+
+964434820896993280	908410587952173063	2018-02-16 15:12	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+964391846767046658	2921258730	2018-02-16 12:21	"twitter democracyindanger"
+
+964183686899011584	200006211	2018-02-15 22:34	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963812087549104130	30244108	2018-02-14 21:58	" democracyindanger …"
+
+963739989061328896	908410587952173063	2018-02-14 17:11	"RT Merit_Orlando: SPAIN CENSORSHIP democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963739985445875712	908410587952173063	2018-02-14 17:11	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963739983453540352	908410587952173063	2018-02-14 17:11	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963739981557747717	908410587952173063	2018-02-14 17:11	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963680789081837569	1587658902	2018-02-14 13:16	" democracyindanger …"
+
+963406009057337344	200006211	2018-02-13 19:04	" SPAIN CENSORSHIP democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963405261292691456	200006211	2018-02-13 19:01	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963405067104804864	200006211	2018-02-13 19:00	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963404890298028032	200006211	2018-02-13 18:59	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963404512592629760	200006211	2018-02-13 18:58	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963371677529923584	200006211	2018-02-13 16:48	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963370976040939520	200006211	2018-02-13 16:45	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagne Espanienhttps:// …"
+
+963361940297961472	41377790	2018-02-13 16:09	"RT xtrypper: Retroceso mundial de la democracia: camino hacia un planeta insostenible. ods sdo democracyindanger Sustainabilityhttps:// …"
+
+963359439637110785	202272068	2018-02-13 15:59	"Retroceso mundial de la democracia: camino hacia un planeta insostenible. ods sdo democracyindanger Sustainabilityhttps:// …"
+
+963328446347857920	820334659045392384	2018-02-13 13:56	"¿Separación de poderes? democracyindanger …"
+
+963147619563462657	628111506	2018-02-13 01:57	" democracyindanger …"
+
+963126325136338944	2429476111	2018-02-13 00:33	" democracyindanger …"
+
+962997605146836992	628434069	2018-02-12 16:01	" democracyindanger under BJP"
+
+962752948534116352	799767482898743298	2018-02-11 23:49	" democracyindanger Extremism agitator …"
+
+962676165868736512	2271503276	2018-02-11 18:44	" democracyunderthreat democracyindanger BJP_भगाओ_देश_बचाओ RGinKarnataka SitaramYechury yadavakhilesh yadavtejashwi IYC siddaramaiah prakashraaj sardesairajdeep MamataOfficial laluprasadrjd INCIndia BlameMasterModi Jai Hindhttps:// …"
+
+962650876321128448	2271503276	2018-02-11 17:03	"But chaddi Dhari n Andhbhakts will not understand. democracyunderthreat democracyindanger BJP_भगाओ_देश_बचाओ RGinKarnataka Jai Hind …"
+
+962374448354652161	837022487913312256	2018-02-10 22:45	" democracyindanger …"
+
+961797979945316352	50682651	2018-02-09 08:34	"Cerita warga negara yg masih terus menuntut keadilan selama hari DemocracyInDanger …"
+
+961721649245671425	483215089	2018-02-09 03:31	" LibertadDeEresion en caída libre DemocracyInDanger …"
+
+961699476795686912	831583427010899971	2018-02-09 02:03	" democracyindanger …"
+
+961596400671842305	483215089	2018-02-08 19:13	" LibertadDeEresion en caída libre. democracyindanger …"
+
+961562607743315968	1221277400	2018-02-08 16:59	""Lawfare" o "El que passa a Espanya en contra de Catalunya". lawfare democracy DemocracyInDanger Catalonia LawfareSpainhttps:// …"
+
+961465555965349889	1307956561	2018-02-08 10:33	" Lawfare contra Catalunya Abús de llei, persecució política, amenaces, presos polítics, exiliats polítics .... vergonya Catalonia DemocracyInDanger …"
+
+961445789334687745	4446201747	2018-02-08 09:15	" justasking DemocracyInDanger …"
+
+961155377973858304	908410587952173063	2018-02-07 14:01	"RT Merit_Orlando: SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagnehttps:// …"
+
+961129737287622656	267789307	2018-02-07 12:19	"Te lo voy a decir claro Sorayapp Lo "ridículo" es que después de todo lo que se está destapando del PPopular = 'CORRUPCIÓN", vuestras mentiras, ataques a la democracia, es que los españoles os sigan votando. Eso sí es ridículo, vergonzoso e indigno! DemocracyInDanger "
+
+961087224321212416	414475452	2018-02-07 09:30	" DemocracyInDanger"
+
+961017723462529031	200006211	2018-02-07 04:54	" SPAIN democracyindanger FreedomOfEression Politicalprisoners catalonia catalogne katalonien Каталония 加泰羅尼亞 CatalanRepublic 西班牙 Espagnehttps:// …"
+
+960956522896478209	4446201747	2018-02-07 00:51	" Padmaavat KarniSena justasking democracyindanger …"
+
+960950189765939202	160923877	2018-02-07 00:25	"Y los médicos que cada día salvan vidas no se merecen éste premio? Lo peor de todo es que el ministerio colabora con ellos. Instaurados en el "a por ellos" DemocracyInDanger … via elpais_espana"
+
+960904631864971264	853318487741054976	2018-02-06 21:24	" democracyindanger BlueWave2018 VoteBlue "
+
+960866949268873216	141170212	2018-02-06 18:55	" democracyindanger Bengal …"
+
+960778672956477440	340817644	2018-02-06 13:04	"Rajoy: "Nieuwe verkiezingen, dan zal de stille meerderheid Puigdemont wegstemmen" Resultaat: Puigdemont is weer gekozen Rajoy: "Dat is niet wat ik wil. Jullie moeten weer stemmen" Wij zullen opnieuw voor Puigdemont kiezen. Rajoygohome DemocracyInDanger"
+
+960529941216616455	748598897044512768	2018-02-05 20:35	"Die Demokratie befindet sich weltweit unter Druck. Als besonders dramatisch beurteilen Demokratieforscher die Lage in den USA. … . infosperber DemocracyIndex DemocracyInDanger idlprv"
+
+960491303229362179	113579513	2018-02-05 18:02	"Estic confosa! Algú m'elica com funcionen les democràcies? MarcaEspana DemocracyInDanger …"
+
+960480723248414722	190802460	2018-02-05 17:20	" Pakistan aaj India banne ki soch rha hai , aur India pakistan banne ja rha h. ShahSpeaksInRajyaSabha , JusticeLoyaCase , jayshah PresidentKovind , DemocracyInDanger Jumlanomics fekuPM JhoothliNeLootli"
+
+960233780647624704	831648389339058176	2018-02-05 00:59	" DemocracyInDanger …"
+
+960188121806786561	1098049352	2018-02-04 21:57	" DefensemLaRepública LlibertatPresosPolítics DemocracyInDanger seguim llaçosgrocs VilaWeb quimforn jcuixart jordialapreso MoltesMerces16 junqueras KRLS toni_comin "
+
+960156561221017600	120335904	2018-02-04 19:52	" Kenya DemocracyInDanger …"
+
+960057429923893248	301574578	2018-02-04 13:18	"Que tothom tingui molt clar que qui no compleix les lleis, ni l'Estatut, ni la Constitució, ni els tractats europeus internacionals és España … VolemUnPaísDemocràtic DemocracyInDanger HumanRights LlibertatPresosPolíticspic"
+
+959958809585188864	528740838	2018-02-04 06:46	"Thilhaa yah gaumuge variyaa ah foshevey thilhaayaa foshigen nuvey utha? DemocracyInDanger"
+
+959935223218819072	936986281917276160	2018-02-04 05:12	"GOOD FRICKIN’ QUESTION!!!!!!!! DemocracyInDanger"
+
+959887922525822976	925801948632240128	2018-02-04 02:04	"La veu de la saviesa ¡¡ RepublicaCatalana LlibertatPresosPolitics democracyindanger DictaduraNuncaMas"
+
+959789498484715520	875776219	2018-02-03 19:33	" rssurjewala priyankac19 sardesairajdeep sagarikaghosh Nidhi ShekharGupta JohnDayal kavita_krishnan _sabanaqvi waglenikhil ndtv INCIndia yukt BreakIndiaForce is responsible for communal discord since . Its SIKULARISM puts DemocracyInDanger. AnkitSaxenahttps:// …"
+
+959758258859925504	320736916	2018-02-03 17:29	"Der Wandel verläuft still und schleichend... putin PutinsPuppet erdogan trump dictator DICTATORSHIP DemocracyInDanger …"
+
+959749084075536385	4289205973	2018-02-03 16:53	" AnkitSaxena mujhe aise tweet dikha dijiye jinhone aaj bola ho ki democracyindanger IslamistsTerrorism"
+
+959748124393787392	703493231863062528	2018-02-03 16:49	"Sense paraules, sin palabras, no words... democracyindanger Democracia Llibertat democracy "
+
+959713725640007680	278689691	2018-02-03 14:32	"Llibertat presos polítics DemocracyInDanger democràciahttps:// …"
+
+959678358463262720	921429456501186560	2018-02-03 12:12	" democracyindanger BasEkAurSaalhttps:// …"
+
+959553326626017281	4446201747	2018-02-03 03:55	" SupremeCourt SupremeCourtjudges democracyindanger saveconstitution Padmavathttps:// …"
+
+959543521861660677	4446201747	2018-02-03 03:16	" Shameless INCIndia samajwadiparty democracyindanger saveconstitution Kasganj INCKarnatakahttps:// …"
+
+959531563749986304	925801948632240128	2018-02-03 02:28	"Demagògia s'ha de reconèixer que no te'n falta RepublicaCatalana LlibertatPresosPolitics democracyindanger DictaduraNuncaMas"
+
+959524407386439680	925801948632240128	2018-02-03 02:00	"Son originals per avorrir company ¡¡ RepublicaCatalana LlibertatPresosPolitics democracyindanger "
+
+959483657730785280	229981270	2018-02-02 23:18	"Alucinante y gravísimo. Ya se certifica la prision por ideeolofia politica. PresosPoliticos presospolitics HumanRights democracyindanger spanishrevolution Fascismo Libertad PPSOE Corrupcion Justicia Catalonia Dictadura Rebelion ULTIMAHORA RajoyDIMISION ppdimisionhttps:// …"
+
+959483016312754176	925801948632240128	2018-02-02 23:15	"Espero que torni aviat President perquè aquí ens estem quedant sense pebrots (amb perdó). RepublicaCatalana LlibertatPresosPolitics democracyindanger DictaduraNuncaMas Esquerra_ERC JoanTarda martarovira cupnacional"
+
+959456820493455361	103029808	2018-02-02 21:31	" DemocracyInDanger …"
+
+959416603904376832	382088228	2018-02-02 18:51	" democracyindanger SupremeCourtjudges judgeloyasecretfileshttps:// …"
+
+959301254462636036	853318487741054976	2018-02-02 11:13	" InvestigatePaulRyan ImpeachTrump democracyindanger VoteBlue2018 "
+
+959151785985310720	4446201747	2018-02-02 01:19	" Padmaavat democracyindanger justasking Budget Budget2018https:// …"
+
+959151550537986049	4446201747	2018-02-02 01:18	" democracyindanger justasking Budget2018https:// …"
+
+959151203832639488	4446201747	2018-02-02 01:17	" democracyindanger …"
+
+958968907984973824	483215089	2018-02-01 13:12	"+1 LibertadDeEresion DemocracyInDanger …"
+
+958807263283695616	4446201747	2018-02-01 02:30	" INCIndia cpimspeak abarTMC AamAadmiParty AwardWapsi Pidi DemocracyInDanger SaveConstitution kashganj BharatKeDushmanhttps:// …"
+
+958778951580766208	103029808	2018-02-01 00:38	" WATON DemocracyInDanger …"
+
+958764520947748864	2902647556	2018-01-31 23:40	" DemocracyInDanger …"
+
+958743809365389312	49560361	2018-01-31 22:18	" DemocracyInDanger "
+
+958714085704531969	49560361	2018-01-31 20:20	" DemocracyInDanger "
+
+958686256266989568	138857605	2018-01-31 18:29	"میرے عزیز ہموطنو! جب تک نان سٹیٹ ایکٹرز پسِ پردہ سیاست سمیت ریاست کے دیگر معاملات سےعلیحدہ نہیں ہونگے، سیاست، ریاست اور سیاستدان اسی طرح لونڈی بنے رہیں گے، جمہوریت = ہنوز دلی دور است RaziDada sheenaabidashah raheelrana asif12252 KHURRAMMUSHTAQ pmln_org DemocracyInDanger …"
+
+958602981724758016	921429456501186560	2018-01-31 12:58	" ModiStallsWomen BJPagaintsWomen BJP_भगाओ_देश_बचाओ DemocracyInDanger INC4Karnataka incbhalki"
+
+958568603728646144	4446201747	2018-01-31 10:42	" DemocracyInDanger"
+
+958543475640815616	4446201747	2018-01-31 09:02	" DemocracyInDanger justasking Padmaavathttps:// …"
+
+958477899761205249	741795577	2018-01-31 04:41	" DemocracyInDanger …"
+
+958409686327484416	483215089	2018-01-31 00:10	"Alguien debería contar a AlRojoVivo laSextaTV q el problema no es Puigdemont sino q ha muerto la separación d poderes DemocracyInDanger"
+
+958403645594308608	3328023341	2018-01-30 23:46	"I Rafael Casado diciendo que krls es un cadáver político y zombie lenguaje PPstyle democracia DemocracyInDanger Catalonia Catalunya E holadictadura Europarl_EN EU_Commission helpdemocracy"
+
+958342800453533696	1444795928	2018-01-30 19:45	"No sé si sento alegria, tristesa, decepció o esperança, o tot alhora. Tinc les emocions completament destarotades. Investidura ElPoderDelPoble Parlament Puigdemont Catalonia ElMeuVotEsInviolable DemocracyInDanger "
+
+958269696960163840	921429456501186560	2018-01-30 14:54	" BJP_भगाओ_देश_बचाओ DemocracyInDanger RssKilledGandhihttps:// …"
+
+958202413793595392	66449208	2018-01-30 10:27	" TotsAlParlament TotsSomPuigdemont PuigdemontPresident spain Catalogne catalans Catalunya DemocracyInDanger Spain shame Cataloniahttps:// …"
+
+958197229885550594	4446201747	2018-01-30 10:06	" DemocracyInDanger KarnatakaElection2018 IYC INCIndia INCKarnataka INCGujarathttps:// …"
+
+958197149958918144	859034059	2018-01-30 10:06	"Our DemocracyInDanger"
+
+958143930096381953	46270865	2018-01-30 06:34	" DemocracyInDanger …"
+
+958143831710380032	254633632	2018-01-30 06:34	" DemocracyInDanger …"
+
+958138808553308160	637096882	2018-01-30 06:14	" DemocracyInDanger …"
+
+958111518620602368	483215089	2018-01-30 04:26	"Muy grave DemocracyInDanger CorruPPcion Ataque a la Justiciahttps:// …"
+
+958100741578739713	483215089	2018-01-30 03:43	" Verguenza DemocracyInDanger corruPPcionhttps:// …"
+
+957960166531514368	386962704	2018-01-29 18:24	"Ab to BJP bhakat inhe bhi deshdarohi bata denge... DemocracyInDanger …"
+
+957937963610116098	955382208	2018-01-29 16:56	"Même constat pour le JT de la RTBFinfo RTBF : vacuité affligeante pour faire des citoyens de vrais pigeons. nivellementparlebas fakepublicservice DemocracyInDanger …"
+
+957845008110911488	169858332	2018-01-29 10:47	"isme koi sakh nhi thah ki media toh godimedia bn chuki hai lekin ab toh BJPlies chupane k liye BJP ka satha ab dangoh mein deh rhe hai Shame DemocracyInDanger दंगाई_सरदाना"
+
+957715672741621760	779974832725295104	2018-01-29 02:13	"OMG : ) Resist DemocracyOrChaos DemocracyInDanger Vote4Congress RegisterToVote "
+
+957670354377494529	619244591	2018-01-28 23:12	"L’assignatura d DretConstitucional passa a ser optativa a la FacultatdDret. TribunalConstitucional DemocracyInDanger LlibertatPresosPolitics republicacatalana"
+
+957667561465942016	1525420782	2018-01-28 23:01	" ElMeuVotEsInviolable PuigdemontPresident LlibertatPresosPolítics DemocracyInDanger"
+
+957647972916842497	3271255423	2018-01-28 21:44	" NoRoleModel DemocracyInDanger …"
+
+957601447301935104	3109280058	2018-01-28 18:39	" DemocracyInDanger …"
+
+957578621643665409	173020183	2018-01-28 17:08	"Where are Gandhiwadi Liberals ??? Bhagwakanran ho raha h... DemocracyInDanger"
+
+957556579238281216	779974832725295104	2018-01-28 15:40	"Well done : ) Nice cartoon : ) FBR Resist ResistanceUnited RegisterElectEngage Register VOTE BlueWave2018 VoteBlueNoMatterWho VetsResistSquadron VetsAgainstTrump VetsResist StrongerTogether StrenghInNumbers DemocracyInDanger "
+
+957521529742520321	483215089	2018-01-28 13:21	"RT justicia Catalunya España DemocracyInDanger corruPPcionhttps:// …"
+
+957464863676170241	1386737984	2018-01-28 09:36	" manakgupta sudhirchaudhary RubikaLiyaquat anjanaomkashyap SwetaSinghAT RajatSharmaLive DemocracyInDanger "
+
+957354546409459712	918610043712483328	2018-01-28 02:18	"O mundo em . A democracia na maior crise dos últimos anos. DemocracyInDanger "
+
+957259492512681985	727069705043861504	2018-01-27 20:00	"Esperad a que el TC resuelva.Yo creo q tardan tanto xq les cuesta argumentar jurídicamente a favor del Gobierno. Lo lograrán.Retorciendo la ley hasta q sea posible.España no es Estado de Derecho, sino Estado de Derechas. democradura DemocracyInDanger francoland españistan"
+
+957208797210206208	1358942636	2018-01-27 16:38	" postkartenfranz bots bitte für einmal hier nicht voten, merci. DemocracyInDanger"
+
+957192289503227904	3011450670	2018-01-27 15:33	"Sahi kaha ! DemocracyInDanger"
+
+956984351971037190	779974832725295104	2018-01-27 01:47	" Mueller MuellerInvestigation DemocracyInDanger DemocracyUnderThreat RegisterElectEngage register Resist FlipItBlue bluewhalechallengehttps:// …"
+
+956940378615222272	779974832725295104	2018-01-26 22:52	" ProtectMueller DemocracyInDanger DemocracyUnderThreat BlueWave2018 RegisterElectEngage RegisterToVote Register VoteBlueNoMatterWho VetsAgainstTrump VetsResistSquadron …"
+
+956937409920487425	779974832725295104	2018-01-26 22:40	" DemocracyInDanger DemocracyUnderThreat VetsResistSquadron VetsAgainstTrump RegisterElectEngage RegisterToVote FBR VoteBlueNoMatterWho BlueNami BlueWave2018 BlueWaveIsComing ResistanceChallenge Resist RobMyers1968 …"
+
+956890346935472128	82691677	2018-01-26 19:33	" Pelosi SchumerSellout SchumerSurrender DemocracyInDanger …"
+
+956885721867894784	3009677557	2018-01-26 19:15	"ओरडून ओरडून घसा कोरडा पडला तरी नानासाहेब नसा ताणून मोदीजाप करतायेत ..... भक्ती हो तो ऐसी रेशीमबागेत तिरंगा फडकावला का आज ? एवढंच बोला फक्त फसवणीस SaveConstitution devendrafadnavis DemocracyInDanger BJP_भगाओ_देश_बचाओ"
+
+956782516849053696	57272107	2018-01-26 12:25	"موجودہ طرز حکومت جرائم پیشہ افراد کا پسندیدہ ترین نظام حکومت ہے۔ جرائم پیشہ لوگ یا تو خود سیاستدان بن چکے ہیں یا سیاسی جماعتوں کی چھتری تلے پھل پھول رہے ہیں۔ عوام کی اکثریت تو ووٹ نہ ڈال کر اس نظام سے بے زاری کا اظہار کرتی رہتی ہے۔ DemocracyInDanger"
+
+956761162346975233	2944677564	2018-01-26 11:00	" … dard to ho raha hai pr bol nahi pa raha malik simrit see bhi piche betha hai DemocracyInDanger"
+
+956629094493507587	372056760	2018-01-26 02:15	" … Bernie2020 BernieSanders FeelTheBern StillSanders birdiesanders TeamBernie BernieStrong Bernie Sanders SwingLeft UniteBlue VoteThemOut vote PresidentSanders VoteThemOut2018 VoteThemAllOut Democracy democracynow DemocracyInDanger"
+
+956583898196029440	276376503	2018-01-25 23:15	"Creo que existieron "eventos" que predicen a simple vista una campaña de inconformidad y violencia, para aquellos que aún creen en la democracia. DemocracyInDanger"
+
+956554925651234817	173360037	2018-01-25 21:20	"Coincido. La gran amenaza a la democracia y sus principios son amenazados por la enorme brecha económica. No podemos halar de igualdad cuando nuestros bolsillos son muy desiguales. Democracia DemocracyInDanger …"
+
+956516757606404101	955514900884926464	2018-01-25 18:49	" GOPfascism DemocracyInDanger BlueTsunami2018https:// …"
+
+956515129004384257	955514900884926464	2018-01-25 18:42	" DemocracyInDanger BlueTsunami2018"
+
+956498016424353792	2241760026	2018-01-25 17:34	" … Padmaavat PadmaavatRow RIOT india DemocracyInDanger"
+
+956379220766265344	4446201747	2018-01-25 09:42	" DemocracyInDanger INCKarnataka INCIndia cpimspeakhttps:// …"
+
+956375950152749056	964250664	2018-01-25 09:29	" INCIndia बापू का गुजरात अब मोदी का बना अब छोटी छोटी बात पर झुलसता हर कोना पुलिस देखती रेहती है और शहर जला देती है करनी सेना!!! पद्मावत DemocracyInDanger justasking PadmavatiControversy ppbajjpai nitin_gadkari PawarSpeaks Awhadspeaks SushmaSwaraj JM_Scindia"
+
+956200451770232833	64114522	2018-01-24 21:52	"gundagardi chali aaj jiski, bana wo kal ka mantri PadmaavatRow WhyPMSoSilent indian Politics dissapointed DemocracyInDanger"
+
+956172725000724480	247240645	2018-01-24 20:01	"Hey ArvindKejriwal Delhi Congress aur BJP kaise mili Bhagat kar rage hai Pappu bhi Chaiwala bhi ! DemocracyInDanger "
+
+956161510396411904	3193252843	2018-01-24 19:17	"Lies! lies! lies! DemocracyInDanger"
+
+956153785218461698	149672540	2018-01-24 18:46	"Não sou lulista muito menos antilulista, mas acredito que o q tá sendo julgado hj não é só uma pessoa, é um projeto. E isso pode mudar completamente o rumo da nossa história. JulgamentoLula DemocracyInDanger LulanoTRF4https:// …"
+
+956153308376420352	245828883	2018-01-24 18:44	"Avui fa dies que els jordis estan a la presó preventiva. No us oblidem. usvolemacasa necessitem democracia DemocracyInDanger"
+
+956069766308999169	173020183	2018-01-24 13:12	"Kuch to raham karo narendramodi ji . Ek Gareeb laluprasadrjd ji ko hi jurm me kitni bar halal karoge. DemocracyInDanger FodderScam"
+
+956063300311187456	21241141	2018-01-24 12:47	"Queda claro que objetivo no es detener a KRLS Puigdemón sino impedir su nombramiento por parte del Parlament recién constituido por las urnas. O sea, es un objetivo político para los que han perdido, los del CiudadanosCs PPopular socialistes_cat DemocracyInDanger"
+
+956052147803709441	148713492	2018-01-24 12:02	"Aap ab kisi bhi bat ki umeed kar sakte hain.. modi AamAadmiParty ko kuchalne k liye kuch bhi karega .. DemocracyInDanger"
+
+955937968186904577	906575784940367872	2018-01-24 04:29	"Chantaje del gobierno fascista de Rajoy.... Catalonia FreeCatalanPoliticalPrisoners DemocracyInDanger"
+
+955860002056663040	2890560521	2018-01-23 23:19	"Rebellion, verbotene Satire und rollende Köpfe als Facetten des Geschehens Scharfe Kritik an der spanischen Regierung oder Witze über die Polizei können schnell zu einer Anklage führen. Katalonien Spanien Europa DemocracyInDanger FreiKatalonien Octhttps:// …"
+
+955859629854154752	14391731	2018-01-23 23:17	"Rebellion, verbotene Satire und rollende Köpfe als Facetten des Geschehens Scharfe Kritik an der spanischen Regierung oder Witze über die Polizei können schnell zu einer Anklage führen. Katalonien Spanien Europa DemocracyInDanger FreiKatalonien Oct …"
+
+955841839478837248	108660880	2018-01-23 22:07	"La directiva del Congreso Nacional de Honduras controlado nuevamente por el oficialismo ShameOnYou DemocracyInDanger democraciaenvilohttps:// …"
+
+955814603010719744	1228090044	2018-01-23 20:18	"बीजेपी की सरकारें लोकतंत्र के लिए ख़तरा: अखिलेश यादव … akhilesh yadavakhilesh SamajwadiLive BJP4India BJPUP2017 UPbjpParty INCIndia SPManipur shivpalsinghyad YogiAdityanath yogi SubhashChandraBose Netaji netajiBose freedom DemocracyInDanger"
+
+955792654457098242	21241141	2018-01-23 18:51	" PPopular PSOE CiudadanosCs convocan elecciones en Catalunya, las pierden y no aceptan los resultados. Y hablan de democracia sin avergonzarse DemocracyInDanger"
+
+955711908371357696	2927710447	2018-01-23 13:30	" DemocracyInDanger …"
+
+955612335523225601	4446201747	2018-01-23 06:55	" DemocracyInDanger KarnatakaElection2018 INCIndia INCKarnataka INCMPhttps:// …"
+
+955610962551279616	4446201747	2018-01-23 06:49	" DemocracyInDanger INCIndia IYC INCGujarat INCKarnataka INCMP INCMaharashtra INCMumbaihttps:// …"
+
+955610603456024576	4446201747	2018-01-23 06:48	" DemocracyInDanger INCIndia INCKarnataka INCGujarat INCMaharashtra INCMumbai INCMPhttps:// …"
+
+955507427180457986	4446201747	2018-01-22 23:58	" DemocracyInDanger …"
+
+955506539573465088	4446201747	2018-01-22 23:54	" DemocracyInDanger …"
+
+955335690144727040	953585363611611136	2018-01-22 12:35	" bharatiyaJhumlaParty DemocracyInDanger NationinWrongHands siddaramaiah CMofKarnataka dineshgrao BSYBJP CTRavi_BJP BJP4India PMOIndia INCKarnataka "
+
+955332920960458752	953585363611611136	2018-01-22 12:24	"ಬರಿ ಬುರುಡೆ ಬಿಟ್ಕೊಂಡ್ ತಿರ್ಗಾಡಕ್ ಹೇಳಿ ಚನ್ನಾಗಿ ಮಾಡ್ತಾನೆ.. bharatiyaJhumlaParty DemocracyInDanger NationinWrongHands siddaramaiah CMofKarnataka dineshgrao BSYBJP CTRavi_BJP BJP4India PMOIndia INCKarnataka myogiadityanath "
+
+955331926134370304	953585363611611136	2018-01-22 12:20	"Priorities of YogiAdityanath..!! bharatiyaJhumlaParty DemocracyInDanger NationinWrongHands siddaramaiah CMofKarnataka dineshgrao BSYBJP CTRavi_BJP BJP4India PMOIndia INCKarnataka "
+
+955329886050172929	953585363611611136	2018-01-22 12:12	"ಅಮಿತ್ "ಶಾ"ನ ಎದರಕೊಂಡಿದ್ದಕ್ಕೆ ಸಿಕ್ಕಿದ ಉತ್ತರ.. bharatiyaJhumlaParty DemocracyInDanger NationinWrongHands siddaramaiah CMofKarnataka dineshgrao BSYBJP CTRavi_BJP BJP4India PMOIndia "
+
+955328515167084544	953585363611611136	2018-01-22 12:07	"ಇದಕ್ಕಿಂತ ಒಂದು ಒಳ್ಳೆ ಉತ್ತರ ಸಿಗೋಲ್ಲ ಭಕ್ತ್ ಗಳಿಗೆ.. bharatiyaJhumlaParty AkhilaBrashtaraVolsuParty DemocracyInDanger nationinwronghands siddaramaiah CMofKarnataka dineshgrao BSYBJP CTRavi_BJP BJP4India PMOIndia "
+
+955314393176186880	3011450670	2018-01-22 11:11	"Sahi kaha .ab aapye phir se halla karenge . DemocracyInDanger Kala diwas aur na jaane kya kya !"
+
+955294643821805568	169858332	2018-01-22 09:52	"... godimedia aajtak ZeeNews abpnewstv News18India indiatvnews tum bhi janteh ho ki unko kyu nisaane per rkha jaa rha hai farkh bs itna tum sachai dikhane se dhar rhe ho...... लड़ेंगे_जीतेंगे PMModiSpeaksToTimesNow DemocracyInDanger"
+
+955290754762514433	169858332	2018-01-22 09:37	" BJP sirf or sirf loktantr ko dhandah bana kr rkhteh hue teh lekin aaj ArvindKejriwal ji ki vajah se unka dhandah chopat ho gaya इसलिए_केजरीवाल_निशाने_पर DemocracyInDanger"
+
+955218889721475072	64072941	2018-01-22 04:51	" … aatankwadi Khule Aam bina dar ke logon ki hatya kar rahe hain aur Visio bhi bana rahe hain. DemocracyInDanger"
+
+955071429967409158	866698195316776960	2018-01-21 19:05	" DemocracyInDanger …"
+
+955056391797981184	1587658902	2018-01-21 18:06	" DestroyTheAadhaar AadhaarFail DemocracyInDanger …"
+
+955023904564588544	844076369466327040	2018-01-21 15:56	"वाह!!! narendramodi जी आपने तो पूरी दुनिया में भारत का नाम रोशन कर दिया। Shame DemocracyInDanger WorldIsWatchinghttp:// …"
+
+955021449131016192	1384784076	2018-01-21 15:47	"Dear INCIndia Uske qatl pe mai bhi chup tha, mera number ab aaya. Mere qatl pe aap bhi chup ho, agla number aapkaa hai ArvindKejriwal AamAadmiParty DemocracyInDanger …"
+
+954978302955065349	4446201747	2018-01-21 12:55	" DemocracyInDanger INCKarnataka siddaramaiah SaveConstitutionhttps:// …"
+
+954947472211697665	1374103668	2018-01-21 10:53	" DemocracyInDanger"
+
+954940498564673536	806067871499567105	2018-01-21 10:25	"Zed black agarbatti ke ad mein Dhoni bhai khud bole prarthna hogi sweekar. Maine baar -2 zed black agarbatti laga ke dhoni ka test cricket retirement cancellation ki prayer ki, koi faayda nahi hua Bharosa uth raha hai duniya se DemocracyInDanger"
+
+954879208223903745	309399632	2018-01-21 06:21	""Tendrás la opción quedarte en tu casa y no hacer nada, después ya no tendrás opciones." DelmiroDeBarrio Twitter BoliviaDignaYSoberana BoliviaDijoNo F ResistenciaSC SantaCruzBo DemocracyInDanger "
+
+954836301836152832	2660237592	2018-01-21 03:31	" DemocracyIsFree unlike DemocracyInDanger under INCIndiahttps:// …"
+
+954772790791561217	2978650214	2018-01-20 23:19	" PMOIndia sunil888 prakashraaj kathimahesh PawanKalyan ysjagan Shame DemocracyInDanger WorldIsWatchinghttp:// …"
+
+954754261438685184	4446201747	2018-01-20 22:05	" SaveConstitution INCIndia DemocracyInDanger IYC INCKarnataka INCGujarathttps:// …"
+
+954739843350765568	952874110924636162	2018-01-20 21:08	"भारतले बिगा जमिन आफु तिर गाब्यो तर किन चुपचाप बसेरहेको छ‌ सरकार? PM_Nepal वोडर_सीमा सिमाना_मिच्यो DemocracyInDanger"
+
+954731219345788929	935572007478894592	2018-01-20 20:33	"Ab to ye clear hi ho chuka hai ki bjp k shashankal me nyay ki ummid apne aap ko dhokha dene jaisa hi hai sabhi samvaidhanik agencies/post ek party vishesh k liye kaam kr rahe hain ? DemocracyInDanger"
+
+954728689727664129	976563792	2018-01-20 20:23	" CatalansDoThings CatalanReferendum FemRepublica Catalogne RepublicaCatalana freecatalanpoliticalprisoners Catalonia Referendum Catalunya DemocracyInDanger Democracia LlibertatPresosPolítics LlibertatPresosPoliticsCatalans Liberté DemocracyUnderThreat "
+
+954686031969771520	466326610	2018-01-20 17:34	"اب وقت آ گیا ہے کہ علی الاعلان کہا جائے ۔ ۔ ۔کہ ۔ ۔ جو ہندوراشٹر کے متمنی ہیں ۔ ۔ ۔ وہ ۔۔۔ہندوستان چھوڑ کے ۔ ۔ ۔ ۔نیپال چلے جائیں !!!!! DemocracyInDanger نون_میم : نورمحمد بن بشیر"
+
+954641570279645185	3026833335	2018-01-20 14:37	"Estamos a merced de las élites Democracy DemocracyInDanger inequalityhttps:// …"
+
+954412471292518403	4446201747	2018-01-19 23:27	" DemocracyInDanger INCKarnataka IYC INCIndiahttps:// …"
+
+954411493298094080	866698195316776960	2018-01-19 23:23	"Modi made india a hell Modi made poor life hell Modi made unemployed life hell Modi made students life hell hateModi ModiOnZee DemocracyInDanger modiGoback BjpGoBack BycottModi BycottModi BycottModi BycottModi BycottModi BycottModi BycottModi"
+
+954410835274690560	866698195316776960	2018-01-19 23:20	"Modi made india a hell Modi made poor life hell Modi made unemployed life hell Modi made students life hell hateModi ModiOnZee DemocracyInDanger modiGoback BjpGoBack BycottModi BycottModi BycottModi BycottModi BycottModi BycottModi BycottModi BycottModi"
+
+954409833003810816	929318397929598976	2018-01-19 23:16	" BJPLies BJPLieHard BJPFDIFlipFlop BetiBachaoBetiPadhao UTurnSarkar DeMoDisaster DemocracyInDanger"
+
+954408869765136384	866698195316776960	2018-01-19 23:13	"Modi made india a hell Modi made poor life hell Modi made unemployed life hell Modi made students life hell hateModi ModiOnZee DemocracyInDanger modiGoback BjpGoBack BycottModi BycottModi BycottModi BycottModi BycottModi BycottModi BycottModi BycottModi"
+
+954387032008085504	3721906453	2018-01-19 21:46	" coolfunnytshirt Why do i see two arnab goswami DemocracyInDanger "
+
+954263006732484608	908410587952173063	2018-01-19 13:33	"RT EricLuna: Excelentísima Virreina Soraya, si usamos el mismo plasma de M. Rajoy en la investidura os dejaréis de tantas 'polladas'. Muchas gracias. Puigdemont president CatalanRepublic DemocracyInDanger CatalunyaLliurehttps:// …"
+
+954258383913213952	382088228	2018-01-19 13:15	" Gandhi DemocracyInDanger "
+
+954243275732475905	49073312	2018-01-19 12:15	"Hindu kab danger main hua ... It's DemocracyInDanger …"
+
+954227393941577728	438924167	2018-01-19 11:11	" DemocracyInDanger INCIndia kavita_krishnanpic"
+
+954061873103679488	938201187899363330	2018-01-19 00:14	"De parte del pueblo felicitamos a USAmbHonduras por ese majestuoso cabello color rojizo satan en honor a la sangre de nuestra patria qué corre gracias a USA POTUS realDonaldTrump HillaryClinton BarackObama dictatorship benigndictadorjoh DemocracyInDanger"
+
+954040522859073536	363042398	2018-01-18 22:49	"Excelentísima Virreina Soraya, si usamos el mismo plasma de M. Rajoy en la investidura os dejaréis de tantas 'polladas'. Muchas gracias. Puigdemont president CatalanRepublic DemocracyInDanger CatalunyaLliurehttps:// …"
+
+954030479375831041	879060476	2018-01-18 22:09	" StephenMiller Disgustingperson DemocracyInDanger …"
+
+954009331330113536	928553477487206400	2018-01-18 20:45	"Problem solved democracyindanger "
+
+953928719206436865	467745603	2018-01-18 15:25	" DemocracyInDanger"
+
+953716761521807360	576253210	2018-01-18 01:22	" Catalonia DemocracyInDanger ExigimRepública "
+
+953698791630159872	921429456501186560	2018-01-18 00:11	" unsafeharyana शर्मसारHaryana DeshKiDushmanBJP DemocracyInDanger rapes in days in Haryana while BJP4Haryana CM Khattar is busy banning Padmaavat … via indiatoday"
+
+953687065199284225	103029808	2018-01-17 23:24	" WATON DemocracyInDanger …"
+
+953658610726268928	905741513740566528	2018-01-17 21:31	" लोकतंत्र_के_शूरवीर Sant rampal ji maharaj par lagay jitne bhi arop he vah bebuniyad he zHute he sant vah sara vivad sant rampal ji ne ten pustak me likhakar nayaypalika ki bhej deya tha बापूजी_को_न्याय_मिले DemocracyInDanger "
+
+953652457724248064	798040341752344576	2018-01-17 21:07	"abhi bhi purane note pakde jaa rahen h !! RBI kya abhi tak note ginne band nahi hui kuch to batao ! Demonetisation DemocracyInDanger UTurnSarkar P|S open to opinions !!"
+
+953652177154711554	921429456501186560	2018-01-17 21:06	" DeshKiDushmanBJP DemocracyInDanger BJP_भगाओ_देश_बचाओhttps:// …"
+
+953641699795918848	3009677557	2018-01-17 20:24	"संघवाद, मोदीत्व, सामंतशाही , द्वेषमूलक जातीयवादी सरकारच्या कारस्थानात शहीद झालेल्या रोहित वेमुला याचा आज शहीद दिवस श्रद्धांजली RohithVemula DemocracyInDanger "
+
+953587436503810049	921429456501186560	2018-01-17 16:48	" DeshKiDushmanBJP DemocracyInDanger BJP_भगाओ_देश_बचाओ"
+
+953586492797956096	921429456501186560	2018-01-17 16:45	" DeshKiDushmanBJP BJP_भगाओ_देश_बचाओ DemocracyInDanger …"
+
+953583638557245440	247751205	2018-01-17 16:33	" DeshKiDushmanBJP DemocracyInDanger BJP_भगाओ_देश_बचाओhttps:// …"
+
+953580349291819010	921429456501186560	2018-01-17 16:20	" DeshKiDushmanBJP BJP_भगाओ_देश_बचाओ DemocracyInDanger …"
+
+953574503854104576	91937199	2018-01-17 15:57	"Do you still remember Roti kapra Makan? Priority indianblogger DemocracyInDanger Aayog "
+
+953568188297547781	950666623844839424	2018-01-17 15:32	"Avui, donant suport a la constitució del nostre govern i defensant les nostres institucions dempeus Noal155 LlibertatPresosPolítics DemocracyInDanger "
+
+953518031036035072	52318317	2018-01-17 12:13	" DemocracyInDanger"
+
+953498493078814720	3198753937	2018-01-17 10:55	" DemocracyInDanger PaidMedia "
+
+953494827659796480	928545439741177862	2018-01-17 10:40	" DemocracyInDanger …"
+
+953485559145512961	135098069	2018-01-17 10:04	"ಸ್ವಾಮಿ ಸ್ವಲ್ಪ ಸಮಾಧಾನ ನಿಮ್ಮ ಮೋದಿ ಸರ್ಕಾರದ ಕ್ರಿಮಿನಲ್ ಮೆದಳು ಬಗ್ಗೆ ಕನ್ನಡಿಗರಿಗೆ ಅರಿವಿದೆ. ಸುಪ್ರೀಂಕೋರ್ಟ್ ನ್ಯಾಯಾಧೀಶರನ್ನೇ ರಸ್ತೆಗೆ ತಂದಿದ್ದಾರೆ ನ್ಯಾಯಾಧೀಶರೆ ನ್ಯಾಯಕ್ಕಾಗಿ ಹೋರಾಟ. ಇನ್ನು ನೀವು ಇಲ್ಲಿ ರಾಜ್ಯ ಸರ್ಕಾರದ ಸರ್ಟಿಫಿಕೇಟ್ ಬಗ್ಗೆ ಪುಂಗಿ ಓದುತಿದೀರಲ್ಲ ಸ್ವಾಮಿ... DemocracyInDanger "
+
+953455810503376897	197567674	2018-01-17 08:05	" wong Hongkong DemocracyInDanger …"
+
+953435484105175040	65670620	2018-01-17 06:45	"España vive la precariedad laboral y precariedad democrática. DemocracyInDanger"
+
+953369945320157188	21181182	2018-01-17 02:24	"Discurso del presidente de Tabarnia, Albert Boadella proces Cataluna DemocracyInDanger"
+
+953359098610929665	442142427	2018-01-17 01:41	"Que la nostra llum il•lumini la vostra foscor. LlibertatPresosPoliticsCatalans SomGentDePau democracia DemocracyInDanger Girona Llibertat Catalunya "
+
+953324744190775296	794314152533602304	2018-01-16 23:25	" DemocracyInDanger …"
+
+953286065204285440	3591059478	2018-01-16 20:51	"Puro Kahayupan na talaga itong gobyerno ni Duterte. Rappler standwithrappler DemocracyInDanger "
+
+953277271221194752	2957576960	2018-01-16 20:16	"tab tak , Jab tak DemocracyInDanger rahegi.."
+
+953269491353440257	973734420	2018-01-16 19:45	" bolivia parocivico Cochabamba bastaevo DemocracyInDanger"
+
+953255760846188544	141170212	2018-01-16 18:50	" DemocracyInDanger …"
+
+953245016629035014	758600232145915904	2018-01-16 18:08	" NarendraModi UTurnSarkar ModiUTurnOnFDI DemocracyInDanger"
+
+953235852108251136	3230003706	2018-01-16 17:31	" DemocracyInDanger"
+
+953185071254704128	1341183458	2018-01-16 14:10	"दिमाग के दिवयांग भकतो , हिन्दु ही नही मुसलमान ही नही हिन्दुस्तान खतरे मे हे !! DemocracyInDanger PravinTogadia SupremeCourt IndiaToday ndtv aajtak dna sardesairajdeep ravishndtv Nidhi NidhiKNDTV "
+
+953181642712956928	85321362	2018-01-16 13:56	"Modi agent ModiKaCJI DemocracyInDanger …"
+
+953170948122927104	3188368632	2018-01-16 13:13	" … DemocracyInDanger ajaymaken Kundra_Vishal INCIndia SharmaMange "
+
+953162636765495297	1587658902	2018-01-16 12:40	" DestroyTheAadhaar aadhaarleaks DemocracyInDanger …"
+
+953157298117120000	2429653487	2018-01-16 12:19	"Sóc de la generació que va veure créixer la democràcia i ara tristament assisteix al seu decliu. DemocracyInDanger"
+
+953025982662938624	4446201747	2018-01-16 03:37	" DemocracyInDanger …"
+
+952964048274018307	958555290	2018-01-15 23:31	"Demà a les del vespre "Cant dels Ocells per la Llibertat" i concentració davant l' AjuntamentSVH SVHxIND omnium. No ens acostumarem a tenir PresosPolítics ni a conviure en una DemocracyInDanger. Per dignitat i justícia SantVicençdelsHorts no es rendeix "
+
+952960996837965824	163940732	2018-01-15 23:19	"സർക്കാരിനും സുപ്രീം കോടതിയ്ക്കും മേലെ ജനങ്ങളെന്ന് തെളിയിച്ചവർ DemocracyInDanger "
+
+952933695782039553	811526396191379457	2018-01-15 21:31	"Ab a front ka nara hai har mazlum hamara hai LOVEPFI DemocracyInDanger"
+
+952926918784974848	2622399153	2018-01-15 21:04	" Mayawati DemocracyInDanger MayawatiBirthday HappyJanKalyanDay HappyBirthdayBahanJi HappyBirthdayBehanJi BSPYouth Bhen Ji ke birthday celebration me shekchilli aur gayekon ne karyakartaon ko Bhen Ji k birthday celebration song "
+
+952914268269277185	3151470558	2018-01-15 20:14	"After hearing Benjamin Netanyahu in Business Summit Congress : Israel PM netanyahu Sangh aur BJP4India ke Karyakarta hai DemocracyInDanger Netanyahu IndiaWithIsrael WelcomeNetanyahu AskAnshul"
+
+952908071596011521	722000317882052609	2018-01-15 19:49	"ഭരണഘടനാ ബെഞ്ച് പുനഃസംഘടിപ്പിച്ചു; പ്രതിഷേധിച്ച ജഡ്ജിമാര്‍ പടിക്ക് പുറത്ത് JudgesRevolt SupremeCourtCrisis DemocracyInDanger ConstitutionBench …"
+
+952905140960399362	362609666	2018-01-15 19:37	" JudgesAtWar DemocracyInDanger "
+
+952897817999233024	4446201747	2018-01-15 19:08	" RahulGandhi DemocracyInDanger IndiaToday timesofindia sardesairajdeep ShekharGupta BDUTT sagarikaghose Nidhihttps:// …"
+
+952895158802149376	4446201747	2018-01-15 18:58	" INCMP YSRCParty INCRajasthan INCIndia DemocracyInDanger …"
+
+952888955208388609	751284199068299264	2018-01-15 18:33	"Tum mujhe khoon do mein tumhe aazadi doonga nationinwronghands DemocracyInDanger"
+
+952883211855540224	719533452375273472	2018-01-15 18:10	"Actually ye chaar judge congress ke ehsaano ka karz utarney ke liye volunteers bankar aagey aaye hain... CongressMuktBharat ke liye congress ki arthhi chaar kandhon par jayegi Chautha kandha mil gya DemocracyInDanger gang "
+
+952869275433398273	915532739994095617	2018-01-15 17:15	"El millor ambaixador que podem tenir. Gràcies Pep! PepTeam DemocracyInDanger [Vídeo] Espanya ha tancat les ambaixades catalanes però no pot fer callar Pep Guardiola … vía directe"
+
+952812498343706625	259371016	2018-01-15 13:29	"ഭൂരിപക്ഷം എങ്ങനെ കിട്ടിയതാണെന് ദിവസം മുന്നേ ഇന്ത്യയിലെ ജനങ്ങൾ കണ്ടു..... JudgesAtWar DemocracyInDanger DemocracyUnderThreat "
+
+952812390843740160	2540604935	2018-01-15 13:29	"Bc democracy nahi islam ho gya jo baat baat phe katrhe main a jata ha DemocracyInDanger"
+
+952802132226461697	31618419	2018-01-15 12:48	" TripleTalaq एक ही फ़ैसला आया था शरीयत के ख़िलाफ़ ! ख़ुद अदालत ही उतर आई अदालत के ख़िलाफ़ ! JudgesPressConference DemocracyInDanger DemocracyUnderThreat Khud na tha Jo Rah per Awro ka Haadi bungaya .Chorhkar Beewi ko Apni Ghairo ka Qaazi Bungaya PMOIndia "
+
+952754630814937088	64072941	2018-01-15 09:39	" DemocracyInDanger …"
+
+952750417808683008	4713796687	2018-01-15 09:22	" Ra_Bies DemocracyInDanger …"
+
+952745123472953346	904769118334730242	2018-01-15 09:01	"Proud to be a Nehruvian..he was a legend beyond doubt..not a jumlebaaz feku dramebaaz like Modi DemocracyInDanger"
+
+952719171464388608	4446201747	2018-01-15 07:18	" INCIndia INCKarnataka INCGujarat INCMaharashtra INCMP RahulGandhi DemocracyUnderThreat DemocracyInDanger justasking DemocracyIsInDanger IYC IndiaToday timesofindia NewsStateHindi NewsNationTVhttps:// …"
+
+952718652402479104	4446201747	2018-01-15 07:16	" INCIndia INCKarnataka INCGujarat INCMaharashtra INCMP RahulGandhi DemocracyUnderThreat DemocracyInDanger justasking DemocracyIsInDanger IYChttps:// …"
+
+952714219731988481	4446201747	2018-01-15 06:59	" DemocracyInDanger INCGoa yuvadesh MP_IYC INCMP INCMumbai INCMeghalaya INCMizoramhttps:// …"
+
+952621263989587968	953388186	2018-01-15 00:49	" democracyindanger "
+
+952621220947640320	953388186	2018-01-15 00:49	" democracyindanger "
+
+952619404453466113	4446201747	2018-01-15 00:42	" DemocracyInDanger INCIndia INCKarnataka CPIMPARLIAMENT JudgesAtWarhttps:// …"
+
+952615623380451328	1266199256	2018-01-15 00:27	"Rahul must be saying to his SM team like, yeh kya hug diya Bitch!! Hugplomacy DemocracyInDanger …"
+
+952605597249056768	1266199256	2018-01-14 23:47	" DemocracyInDanger !!! …"
+
+952603589687484417	2887660560	2018-01-14 23:39	"Democracy ki maa behen ho gayi hai Heena khan ke haarne ke baad...modi must resign.... DemocracyInDanger DemocracyUnderThreat"
+
+952601035910021120	825019542149726208	2018-01-14 23:29	"Loktantra khatre me hai Anuj loya ke bayan ke baad Loktantra khatre me hai Israel ke PM bharat me hai Loktantra khatre me hai judges ne press conference ki Loktantra khatre me hai Pappu pass nai horaha Loktantra khatre me hai Modi ji hans rahe hai DemocracyInDanger"
+
+952596552094109696	788613387446063104	2018-01-14 23:11	"Kisi ne mungfali tak nahi di gift me. MakarSankranti Democracyindanger"
+
+952587027584708609	702761816	2018-01-14 22:33	" DemocracyInDanger"
+
+952562000617463809	779408433497907201	2018-01-14 20:54	"Damki mili hogi.. Pata nai kya majburi me kehna pada.. JusticeForJusticeLoya DemocracyInDanger …"
+
+952535744676904960	950791663999377408	2018-01-14 19:09	" DemocracyInDanger"
+
+952531464913956866	873373598567849988	2018-01-14 18:52	"Kohli ne gali diya.. DemocracyInDanger"
+
+952525132458704896	873373598567849988	2018-01-14 18:27	"Mera bike pe kisine scratch mar diya.. DemocracyInDanger"
+
+952511647154823172	2516705267	2018-01-14 17:34	" JusticeForZainab DemocracyInDanger ZainabKoInsaafDo SabaNeedJustice NetanyahuAgainstHumanity NetanyahuInIndia NetanyahuGoBack "
+
+952511181805137920	2516705267	2018-01-14 17:32	" JusticeForZainab DemocracyInDanger NetanyahuAgainstHumanity NetanyahuInIndia NetanyahuGoBack AUSvENG WelcomeNetanyahu alamgirizvi i_marwadi ModiLeDubega iamsrk BeingSalmanKhan imVkohli "
+
+952509584446447616	938331060126937088	2018-01-14 17:25	"“ನ್ಯಾಯಾಧೀಶರೆ ನ್ಯಾಯಕ್ಕಾಗಿ ಹೋರಾಟ” ದ ಹಾದಿಯಲ್ಲಿರುವಾಗ ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಶ್ರೀ ಸಾಮಾನ್ಯನ ಪರಿಸ್ಥಿತಿ ಏನು ? ದೇಶದ ನ್ಯಾಯಾಂಗ ವ್ಯವಸ್ಥೆ ಅಪಾಯದಲ್ಲಿದೆಯೇ ? ಇಂತಹ ಪರಿಸ್ಥಿತಿ ಉದ್ಭವಿಸಲು ಕಾರಣ ಏನು ಮತ್ತು ಯಾರು ? ಮೇ ರಿಂದ ಈ ದೇಶ ಅವನತಿಯ ಹಂಚಿನೆಡೆಗೆ ಸಾಗುತ್ತಿದೆಯೇ ? ಆತ್ಮಾವಲೋಕನ ಅವಶ್ಯಕ ! DemocracyInDanger"
+
+952503533323960320	138119952	2018-01-14 17:01	"“ನ್ಯಾಯಾಧೀಶರೆ ನ್ಯಾಯಕ್ಕಾಗಿ ಹೋರಾಟ” ದ ಹಾದಿಯಲ್ಲಿರುವಾಗ ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಶ್ರೀ ಸಾಮಾನ್ಯನ ಪರಿಸ್ಥಿತಿ ಏನು ? ದೇಶದ ನ್ಯಾಯಾಂಗ ವ್ಯವಸ್ಥೆ ಅಪಾಯದಲ್ಲಿದೆಯೇ ? ಇಂತಹ ಪರಿಸ್ಥಿತಿ ಉದ್ಭವಿಸಲು ಕಾರಣ ಏನು ಮತ್ತು ಯಾರು ? ಮೇ ರಿಂದ ಈ ದೇಶ ಅವನತಿಯ ಹಂಚಿನೆಡೆಗೆ ಸಾಗುತ್ತಿದೆಯೇ ? ಆತ್ಮಾವಲೋಕನ ಅವಶ್ಯಕ ! DemocracyInDanger"
+
+952496203517874177	69833587	2018-01-14 16:32	"Quanta ignorància en un sol Tweet! Ens diran que estem sols i que no podem, nosaltres demostrarem que com a poble, no ens para ningú. FemRepublica RepublicaCatalana DemocracyInDanger "
+
+952480622546599936	921429456501186560	2018-01-14 15:30	" BJPinsultskanndigas DemocracyInDanger …"
+
+952473433685635072	921429456501186560	2018-01-14 15:02	" BJPinsultskanndigas DemocracyInDanger "
+
+952472357418942464	921429456501186560	2018-01-14 14:58	" BJPinsultskanndigas DemocracyInDanger BJP_भगाओ_देश_बचाओhttps://"
+
+952463565855666178	703550881812185088	2018-01-14 14:23	" DemocracyInDanger "
+
+952461619384041472	243577249	2018-01-14 14:15	"Spilled a li'l tilgul today. DemocracyInDanger Happy Makar Sankranti!"
+
+952458888405663744	3230003706	2018-01-14 14:04	"Bilkul sahi kaha! DemocracyInDanger"
+
+952458182466695168	903289709564223488	2018-01-14 14:01	"SC didn't ban kite flying on Makkar Sankranti. DemocracyInDanger"
+
+952457990040440832	903289709564223488	2018-01-14 14:00	"SC didn't ban kite flying on Makkar Sankranti. DemocracyInDanger"
+
+952453607386959873	833004354135261189	2018-01-14 13:43	" WelcomeNetanyahu to zarur hai but mujhe unse milne ka time nai mila iska kaaran Modi ji he hai, he should resign DemocracyInDanger .. DemocracyUnderThreat"
+
+952429890644582400	3230003706	2018-01-14 12:09	" DemocracyInDanger"
+
+952421986780643328	3669227054	2018-01-14 11:37	"آج پتہ چلا کہ قانون کی آنکھوں پر پٹّی باندھنے والے ہاتھ کسی اور کے نہیں بلکہ مرکزی حکومت کے مقرر کردہ چیف جسٹس آف انڈیا کے ہیں DemocracyInDanger"
+
+952415662961389568	466147024	2018-01-14 11:12	"Desh Drohi ka list ab aure Lamba ho rha hai. Muslim SC/ ST Jignes / Hardik JNU Opposition NDTV (Ravish) SC ke - judges Mai bhi hon? Kun bhakton Ab next kon? Feku ya Tadipar ke new adesh ka intazar kre. DemocracyInDanger"
+
+952415172068626432	2794230893	2018-01-14 11:10	"Even monkeys planning for impending danger we blinded by blinding bhakti DemocracyInDanger"
+
+952413966948483073	732814723633324032	2018-01-14 11:05	"Order Order! JudgesAtWar DemocracyInDanger"
+
+952412507024445440	928545439741177862	2018-01-14 11:00	" DemocracyInDanger …"
+
+952402147358003200	798933756	2018-01-14 10:19	"बोले तो यहाँ भी ? DemocracyInDanger …"
+
+952401023691210753	134697668	2018-01-14 10:14	"Sir agar aap is hi raaste mein chalte rahe to inlog aapke bache hue flat ko bhi tudwa denge. DemocracyInDanger"
+
+952398211158822912	924367393169772545	2018-01-14 10:03	"बनकर तूफ़ान, फिर बगावत का सैलाब आता है हद से जब बढ़ता है जुल्म, तो इन्क़ेलाब आता है DemocracyInDanger alamgirizvi mdbaid UJ1701 DesiPoliticks ManojMehtamm SureshKagra madil80 KPadmaRani1 kaur0211 INC_amiwithRG "
+
+952240286352093184	2270336774	2018-01-13 23:35	" SupremeCourt भगवान् राम ने साल बनवास झेला था हम साल से सिर्फ बकवास झेल रहे है NetanyahuAgainstHumanity JudgesAtWar DemocracyInDanger"
+
+952223926968573952	755845298	2018-01-13 22:30	"Judges ko democracy bachane k lye public me Ana pada&media chhuparha h jb sab khatm hojayega tbbikao patrkar ka kya hoga DemocracyInDanger"
+
+952213391480729600	1587658902	2018-01-13 21:48	" Fascist DemocracyInDanger …"
+
+952196252254588929	64072941	2018-01-13 20:40	"Hatyare ko fansi do DemocracyInDanger"
+
+952195594252042241	4640150416	2018-01-13 20:38	"ખાલી હિંદુસ્તાન માં જ નહીં, પણ પુરી દુનિયાના ઇતિહાસ માં પેહલી વાર કોઈપણ દેશના સુપ્રીમ કોર્ટના ચિફ-જસ્ટિસની બેન્ચ એ દેશ ના લોકતંત્ર ને બચાવવા પ્રેસ કોન્ફરન્સ કરી. દુર્ભાગ્ય. SupremeCourt JudgesAtWar judicialcrisis JudiciaryCrisis DemocracyIsInDanger DemocracyInDanger"
+
+952174608517554176	866698195316776960	2018-01-13 19:14	" DemocracyInDanger samvidhanbachaohttps:// …"
+
+952173812375678976	710096847046443010	2018-01-13 19:11	" DemocracyIsInDanger DemocracyInDanger …"
+
+952169746333487104	849898444533768192	2018-01-13 18:55	"बनकर तूफ़ान, फिर बगावत का सैलाब आता है हद से जब बढ़ता है जुल्म, तो इन्क़ेलाब आता है DemocracyInDanger alamgirizvi mdbaid UJ1701 DesiPoliticks ManojMehtamm SureshKagra madil80 KPadmaRani1 kaur0211 INC_amiwithRG SanjayKhatane Gulshan_INC "
+
+952168489615110144	83804921	2018-01-13 18:50	" democracyindanger"
+
+952165447893422080	201184992	2018-01-13 18:38	" DemocracyInDanger …"
+
+952159015580049408	710096847046443010	2018-01-13 18:12	" democracyindanger …"
+
+952157839237120000	715875642215047168	2018-01-13 18:08	" DemocracyInDanger SAHASFoundation narendramodi rajnathsingh ShashiTharoor milinddeora KamatGurudas INCIndia "
+
+952155562451570688	80020929	2018-01-13 17:59	" DemocracyInDanger "
+
+952155468713025536	42197010	2018-01-13 17:58	"2002 Se Tak democracyindanger "
+
+952151395083354113	50696252	2018-01-13 17:42	"इवीएम == सेट मिडिया == सेट न्याय पालिका==सेट फिर कहा और कौन सा लोकतत्रं बचा बांगडू SupremeCourtjudges DemocracyInDanger rajeshkumar saveConstitution savedemocracy"
+
+952139630249480192	83918987	2018-01-13 16:55	"TBH - Aabo Hawa desh ki bahut saaf, hai qaida hai kanoon hai, insaaf hai... Aadmi ko khoon voon sab maaf hai.. aap ki duwa sey baki sab thi thak hai … DemocracyInDanger"
+
+952139370714218497	871723556773801985	2018-01-13 16:54	"किसान खतरे में, जवान खतरे में, दलित खतरे में, अब न्याय औऱ न्यायालय पालिका खतरे में। DemocracyInDanger WoCharJudge ajaymaken INCIndia IYC divyaspandana rssurjewala VardhanNSUI Sharmistha_GK panwarrajneesh AniruddhINC bhallakamal"
+
+952137247393918976	622577066	2018-01-13 16:46	"ആത്മാവ് വില്‍ക്കാന്‍ തയ്യാറല്ലെന്ന സന്ദേശം നല്‍കിയ ആദരണീയരായ ജഡ്ജിമാര്‍ക്ക് മുന്‍പില്‍ വണങ്ങുന്നു: DemocracyInDanger"
+
+952134685391429633	108276322	2018-01-13 16:36	"Ae(D) Raja Raja Raja Kareja mein Samaja! Maar daala re! CJIDipakMisra DemocracyInDanger DemocracyAtStake JudgesAtWar JusticeChelameswar JudiciaryDivided "
+
+952133082789720064	866698195316776960	2018-01-13 16:29	" DemocracyInDanger JungJaari bjpGoBackhttps:// …"
+
+952130436318113793	622577066	2018-01-13 16:19	"രാജ്യത്ത് ജുഡീഷ്യറിയും ജനാധിപത്യവും പ്രതിസന്ധിയിൽ DemocracyInDanger"
+
+952130044905775104	2851289219	2018-01-13 16:17	"किसान खतरे में, जवान खतरे में, दलित खतरे में, अब न्याय औऱ न्यायालय पालिका खतरे में। DemocracyInDanger WoCharJudge HardikPatel_ LambaAlka ashu3page ArvindKejriwal ashutosh83B abhisar_sharma jigneshmevani80 Saurabh_MLAgk ashutosh83B"
+
+952117465311358976	4508917392	2018-01-13 15:27	"“मन की बात” करने का अधिकार क्या सिर्फ़ प्रधानमंत्री को ही है, “ जजों” को नहीं...? DemocracyInDanger Rajeevkesipahi jitupatwari JM_Scindia aajtak priyankac19 MPArunYadav OfficeOfKN ASinghINC anandrai177 ParshuramSisod vipin21gangwal VTankha"
+
+952111919892021248	2780089428	2018-01-13 15:05	"പരമോന്നത പ്രതിസന്ധി DemocracyInDanger IYC RajaBrar_INC SurajMNHegde Ravindradass "
+
+952111440109846528	849898444533768192	2018-01-13 15:03	"मोदी के दरबार का, चाटुकार नहीं है हर मुंसिफ़ मेरे देश का, गद्दार नहीं है DemocracyInDanger alamgirizvi mdbaid UJ1701 DesiPoliticks ManojMehtamm iamirpathan SureshKagra madil80 KPadmaRani1 kaur0211 INC_amiwithRG SanjayKhatane Gulshan_INC "
+
+952096824885587968	781743307919597568	2018-01-13 14:05	" IchbinUjjaini KPadmaRani1 AshokeKumarSen d_9249 alamgirizvi Ajitkumar_Kanan RanjitOne Kabir_TheOne DemocracyInDanger JusticeForIndia देश में आज दो दो सुप्रीम कोर्ट; एक रहे गई % को लिए; और दूसरी, हमारी "भारत देश" के लिए ..."
+
+952090564920459266	829322438	2018-01-13 13:40	" DemocracyInDanger …"
+
+952079447338893312	2780089428	2018-01-13 12:56	"രാജ്യത്ത് ജുഡീഷ്യറിയും ജനാധിപത്യവും പ്രതിസന്ധിയിൽ DemocracyInDanger RajaBrar_INC IYC SurajMNHegde Ravindradass DeanKuriakose INCKerala "
+
+952078096324288512	2504644686	2018-01-13 12:51	"“what is happening”. DemocracyAtStake DemocracyInDanger republic TimesNow thewire_in divyaspandana priyankac19 DKShivakumar dineshgrao siddaramaiah BJP4Karnataka BJP4India INCIndia AamAadmiParty ArvindKejriwal HardikPatel_ Shehla_Rashid "
+
+952076732625928192	2989419813	2018-01-13 12:45	"कॉंग्रेस राज में जनता जज के पास न्याय माँगने जाती थी| मोदी राज में जज जनता के पास न्याय माँगने आ रहे हैं| DemocracyInDanger INCIndia ajaymaken Sharmistha_GK MahabalMishra INCDelhi rssurjewala AnandSharmaINC ghulamnazad Pawankhera priyankac19 "
+
+952075512465281024	273862847	2018-01-13 12:41	" DemocracyInDanger IndiansDeserveBetterhttps:// …"
+
+952074316211879936	3180567062	2018-01-13 12:36	" DemocracyInDanger विरोधी पक्षाने शिकवुन पाठवलेले न्यायीक चार चेहरे आहेत पारदर्शक सरकारी कारभार नको विरोधी चोरांबरोबर चांगले वाटत असते. अशा चोरांमुळे गुन्हेगार अत्याचार वाढत होते आहेत narendramodi laxman_achrekar"
+
+952067264152354816	2780089428	2018-01-13 12:08	"ജസ്റ്റിസ്‌ B H ലോയയുടെ ദുരൂഹ മരണം അന്വേഷിക്കണം കോൺഗ്രസ്‌ പ്രസിഡന്റ് രാഹുൽ ഗാന്ധി DemocracyInDanger"
+
+952066842280935425	119131106	2018-01-13 12:06	" FDI democracyindanger "
+
+952059197893443584	736505002592591873	2018-01-13 11:36	"तिल गुड़ मूंगफली और अपनों का प्यार मुबारक हो आपको लोहडी का त्योहार HappyLohri DemocracyInDanger ajaymaken vidyarthee divyaspandana ShashiTharoor sanjaynirupam JhaSanjay Pawankhera AkhileshPSingh JaiveerShergill SalmanSoz vineetpunia milinddeora "
+
+952055245856632832	586328623	2018-01-13 11:20	"तिल गुड़ मूंगफली और अपनों का प्यार मुबारक हो आपको लोहडी का त्योहार HappyLohri DemocracyInDanger ajaymaken vidyarthee divyaspandana ShashiTharoor sanjaynirupam JhaSanjay Pawankhera AkhileshPSingh JaiveerShergill SalmanSoz vineetpunia milinddeora "
+
+952055047893872642	66646404	2018-01-13 11:19	" DemocracyInDanger Dynasty in danger dasKapital in danger DividedJudiciary in danger DeepakMishra CJI in danger DollarQueen Sonia in danger DevilOpposition in danger"
+
+952048265687633920	1341183458	2018-01-13 10:52	" DemocracyInDanger "
+
+952048106333396992	323178291	2018-01-13 10:52	"உச்சநீதிமன்ற நீதிபதிகளுக்கு இடையே நடைபெறும் மோதல் குறித்து மவுனம் காப்பது ஏன்? நீதிதுறையில் மத்திய அரசின் தலையிடுதான் காரணம் நீதீபதிகள் பத்திரிக்கைகளுக்கு பேட்டி அளிக்கிறார்கள்.மோடி அரசின் மோசமான ஆட்சிக்கு இதுவே சான்று காங்கிரஸ் தலைவர் ராகுல்காந்தி குற்றசாட்டு. democracyindanger"
+
+952044711832932352	112152275	2018-01-13 10:38	" DemocracyInDanger"
+
+952042850371293185	2780089428	2018-01-13 10:31	" … DemocracyInDanger RajaBrar_INC IYC SurajMNHegde Ravindradass"
+
+952041857374044160	2914955048	2018-01-13 10:27	"To aap bhi JUMLEBAAZ ki baaton mein aa gaye. DemocracyInDanger "
+
+952041136649945088	1324055984	2018-01-13 10:24	" … DemocracyInDanger RajaBrar_INC SurajMNHegde Ravindradass"
+
+952040999571697664	74783336	2018-01-13 10:23	" … DemocracyInDanger RajaBrar_INC SurajMNHegde Ravindradass DeanKuriakose PCvishnunadh"
+
+952040948489474048	2780089428	2018-01-13 10:23	" … DemocracyInDanger RajaBrar_INC SurajMNHegde Ravindradass DeanKuriakose"
+
+952040238066515968	312101049	2018-01-13 10:20	"ജസ്റ്റിസ് കർണ്ണനെതിരെ വിധിച്ചതും ഈ ജഡ്ജിമാരല്ലേ SupremeCourt DemocracyInDanger Judiciary JudgesAtWar"
+
+952037670678507520	117717920	2018-01-13 10:10	"Bench Fixing DemocracyIsInDanger DemocracyInDanger"
+
+952037202891915265	75581744	2018-01-13 10:08	"2014 ke baad jab bhi DemocracyInDanger jaisa koi bhi issue uthta hai toh Shiv bhaiya shivkmishr ki yeh baat yaad aati hai. Shanti rakhein, yagya chal raha hai. …"
+
+952034722363953152	2344722194	2018-01-13 09:59	"किसान खतरे में जवान खतरे में दलित खतरे में अब न्याय औऱ न्यायालय पालिका खतरे में DemocracyInDanger yadavakhilesh pankhuripathak ravishndtv sardanarohit anjanaomkashyap chetan_bhagat"
+
+952032418302656512	64072941	2018-01-13 09:49	" democracyindanger"
+
+952032072603971586	64072941	2018-01-13 09:48	" democracyindanger"
+
+952015471150227457	929311213804077056	2018-01-13 08:42	"ಪ್ರಜಾಪ್ರಭುತ್ವ ಅಪಾಯದಲ್ಲಿದೆ. ಎಲ್ಲರನ್ನೂ ಆತಂಕ ಪಡಿಸುವ ಬೆಳವಣಿಗೆ. DemacracyInDanger DemocracyInDanger DemocracyInDanger"
+
+952015452984590336	3320409373	2018-01-13 08:42	"Democracy won't survive without a free judiciary. ಸುಪ್ರೀಂಕೋರ್ಟ್ ಇತಿಹಾಸದಲ್ಲೆ ಇದೆ ಮೊದಲ ಬಾರಿ ನಾಲ್ವರು ನ್ಯಾಯಾಧೀಶರು ಪತ್ರಿಕಾಗೋಷ್ಟಿ ನಡೆಸಿದ್ದು ದೇಶದ "ಪ್ರಜಾಫ್ರಭುತ್ವ ಅಪಾಯದಲ್ಲಿದೆ" ಎಂದು ಅಭಿಪ್ರಾಯಪಟ್ಟಿದ್ದಾರೆ. ದೇಶದಲ್ಲಿ ಇಂತಹ ಆಡಳಿತ ಬೇಕಾ? DemocracyInDanger manickamtagore INCKarnataka"
+
+952012140650512384	879706238459813889	2018-01-13 08:29	" SupremeCourt भगवान् राम ने साल बनवास झेला था हम साल से सिर्फ बकवास झेल रहे है NetanyahuAgainstHumanity JudgesAtWar DemocracyInDanger i_marwadi fardeen18092 SureshKagra SirRavishKumar "
+
+952008773941411840	948556196700540929	2018-01-13 08:15	" democracyindanger "
+
+952007833167454208	787568935214444544	2018-01-13 08:12	"Desh ka pradhanmantri bolta hai ki desh ke yuva aajadi ke deewano ke sapne sakar kro pr ye ni btate rojgar kaise aaye bhaichara kaise bna rhe balki unke spokeperson hindu muslim ko ladbate hai.. Shame for india narendramodi rsprasad DemocracyInDanger"
+
+952004669231980545	138119952	2018-01-13 07:59	"ಸ್ವತಂತ್ರ ಭಾರತದ ಇತಿಹಾಸದಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ನ್ಯಾಯಮೂರ್ತಿಗಳಿಂದ ಸುದ್ದಿಗೋಷ್ಠಿ. ಪ್ರಜಾಪ್ರಭುತ್ವಕ್ಕಾಗಿ ಸುಪ್ರೀಂಕೋರ್ಟ್ ಉಳಿಸಿ ನಾಲ್ವರು ನ್ಯಾಯಮೂರ್ತಿಗಳ ಮೊರೆ. DemocracyInDanger SupremeCourt JudgesPressConference JudgesAtWarhttp:// …"
+
+952004218881155072	770858217790251009	2018-01-13 07:57	"Democracy won't survive without a free judiciary. ಸುಪ್ರೀಂಕೋರ್ಟ್ ಇತಿಹಾಸದಲ್ಲೆ ಇದೆ ಮೊದಲ ಬಾರಿ ನಾಲ್ವರು ನ್ಯಾಯಾಧೀಶರು ಪತ್ರಿಕಾಗೋಷ್ಟಿ ನಡೆಸಿದ್ದು ದೇಶದ "ಪ್ರಜಾಫ್ರಭುತ್ವ ಅಪಾಯದಲ್ಲಿದೆ" ಎಂದು ಅಭಿಪ್ರಾಯಪಟ್ಟಿದ್ದಾರೆ. DemocracyInDanger"
+
+952002849390514176	138119952	2018-01-13 07:52	"ಸುಪ್ರೀಂ ನ್ಯಾಯಮೂರ್ತಿಗಳು ಎತ್ತಿರುವ ಗಂಭೀರ ವಿಚಾರಗಳ ಬಗ್ಗೆ ಗಮನ ಹರಿಸಬೇಕು :- ರಾಹುಲ್‌ ಗಾಂಧಿ DemocracyInDanger SupremeCourt JudgesPressConference JudgesAtWarhttps:// …"
+
+952002395998846976	738033873267757056	2018-01-13 07:50	"எங்களுக்கு நீதி வேண்டும், அதுக்கேன் ப்ரஸ்ஸூக்கு வாரே? நீதிமன்றத்துக்கு ல்லே போகோனும்?. . நாங்களே நீதிமன்றத்துலேந்து தானே வாரோம் -- உச்சநீதிமன்ற நீதிபதிகள் DemocracyInDanger"
+
+952000655098503168	75816710	2018-01-13 07:43	"I asked someone on street कुछ लोग कह रहे है DemocracyInDanger क्या ऐसा है? person: Madam, देश में शांति तो है, युद्ध का भी खतरा नहीं है, तो danger kahan hai... uttarayan hai Patang udao, पवन की चिंता करो..."
+
+952000003836276738	138119952	2018-01-13 07:41	"ಹಿರಿಯ ನ್ಯಾಯಾಧೀಶರು ಸುಪ್ರೀಂಕೋರ್ಟ್ ಮುಖ್ಯ ನ್ಯಾಯಮೂರ್ತಿ ದೀಪಕ್ ಮಿಶ್ರಾ ಅವರಿಗೆ ಬರೆದ ಪತ್ರದಲ್ಲೇನಿದೆ? DemocracyInDanger SupremeCourt JudgesPressConference JudgesAtWar …"
+
+951994983623442432	951449756412231681	2018-01-13 07:21	"ಸುಪ್ರೀಂಕೋರ್ಟ್‌ನ ಘನತೆಯ ಅಳಿವು ಉಳಿವಿನ ಮೇಲೆಯೇ ಈ ದೇಶದ ಪ್ರಜಾಸತ್ತೆಯ ಅಳಿವು ಉಳಿವು ನಿಂತಿದೆ. DemocracyAtStake DemocracyIndanger SaveIndia"
+
+951994893353693185	704897659	2018-01-13 07:20	"ಸುಪ್ರೀಂಕೋರ್ಟ್‌ನ ಘನತೆಯ ಅಳಿವು ಉಳಿವಿನ ಮೇಲೆಯೇ ಈ ದೇಶದ ಪ್ರಜಾಸತ್ತೆಯ ಅಳಿವು ಉಳಿವು ನಿಂತಿದೆ. DemocracyAtStake DemocracyIndanger"
+
+951983030561918976	938825746176528386	2018-01-13 06:33	"Leonardo Martínez RallyDakar HéroeBoliviano F Dakar2018 Dakar DakarxFOX Dakar40th TimesUp BoliviaCorazonDelDakar BoliviaDijoNo Bolivia DemocracyInDanger dakar jorgeramosnews PresidenciaMX MichelTemer BarackObamahttps:// …"
+
+951980997087674368	2233246706	2018-01-13 06:25	"Insaaf dene wale aaj insaaf maang rahe hai. DemocracyInDanger Ssaniya25"
+
+951971612244488194	64072941	2018-01-13 05:48	" DemocracyInDanger"
+
+951971565159133184	935866587311046658	2018-01-13 05:48	" DemocracyInDanger …"
+
+951969847566413824	735030543696297984	2018-01-13 05:41	" DemocracyInDanger "
+
+951954304818171905	931517934521995264	2018-01-13 04:39	"To fir ye bhi maan na padega cheef justis CJIDipakMisra to bjp ki sarkar mein aaya hai.. wo bjp ki dalaali aur desh se gaddari kar raha hai.. SupremeCourt DemocracyInDanger"
+
+951947847229992960	255354721	2018-01-13 04:13	" PeriodismoEnRiesgo periodismo DebatedeTodos ProteccionCivil Bloggera Censura Dictaduras TuitUtil PrimeraPagina Latinoamérica LaPoliticaEsHaciendo LateLateShow BetterTogether2018 CriticalRole EdicionDigital DemocracyInDanger Latinoamérica USA Cuba HumanRightshttps:// …"
+
+951938172921040896	907672860969365505	2018-01-13 03:35	"સુપ્રીમ કોર્ટના ચાર નિષ્ઠાવાન ન્યાયમૂર્તિઓની એક સર્વોચ્ચ બેંચે સર્વાનુમતે (4-0) એવો ચુકાદો આપ્યો છે કે લોકશાહી જોખમમાં છે. આ ચુકાદાને માનવો કે ન માનવો એ આપણે નક્કી કરવાનું છે. JusticeKarnanWasRight SupremeCourt democracyindanger"
+
+951926324490248192	382088228	2018-01-13 02:48	" DemocracyInDanger aajtakhttps:// …"
+
+951915647381913600	382088228	2018-01-13 02:05	" DemocracyInDanger …"
+
+951913653552537600	4646825746	2018-01-13 01:57	" DemocracyInDanger Muslims in danger Daliths in Danger Xtians in danger JudiciaryDivided"
+
+951910113882783745	1523843653	2018-01-13 01:43	"Ye haal hai . Agar judge bhi kuch bole to usko ko bhi....? aajtak abpnewstv ndtv BBCHindi DemocracyInDanger SupremeCourt MannKiBaat …"
+
+951905612383715328	937634523751129088	2018-01-13 01:25	" NagpurPolice nagpurcp DemocracyInDanger आज तकरिबन महिने लोटांगून राहले मी पोलीस स्टेशन ला तक्रार केलेली आहे न्यायाची अपेक्षा करणे हे म्हणजे मूर्खाचे काम असे ही म्हणायला काही हरकत नाही तरी सुद्धा माझा म्हते मी भरपूर प्रयत्न केले ले आहे"
+
+951904903701528576	737885567719985152	2018-01-13 01:23	"Add "Na" to BHAGWAA !!!Then you will get BHAGWAA-N! INCIndia laluprasadrjd cpimspeak whatsupkolkata JayasreeVijayan MamataOfficial DemocracyInDanger …"
+
+951902820378251265	2654492462	2018-01-13 01:14	"Right said Ye acche din ka sacchai.. man ka baath bahar agayaa DemocracyInDanger DemocracyAtStake SupremeCourt"
+
+951900209893683200	138119952	2018-01-13 01:04	"ಭಾರತದಲ್ಲಿ ನ್ಯಾಯಾಂಗ ವ್ಯವಸ್ಥೆಯನ್ನ ಬಲಪಂಥೀಯ ರಾಜಕೀಯ ಹಸ್ತಕ್ಷೇಪದಿಂದ ಬಿಡುಗಡೆ ಮಾಡಿಸಬೇಕು ಮತ್ತು ಬಲಪಡಿಸಬೇಕು. ಆಗದಿದ್ದಲ್ಲಿ ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಭಾರತ ದೇಶಕ್ಕೆ ಭವಿಷ್ಯವಿಲ್ಲ. ಭವಿಷ್ಯದಲ್ಲಿ ಇದು ಸಂಭವಿಸುತ್ತದೆ ಎಂದು ನಾನು ಭಾವಿಸುತ್ತೇನೆ. DemocracyInDanger SupremeCourt JudgesPressConference JudgesAtWar"
+
+951896223824281600	2160285474	2018-01-13 00:48	" DemocracyInDanger …"
+
+951894295623053312	947367864821882880	2018-01-13 00:41	" DemocracyInDanger …"
+
+951894083777183744	947367864821882880	2018-01-13 00:40	" DemocracyInDanger …"
+
+951891000934502401	921771052577026048	2018-01-13 00:27	" DemocracyInDanger DESH BURE DAUR ME PAHUCH GAYA JISKI ASANKA THI WAHI HUWA LOG KAH RAHE HAI LOKTANTRA KHTRE ME HAI LKN MAI MANTA HOO BHARAT KHATRE ME PAHUCH GAYA LOGO KA VISHWAS NYAY PALIKA SE HATEGA AUR HINSA GRAST BHARAT KE HONE KI SAMBHAWNA HO SAKTI HAI"
+
+951889424014491648	2160285474	2018-01-13 00:21	" DemocracyInDanger …"
+
+951888283973304320	2160285474	2018-01-13 00:17	" DemocracyInDanger …"
+
+951887591334297600	2160285474	2018-01-13 00:14	" DemocracyInDanger …"
+
+951887591036534784	2160285474	2018-01-13 00:14	" DemocracyInDanger …"
+
+951887221136678912	2481770979	2018-01-13 00:12	"ತಮಗೆ ಬೇಕಾದ ನ್ಯಾಯಾಧೀಶರನ್ನು ನೇಮಕಗೊಳಿಸಿ ತಮ್ಮ ಹಗರಣಗಳಿಗೆ ಕ್ಲೀನ್ ಚಿಟ್ ಪಡೆಯುವ ಬಿಜೆಪಿಯ ಒಳಗುಟ್ಟು ಬಯಲು. SCJudgesMutiny DemocracyInDanger INCKarnataka BJP4Karnataka divyaspandana "
+
+951887208004296704	2160285474	2018-01-13 00:12	" DemocracyInDanger …"
+
+951886767245766656	2160285474	2018-01-13 00:11	" DemocracyInDanger …"
+
+951886501725421568	2160285474	2018-01-13 00:10	" DemocracyInDanger …"
+
+951884895399288832	1937364408	2018-01-13 00:03	" NehruDynastyInDanger JihadInDanger not DemocracyInDanger "
+
+951884659717160960	924934461636034565	2018-01-13 00:02	" DemocracyInDanger "
+
+951883871091478528	761257112311705600	2018-01-12 23:59	" democracyindanger "
+
+951882746493771776	753894939486986242	2018-01-12 23:55	"सर्वोच्च न्यायालयाचे ज्येष्ठ न्यायाधीश लोकशाही धोक्यात आहे असे म्हणत न्यायालयाच्या इतिहासात पहिल्यांदाच पत्रकार परिषद घेत असतील तर मुद्दे नक्कीच गंभीर आहेत. त्यावरून त्यांना वेळ व इतर बाबींवरून उगाच टार्गेट करून भक्ती जपण्यात अजिबात अर्थ नाही SupremeCourt DemocracyInDanger"
+
+951882124855934976	1937364408	2018-01-12 23:52	" NehruDynastyInDanger JihadInDanger CommunismInDanger DemocracyInDanger "
+
+951881277728219141	800400624814723072	2018-01-12 23:49	"Modiji: ha ha bhai hum ne suna aur jald hee hum in judges ki bhi supari dedege... DemocracyInDanger JudgesPressConference"
+
+951881228768047104	3171926574	2018-01-12 23:49	" DemocracyInDanger …"
+
+951879243893391360	2160285474	2018-01-12 23:41	" DemocracyInDanger …"
+
+951879001298976769	2160285474	2018-01-12 23:40	" DemocracyInDanger …"
+
+951878436540186624	1566070957	2018-01-12 23:37	"అణచివేత ఎక్కువైతే ￰తిరుగుబాటు ఉధృతమవుతుంది DemocracyInDanger SupremeCourt JudgesAtWar"
+
+951877967008776192	594473953	2018-01-12 23:36	"सुप्रीम कोर्ट का ये हाल तो सोचो निचली अदालतो का क्या हाल होगा JusticeChelameswar SupremeCourt DemocracyInDanger"
+
+951877712783683584	323178291	2018-01-12 23:35	"நீதிபதிகள் குற்றச்சாட்டு ஜனநாயகத்திற்கு அச்சுறுத்தல்-காங்கிரஸ் தலைவர் திரு.ராகுல்காந்தி DemocracyInDanger"
+
+951877390304620544	2160285474	2018-01-12 23:33	" DemocracyInDanger …"
+
+951877374051737601	1566070957	2018-01-12 23:33	"అన్నింట్లో వేలుపెట్టి అందరిని దొంగలుగా చూపెట్టాలనుకునే NarendraModi కి చెంపపెట్టు DemocracyInDanger SupremeCourt JudgesAtWar"
+
+951877188688732161	798933756	2018-01-12 23:33	"Patanjali JalanRodhak avshadhi prapti bhawah DemocracyInDanger …"
+
+951876042443997185	920698816336031745	2018-01-12 23:28	"लोकतंत्र तो अभी हमें चंगा लग रहा है पर "लूटतंत्र" अवश्य खतरे में है। SaurabhJNU sardanarohit manakgupta RubikaLiyaquat JudgesAtWar JudiciaryDivided RahulGandhi D_Raja AapKiAdalat DemocracyInDanger DemocracyAtStake Sickularhttps:// …"
+
+951875414015713280	2160285474	2018-01-12 23:25	" DemocracyInDanger …"
+
+951873289072279559	152524424	2018-01-12 23:17	" JaagoIndiaJaago DemocracyInDanger HinduInDanger MuslimInDanger IndiaInDanger GDPInDanger EconomyInDanger JudgesInDanger ArmyInDanger YEH SAB DANGER KE BEECH EMERGENCY LAGU HONI CHAHIYE ? ThinkPonderReflect PervezM neo_pac alamgirizvi KPadmaRani1"
+
+951872635436130304	871799906511474688	2018-01-12 23:14	" DemocracyInDanger"
+
+951870906661404673	914133399060717568	2018-01-12 23:08	"FIRST IN THE HISTORY OF THE SUPREME COURT OF INDIA ದೇಶದ ಇತಿಹಾಸದಲ್ಲೇ ಪ್ರಪ್ರಥಮ ಬಾರಿ ಸರ್ವೋಚ್ಚ ನ್ಯಾಯಾಲಯದ ನಾಲ್ವರು ಅತ್ಯಂತ ಹಿರಿಯ ನ್ಯಾಯಾಧೀಶರಿಂದ ಪತ್ರಿಕಾಗೋಷ್ಠಿ ಕೋರ್ಟ್ ಕಲಾಪ ನಡೆಯುತ್ತಿರುವಾಗಲೇ ಪ್ರೆಸ್ ಮೀಟ್ tv9kannada narendramodi TimesNow WhoKilledJusticeLoya DemocracyInDanger"
+
+951870662959755264	728930059319312384	2018-01-12 23:07	" WhoKilledJusticeLoya SupremeCourt DemocracyInDanger पीएम चुप, सरकार चुप, देश की बडी पार्टी बीजेपी चुप !! ??"
+
+951870450228977664	2345449097	2018-01-12 23:06	" DemocracyInDanger"
+
+951869898250006529	3039799874	2018-01-12 23:04	"ಮಂಗಳೂರು ಕಾರಾಗೃಹದಲ್ಲಿ ಪೊಲೀಸ್ ಅಧಿಕಾರಿಗಳಿಂದ ಕೈದಿಗಳ ಮೇಲೆ ದೌರ್ಜನ್ಯ ಮತ್ತು ಧರ್ಮ ನಿಂದನೆಯ ಆರೋಪ !* ಪೊಲೀಸರು ಸಂಘ ಪರಿವಾರದ ಗುಲಾಮಾರಾದರೇ ?? DemocracyInDanger suvarnanewstv tv9kannada sudditvnews btvnewslive publictvnews prajaatv ndtv CNNnews18 News18Kannada"
+
+951867214444994560	586328623	2018-01-12 22:53	" DemocracyInDanger ajaymaken vidyarthee divyaspandana HasibaAmin ShashiTharoor sanjaynirupam JhaSanjay pranavINC Pawankhera AkhileshPSingh JaiveerShergill SalmanSoz sambitswaraj vineetpunia jitupatwari milinddeora BDUTT JitinPrasada HardikPatel_pic"
+
+951866697782185984	767161894637539328	2018-01-12 22:51	"अब मान लिया जाए की उच्च न्यायालय भी संघ की चपेट में आ ही गया है, बीजेपी भगाओ देश बचाओ saveindiadamocracy DemocracyInDanger DemocracyAtStake __Sheela saima501 BahiskritAwaaz ModiLeDubega SureshKagra alamgirizvi ela_mishra ."
+
+951866213046607872	64072941	2018-01-12 22:49	" DemocracyInDanger"
+
+951865186394107904	2417194766	2018-01-12 22:45	"Are sir ye ,50 ₹ ki dehadi pe kam kr rhe hai pura desh Judges k sath hai inki khud fti pdi hai SCJudgesMutiny SupremeCourt DemocracyInDanger"
+
+951864404223574016	806960938498699264	2018-01-12 22:42	" DemocracyInDanger …"
+
+951864218571034624	806960938498699264	2018-01-12 22:41	" DemocracyInDanger …"
+
+951863972826791938	25244464	2018-01-12 22:40	"അപൂര്‍വത്തില്‍ അപൂര്‍വം ഈ വാര്‍ത്താസമ്മേളനം. ഇവിടെ സംശയിക്കണം ബി.എച്ച് ലോയയുടെ മരണം Loyacase SupremeCourt DemocracyInDanger JusticeChelameswar"
+
+951862936070381569	1531314960	2018-01-12 22:36	" DemocracyInDanger WE ARE IN EMERGENCY RULE SCJudgesMutiny JusticeChelameswar PMOIndia ravishndtv sardesairajdeep waglenikhil ndtv ameenshaikh3 Iffidel HardikPatel_ jigneshmevani80 vinaydokania POI13 ArunSFan "
+
+951859236778033154	147476836	2018-01-12 22:21	"உச்ச நீதிமன்ற தலைமை நீதிபதி என்பவர் மத்திய அரசால் நியமிக்கப்படுபவர். CBI, ECI போன்று நீதித்துறையையும் மத்திய அரசு கட்டுப்படுத்த முயல்கிறதா என்று சந்தேகம் எழுகிறது .நீதிபதி லோய அவர்களின் மரணம், சரோபதின் என்கவுன்டர் சமீபத்தில் விசாரனைக்கு வந்த வழக்குகள் ஆகும் DemocracyInDanger"
+
+951857794965127168	920189861188943872	2018-01-12 22:15	"Looks like democracyindanger"
+
+951856651769864192	3413075354	2018-01-12 22:11	" Bombaywaali MMtothemoon meet DilliWaaaali Nidhi DemocracyInDanger"
+
+951854915260792832	2961064514	2018-01-12 22:04	" DemocracyInDanger ab agla statement sadji ka yhi toh hai.. Opportunitist khejhari"
+
+951854902900277248	756377276879671296	2018-01-12 22:04	"എവിടെ നിർഭയമാകുന്നു മാനസം അവിടെ നിൽക്കുന്നു ശീർഷം സമ്മുന്നതം....! SupremeCourt DemocracyInDanger "
+
+951853636643995648	46054237	2018-01-12 21:59	" DemocracyInDanger = INCIndia is in Danger."
+
+951851992745308160	158781312	2018-01-12 21:52	" DemocracyInDanger Bhakts have started barking. "
+
+951851318338965504	917865056301326336	2018-01-12 21:50	" DemocracyInDanger GauravGogoiAsm priyankac19 JhaSanjay ShashiTharoor KapilSibal sanjaynirupamhttps:// …"
+
+951850595605921793	2989419813	2018-01-12 21:47	"देशभक्त आगे आएं और लोकतंत्र पर होते इस हमले के खिलाफ आवाज उठायें। भक्ति छोड़ो लोकतंत्र बचाओ। democracyindanger INCIndia ajaymaken abhisar_sharma dibang anjanaomkashyap sardanarohit AamAadmiParty BJP4India RSSorg"
+
+951850185449078784	134465113	2018-01-12 21:45	"ആത്മാവ് വില്‍ക്കാത്ത ന്യായാധിപന്‍മാരും... ആത്മാവ് തൊട്ടറിഞ്ഞ യുവാക്കളും... ഡല്‍ഹി ചരിത്രമെഴുതുന്നു Justice Delhi SupremeCourt DemocracyInDanger "
+
+951849821517660160	782555150887944193	2018-01-12 21:44	"Inki democracy to tbhi se danger me pd gyi thi jbse modi government bni.......inko desh se koi lena dena ni......inko bs kisi na kisi topic pr logon ko bhadkana he or mje lootne he..... bleedycorruptionists DemocracyInDanger"
+
+951849470622294017	1714955538	2018-01-12 21:42	" democracyindanger "
+
+951849393547657216	333817338	2018-01-12 21:42	"સુપ્રીમ કોર્ટના ચાર નિષ્ઠાવાન ન્યાયમૂર્તિઓની એક સર્વોચ્ચ બેંચે સર્વાનુમતે (4-0) એવો ચુકાદો આપ્યો છે કે લોકશાહી જોખમમાં છે. આ ચુકાદાને માનવો કે ન માનવો એ આપણે નક્કી કરવાનું છે. JusticeKarnanWasRight SupremeCourt democracyindanger"
+
+951849288442802178	167392473	2018-01-12 21:42	"कज़रू की थाली रह गयी ख़ाली KejriKaKachraHogaya KejriwalinMaharashtra DemocracyInDanger"
+
+951847290276167680	3029879573	2018-01-12 21:34	""உச்சநீதிமன்ற நீதிபதிகளுக்கு இடையே நடைபெறும் மோதல் குறித்து பாஜக மவுனம் காப்பது ஏன்?" - காங்கிரஸ் தலைவர் திரு. ராகுல்காந்தி. DemocracyInDanger "
+
+951846013802758144	3029879573	2018-01-12 21:29	"நீதிபதிகள் தீர்ப்பு!!!! DemocracyInDanger"
+
+951842983208349701	551602426	2018-01-12 21:17	" DemocracyInDanger "
+
+951839975464566784	929318397929598976	2018-01-12 21:05	"ಇವತ್ತು ದೇಶದಲ್ಲಿಯ ಬುದ್ದಿವಂತ ಜನರು ನೂರಾರು ಬುದ್ದಿಯ ಮಾತು ಹೇಳುತ್ತಿದ್ದಾರೆ. ಇದೆ ಬುದ್ದಿವಂತರು ವರ್ಷದ ನಂತರ ಸುಪ್ರೀಮ್ ಕೋರ್ಟಿನ ಚಲಮೆಶ್ವರ್, ಗೊಗೋಯ್, ಲೋಕೂರ್, ಕುರಿಯನ್ ತಮ್ಮ ಆತ್ಮಗಳನ್ನ ಮಾರಿಕೊಂಡು ಸುಮ್ಮನಿದ್ದರೂ ಎನ್ನುವದು ಬೇಡ ಅಂತಲೇ ನಿಮ್ಮ ಮುಂದೆ ಬಂದಿದ್ದೇವೆ. WhoKilledLoya DemocracyInDanger "
+
+951839332976943104	929318397929598976	2018-01-12 21:02	"*ಕೆಲವು ನಿರ್ಧಿಷ್ಟ ಬೇಡಿಕೆಗಳೊಂದಿಗೆ ಮುಖ್ಯ ನ್ಯಾಯಾಧೀಶರನ್ನ ಭೇಟಿಯಾಗಿ ಅವರ ಮನಸ್ಸೊಲಿಸಲು ಯತ್ನಿಸಿದೆವು, ಅದು ವಿಫಲವಾದ ಕಾರಣ ಬೇರೆ ದಾರಿ ಕಾಣದೆ ನಾವು ಜನರಿಗೆ ತಿಳಿಸೋಣ ಎಂದು ನಿರ್ಧರಿಸಿದೆವು. -ಜ. ಚಲಮೆಶ್ವರ್ DemocracyInDanger INCKarnataka srivatsayb "
+
+951839073722810368	126614467	2018-01-12 21:01	"न्यायाधीशांची पत्रकार परिषद लोकशाहीसाठी दुर्दैवी - राहुल गांधी office0ffRG INCIndia DemocracyInDanger "
+
+951838714581286912	929318397929598976	2018-01-12 21:00	"*ಕೆಲವು ನಿರ್ಧಿಷ್ಟ ಬೇಡಿಕೆಗಳೊಂದಿಗೆ ಮುಖ್ಯ ನ್ಯಾಯಾಧೀಶರನ್ನ ಭೇಟಿಯಾಗಿ ಅವರ ಮನಸ್ಸೊಲಿಸಲು ಯತ್ನಿಸಿದೆವು, ಅದು ವಿಫಲವಾದ ಕಾರಣ ಬೇರೆ ದಾರಿ ಕಾಣದೆ ನಾವು ಜನರಿಗೆ ತಿಳಿಸೋಣ ಎಂದು ನಿರ್ಧರಿಸಿದೆವು. -ಜ. ಚಲಮೆಶ್ವರ್ DemocracyInDanger"
+
+951838093895548929	929318397929598976	2018-01-12 20:57	"ಈ ಕೆಳಕಂಡಂತೆ ಅವರ ದಗುಡವನ್ನು ಹೊರಹಾಕಿದರು ಕಳ್ಳ ಸುಳ್ಳ ಮೋದಿ ಈಗ ಚುನಾವಣಾ ಆಯೋಗದಂತೆ ನ್ಯಾಯಾಂಗವನ್ನು ತನ್ನ ಹಿಡಿತದಲ್ಲಿ ಇಟ್ಟುಕೊಂಡು ಭಾರತವನ್ನು ನಾಗರಿಕ ಯುದ್ದಕ್ಕೆ ತಯಾರು ಮಾಡುತ್ತಿದ್ದಾನೆ. DemocracyInDanger"
+
+951838087729971200	929318397929598976	2018-01-12 20:57	"ಈ ದಿನ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನ ಜಡ್ಜ್ ಗಳು ಸರಕಾರ ಹಾಗು ನ್ಯಾಯಾಂಗವನ್ನು ಮೋದಿ ಸರಕಾರ ಹೇಗೆ ಕೈ ವಶ ಮಾಡಿಕೊಂಡು ತಮಗೆ ಬೇಕಾದಂತೆ ನ್ಯಾಯವನ್ನು ಪಡೆದುಕೊಳ್ಳುವ ಪ್ರಕ್ರಿಯೆಗೆ ಬಂದಿದೆ ಅದಕ್ಕಾಗಿ ಪ್ರತಿಭಟನೆ ಇದು. DemocracyInDanger "
+
+951837792866152448	2160285474	2018-01-12 20:56	" DemocracyInDanger …"
+
+951837538699788288	929318397929598976	2018-01-12 20:55	"*ಸುಪ್ರೀಮ್ ಕೋರ್ಟ್ ಎಂಬುವ ಸಂಸ್ಥೆಯೊಂದನ್ನ ನಾವು ಉಳಿಸಿಕೊಳ್ಳದೆ ಹೋದರೆ ಪ್ರಜಾಪ್ರಭುತ್ವ ಉಳಿಯದು, ಎಂಬುದನ್ನ ಅರಿತಿರುವ ನಾವು ಕೆಲವು ವಿಷಯಗಳಲ್ಲಿ ಮುಖ್ಯ ನ್ಯಾಯಾಧೀಶರ ಮನಸ್ಸು ಒಲಿಸಲು ಯತ್ನಿಸಿದ್ದೇವೆ. --ಜ. ಚಲಮೆಶ್ವರ್ DemocracyInDanger "
+
+951836552753070080	19591890	2018-01-12 20:51	"Yahi to asli hatyare hai....inhe apni shikayat rashtrapati k pass le jani thi na ki public k pass.... DemocracyInDanger"
+
+951835737770438656	929318397929598976	2018-01-12 20:48	"ನ್ಯಾಯಮೂರ್ತಿ ಚೆಲ್ಮೇಶ್ವರ್, ರಂಜನ್ ಗೊಗೋಯಿ, ಮದನ್ ಲೋಕೂರ್ ಹಾಗೂ ಕುರಿಯನ್ ಜೋಸೆಫ್ ಅವರು ಪತ್ರಿಕಾಗೋಷ್ಠಿಯನ್ನುದ್ದೇಶಿಸಿ ಮಾತನಾಡಿದ್ದಾರೆ. DemocracyInDanger INCIndia INCKarnataka KPCCSM dineshgrao srivatsayb "
+
+951835418353311744	929318397929598976	2018-01-12 20:47	"ಭಾರತದ ಇತಿಹಾಸದಲ್ಲಿದೇ ಇದೇ ಮೊದಲ ಬಾರಿಗೆ 'ಸುಪ್ರೀಂಕೋರ್ಟ್' ನ್ಯಾಯಮೂರ್ತಿಗಳು ಸುದ್ದಿಗೋಷ್ಟಿಯನ್ನು ನಡೆಸಿದ್ದು, ನ್ಯಾಯಾಂಗ ವ್ಯವಸ್ಥೆ ಕುರಿತು ಅಸಮಾಧಾನವನ್ನು ಹೊರಹಾಕಿದ್ದಾರೆ. DemocracyInDanger INCIndia INCKarnataka KPCCSM dineshgrao srivatsayb"
+
+951835363223326721	846874032	2018-01-12 20:46	" DemocracyInDanger"
+
+951835089897373697	929318397929598976	2018-01-12 20:45	"60 ವರ್ಷಗಳಲ್ಲಿ ಕಾಂಗ್ರೆಸ್ ಮಾಡದ ಸಾಧನೆಯನ್ನು ಮೂರೂವರೆ ವರ್ಷಗಳಲ್ಲಿ ಮಾಡಿದ ಮೋದಿ ಸರ್ಕಾರ! ನ್ಯಾಯಕ್ಕಾಗಿ ಮೊರೆ ಇಟ್ಟ ನ್ಯಾಯಾಧೀಶರು. DemocracyInDanger INCIndia INCKarnataka dineshgrao DKShivakumar HasibaAmin srivatsayb "
+
+951834947710365697	908204219554918400	2018-01-12 20:45	" JM_Scindia OPS_Bhadoria HardikPatel_ RuchiraC divyaspandana nagma_morarji RajaBrar_INC DemocracyInDanger"
+
+951834338634551297	2583667621	2018-01-12 20:42	"सियासत की व्यवस्था बडी नहीं देश बडा है इसलिए न्यायपालिका को सियासत की व्यवस्था के लिए नही देश के लिए काम करना चाहिये SupremeCourt DemocracyInDanger JudgesAtWar SupremeCourt SupremeCourt SupremeCourt SupremeCourt SupremeCourt SupremeCourt SupremeCourt SupremeCourt"
+
+951834330212417538	2960972918	2018-01-12 20:42	"4 நீதிபதிகள் எழுப்பியுள்ள கேள்விகள் மிகவும் முக்கியம். ஜனநாயகத்திற்கு அச்சுறுத்தல் இருப்பதாக அவர்கள் குறிப்பிட்டனர். காங்கிரஸ் தலைவர் ராகுல் காந்தி, DemocracyInDanger "
+
+951833738467577856	866732441930801152	2018-01-12 20:40	" SupariCourt Har saakh pe ullu baitha hai Anjaame gulistan Kya hoga! DemocracyInDanger TimeToHitTheStreet"
+
+951833194554257413	1198178202	2018-01-12 20:38	" DemocracyInDanger"
+
+951833164577619968	106027998	2018-01-12 20:38	" DemocracyInDanger …"
+
+951832235191267333	2261734453	2018-01-12 20:34	" DemocracyInDanger"
+
+951831650366664704	919471576310980608	2018-01-12 20:32	""உச்சநீதிமன்ற நீதிபதிகளுக்கு இடையே நடைபெறும் மோதல் குறித்து பாஜக மவுனம் காப்பது ஏன்?" - காங்கிரஸ் தலைவர் திரு. ராகுல் காந்தி. DemocracyInDanger "
+
+951831182852866048	1332272064	2018-01-12 20:30	""உச்சநீதிமன்ற நீதிபதிகளுக்கு இடையே நடைபெறும் மோதல் குறித்து பாஜக மவுனம் காப்பது ஏன்?" - காங்கிரஸ் தலைவர் திரு. ராகுல் காந்தி. DemocracyInDanger "
+
+951831077806514176	163940732	2018-01-12 20:29	". ഇന്ത്യയിൽ കോർപ്പറേറ്റു ഭരണം ജനാധിപത്യം അപകടത്തിൽ DemocracyInDanger"
+
+951830347506900993	728686302	2018-01-12 20:26	"உச்ச நீதிமன்றத்தில் நிர்வாகம் சரி இல்லை... - உச்சநீதிமன்ற நீதிபதிகள் DemocracyInDanger …"
+
+951830024365203463	866732441930801152	2018-01-12 20:25	"Har saakh pe ullu baitha hai Anjaame gulistan Kya hoga DemocracyInDanger TimeToHitTheStreet"
+
+951829892462776320	866732441930801152	2018-01-12 20:25	"Har saakh pe ullu baitha hai Anjaame gulistan Kya hoga! DemocracyInDanger TimeToHitTheStreet"
+
+951829054533046272	1150815042	2018-01-12 20:21	"देश संकटात आहे, यासाठी आणखी काय पुरावा हवा. DemocracyInDanger"
+
+951828621806600192	928545439741177862	2018-01-12 20:20	" DemocracyInDanger …"
+
+951827135953494017	163076848	2018-01-12 20:14	"4 நீதிபதிகள் எழுப்பியுள்ள கேள்விகள் மிகவும் முக்கியம். ஜனநாயகத்திற்கு அச்சுறுத்தல் இருப்பதாக அவர்கள் குறிப்பிட்டனர். காங்கிரஸ் தலைவர் ராகுல் காந்தி, DemocracyInDanger "
+
+951826378671898624	722000317882052609	2018-01-12 20:11	"ജ‍ഡ്ജിമാരുടെ പ്രതിഷേധം ഗൗരവമുള്ളത്; നടപടി അനിവാര്യമെന്ന് രാഹുല്‍ ഗാന്ധി RahulGandhi DemocracyInDanger SupremeCourt ChiefJusticeIndia …"
+
+951825950819471360	912186995232849920	2018-01-12 20:09	"ജനാധിപത്യത്തെ കൊന്നവർ നീതിന്യായത്തേയും കൊല്ലുന്നു. DemocracyInDanger"
+
+951824965216567296	96328613	2018-01-12 20:05	"கத்தரிக்காய் முற்றினால் சந்தைக்கு வந்து தான் ஆகவேண்டும் ஐயா. DemocracyInDanger"
+
+951822277624127489	600540115	2018-01-12 19:54	" DemocracyInDanger … HasibaAmin divyaspandana chirag BDUTT "
+
+951820669536358400	71789881	2018-01-12 19:48	" DemocracyInDanger divyaspandana SaralPatel007https:// …"
+
+951817526031269888	3073350344	2018-01-12 19:35	"சுப்ரீம் கோர்ட் ஜுட்ஜ் ஒருத்தருக்கு ரெண்டுநாளா மலச்சிக்கல்… DemocracyInDanger"
+
+951817321588318209	3073350344	2018-01-12 19:35	"சுப்ரீம் கோர்ட் ஜுட்ஜ் ஒருத்தருக்கு ரெண்டுநாளா வயித்தாலப்போகுது… DemocracyInDanger"
+
+951814807820279810	323178291	2018-01-12 19:25	" DemocracyInDanger உச்சநீதிமன்ற தலைமை நீதிபதி பதவி விலக வேண்டும்.. என கோரிக்கை.. "
+
+951813840446115840	866732441930801152	2018-01-12 19:21	"Har saakh pe ullu baitha hai Anjaame gulistan Kya hoga! DemocracyInDanger TimeToHitTheStreet"
+
+951813444902309889	866732441930801152	2018-01-12 19:19	"Har saakh pe ullu baitha hai Anjaame gulistan Kya hoga! DemocracyInDanger TimeToHitTheStreet"
+
+951810451943411712	15619202	2018-01-12 19:07	" DemocracyInDanger …"
+
+951809896067907585	728857605561405440	2018-01-12 19:05	" ModiFyingKarnataka to reslove mahadayi problem SUPREMECOURTJUDGES DemocracyInDanger SwamiVivekananda NationalYouthDay."
+
+951809672780029957	70440476	2018-01-12 19:04	"Jab saiyaa bhaye thanedaar to ab darr kahe ka democracyindanger …"
+
+951806051556384768	951462026487857154	2018-01-12 18:50	"Sir ji jab media apna kaam nhi karegi to judges ko hi yeh kaam krna padega DemocracyInDanger"
+
+951804970461839361	2256218630	2018-01-12 18:46	"Hehehehehe....यहाँ भी गंगाधर ही शक्तिमान है SupremeCourt SUPREMECOURTJUDGES DemocracyInDanger ChiefJusticehttps:// …"
+
+951800513338593280	3067762038	2018-01-12 18:28	"Shaher me charcha is baat par bada zabardast Kotwal badal gaya hai munsif bhi badal jayega Islam_Sheri SupremeCourt JusticeChelameswar DemocracyInDanger"
+
+951797512943288320	2481770979	2018-01-12 18:16	"60 ವರ್ಷಗಳಲ್ಲಿ INCIndia ಮಾಡದ ಸಾಧನೆಯನ್ನು ಮೂರೂವರೆ ವರ್ಷಗಳಲ್ಲಿ ಮಾಡಿದ narendramodi ಸರ್ಕಾರ ! ನ್ಯಾಯಕ್ಕಾಗಿ ಮೊರೆ ಇಟ್ಟ ನ್ಯಾಯಧೀಶರು. DemocracyInDanger SCJudgesMutiny BJP4Karnataka INCKarnataka divyaspandana "
+
+951796420805255174	839532983908433924	2018-01-12 18:12	" DemocracyInDanger SachinPilot INCIndia divyaspandana drcpjoshi priyankac19 jitupatwari PoonamS74339868 sujan_gurjar ETV_Rajasthan RPCC_ITcell Brijesh_Devi dau_joshi PriyaSi36927285 IshitaJindal3 Sunami4202 LeenaSh30770541 "
+
+951794421753933824	152524424	2018-01-12 18:04	" JaiHind DemocracyInDanger "
+
+951793228050702342	854646396716171264	2018-01-12 17:59	" AzabGazabIndia Jaha Atanki ko fansi dene me JNU TukdeTukdeGang awaj uthate hai Aur Scam karne wale jab chut jaye to bharosa wapas a jata hai DemocracyInDanger DemocracyDialogues wakai me."
+
+951792199766716416	153837907	2018-01-12 17:55	"Army Officer se le k kisi bhi department me naye bharti chaprasi tak agar kisi ko apni pasand ki posting na mile toh koi complain nahi karta, yeh humare SupremeCourt k judges hain ki mann-marzi k cases nahi mile toh DemocracyInDanger ka shor kar diya media me. JudiciaryDivided"
+
+951791453293895680	2378394366	2018-01-12 17:52	"मोदीसरकारची वाटचाल ही हुकूमशाहीकडे ?? ... मोदीसरकार ची वाटचाल ही हुकूमशाही कडे चालू आहे. हे सत्तेत भाजप सोबत असलेली शिवसेना पहिल्या दिवसापासून सांगत आहे. shivsena democracyindanger DemocracyAtRisk "
+
+951791065694068736	128609455	2018-01-12 17:50	"உச்சநீதிமன்ற நீதிபதிகளின் கருத்து வேதனையளிக்கிறது - மம்தா பானர்ஜி SupremeCourt DemocracyInDanger MamataBannerjeehttps://"
+
+951790214065901569	3253595174	2018-01-12 17:47	" DemocracyInDanger Modi justice की ओर बढ़ता हुआ भारत "
+
+951788088216387586	172350062	2018-01-12 17:38	"ഇനി ഉള്ളത് സൈന്യം മാത്രം, ബാക്കി എല്ലാത്തിലും മൂന്നര വർഷം കൊണ്ട് കാവിക്കൊടി പാറിച്ചു SupremeCourt DemocracyInDanger KeepersOfTheIndianConstitution"
+
+951787711798456320	951424303643308032	2018-01-12 17:37	"ನನ್ನ ದೇಶ ಅಪಾಯದಲಿದ್ದೇ ದೇಶ ವಿರೋಧಿಗಳ ವಿರುದ್ಧ ಹೋರಾಡುವ ದೇಶ ಪ್ರೇಮಿಗಳೇ ಎದ್ದೇಳಿ ದೇಶವನ್ನು ಕಯೋಣ ಸಾಹೌರ್ದ ಉಳಿಸೋಣ ಹಿಂದೂ,ಮುಸ್ಲಿಂ, ದಲಿತ, ಕ್ರಿಸ್ಟ್ರೋಲ್ಗೊಂಡ ಪ್ರಜಾಪ್ರಭುವದ ಕವಳಾಲುಗಳಾಗೊಣ. DemocracyInDanger suvarnanewstv sudditvnews publictvnews btvnewslive"
+
+951786648966119426	2305300118	2018-01-12 17:33	"உச்சநீதிமன்ற நிர்வாகம் சரியில்லை என உச்சநீதிமன்ற நீதிபதிகளே சொல்வது மிகுந்த அதிர்ச்சியை தருகிறது. நம் நாட்டின் ஜனநாயகம் பாதுகாப்பாக தான் உள்ளதா என்பதில் சந்தேகம் எழுகிறது. DemocracyInDanger"
+
+951786191573135361	1875953256	2018-01-12 17:31	" DemocracyInDanger ?? JudgesPressConference Dear INCIndia Chinta na kare in sab ke pichhe aap ka hi koi na koi haath ya per jarur samne aavega.. aap ki SattaBhukh Desh ko ye din BHI dikhavega kabhi socha n tha. narendramodi awasthis sardanarohit republic"
+
+951785716572442625	1954036526	2018-01-12 17:29	" DemocracyInDanger …"
+
+951785405384478722	950453079421399040	2018-01-12 17:28	"ಅನ್ಯಾಯವಾದ ಜನ ಸಮುದಾಯಕ್ಕೆ ನ್ಯಾಯ ತೆಗೆದು ಕೊಡುವ ದೇಶದ ನ್ಯಾಯ ದೇವತೆ ನ್ಯಾಯದ ಮೇಲೆ ಅನುಮಾನ ವ್ಯಕ್ತ ಪಡಿಸಿದರೇ ಇನ್ನು ನ್ಯಾಯಕಾಗಿ ಯಾರಲ್ಲಿ ಹೋಗಲಿ ಪ್ರಜಾಪ್ರಭುತ್ವ ಅಪಾಯದಲ್ಲಿದೆ ! ದೇಶದ ಇತಿಹಾಸದಲ್ಲೇ ಮೊದಲ ಬಾರಿಗೆ ಸುಪ್ರೀಮ್ ಕೋರ್ಟ್ ನ್ಯಾಯಾಧೀಶರಿಂದ ಪತ್ರಿಕಾಗೋಷ್ಠಿ !!* DemocracyInDanger"
+
+951784337166426114	3039799874	2018-01-12 17:24	"ಅನ್ಯಾಯವಾದ ಜನ ಸಮುದಾಯಕ್ಕೆ ನ್ಯಾಯ ತೆಗೆದು ಕೊಡುವ ದೇಶದ ನ್ಯಾಯ ದೇವತೆ ನ್ಯಾಯದ ಮೇಲೆ ಅನುಮಾನ ವ್ಯಕ್ತ ಪಡಿಸಿದರೇ ಇನ್ನು ನ್ಯಾಯಕಾಗಿ ಯಾರಲ್ಲಿ ಹೋಗಲಿ ಪ್ರಜಾಪ್ರಭುತ್ವ ಅಪಾಯದಲ್ಲಿದೆ ! ದೇಶದ ಇತಿಹಾಸದಲ್ಲೇ ಮೊದಲ ಬಾರಿಗೆ ಸುಪ್ರೀಮ್ ಕೋರ್ಟ್ ನ್ಯಾಯಾಧೀಶರಿಂದ ಪತ್ರಿಕಾಗೋಷ್ಠಿ !!* DemocracyInDanger"
+
+951783514147643392	64072941	2018-01-12 17:20	"Agar CJI istifa nahi dete Aur Modi in judges ko dabane ki koshish karega toh fir -2 hona nishchit hai. Desh me civil war ki aashanka hai. democracyindanger"
+
+951782087480127488	3171926574	2018-01-12 17:15	"উচ্চতম ন্যায়ালয়ৰ চাৰিজন ন্যায়াধীশৰ সংবাদ মেল দি ঘোষণা দেশৰ গণতন্ত্ৰ নিৰাপদ নহয় বিজেপি চৰকাৰত । ভাৰতবৰ্ষৰ ইতিহাসত প্ৰথমবাৰৰ বাবে এনে ঘটনা । JudgesPressConference DemocracyInDanger "
+
+951782041233735681	2378394366	2018-01-12 17:14	"आता लोकांना हळू हळू का होईना कळू लागली आहे शिवसेनेची भूमिका. सुप्रीमकोर्टाच्या न्याधीशानी पण आता हेच सांगितले आहे.. ShivSena SuprimcourtJudge democracyindanger Feku Modi DemocracyAtRisk"
+
+951781824195211264	731768510922272768	2018-01-12 17:14	"InsepahLe BabaManoranjan SunaHai_तनखाह लहूबहेगा_विकलाँगChairकसमetc.महाभियोग BJP4India democracyindanger? JudgesAtWar "
+
+951781139936567296	804247693048483840	2018-01-12 17:11	"ഇന്ത്യയെ നിങ്ങള് കൊന്നു.... ഇനി നീതി പീഠത്തേയും....? DemocracyInDanger WhoKilledJusticeLoya"
+
+951781115538292741	3171926574	2018-01-12 17:11	" DemocracyInDanger …"
+
+951779649536671745	811558070	2018-01-12 17:05	" DemocracyInDanger "
+
+951778334333075456	75625514	2018-01-12 17:00	" democracyindanger WhoKilledJusticeLoya 'ലോയ കേസില്‍ കോടതിയുടെ വിശ്വാസ്യത തകര്‍ന്നു: ഇംപീച്മെന്റ് ചെയ്യണോ എന്ന് രാജ്യം ആലോചിക്കട്ടെ' … via Manoramanews"
+
+951778100521533441	796704362521300996	2018-01-12 16:59	" SupremeCourtjudges supremecourt DemocracyInDanger InModiraj"
+
+951776994781315072	872769627473887234	2018-01-12 16:54	"चोरों की दाढ़ी में तिनका JudgesAtWar democracyindanger"
+
+951774044600270850	120691395	2018-01-12 16:43	"அரசியல்வாதிகள் அவர்கள் சுயநலத்திற்காக மாற்றி அமைக்க பட்ட சட்டம்.... RIPLAW DEMOCRACYINDANGER"
+
+951771851558027264	2708554866	2018-01-12 16:34	"உச்சநீதிமன்ற நிர்வாகம் சரியில்லை என உச்சநீதிமன்ற நீதிபதிகளே சொல்வது மிகுந்த அதிர்ச்சியை தருகிறது. நம் நாட்டின் ஜனநாயகம் பாதுகாப்பாக தான் உள்ளதா என்பதில் சந்தேகம் எழுகிறது. democracyindanger"
+
+951771390125862912	4683025243	2018-01-12 16:32	" democracyindanger most likely."
+
+951769147137929216	2576630347	2018-01-12 16:23	" DemocracyInDanger Bhakts have started barking. "
+
+951768960088924161	2654492462	2018-01-12 16:22	" DemocracyInDanger JudgesPressConference “ಪ್ರಜಾಪ್ರಭುತ್ವ ಅಪಾಯದಲ್ಲಿದೆ” ! ದೇಶದ ಇತಿಹಾಸದಲ್ಲೇ ಮೊದಲ ಬಾರಿಗೆ ಸುಪ್ರೀಮ್ ಕೋರ್ಟ್ ನ್ಯಾಯಾಧೀಶರಿಂದ ಪತ್ರಿಕಾಗೋಷ್ಠಿ !! -"
+
+951768282121605120	32388588	2018-01-12 16:20	" DemocracyInDanger …"
+
+951766940195831808	714769876808835072	2018-01-12 16:14	" DemocracyInDanger "
+
+951765257571131397	815922399094964224	2018-01-12 16:08	" DemocracyInDanger "
+
+951763753485266944	928545439741177862	2018-01-12 16:02	" DemocracyInDanger …"
+
+951763235580952576	37162653	2018-01-12 16:00	"An opaque justice … SupremeCourt DemocracyInDanger"
+
+951763066051424256	928545439741177862	2018-01-12 15:59	" DemocracyInDanger …"
+
+951762842314682368	928545439741177862	2018-01-12 15:58	" DemocracyInDanger …"
+
+951761778605678592	928545439741177862	2018-01-12 15:54	" DemocracyInDanger …"
+
+951761287423262721	897658655763423232	2018-01-12 15:52	"Lions comes in singles, sometimes quadruple SupremeCourt DemocracyInDanger"
+
+951761085782216704	1496404939	2018-01-12 15:51	" democracyindanger"
+
+951760911395508224	928545439741177862	2018-01-12 15:50	" DemocracyInDanger …"
+
+951759170973310977	2892410018	2018-01-12 15:44	"After rajasthan, 'padmavat' is banedin Gujarat... RIP demorcracy... vijayrupanibjp .... democracyindanger"
+
+951758101845221378	2481770979	2018-01-12 15:39	"ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನಲ್ಲಿ ಆಡಳಿತ ಸರಿಯಿಲ್ಲ: ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನ ನಾಲ್ವರು ನ್ಯಾಯ ಮೂರ್ತಿಗಳ ಹೇಳಿಕೆ DemocracyInDanger "
+
+951757628958326784	2481770979	2018-01-12 15:37	"“ಪ್ರಜಾಪ್ರಭುತ್ವ ಅಪಾಯದಲ್ಲಿದೆ” ! ದೇಶದ ಇತಿಹಾಸದಲ್ಲೇ ಮೊದಲ ಬಾರಿಗೆ ಸುಪ್ರೀಮ್ ಕೋರ್ಟ್ ನ್ಯಾಯಾಧೀಶರಿಂದ ಪತ್ರಿಕಾಗೋಷ್ಠಿ !! DemocracyInDanger "
+
+951756159865708544	153078931	2018-01-12 15:32	" DemocracyInDanger …"
+
+951756046548197376	228599943	2018-01-12 15:31	" narendramodi AmitShah sb chaupat kr diya hai es desh me! democracyindanger"
+
+951755905757954048	809746877021241345	2018-01-12 15:31	"શું સુપ્રીમકોર્ટના ન્યાયાધીશોની આ હાલત હશેતો કરોડ સામાન્ય નાગરિકોની શું હાલત હશે? બસ તમારા અંતરાત્મા ને પુછો..! સાચે_જ_મારો_દેશ_બદલાઈ_રહ્યો_છે SupremeCourt DemocracyInDanger"
+
+951755081484914688	2989419813	2018-01-12 15:27	"मेरे देश का लोकतंत्र ख़तरे में है, सत्ता में बैठे कुछ तानाशाह लोगो की वजह से| DemocracyInDanger abhisar_sharma dibang romanaisarkhan anjanaomkashyap sardanarohit rahulkanwal sardesairajdeep awasthis aajtak abpnewshindi Nidhi ndtv"
+
+951754053045903360	74513551	2018-01-12 15:23	"haha. DemocracyInDanger …"
+
+951753619623178240	1926017923	2018-01-12 15:22	" SupremeCourt DemocracyInDanger मोदी के भारत में लोकतत्र खतरे मे. INCIndia Patelzuber milan_kuvadiya rohanrgupta "
+
+951752561857474561	1312956978	2018-01-12 15:17	"உச்சநீதிமன்ற நிர்வாகம் சரியில்லை என உச்சநீதிமன்ற நீதிபதிகளே சொல்வது மிகுந்த அதிர்ச்சியை தருகிறது. நம் நாட்டின் ஜனநாயகம் பாதுகாப்பாக தான் உள்ளதா என்பதில் சந்தேகம் எழுகிறது. DemocracyInDanger"
+
+951752469016727553	726022512149024768	2018-01-12 15:17	" DemocracyInDanger "
+
+951751655933886464	824199267367682049	2018-01-12 15:14	"Jab Hamid sir ne bayan diya to bahut debate ki gayi alochna ki gayi. Aaj dekhta hun k democracyindanger ke Judges k bayan par Maa ka laal aaj fir saamne aayenge aur debate karenge. News18India ZeeNewsHindi aajtak news24tvchannel awasthis AMISHDEVGAN sardanarohit Contd /2"
+
+951750990486581248	254982380	2018-01-12 15:11	"काय अवस्था झालीये माझ्या देशाची DemocracyInDanger"
+
+951749229449367552	122364955	2018-01-12 15:04	"ഇന്ത്യ വീണ്ടും ഇരുണ്ട കാലഘട്ടത്തിലേക്ക് പോവുകയാണോ.. DemocracyInDanger"
+
+951749107172786176	138043119	2018-01-12 15:04	"உச்சநீதிமன்றத்தின் செயல்பாடுகளில் மத்திய அரசு தலையிடுவதன் வெளிப்பாடாகவே நீதிபதிகளின் பேச்சு இத்தகைய முறையில் உள்ளதாகவே நான் கருதுகிறேன். இதில் விசாரணை நடத்துமா மத்திய narendramodi அரசு ? : JusticeChelameswar DemocracyInDanger "
+
+951748214322970624	833294956924108800	2018-01-12 15:00	"உச்சநீதிமன்ற நிர்வாகம் சரியில்லை என உச்சநீதிமன்ற நீதிபதிகளே சொல்வது மிகுந்த அதிர்ச்சியை தருகிறது. நம் நாட்டின் ஜனநாயகம் பாதுகாப்பாக தான் உள்ளதா என்பதில் சந்தேகம் எழுகிறது. DemocracyInDanger K_T_Lpic"
+
+951748102632882176	832785618916642816	2018-01-12 15:00	"நீதி துறை சரியாக செயல்பட வில்லை என்றால் தனியாரிடம் ஒப்படைக்கலாமே DemocracyInDanger"
+
+951747952766205952	2350193539	2018-01-12 14:59	"मीडिया के सामने आए SC के सिटिंग जज, सरकार में हड़कंप, स्वामी बोले- दखल दें PM SupremeCourt DemocracyInDanger JusticeChelameshwar JusticeLoyahttps:// …"
+
+951747849540136960	155851396	2018-01-12 14:59	" DemocracyInDanger …"
+
+951747429149233152	158781312	2018-01-12 14:57	" DemocracyInDanger …"
+
+951745874039746561	826334262781632513	2018-01-12 14:51	" democracyindanger "
+
+951745356366098433	701034669211521024	2018-01-12 14:49	" JusticeChelameshwar SupremeCourt DemocracyInDanger जाणून घ्या काय आहे माजी न्यायमूर्तींचे मत?...> <...वाचा"
+
+951743819292164096	835092725406003201	2018-01-12 14:43	" DemocracyInDanger "
+
+951743326142607361	1372184863	2018-01-12 14:41	"सर्वोच्च न्यायालयातील चार वरिष्ठ न्यायाधीशांनी मांडलेल्या व्यथेमुळे संपूर्ण देश चिंतेत आहे. DemocracyInDanger "
+
+951742925578252288	892608647091466245	2018-01-12 14:39	" … democracyindanger"
+
+951742757080461312	57265282	2018-01-12 14:38	" democracyindanger Tadipar gang strikes again"
+
+951742651107168256	2520265160	2018-01-12 14:38	" DemocracyInDanger "
+
+951742595574607872	2520265160	2018-01-12 14:38	" DemocracyInDanger "
+
+951742077699698688	2520265160	2018-01-12 14:36	" DemocracyInDanger "
+
+951741970472361984	2350193539	2018-01-12 14:35	"थोड़ी देर बाद जज भक्तों की नज़र में अब कांग्रेसी हो जाएंगे DemocracyInDanger SupremeCourt JudgesPressConference JusticeLoya"
+
+951741814628741120	716848956605530112	2018-01-12 14:35	" DemocracyInDanger Insaf k Mandir Se Insaf ki gohar, Akhir ky Bat ha ki Insaf ki kursi par Baithne wale ye bolne par majboor hoye k ham apni Ane wali Naslon s ye nhe Suunna chahte ki hamne Zameer Girve rakh diya, Hindutani Tarekh me Paheli bar dekhne ko mila !!!"
+
+951741781489545216	2520265160	2018-01-12 14:34	" DemocracyInDanger "
+
+951741425841946624	509160635	2018-01-12 14:33	" DemocracyInDanger media ko kharidne Ke bad desh Ke imandar judge's ko nahi kharid paygi bjp sarkar "
+
+951741292299497473	18185256	2018-01-12 14:33	"ನ್ಯಾಯಾಧೀಶ ಲೋಯಾ ಸಾವು 'ಅತ್ಯಂತ ಗಂಭೀರ' ಪ್ರಕರಣ : ಸುಪ್ರಿಂ ಕೋರ್ಟ್ JusticeChelameshwar | Judges | PressConference | democracyindanger | SupremeCourthttps:// …"
+
+951740916800176130	4355517079	2018-01-12 14:31	" DemocracyInDanger"
+
+951740467049148416	18185256	2018-01-12 14:29	"ನ್ಯಾಯಮೂರ್ತಿಗಳ ನಿಗೂಢ ನಡೆ: ಸಿಡಿದೆದ್ದ ಜಡ್ಜ್ ಗಳ ಬಗ್ಗೆ ಜನರೇನಂತಾರೆ? JusticeChelameswar | Judges | PressConference | SupremeCourt | democracyindanger …"
+
+951739959194501120	355966851	2018-01-12 14:27	" SupremeCourt न्यायव्यस्थेवर हा देश चालतो असा माझा समज होता, मात्र आज तोही खोटा ठरला. सर्व सामान्य माणसाने आता कोणावर विश्वास ठेवायचा? लोकप्रतिनिधी की, हतबल झालेल्या न्यायव्यवस्थेवर? DemocracyInDanger"
+
+951739809214513153	1175512842	2018-01-12 14:27	" DemocracyInDanger …"
+
+951739771335815168	2350193539	2018-01-12 14:26	"सोशलः 'जज ही अब देश के चीफ़ जस्टिस से न्याय की मांग कर रहे हैं' JusticeChelameswar JusticeLoya DemocracyInDanger SupremeCourthttp://"
+
+951739116764282880	896967561933242368	2018-01-12 14:24	"लोकतंत्र बचाने सुप्रीम कोर्ट के जज अब सामने आये हैं DemocracyInDanger jitupatwari jigneshmevani80 HardikPatel_ nsuihttps:// …"
+
+951738668326174722	65851051	2018-01-12 14:22	" DemocracyInDanger இந்திய தலைமை நீதிமன்ற நீதிபதிகளே நம்பிக்கை இழப்பு.."
+
+951738534909456385	1175512842	2018-01-12 14:22	"Netanyahu's India visit means DemocracyInDanger"
+
+951738525283581952	940191568962641922	2018-01-12 14:22	"തെരുവ്പട്ടികളുടെ കാര്യങ്ങൾ നോക്കാൻ വരെ ഇവിടെ ആൾക്കാരുണ്ട്..... DemocracyInDanger JusticeForSreejith"
+
+951738016107655168	4355517079	2018-01-12 14:20	"देशाच्या इतिहासात पहिल्यांदाच सर्वोच्च न्यायालयातील न्यायाधीशांनी पत्रकार परिषद घेऊन सर्वोच्च न्यायालयाच्या कारभारावर तोफ डागली आहे.'गेल्या दोन महिन्यांपासून सर्वोच्च न्यायालयाचा कारभार व्यवस्थित चालत नाही.पूर्वी कधी असं घडलं नाही. SupremeCourt_PressConference DemocracyInDanger"
+
+951737897081647104	701034669211521024	2018-01-12 14:19	" JusticeChelameshwar SupremeCourt DemocracyInDanger न्यायव्यवस्थेसाठी काळा दिवस : उज्ज्वल निकम ...> <....वाचा"
+
+951737720900001792	1175512842	2018-01-12 14:18	" DemocracyInDanger …"
+
+951737608597483522	906417994577743872	2018-01-12 14:18	" DemocracyInDanger न्यायालय की गिरती गरिमा एक तरफ तो मोदी जी कहते हे की भ्रस्टाचार खतम हो ओर दुसरी तरफ जो न्याय करते हे बो ही रिस्बत लेके काम करते हे अखिर क्यु SupremeCourt BeingSalmanKhan ajaydevgn ImRaina SarahGangoli RohitsAvenger "
+
+951737358860222464	941586034973749248	2018-01-12 14:17	"முதல் ல்லாம் சட்டம் தன்கடமை செய்யும், ஆனால், இப்போ எல்லாம் பொய் நாயகன் செல்வதை தான் செய்கிறது. DemocracyInDanger K_T_L"
+
+951736969658118144	2421663972	2018-01-12 14:15	"Our democracyindanger"
+
+951734497468452865	159045246	2018-01-12 14:06	"ജനാധിപത്യം അപകടാവസ്ഥയിൽ എന്നു സുപ്രീംകോടതി ജഡ്ജിമാർ. ഇതിൽ കൂടുതൽ എന്ത് വേണം. രാജ്യത്തെ ഈ അവസ്ഥയിൽ എത്തിച്ചതിനു ഉത്തരവാദി ഇപ്പോഴത്തെ ഭരണകൂടം തന്നെ ആണ് DemocracyInDanger"
+
+951734279284731909	2532129314	2018-01-12 14:05	"Justice loya ki aatma swarg se aaj in judges ko duaaye de rahi hogi DemocracyInDanger"
+
+951734256803262464	104119236	2018-01-12 14:05	" … by narendramodi DemocracyInDanger "
+
+951734253078761472	104119236	2018-01-12 14:05	"Followed by narendramodi … DemocracyInDanger "
+
+951733878179299328	163076848	2018-01-12 14:03	" DemocracyInDanger உச்சநீதிமன்ற தலைமை நீதிபதி பதவி விலக வேண்டும்.. என கோரிக்கை "
+
+951733663552618496	65851051	2018-01-12 14:02	" DemocracyInDanger இந்திய தலைமை நீதிமன்ற நீதிபதிகள் எச்சரிக்கை ! இந்திய நீதி துறையையும், இந்திய சுதந்திரத்தையும் காக்க வேண்டிய தருணம்."
+
+951732982032744448	2532129314	2018-01-12 13:59	"Our DemocracyInDanger but godi media will still do Hindu Muslim"
+
+951732875530878979	138480736	2018-01-12 13:59	" DemocracyInDanger …"
+
+951732719205175296	297185810	2018-01-12 13:58	"*FIRST IN THE HISTORY OF THE SUPREME COURT OF INDIA* *ಐತಿಹಾಸಿಕ ಪತ್ರಿಕಾ ಗೋಷ್ಠಿ* *ದೇಶದ ಇತಿಹಾಸದಲ್ಲೇ ಪ್ರಪ್ರಥಮ ಬಾರಿ ಸರ್ವೋಚ್ಚ ನ್ಯಾಯಾಲಯದ ನಾಲ್ವರು ಅತ್ಯಂತ ಹಿರಿಯ ನ್ಯಾಯಾಧೀಶರಿಂದ ಪತ್ರಿಕಾಗೋಷ್ಠಿ* *ಕೋರ್ಟ್ ಕಲಾಪ ನಡೆಯುತ್ತಿರುವಾಗಲೇ ಪ್ರೆಸ್ ಮೀಟ್* democracyindanger"
+
+951732698896314368	19872788	2018-01-12 13:58	"Loya ne jaga diya ‘soya’ hua zameer! DemocracyInDanger SupremeCourtinCrisis"
+
+951732470734442496	76259443	2018-01-12 13:57	"കോടതിയുടെ പ്രവർത്തനം സുതാര്യമല്ലെങ്കിൽ ജനാധിപത്യം തകരുമെന്ന് പരമോന്നത കോടതിയിലെ മുതിർന്ന നാലു ജഡ്ജിമാർ ഒരേ മനസ്സോടെ പ്രഖ്യാപിക്കുമ്പോൾ അതിൽ വ്യക്തമായ ആപത്‌സൂചനയുണ്ട് ... ഇത് സമാനതകളില്ലാത്ത സംഭവവികാസം. DemocracyInDanger"
+
+951731575913246722	137427637	2018-01-12 13:54	"പരമോന്നത നീതിപീഠങ്ങളിൽ ഇരിക്കുന്നവരും പറഞ്ഞു തുടങ്ങി.. Our DemocracyInDanger"
+
+951731326264094720	79795352	2018-01-12 13:53	" SupremeCourt இன்று பிற்பகல் மணிக்கு செய்தியாளர்களை சந்திக்கிறார் உச்ச நீதிமன்ற தலைமை நீதிபதி தீபக் மிஸ்ரா விஷயம் ரொம்ப சீரியஸ்சா இருக்கும் போல ...! Justice Chelameswar DemocracyInDanger Chief Justice of India Judges Attorney General "
+
+951730968670257154	348872594	2018-01-12 13:51	"Justice Chelameswar ko bhi Pata chal gya democracy khatre mein h lgta h Rahul Baba ne bata diya judge saheb ko DemocracyInDanger..."
+
+951730917948583936	832184223775629312	2018-01-12 13:51	" DemocracyInDanger क्या democracy सच मे खतरे में है"
+
+951730519158374400	100672992	2018-01-12 13:50	"तसाही तो विश्वास मजबुरीतूनच आलेला होता. ज्या देशातल्या खालपासून वरपर्यंतच्या कोर्टात including SupremeCourt साडे तीन कोटी केसेस पेंडिंग असतात तिथे लोकशाही आधीच धोक्यात आलेली असते DemocracyInDanger न्याय हा भास आहे आणि तो निवडक लोकांनाच मिळतो असं मानणारांची संख्या अब्जात आहे.. …"
+
+951730369107181568	778781602084229122	2018-01-12 13:49	" DemocracyInDanger …"
+
+951730286336794625	104119236	2018-01-12 13:49	" DemocracyInDanger DemocracyInDanger …"
+
+951730210415656961	104119236	2018-01-12 13:48	" DemocracyInDanger …"
+
+951730176521457665	778781602084229122	2018-01-12 13:48	" democracyindanger …"
+
+951730151569604609	346360734	2018-01-12 13:48	" BREAKING | உச்ச நீதிமன்றத்தில் நிர்வாகம் சரியில்லை என்ற மூத்த நீதிபதிகள் பேரின் குற்றச்சாட்டுக்கு மேலும் நீதிபதிகள் ஆதரவு SupremeCourt DemocracyInDanger"
+
+951730064013516803	778781602084229122	2018-01-12 13:48	" democracyindanger …"
+
+951729451204714497	778781602084229122	2018-01-12 13:45	" democracyindanger …"
+

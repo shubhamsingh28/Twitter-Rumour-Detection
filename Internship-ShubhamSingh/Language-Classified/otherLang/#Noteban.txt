@@ -1,0 +1,941 @@
+id 	 user_id 	 date 	 text
+1001547213355474944	143713840	2018-05-30 01:03	"And Our Economy is sinking under Modi's blunder's!! NoteBan GST"
+
+1001522064547721216	3304820383	2018-05-29 23:24	" SadhguruJV narendramodi INCIndia RSSorg ravishndtv EACtoPM Noteban Vs Plasticban "
+
+1000675022791364613	3328398883	2018-05-27 15:18	"ನೋಟ್ ಬ್ಯಾನ್ ಬಗ್ಗೆ ಹೇಳಿಕೆ ನೀಡಿದ ನಿತೀಶ್ ಕುಮಾರ್: ನೇ ವರ್ಷಾಚರಣೆ ದಿನವೇ ಕೇಂದ್ರ ಸರಕಾರಕ್ಕೆ ಮುಜುಗರ read more here► … NitishKumar NoteBan "
+
+1000653550698090496	167345502	2018-05-27 13:52	"નોટબંધીના નિર્ણયથી કેટલા લોકોને ફાયદો થયો?: નીતીશ કુમાર - મોદી સરકારના નોટબંધીના નિર્ણય પર નીતીશ કુમારે આંગળી ચીંધી gujaratsamachar noteban nitishkumarhttp:// …"
+
+1000645646817181697	18186688	2018-05-27 13:21	"കര്‍ണാടകത്തിന് പിന്നാലെ ബിഹാര്‍; ബിജെപിക്ക് കനത്ത തിരിച്ചടി നല്‍കി നിതീഷ്!! പുകഞ്ഞ് ബിഹാര്‍ സഖ്യം … nitishkumar noteban bihar jdu congress narendramodi bjp karnataka election നിതീഷ്കുമാര്‍ ബിഹാര്‍ ജെഡിയു ബിജെപി കര്‍ണാടക കോണ്‍ഗ്രസ്"
+
+1000357231311769602	366006830	2018-05-26 18:15	"ಮೋದಿಜಿಯ ವರ್ಷಗಳ ಸಾಧನೆ ಏನು ಅನ್ನೋದು ನಿನ್ ಫೇವರೇಟ್ ಟಿವಿ ಚಾನೆಲ್ಗಳಲ್ಲಿ ಬರ್ತಿದೆ.ಬೇಗ ನೋಡಿ ತಪ್ಪು ಕಂಡುಹಿಡಿದು ಪೋಸ್ಟ್ ಮಾಡ್ಬೇಕಲ್ವಾ, ಕ್ಕೂ ಮುಂಚೆ ನೀನು ಇದೆ ರೀತಿ ಕಾಂಗ್ರೆಸ್ ನ ಪ್ರಶ್ನೆ ಕೇಳಿದ್ಯಾ ಮಗು? ಇಂಟರ್ನೆಟ್ ಬಗ್ಗೆನೇ ಗೊತ್ತಿತ್ತೋ ಇಲ್ವೋ ಪಾಪ. DigitalIndia Noteban JioFree ಬಂದಮೇಲೆ /7 ಇರ್ತೀದಿಯ."
+
+999923297465782272	471911020	2018-05-25 13:31	"4.93 ಕೋಟಿ ರೂ. ಮೌಲ್ಯದ ಹಳೆಯ ನೋಟುಗಳು ಪತ್ತೆ! OldNote Money Demonetisation Police NoteBan "
+
+999871799809708032	49324338	2018-05-25 10:06	" NoteBandi NoteBan ka asar"
+
+998906568585465857	143713840	2018-05-22 18:10	"Isliye hum logon ka dil behlane keliye petrolpricehike kardiya aur NoteBan bhi kiya tha... sardesairajdeep free_thinker waglenikhil"
+
+996599959720951808	18185256	2018-05-16 09:25	"ದೇಶದಲ್ಲಿನ ನಗದು ಕೊರತೆ ಹಾಗೂ ಎಟಿಎಂ ಗಳು ಖಾಲಿಯಾಗಲು ಮುಖ್ಯ ಕಾರಣಗಳೇನು ಗೊತ್ತೆ? … money financenews banking economiccrisis noteban"
+
+996599952607531009	3007765140	2018-05-16 09:25	"ದೇಶದಲ್ಲಿನ ನಗದು ಕೊರತೆ ಹಾಗೂ ಎಟಿಎಂ ಗಳು ಖಾಲಿಯಾಗಲು ಮುಖ್ಯ ಕಾರಣಗಳೇನು ಗೊತ್ತೆ? … money financenews banking economiccrisis noteban"
+
+995692456413810688	423517610	2018-05-13 21:19	" Rafale Nirav Lalit GSPC Mallya MehulBhai Noteban ?"
+
+993540477805912064	1130657227	2018-05-07 22:48	"Kuch bi ho is bar Karnataka me NoteBan ki sarkar narendramodi AmitShah"
+
+993422049979793408	167345502	2018-05-07 14:57	"નોટબંધી અને GST લાગુ કરવામાં ઉતાવળ મોદી સરકારની મોટામાં મોટી ભૂલ gujaratsamachar noteban manmohansinghhttp:// …"
+
+993118662730092544	18186688	2018-05-06 18:51	"നോട്ടുക്ഷാമം തീര്‍ന്നില്ല..... കോടിയുടെ നോട്ടുകള്‍ അടിക്കും!! നൂറിന്റെ കാര്യത്തില്‍ മൗനം!! … note rbi bank noteban narendramodi government നോട്ട് ആര്‍ബിഐ നോട്ടുനിരോധനം നരേന്ദ്രമോദി സര്‍ക്കാര്‍"
+
+993019954562727936	18186688	2018-05-06 12:19	"നൂറ് രൂപയും കിട്ടാനില്ല; ജനം നെട്ടോട്ടമോടുന്നു!! കേന്ദ്രബാങ്കിന്റെ സഹായം തേടി, ബാങ്കുകള്‍ പറയുന്നത് … note noteban atm narendramodi നോട്ട് നോട്ട്നിരോധനം എടിഎം നരേന്ദ്രമോദി"
+
+992360739498147840	1945979065	2018-05-04 16:40	"নোট বাতিলের চরম প্রভাব! বছরে ব্যাঙ্কে প্রথমবার 'ডিপোজিট গ্রোথ'-এ ব্যাপক কমতি Bank NoteBAN cURRENCY DepositGrowthhttps://"
+
+991273379771674624	18186489	2018-05-01 16:39	"నల్లబజారు: తెలుగు రాష్ట్రాల్లో నగదు కొరతపై ఆర్బీఐ … andhrapradesh telangana atm cash rbi noteban demonetisation"
+
+991227656522711045	928908245535637504	2018-05-01 13:37	"ಕೇಂದ್ರ ಸರ್ಕಾರ ವಿರುದ್ಧ ಶಕೀಲ್ ಅಹ್ಮದ್ ಆರೋಪ- … via SuperSuddi kannadanews kannada news kannadigas kannadagroups hubli Congress ShakeelAhmed Naxalism Modi Kashmir Noteban"
+
+988666108935729152	324888267	2018-04-24 11:59	" Noteban …"
+
+987647754334711808	3304492172	2018-04-21 16:32	"नोटबन्दी के बाद पहली बार आई रिपोर्ट इसके बारे में कुछ कहेंगे ArunSFan INCIndia meamabhishek arunjaitley gauravbh noteban lootmaar "
+
+987630693457920000	104521047	2018-04-21 15:24	"નોટબંધી પછી પહેલો રિપોર્ટઃ બેંકોમાં જમા થઈ રેકોર્ડસ્તરે નકલી નોટ … Noteban Demonetization"
+
+987555265795973121	199202745	2018-04-21 10:24	"ನಗದು ಕೊರತೆಯ ನಾನಾ ಮಜಲು RBI NoteBan Karnataka Telangana Andhra prajavani ಪ್ರಜಾವಾಣಿ"
+
+987280617220915207	962965727735984128	2018-04-20 16:13	"ರಾಜ್ಯದ ನಾಯಕರು ಮೋದಿಗೆ ಬೆಂಬಲ ನೀಡುತ್ತಿದ್ದಾರೆ ಅದೇ ರಾಜ್ಯದ ಸಮಸ್ಯೆಗಳಿಗೆ ಮೋದಿಯನ್ನು ಯಾಕೆ ವಿರೋಧಿಸುತ್ತಿಲ್ಲ. ರಾಜ್ಯಕ್ಕಿಂತ ಪಕ್ಷವೇ ಮುಖ್ಯವಾಯಿತಾ NoteBandi NoteBan AmitShah dineshgrao ATM PMOIndia CMofKarnataka siddaramaiah"
+
+987225057414995968	963035202409807874	2018-04-20 12:32	"ವಿಧಾನಸಭೆ ಚುನಾವಣೆ ಹೊಸ್ತಿಲಲ್ಲಿರುವ ಕರ್ನಾಟಕ ಸೇರಿ ಹಲವು ರಾಜ್ಯಗಳ ಎಟಿಎಂಗಳಲ್ಲಿ ನೋಟುಗಳ ಕೊರತೆ ಉಂಟಾಗಿದೆ.. ಕಳೆದ ತಿಂಗಳಿಂದ ಇದೆ ಸಮಸ್ಯೆ ಎದುರಾಗಿದೆ NoteBandi NoteBan dineshgrao ATM CMofKarnataka siddaramaiah PMOIndia narendramodi thekjgeorge BSYBJP BJP4Karnataka"
+
+986961928030269441	964097400863256576	2018-04-19 19:07	"ದೇಶದಲ್ಲಿ ಅಗತ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚೇ ನಗದು ಇದೆ ಎಂದು ಕೇಂದ್ರ ಹಣಕಾಸು ಸಚಿವ ಅರುಣ್ ಜೇಟ್ಲಿ ಹೇಳುತ್ತಾರೆ. ಆದರೆ ಆ ಎಲ್ಲ ನೋಟುಗಳು ಎಲ್ಲಿ ಹೋಗುತ್ತಿವೆ-ಮಲ್ಲಿಕಾರ್ಜುನ ಖರ್ಗೆ Noteban BJP420 MallikarjunINC INCKarnataka dineshgrao CMofKarnataka siddaramaiah RLR_BTM"
+
+986910507922669568	965493978408742912	2018-04-19 15:42	"ರಾಜ್ಯದ ನಾಯಕರು ಮೋದಿಗೆ ಬೆಂಬಲ ನೀಡುತ್ತಿದ್ದಾರೆ ಅದೇ ರಾಜ್ಯದ ಸಮಸ್ಯೆಗಳಿಗೆ ಮೋದಿಯನ್ನು ಯಾಕೆ ವಿರೋಧಿಸುತ್ತಿಲ್ಲ. ರಾಜ್ಯಕ್ಕಿಂತ ಪಕ್ಷವೇ ಮುಖ್ಯವಾಯಿತಾ NoteBandi NoteBan dineshgrao ATM CMofKarnataka siddaramaiah PMOIndia narendramodi thekjgeorge BSYBJP"
+
+986910163884888064	965493978408742912	2018-04-19 15:41	"ವಿಧಾನಸಭೆ ಚುನಾವಣೆ ಹೊಸ್ತಿಲಲ್ಲಿರುವ ಕರ್ನಾಟಕ ಸೇರಿ ಹಲವು ರಾಜ್ಯಗಳ ಎಟಿಎಂಗಳಲ್ಲಿ ನೋಟುಗಳ ಕೊರತೆ ಉಂಟಾಗಿದೆ.. ಕಳೆದ ತಿಂಗಳಿಂದ ಇದೆ ಸಮಸ್ಯೆ ಎದುರಾಗಿದೆ NoteBandi NoteBan dineshgrao ATM CMofKarnataka siddaramaiah PMOIndia narendramodi thekjgeorge BSYBJP"
+
+986811530313265152	291585081	2018-04-19 09:09	"ದೇಶದಲ್ಲಿ ಇನ್ನೂ ಇದೇ ನೋಟು ಅಮಾನ್ಯೀಕರಣದ ಪರಿಣಾಮ NoCash NoteBan ATM …"
+
+986595598806630400	606113077	2018-04-18 18:51	"Cash Inflow: RBI எடுத்திருக்கும் முடிவு சரிதானா? … via RealFacts CashCrunch NoCash ATM Demonetisation NoteBan"
+
+986591802265223170	963372200009986049	2018-04-18 18:36	"ವಿಧಾನಸಭೆ ಚುನಾವಣೆ ಹೊಸ್ತಿಲಲ್ಲಿರುವ ಕರ್ನಾಟಕ ಸೇರಿ ಹಲವು ರಾಜ್ಯಗಳ ಎಟಿಎಂಗಳಲ್ಲಿ ನೋಟುಗಳ ಕೊರತೆ ಉಂಟಾಗಿದೆ.. ಕಳೆದ ತಿಂಗಳಿಂದ ಇದೆ ಸಮಸ್ಯೆ ಎದುರಾಗಿದೆ. NoteBandi NoteBan dineshgrao ATM CMofKarnataka siddaramaiah PMOIndia narendramodi thekjgeorge BSYBJP"
+
+986588040649822216	764361425124896769	2018-04-18 18:21	"ವಿಧಾನಸಭೆ ಚುನಾವಣೆ ಹೊಸ್ತಿಲಲ್ಲಿರುವ ಕರ್ನಾಟಕ ಸೇರಿ ಹಲವು ರಾಜ್ಯಗಳ ಎಟಿಎಂಗಳಲ್ಲಿ ನೋಟುಗಳ ಕೊರತೆ ಉಂಟಾಗಿದೆ.. ಕಳೆದ ತಿಂಗಳಿಂದ ಇದೆ ಸಮಸ್ಯೆ ಎದುರಾಗಿದೆ. NoteBandi NoteBan dineshgrao CMofKarnataka siddaramaiah PMOIndia narendramodi thekjgeorge BSYBJP"
+
+986494963167920129	80837481	2018-04-18 12:11	" video દેશમાં ફરી એક વખત નોટબંધી જેવી સ્થિતિ છે.. india cashless noteban atm sanjsamachar India Gujrat Rajkot, Gujarat …"
+
+986218196691644417	18186688	2018-04-17 17:51	"2500 കോടി ഓരോ ദിവസവും!! നിലപാട് മാറ്റി കേന്ദ്ര സര്‍ക്കാര്‍; എടിഎം കാലിയാകാന്‍ കാരണം ഇതാണ് … note noteban atm narendramodi നോട്ട് നോട്ട്നിരോധനം എടിഎം നരേന്ദ്രമോദി"
+
+986181915613868033	136132028	2018-04-17 15:27	"അണ്ണ൯ വിമാനത്തീകേറിയപ്പഴെ ATM നീരോധിച്ച്‌ എന്തെങ്കിലും നിരോധിച്ചാലല്ലെ media പുറകേ വരു എന്തക്കെ ആയിരുന്നു GST Noteban Atmban PMModi CashCrunch atm GST arunjaitley"
+
+986177165958955008	939020031312084994	2018-04-17 15:08	" NOTEBAN Note bundi se mundi layi desh me Modi sarkar me desh bank kathaar me"
+
+986123631888650240	3007684703	2018-04-17 11:36	"ملک کی کئی ریاستوں میں نوٹ بندی جیسا کیش بحران ایک بار پھر گہرا گیا ہے، یہاں تک کہ لوگ شادی کے کارڈ دکھا کر پیسہ نکال رہے ہیں۔ NoteBan Demonetisation ATMCashhttps:// …"
+
+985835689676750849	965538907059208192	2018-04-16 16:31	"ಮೋದಿ ಸರ್ಕಾರದಲ್ಲಿ.ವಿಜಯ್ ಮಲ್ಯ, ನಿರವ್ ಮೋದಿ, ಮೆಹೆಲ್ ಚೋಕ್ಸಿ ದೇಶ ಬಿಟ್ಟು ಪಲಾಯನ ಮಾಡಿದರು ಅಂತವರು ಮಾತ್ರ ಆರಾಮವಾಗಿ ಇರಬೇಕೆ. SpeakUpModi NoteBan ShahofLies INC4Karnataka"
+
+985835323799224320	965538907059208192	2018-04-16 16:30	"ನರೇಂದ್ರ ಮೋದಿ ಮತ್ತು ಅರುಣ್ ಜೈಟ್ಲಿಗೆ ಹಣಕಾಸು ಜ್ಞಾನವಿಲ್ಲಾ ಹಳೆಯ ಎಲ್ಲ ದುಡ್ಡು ಬ್ಯಾಂಕ್ ನಲ್ಲಿ ಡೆಪಾಸಿಟ್ ಆಗಿದೆ ಅಂತ ಹೇಳಿದ್ದಾರೆ ಆದರೂ ಕೂಡ ಇನ್ನು ಓಡಾಡುತ್ತಿದೆ. NoteBan ShahofLies INC4Karnataka"
+
+985760990301011968	1200790454	2018-04-16 11:35	"ನೋಟ್ ಬ್ಯಾನ್, ಜಿಎಸ್‌ಟಿ ಪರಿಣಾಮಗಳಿಂದ ಭಾರತ ಆರ್ಥಿಕತೆ ಚೇತರಿಸಿಕೊಂಡಿದೆ: ವಿಶ್ವಬ್ಯಾಂಕ್ NoteBan GST WorldBank India ModiGovt News13_in KannadaNews Read More ://"
+
+984812739116740610	3097353133	2018-04-13 20:47	"आर्थिक से ज्यादा राजनैतिक था ‘नोटबंदी’ का फैसला, चेतावनी के बाद भी ‘मोदी सरकार’ ने की मनमानी : रघुराम राजन NoteBan DeMonetisation NarendraModi INCIndia jitupatwari KunalChoudhary_ JM_Scindia priyankac19 pankhuripathak anil100yhttp:// …"
+
+983577244567126016	18186688	2018-04-10 10:57	"നീരവുമായി പ്രധാനമന്ത്രിക്ക് ബന്ധം? നോട്ടുനിരോധനത്തിന് മുമ്പ് കള്ളപ്പണം വെളുപ്പിച്ചു, സത്യാവസ്ഥ എന്ത് … narendramodi noteban niravmodi incometax bjp blackmoney നരേന്ദ്രമോദി നോട്ട്നിരോധനം നീരവ്മോദി തട്ടിപ്പ് ആദായനികുതി ബിജെപി കള്ളപ്പണം"
+
+982469949770919937	522286983	2018-04-07 09:37	" Noteban = Kidney"
+
+980131329944645632	471911020	2018-03-31 22:44	" Exclusive ಅಮಿತ್ ಶಾ – ಹೆಚ್.ಆರ್.ರಂಗನಾಥ್ ಫೇಸ್ ಫೇಸ್-– ಪಬ್ಲಿಕ್ ಟಿವಿಗೆ ಬಿಜೆಪಿ ರಾಷ್ಟ್ರೀಯ ಅಧ್ಯಕ್ಷ ಅಮಿತ್ ಶಾ ವಿಶೇಷ ಸಂದರ್ಶನ AmitShah HRRanganath BJP NoteBan Modi KarnatakaElection2018 Congress JDS TripleTalaq GauriLankesh "
+
+979681162150010881	32314933	2018-03-30 16:56	"na SwissBank se naahi desh me chhupi BlackMoney aayi Noteban ke baad jo kuch bachi thi usko NiMo jaiso ne churaayi"
+
+977814304924684289	939020031312084994	2018-03-25 13:17	" NOTEBAN&GSTMMD MODIMADEDISASTER Jisse chote karobari berozgar hogaye Bade karobari kharza lekar bhag gaye Desh me berozgari owr sarkari loot ki Sirf Modi sarkar zimmedar hain"
+
+977488505562570752	3328398883	2018-03-24 15:43	""ನೋಟು ರದ್ದತಿ ಹುಚ್ಚು ನಿರ್ಧಾರ ಎಂದು ಚಿದಂಬರಂ ಹೇಳಿದ್ದರು" ►ಮೈಸೂರಿನಲ್ಲಿ ರಾಹುಲ್ Read Here More► … RahulGandhi NoteBan "
+
+977414476612780032	3168249863	2018-03-24 10:49	"Demonetisation, GST massive damage to Indian economy: Rahul Gandhi … RahulGandhi Congress India Karnataka Demonetisation GST NoteBan"
+
+976888060091686913	18186688	2018-03-22 23:57	"അഴിമതി ഇല്ലാതാകാൻ ന്റെയും ത്തിന്റെയും നോട്ട് നിരോധിക്കണം; ഇനി ഓൺലൈൻ ഇടപാടുകൾ!! … chandrababunaidu telungana noteban chiefminister money ചന്ദ്രബാബുനായിഡു തെലുങ്കാന നോട്ട്നിരോധനം മുഖ്യമന്ത്രി പണം"
+
+976455508683997187	1516711537	2018-03-21 19:18	"రూ.2000 నోటు లాజిక్‌ నాకు తెలియదు : … noteban NarayanaMurthy "
+
+976435276301074433	594676291	2018-03-21 17:58	" noteban শহুরে বুদ্ধিজীবীরা খুশি না হলেও বিমুদ্রাকরণ স্বাগত জানিয়েছেন গ্রাম ভারতের সংখ্যাগরিষ্ঠ মানুষ, অভিমত নারায়ণমূর্তির …"
+
+976401399624978433	713644569464705025	2018-03-21 15:43	"পুরনো নোটের বদলে পাওয়া যাচ্ছে নতুন নোট। তবে লাগবে মোটা কমিশন। NoteBan Demonetization SangbadPratidin …"
+
+976135229701349377	256495314	2018-03-20 22:05	" RahulGandhi in Karnataka: Congress president invokes Mahabharat again, slams Modi on noteban and farmers' crisis …"
+
+976079156298399745	731768510922272768	2018-03-20 18:23	"भाई डिबेट पुरीढाबेKमिडिलक्लास prasarbharati मस्तीमजावालोंपरBतोकरा. PrannoyRoyNDTV को B लगेगा यादआगयामुझेफिरवोगुजराहुआजमाना. Notebanमें medantaमें500_1000एलाउहोजाते22मलोग तबB. पपूGचालीसा. narendrataneja sambitswaraj ShahnawazBJP GVLNRAO Sanju_Verma_ "
+
+975610095273988096	1605575810	2018-03-19 11:19	"RBIની નવી યોજના, રૂ.500 અને ની જૂની નોટોની બનશે ઇંટો ! RBI NoteBan NoteBandhihttps://"
+
+974682497102565376	171880832	2018-03-16 21:53	"नोटाबंदी, GSTला कंटाळून सराफाची आत्महत्या … Suicide GST Noteban Demonetisation ShivSena BJP"
+
+974258762411225088	1346764506	2018-03-15 17:49	"തിരുപ്പതി ക്ഷേത്രത്തില്‍ കാണിക്കായി ലഭിച്ചത് കോടി രൂപയുടെ അസാധു നോട്ടുകള്‍ … Demonetization NarendraModi noteban OfferingsInTirupatiTemple TirupatiTemple"
+
+973628783403130880	13584682	2018-03-14 00:06	" noteban "
+
+972496383004430339	3328398883	2018-03-10 21:06	"ನಾನು ಪ್ರಧಾನಿಯಾಗಿದ್ದರೆ ನೋಟ್ ಬ್ಯಾನ್ ಪ್ರಸ್ತಾಪವನ್ನು… PrimeMinister RahulGandhi NoteBan Malaysia Read More herehttp:// …"
+
+972494695371702272	18186688	2018-03-10 20:59	"നോട്ട് നിരോധനം എന്ന ഫയൽ കണ്ടാൽ ചവറ്റുകൂട്ടയിലേക്ക് വലിച്ചെറിഞ്ഞേനെയെന്ന് രാഹുൽ ഗാന്ധി … noteban rahulgandhi india bjp congress malaysia demonetisation നോട്ട്നിരോധനം രാഹുൽഗാന്ധി ഇന്ത്യ ബിജെപി കോൺഗ്രസ് മലേഷ്യ"
+
+972467197187469313	471911020	2018-03-10 19:10	"ತನ್ನ ನೋಟ್ ಬ್ಯಾನ್ ಐಡಿಯಾವನ್ನು ರಿವಿಲ್ ಮಾಡಿದ್ರು ರಾಹುಲ್ ಗಾಂಧಿ RahulGandhi NoteBan Congress "
+
+971416986839322625	1605575810	2018-03-07 21:37	"નોટબંધીથી થયો સૌથી મોટો ફાયદો, બન્યા એકમાત્ર ભારતીય યુવા અબજોપતિ Noteban ForbesRichesthttps://"
+
+970382303045324805	851785320651796480	2018-03-05 01:05	" NoteBan benefit link ur adhaar UIDAI ??? F**k man"
+
+970291928699842562	719067735926288389	2018-03-04 19:06	"Aur uske bad Noteban jese Kadam!! Jo tha vo bhi brbaad ho gya.."
+
+970171835399725056	3245946230	2018-03-04 11:09	" NoteBan me murder k aapke Kya maayne the!!!??"
+
+969322833066315776	705761789833777152	2018-03-02 02:55	"Agli baari Kejri gang saari. Picture Abhi Baki hai Jitna saamet sako, nikal bhago. Nahin to noteban jaisa hrs. nahin milega. Oh yes, you will be under agencies scanner. Be careful."
+
+969083131780243457	18186688	2018-03-01 11:03	"നോട്ട് നിരോധിച്ചതിന് മോദിയെ പരിഹസിച്ചവർ എവിടെ? എല്ലാം പഴയപടിയായി... കറൻസി സർക്കുലേഷനിൽ വർദ്ധനവ്.... … CurrencyCirculation NoteBan Demonetization Rbi PmModi MalayalamNews "
+
+968897255167049728	44583496	2018-02-28 22:44	" noteban, Moody നോട്ട് അസാധുവിൽ നിന്ന് ഇന്ത്യ കരകയറുന്നു –മൂഡീസ്"
+
+967776234208980992	806475194843832321	2018-02-25 20:30	"ನೋಟು ನಿಷೇಧ ಕುರಿತು ನೀರವ್ ಮೋದಿಗೆ ತಿಳಿದಿತ್ತು: ಮಜೀದ್ ಮೆನನ್ Suddi TV NoteBan NiravModi MajeedMemon Mumbai... "
+
+967734159803236352	471911020	2018-02-25 17:42	"ನೋಟ್ ಬ್ಯಾನ್ ಮೂಲಕ ಕಪ್ಪು ಹಣವನ್ನು ವೈಟ್ ಮನಿ ಮಾಡಲು ಮೋದಿ ಅವಕಾಶ ನೀಡಿದ್ರು: ರಾಗಾ ಆರೋಪ RahulGandhi KarnatakaElection Election Modi NoteBan "
+
+967241719824531456	471911020	2018-02-24 09:06	"ಹಳೇ , ರೂ. ನೋಟುಗಳನ್ನ ಎಕ್ಸ್ ಚೇಂಜ್ ಮಾಡಲು ಬಂದ ಮೂವರ ಬಂಧನ- 5 ಕೋಟಿ ರೂ. ಹಳೇನೋಟು ವಶ NoteExchange Bengaluru Oldnotes Noteban "
+
+965587881610932225	781930782831026177	2018-02-19 19:34	"মোদিজী নোটবন্দি করে টাকা ব্যাঙ্কে জমা করালেন, নীরভ হাজার কোটি তুলে নিয়ে গেলেন : রাহুল RahulGandi NoteBan Modiji TDNBangla …"
+
+964199069009752066	3176424230	2018-02-15 23:35	"দেশের শ্রমিক,কৃষকদের AchheDin দিনের স্বপ্ন দেখিয়ে ক্ষমতায় আসা narendramodi অভিনয় করে তাঁর বড়লোক সাথীদের কখনো Noteban বা কখনো তাঁদের ফাইল লোপাটের মাধ্যমে সাহায্য করে গেছে,কিন্তু NiravModi র এই দেশের বৃহত্তম আর্থিক কেলেঙ্কারি..! রাজা তোর কাপড় কোথায়? NiravModiLootsIndia"
+
+964099309217071104	3393769583	2018-02-15 16:59	"पैसा बँक मे रखा तो नीरव मोदी का डर, और घर मे रखा तो नरेंद्र मोदीजी का डर.. PNBScam Noteban waglenikhil ameytirodkar RoflGandhi_ ModiLeDubega laluprasadrjd HardikPatel_"
+
+964064924564643840	143713840	2018-02-15 14:42	" … ಹೇಗಿದೆ ನಮ್ಮ ಪ್ರಧಾನ ಮಂತ್ರಿ PMOIndia ಯವರ ಕಪ್ಪು ಹಣದ ವಿರುದ್ಧ ಹೋರಾಟ! BlackMoney NoteBan PNBScam NiravModi tv9kannada suvarnanewstv CMofKarnataka divyaspandana dineshgrao hd_kumaraswamy AdityaMenon22 pbhushan1 SirRavishKumar JaiHo"
+
+963854597151277056	18186688	2018-02-15 00:46	"കെട്ടിപ്പിടുത്തം കുറച്ച് കടമ നിറവേറ്റൂ: മോദിയ്ക്ക് കോണ്‍ഗ്രസിന്റെ വാലന്റൈൻസ് ഡേ സമ്മാനം … narendramodi congress bjp primeminister video twitter noteban valentinesday mannkibaat "
+
+963627172408840192	781930782831026177	2018-02-14 09:43	"নোটবাতিল আরবিআই অথবা জেটলির না বরং আরএসএসের সিদ্ধান্ত, মন্তব্য রাহুলের NoteBan RahulGandhi Rss BJP Congress TDNBangla …"
+
+962901807495172096	291585081	2018-02-12 09:40	"ನೋಟು ಅಮಾನ್ಯೀಕರಣವಾಗಿ ಒಂದೂವರೆ ವರ್ಷವಾದರೂ ಈ ಕೆಲಸವಾಗಿಲ್ಲ..! NoteBan Money UnionGovthttp:// …"
+
+962729269838450688	171880832	2018-02-11 22:15	"नोटबंदी: महिने उलटले तरी नोटमोजणी सुरूच! … NoteBan DeMonetisation demonitization "
+
+962681986585387008	3021179515	2018-02-11 19:07	"15 ತಿಂಗಳಾದರೂ ಆರ್‌ಬಿಐನಿಂದ ಹಳೆ ನೋಟುಗಳ ಲೆಕ್ಕ ಮುಗಿದಿಲ್ಲ Newdelhi Noteban RBI noteBan demonetise RTIhttps://"
+
+962660649464672257	1249470206	2018-02-11 17:42	" noteban "
+
+962596714900344833	259927538	2018-02-11 13:28	"એકવાર ફરીથી થવી જોઈએ નોટબંધી, વધ્યા ઘટ્યા આતંકવાદીઓની પણ કમર ટુટી જાય NoteBan."
+
+961908804949610496	494057994	2018-02-09 15:55	"ಮಾರ್ಚ್‌ ರೊಳಗೆ ಐಟಿಆರ್‌ ಸಲ್ಲಿಸಿ: ಐಟಿ ಇಲಾಖೆ Noteban "
+
+961897928259284992	1516711537	2018-02-09 15:11	"పెద్ద మొత్తంలో డిపాజిట్‌ చేశారా? అయితే... : … noteban "
+
+959792369095725061	18186688	2018-02-03 19:45	"കണക്കിൽപ്പെടാത്ത പണം നിക്ഷേപിച്ചവര്‍ കുടുങ്ങും!! ആദായനികുതി വകുപ്പ് പണി തുടങ്ങി … demonetization noteban incometax narendramodi primeminister deposit bank rs500 rs1000"
+
+959756467845832704	104521047	2018-02-03 17:22	"નોટબંધી વખતે રૂ.15 લાખ જમા કર્યા હોય તો ચેતજો, 8 લાખને મળી ITની નોટિસ... Read more at: … Noteban IT IncomeTax"
+
+959257566030200832	836115628243075075	2018-02-02 08:20	"ಎನ್‌ಡಿಎ ಸರ್ಕಾರದ ಪೂರ್ಣಪ್ರಮಾಣದ ಕೊನೆಯ ಬಜೆಟ್‌ ಎನ್ನುವ ಕಾರಣದಿಂದ ವಿಶೇಷ ಗಮನ ಸೆಳೆದಿದ್ದ -೧೯ರ ಕೇಂದ್ರ ಬಜೆಟ್‌ ದಿಕ್ಸೂಚಿ ಇಲ್ಲದ ನಾವೆಯಂತಿದೆ. Noteban arunjaitley GST AgricultureProblems UnionBudget2018 PMOIndiahttps:// …"
+
+959048390020509697	836115628243075075	2018-02-01 18:28	"ಚುನಾವಣೆಯತ್ತ ಕಣ್ಣು ನೆಟ್ಟ ಕೇಂದ್ರ ಬಜೆಟ್‌ ವಾಸ್ತವದ ಸಮಸ್ಯೆಗಳಿಂದ ಬಲುದೂರ Noteban arunjaitley GST AgricultureProblems UnionBudget2018 PMOIndiahttps:// …"
+
+958712076511330304	1602734420	2018-01-31 20:12	"নোটবন্দি নিয়ে মোদীর কাছে শ্বেতপত্র দাবি মমতার … MamataBanerjee NarendraModi NoteBan WhitePaper Kolkata24x7 BengaliNews "
+
+958302988879015936	18186688	2018-01-30 17:06	"കേന്ദ്ര ബജറ്റിൽ മെയ്ക്ക് ഇന്‍ ഇന്ത്യക്ക് ഊന്നൽ നല്കും, പ്രതീക്ഷയോടെ ടെക് വിപണി … unionbudget2018 gst gdp noteban arunjaitley financeminister narendramodi india bjp nda ധനകാര്യമന്ത്രി നരേന്ദ്രമോദി ബിജെപി എന്‍ഡിഎ tech സാങ്കേതികവിദ്യ"
+
+958065500939943936	18186688	2018-01-30 01:23	"സാമ്പത്തിക സര്‍വേ: മോദിയെ ട്വീറ്റിൽ‍ പരിഹസിച്ച് രാഹുൽ, ഡോണ്ട് വറി ബി ഹാപ്പി വീഡിയോ!! … rahulgandhi congress unionbudget2018 gst gdp noteban arunjaitley financeminister narendramodi india bjp nda "
+
+957989417393598465	471911020	2018-01-29 20:20	"ನೋಟ್ ನಿಷೇಧ, ಜಿಎಸ್‍ಟಿಯಿಂದ ತೆರಿಗೆದಾರರ ಸಂಖ್ಯೆ ಹೆಚ್ಚಳ: ಆರ್ಥಿಕ ಸಮೀಕ್ಷೆ .. ಇನ್ಫೋ ಗ್ರಾಫಿಕ್ಸ್ ನೋಡಿ... EconomicSurvey India NoteBan GST "
+
+957937314755371009	3097353133	2018-01-29 16:53	"आर्थिक सर्वे: GST में सुधार हो नहीं तो बिगड़ेंगे हालात, कृषि और रोजगार क्षेत्र में स्थिति होगी भयावह. EconomicSurvey2018 economicsurvey18 arunjaitley narendramodi GST NoteBan Demonetisation rssurjewala INCIndia priyankac19http:// …"
+
+957176756582146048	2504644686	2018-01-27 14:31	"ನೋಟು ರದ್ದತಿ, ಜಿಎಸ್ ಟಿಯಿಂದ ಆರ್ಥಿಕ ಪ್ರಗತಿ ಕುಸಿತ RaghuramRajan GST NoteBan … siddaramaiah DrParameshwara dineshgrao BJP4Karnataka INCKarnataka kavita_krishnan Tv9kannadanews tv9kannada suvarnanewstv sudditvnews prakashraaj Dk_youthcongres IYC"
+
+957138924404539392	3328398883	2018-01-27 12:01	"ಭಾರತದ ಆರ್ಥಿಕ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ರಘುರಾಮ್ ರಾಜನ್ ಹೇಳಿದ್ದೇನು? RaghuramRajan GST NoteBan Read More here …"
+
+955700534702325760	18186688	2018-01-23 12:45	"ഇന്ത്യയിൽ ലക്ഷം തൊഴിൽ അവസരങ്ങളോ.. എല്ലാം ഫേക്ക്.. കൊട്ടിഘോഷിച്ച ആ റിസർച്ച് ഫലത്തിന് പിന്നിൽ!! … india job gst iim sbi survey narendramodi primeminister noteban bengaluru demonetization government"
+
+955628574467223552	18186688	2018-01-23 07:59	"2018ല്‍ ഇന്ത്യ ചൈനയെ മറികടക്കും: സാമ്പത്തിക വളർച്ചയിൽ ഇന്ത്യയെക്കുറിച്ച് ഐഎംഎഫ് പ്രഖ്യാപനം!! … india china gdp imf economy gst noteban narendramodi "
+
+955350844626669568	80837481	2018-01-22 13:36	"નોટબંધીના આફટરશોક ચાલુ: બે લાખને નોટીસ noteban notice sanjsamachar "
+
+954621851019300864	18186688	2018-01-20 13:19	"ഇങ്ങനെയൊക്കെ ചെയ്യാമോ, നോട്ടടിക്കുന്ന പ്രസ്സിലെ ജീവനക്കാരന്‍ അടിച്ചുമാറ്റിയത് എത്രയെന്നറിയുമോ … noteban press employee money police തൊഴിലാളി പണം പോലീസ്"
+
+954319338340728832	18186688	2018-01-19 17:17	"രണ്ട് ലക്ഷം രൂപയുടെ നിരോധിത നോട്ടുകളുമായി ബദിയടുക്കയില്‍ രണ്ട് പേര്‍ അറസ്റ്റില്‍; കാര്‍ കസ്റ്റഡിയില്‍ … kasargod noteban rupee"
+
+953575317527908352	471911020	2018-01-17 16:00	"ಬ್ಯಾನ್ ಆದ ನೋಟುಗಳ ಹಾಸಿಗೆ- ಕೋಟಿ ರೂ. ಹಳೇ ನೋಟು ಜಪ್ತಿ! Noteban Demonetisation OldCurrency Crore "
+
+953526130643890176	2965609194	2018-01-17 12:45	"100 ಕೋಟಿ ಮೌಲ್ಯದ ರದ್ದಾದ ನೋಟು ವಶ … noteban demonetization uttarpradesh"
+
+953315969597825024	494057994	2018-01-16 22:50	"ಮತ್ತೆ 0 ಲಕ್ಷ ನಕಲಿ ಕಂಪನಿಗಳ ನೋಂದಣಿ ರದ್ದು Noteban "
+
+951514818967580673	2258641632	2018-01-11 23:33	"Homes get cheaper due to noteban, GST, RERA - via timesofindia"
+
+950986068479827968	726318458992885761	2018-01-10 12:32	"ನೋಟುಬಂದಿ ನಂತರ ಇದೀಗ ನಾಣ್ಯ ಉತ್ಪಾದನೆ ಬಂದ್! noteban coin RBI demonitization"
+
+950775531141660674	321987339	2018-01-09 22:35	" NoteBan Demonetisation ne aaj le li ek karobari ki zindagi le li, kya kisi ne modiji ko bataya ki uttarakhand ke krishi mantri ke samne ek karobari mar gaya, ab adhaar card kitne jane lega pata nahe....."
+
+950400199855292416	150152231	2018-01-08 21:43	"and GST and noteban and blah blah blah"
+
+950336449722818560	494057994	2018-01-08 17:30	"ನೇಪಾಳದ ಕೆಸಿನೋಗಳಲ್ಲಿ ಇನ್ನೂ ಚಲಾವಣೆಯಲ್ಲಿದೆ ಹಳೆಯ , ರೂ. ನೋಟುಗಳು Noteban "
+
+949694516943990784	3328398883	2018-01-06 22:59	"ಜಿಎಸ್ ಟಿ, ನೋಟ್ ಬ್ಯಾನ್ ನಿಂದ ಭಾರೀ ನಷ್ಟ ►ವಿಷ ಕುಡಿದು ಬಿಜೆಪಿ ಕಚೇರಿಗೆ ನುಗ್ಗಿದ ಉದ್ಯಮಿ GST Noteban BJP Read More herehttp:// …"
+
+948770555712466944	168124775	2018-01-04 09:48	" Noteban jaise kadam ke bad bhi tabadtod action lene me kyu sankoch karte ho ap? Jitne lambit vidheyak ya kanun hain un sabko ek sanyukt adhiveshan bula kar nistarit kijiye vipaksh aur media ko chillane dijiye ... Janta apke sath hi hogi"
+
+948742310459727872	471911020	2018-01-04 07:56	"ನೋಟ್‍ಬ್ಯಾನ್ ಆಗಿ ವರ್ಷವಾದ್ರೂ ಬೆಂಗ್ಳೂರಿನ ದೇಗುಲಗಳಲ್ಲಿ ಧೂಳು ತಿನ್ನುತ್ತಿರೋ ಲಕ್ಷ ಲಕ್ಷ ಹಳೇ ನೋಟು Noteban Demonetisation OldNotes Bengaluru "
+
+948211277213483009	249261600	2018-01-02 20:46	" cashless economy வேணும் ; CryptoCurrencies bitcoin வேண்டாமா ? என்ன காமெடி சார் இது .. ஆகா உங்களுக்கு cashless economy தெரியாது .. bitcoin தெரியாது... ஆனா noteban மட்டும் பண்ணுவீங்க"
+
+947384330564890625	34206701	2017-12-31 14:00	"नोटबंदी के बाद देश में लोगों को मिली बंपर नौकरियां,ऑर्गनाइज्ड सेक्टर ने -2017 दी ,00000 नई जॉब्स noteban lakhjobs organisedsector pmo\ MSDESkillIndia smritiirani BJP4India sambitswaraj We are also on FB "
+
+946687719815626752	2659745516	2017-12-29 15:51	"Par paise nahi milenge... noteban Mudy shud resign"
+
+945927645601996800	18186688	2017-12-27 13:31	"ഡിസംബർ നു ശേഷം എസ്ബിഐയിൽ ലയിച്ച് ബാങ്കുകളുടെ ചെക്കു ബുക്കുകൾ അസാധുവാക്കും … sbi bank noteban transaction rbi narendramodi business ബാങ്ക് പണമിടപാട് നോട്ട്നിരോധനം ആര്‍ബിഐ നരേന്ദ്രമോദി ബിസിനസ് cheque എസ്ബിഐ"
+
+944541307300593665	887675246970417152	2017-12-23 17:42	"راجیہ سبھا میں مرکزی حکومت نے واضح کیا کہ تعمیرات کے شعبے میں جائیداد کی قیمت پر نوٹ بندی کےاثر کا مطالعہ نہیں کرایا گیا۔ ConstructionSector NoteBan Demonetisation UrduNewshttp:// …"
+
+944422809907838977	1657620379	2017-12-23 09:51	"क्या रुपए के नोट पर पाबंदी लगनी चाहिए ? NoteBan NoteBan ShashiTharoor PChidambaram_IN ManmohanSingh raghuramrajan urjitpatel Swamy39 AamAadmiParty SanjayAzadSln"
+
+944213258608697345	896444041130164224	2017-12-22 19:59	" Noteban ke time jo kade hue to wo to tumne chutiya kataya tha mitro , or jail bhejene lage to amit shah or yogi pr intne cases h wo jaise jaynge sabse phle. To sab bhool jao mitro chai piyo. Mai chla kahi rally karne ya or koi desh ghum aata hu."
+
+944148151652401153	18186688	2017-12-22 15:40	"നോട്ട് നിരോധനവും ജിഎസ്ടിയും സാധാരണ കൃഷിക്കാരെ ബുദ്ധിമുട്ടിച്ചെന്ന് മന്ത്രി ടിപി രാമകൃഷ്ണന്‍ … vatakara noteban gst"
+
+943526891184467968	291585081	2017-12-20 22:31	"ಮತ್ತೊಮ್ಮೆ ನೋಟ್ ಬ್ಯಾನ್ ಮಾಡ್ತಾರಾ ಮೋದಿ? narendramodi NoteBan …"
+
+943184187548303360	494057994	2017-12-19 23:50	"ಆರು ತಿಂಗಳಲ್ಲಿ ಕೋಟಿ ರೂ. ಆಸ್ತಿ ಜಪ್ತಿ Noteban "
+
+942274158083190784	1249424906	2017-12-17 11:34	"Humne abhi noteban par ku6 nahi kaha..ias par bhi hamare ku6 bol hai.. ku6 aa6e ku6 bure..par abhi nahi bolna"
+
+940939637907800064	789308683226378244	2017-12-13 19:11	"How does he eect us or even FICCI believe this after Blackmoney NoteBan disaster कान मे बिडी समझता है क्या …"
+
+940896867361026053	494057994	2017-12-13 16:21	"ಸ್ವಹಿತಕ್ಕಾಗಿ ನೋಟು ನಿಷೇಧ ವಿರೋಧಿಸಿದ್ದ ಕಾಂಗ್ರೆಸ್‌: ಬಿಜೆಪಿ Noteban "
+
+940822113027526658	937506586834042881	2017-12-13 11:24	"JANTA KA DARD GST noteban ArunJaitley GDPgrowth GDP demonetisaton PChidambaram arunjaitley PChidambaram_IN via YouTube"
+
+940776062820200448	494057994	2017-12-13 08:21	"ಜಿಡಿಪಿ ಶೇ.7.2ಕ್ಕೆ ಏರಿಕೆ: ವಿಶ್ವಸಂಸ್ಥೆ ಮುನ್ನೋಟ Noteban "
+
+940729127614734337	3991108098	2017-12-13 05:14	" Noteban, GST behind extreme decision: Bizman … TamilNadu Chennai Murder "
+
+940185671670554624	14542121	2017-12-11 17:15	" noteban"
+
+938341612291211265	18186489	2017-12-06 15:07	"ఇదీ డొల్ల కంపెనీల గుట్టు: నోట్ల రద్దు సమయంలో వేల కోట్ల లావాదేవీలు.. కూపీ లాగుతోన్న ప్రభుత్వం.. … demonetisation noteban shellcompanies rbi"
+
+938072909238513664	778507558256422912	2017-12-05 21:19	" … मोदी सरकारच्या नव्या कायद्यामुळे कायमची नोटाबंदी होणार? Modi noteban "
+
+938060352448638976	778507558256422912	2017-12-05 20:29	" … मोदी सरकारच्या नव्या कायद्यामुळे कायमची नोटाबंदी होणार? Modi noteban"
+
+937962439462731776	18186688	2017-12-05 14:00	"സര്‍ക്കാറിനെ സേവിക്കാം ലക്ഷങ്ങളും നേടാം, ബിനാമി ഭൂമിയെ കുറിച്ച് വിവരം നല്‍കൂ സമ്മാനം നേടാം … benami property land act financeministry amendment law noteban government"
+
+937591341625643008	18186688	2017-12-04 13:26	"ഒരു കോടി രൂപയുടെ നിരോധിച്ച നോട്ടുകള്‍ക്ക് ലക്ഷം രൂപയുടെ പുതിയ നോട്ട് നല്‍കാമെന്ന് വ്യവസ്ഥ; രണ്ടു കോടി രൂപയുടെ നിരോധിത നോട്ടുകളുമായി നാലംഗ സംഘം മഞ്ചേരിയില്‍ പിടിയില്‍ … noteban banned"
+
+937015397336748033	3328398883	2017-12-02 23:17	"ನೋಟು ರದ್ದತಿ ಲೋಕಜ್ಞಾನವಿಲ್ಲದ ಅವಾಸ್ತವಿಕ ನಿರ್ಧಾರ: ಮನಮೋಹನ್ ಸಿಂಗ್ ಟೀಕೆ ManmohanSingh noteban Read More here …"
+
+936978216857714688	298323823	2017-12-02 20:49	" noteban GST were not for seeking votes _ManmohanSingh narendramodi"
+
+936890099219947520	346406417	2017-12-02 14:59	" GujaratElection2017 : Noteban, GST broke textile hub Surat's legs : RandeepSurjewala Gujarat rssurjewala INCGujarat "
+
+936885782039506945	3690561734	2017-12-02 14:42	" GujaratElection2017 : GST, NoteBan have destroyed Indian economy : RandeepSurjewala rssurjewala INCGujarat INCIndia"
+
+936822984362278912	3421366577	2017-12-02 10:32	"yad hai pakarmy chifne kaha tha ghasfus khaenge Hindustan se hajarsal larenge.hare subidhabhogipragtisil udarbadibuddhijivi congress INCIndia JNUGang SecularismSecularSecurist ndtv thorisi NoteBan GST asubidgapar kitna chilampon machate hain MODI"
+
+936809681246330880	292906969	2017-12-02 09:40	"ಕೋಟಿ ರೂ. ದೋಚಿದ್ದು ಸಿಸಿಬಿ ಪೊಲೀಸರೇ..! Read More: Demonetization noteban "
+
+936273664000921601	46853675	2017-11-30 22:10	" जीएसटी-नोटबंदी का असर अब पीछे छूटा:जेटली GST noteban ArunJaitley GDPgrowth GDP demonetisaton PChidambaram arunjaitley PChidambaram_IN"
+
+936248840440520705	471911020	2017-11-30 20:31	"ಎರಡನೇ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ ಜಿಡಿಪಿ ಏರಿಕೆ.. GDP GDPGrowth Economy Modi NoteBan GST "
+
+936188738958344192	3690561734	2017-11-30 16:32	"RaGa slams BJP over noteban and GST, says CM Rupani being 'remote controlled' by PM Modi Gujarat vijayrupanibjp narendramodi"
+
+936156248616996864	865497472717565954	2017-11-30 14:23	"Rajniti m achank kuch nhi hota agr aisa hota h to aap shart laga skte h ki yojna Pehle se banayi gyi thi. Noteban failure"
+
+935840633419456513	80837481	2017-11-29 17:29	"નોટબંધી: ઓવરટાઈમ કરનારા કર્મચારીઓન ેહવે પેમેન્ટ ચુકવાશે noteban overban employees payment sanjsaamachar "
+
+935743706623340545	96124737	2017-11-29 11:04	"Jab Modi karta hai toh saalo ki g!d jal jaati hai SurgicalStrike NoteBan Demonitisation GST Adhaar linkage And coming up Benami Property!! Uuuhh Aaahhh Ouuchh chillate hai. Ye log toh uparwale se manaye Modi aur kuch na karde BC"
+
+935166817517080576	4494003395	2017-11-27 20:51	" noteban gabbarsinghtax army k upar atiyachaar unko khoon se sign kar k aapko letter likhna pada JusticeLoya ka murder EVM_है_तो_BJP_है"
+
+935074502891003904	806475194843832321	2017-11-27 14:45	"ನೋಟು ನಿಷೇಧದ ನಂತರ ಕಾಶ್ಮೀರದಲ್ಲಿ ಶಾಂತಿ ನೆಲೆಸಿಲ್ಲ: ಫಾರೂಕ್ ಅಬ್ದುಲ್ಲಾ Suddi TV NoteBan Kashmir FarooqAbdullah News..."
+
+935057306298888192	3279487404	2017-11-27 13:36	"பணமதிப்பு நீக்கத்தால் திருப்பதி உண்டியலில் தேங்கிய ரூ.15 கோடி Demonetisation NoteBan Tirupati TamilNews எங்களது ஆப் பதிவிறக்கம் செய்ய: …"
+
+935045259238686720	167345502	2017-11-27 12:48	"નોટબંધી બાદ બેંકમાં જમા કરાવેલા ૯ કરોડ રૃપિયા બેનામી નિકળ્યા noteban gujaratsamacharhttp:// …"
+
+934441631725613057	3421366577	2017-11-25 20:50	"in saloki asho-aaramki jindagi jhand ho gai hai kyoki PMModi ki NoteBan GST BlackMoney KalaDhan par prahar ne ghotalebaj bhrastachari congresi ya kisi aur partike haramkhor harami netba tath partioki gd mar di hai jo inko bhi dalalime ndtv INCIndia"
+
+934360192858361856	3421366577	2017-11-25 15:26	"70 salon ki bhrast kamai ko kya karegi? blackmoney kaladhan congress incindia ndtv ko PMModi ki NoteBan GST ki jai ho BJP4India"
+
+934331528045309952	80837481	2017-11-25 13:32	"નોટબંધી બાદ રોકડ પેમેન્ટમાં ઘટાડો થયો છે : રીઝવૅ બેંકનો દાવો noteban cash payment reservebank sanjsamachar "
+
+933685390023651334	18186688	2017-11-23 18:45	"കേന്ദ്രസർക്കാരിന് സുപ്രീംകോടതിയുടെ അടി; കള്ളപ്പണനിരോധന നിയമത്തിലെ വ്യവസ്ഥകള്‍ ഭരണഘടനാ വിരുദ്ധം! … noteban centralgovernment india bail"
+
+933653729370353664	3288638384	2017-11-23 16:39	"Lo bhaiya ab Cheque bhi nahi rahega ...... bjp NDA PMMODI AmitShah noteban demonetisation "
+
+932940790132703232	917671413435179008	2017-11-21 17:26	" NoteBan-এর পর এবার মোদী সরকারের নিশানায় চেকবুক? via eisamay"
+
+932578903935168513	901316917654282240	2017-11-20 17:28	" BlackMoney NoteBan લોકોને બેવકૂફ બનાવની હદ હોય! નોટબંધી એ સરકારે પોતાના સ્વાર્થ માટે વગર વિચારે લીધેલો નિર્ણય છે. જેનાથી સામાન્ય જનતા ને ખુબ જ મુશ્કેલીઓ વેઠવી પડી હતી, હવે સરકારના અણઘડ નિર્ણયોથી પ્રજા ત્રાહિમામ પુકારી ગઈ છે. "
+
+932301568384188416	116499650	2017-11-19 23:06	" PMOIndia BJP4India BJP4Gujarat TOIIndiaNews ndtv waglenikhil sardesairajdeep even after noteban gsthttps:// …"
+
+932253114505289728	1602734420	2017-11-19 19:53	"‘চিল্লর’ টুইট দেখে বিক্ষুব্ধদের ‘চিল’ হতে বললেল শশী থারুর … ManushiChillar NoteBan ShashiTharoor Kolkata24x7 BengaliNews "
+
+932150213661224961	845881328415522816	2017-11-19 13:05	" MissWorldTime Noteban Demonitisation ke baad aakhir kar Chhillar hi kaam aayi MissWorld2017"
+
+932149538810245120	845881328415522816	2017-11-19 13:02	" Noteban Demonitisation ke baad aakhir kar Chhillar hi kaam aayi MissWorld2017"
+
+931848799273721857	80837481	2017-11-18 17:07	"ડિજીટલ પેમેન્ટને વેગ આપવા નોટબંધી પછીનું કદમ હશે ચેકબંધી digitalpayment noteban cheque sanjsamachar "
+
+931454033633591296	471911020	2017-11-17 14:58	"13 ವರ್ಷದ ಬಳಿಕ ಏರಿಕೆ ಕಂಡಿತು ಭಾರತದ ಮೂಡೀಸ್ ರೇಟಿಂಗ್? ರೇಟಿಂಗ್ ಏರಿಕೆಯಾದ್ರೆ ಭಾರತಕ್ಕೆ ಏನು ಲಾಭ? Moody india modi economy gdp noteban "
+
+931450873766543360	199202745	2017-11-17 14:46	"ಆರ್ಥಿಕ ಪುನಶ್ಚೇತನದ ಬಗ್ಗೆ ಅನುಮಾನಗಳಿದ್ದವರು ತಮ್ಮ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಪರೀಕ್ಷಿಸಿಕೊಳ್ಳಿ: ಅರುಣ್ ಜೇಟ್ಲಿ ArunJaitley Moodys Baa2 GST Demonetisation NoteBan prajavani ಪ್ರಜಾವಾಣಿ"
+
+931423717720129536	346406417	2017-11-17 12:58	"CM vijayrupanibjp hits back at Rahul Gandhi on his NoteBan & GST remarks : Gujarat "
+
+931417026026807296	199202745	2017-11-17 12:31	"‘ಮೂಡೀಸ್‌’ ರೇಟಿಂಗ್: ಸೆನ್ಸೆಕ್ಸ್ ಅಂಶ ಏರಿಕೆ MoodysEffect Sensex Moodys Baa2 GST Demonetisation NoteBan prajavani ಪ್ರಜಾವಾಣಿ"
+
+931407116396478465	199202745	2017-11-17 11:52	"ಭಾರತಕ್ಕೆ ‘ಬಿಎಎ2’ ರೇಟಿಂಗ್‌ ನೀಡಿದ ‘ಮೂಡೀಸ್‌’ Moody's Baa2 GST Demonetisation NoteBan prajavani ಪ್ರಜಾವಾಣಿ"
+
+931405613229228032	291585081	2017-11-17 11:46	"ನೋಟ್ ಬ್ಯಾನ್ ಬಳಿಕ ಮೋದಿಯಿಂದ ಮತ್ತೊಂದು ಶಾಕ್..? NarendraModi NoteBan"
+
+931389235046711296	761154442628444160	2017-11-17 10:41	"2016 ನ.8ರಂದು ಎಲ್ಲರ ನಿದ್ದೆಗೆಡಿಸಿದ್ದ ನೋಟು ಅಮಾನ್ಯೀಕರಣ ಆದೇಶದಂತೆ ಕಂತೆ ಕಂತೆ ನೋಟುಗಳ ಬದಲಾವಣೆ Black&white ದಂಧೆಯಲ್ಲಿ ಜನ ಅರೆಸ್ಟ್ ಪರ್ಸಂಟೇಜ್ ಮೂಲಕ ಮಧ್ಯವರ್ತಿಗಳ ಮೂಲಕ ದಂಧೆ ಪ್ರಕರಣಗಳಲ್ಲಿ ಕೋಟಿಗೂ ಹೆಚ್ಚು ಹಣ ಸೀಜ್ ನೋಟು ಬದಲಾವಣೆ ಹೆಸರಲ್ಲಿ ಕೋಟಿ ಕೋಟಿ ಲೂಟಿ Demonetiztion Noteban "
+
+931385372642230272	247049753	2017-11-17 10:25	" Noteban GSThttp://"
+
+931041573877399552	471911020	2017-11-16 11:39	"ಮೋದಿ ಸರ್ಕಾರಕ್ಕೆ ಶಾಕ್ ಕೊಟ್ಟ ಖದೀಮರು- ಲಕ್ಷ ರೂ. ಹಳೇ ನೋಟು ಪತ್ತೆ Gadag Modi Noteban "
+
+930794834230517763	18186688	2017-11-15 19:19	"പെട്രോൾ പമ്പ്, സ്വർണ്ണകട, കള്ളപ്പണം വെളുപ്പിച്ചത് ഇങ്ങനെ, പണം ഒഴുകിയത് 2 ലക്ഷം അക്കൗണ്ടുകളിൽ! … demonetisation noteban "
+
+930770360022081537	471911020	2017-11-15 17:42	"700 ವರ್ಷದ ಹಿಂದೆ ತುಘಲಕ್ ಸಹ ನೋಟ್ ಬ್ಯಾನ್ ಮಾಡಿದ್ದ: ಪ್ರಧಾನಿ ಮೋದಿಗೆ ಯಶವಂತ್ ಸಿನ್ಹಾ ಟಾಂಗ್ NarendraModi YashwantSinha BJP NoteBan "
+
+930760699130691584	1200790454	2017-11-15 17:03	"ನೋಟ್ ಬ್ಯಾನ್ ಬಳಿಕ ಏರಿಕೆಯಾದ ಪಾನ್‌ಕಾರ್ಡ್ ಅರ್ಜಿದಾರರ ಸಂಖ್ಯೆ NoteBan PAN KannadaNews Read More ://"
+
+930756032267214848	860108034152034305	2017-11-15 16:45	" Noteban effect? Delhi sees biggest drop in luxury home priceshttp:// …"
+
+930732130614722561	3328398883	2017-11-15 15:10	"ತುಘಲಕ್ ಕೂಡಾ ನೋಟು ನಿಷೇಧಿಸಿದ್ದ: ಮೋದಿಯನ್ನು ಟೀಕಿಸಿದ ಯಶ್ವಂತ್ ಸಿನ್ಹ YashwantSinha NarendraModi NoteBan Read More here …"
+
+930720218934075392	806475194843832321	2017-11-15 14:22	"ಮೊಹಮದ್ ಬಿನ್ ತುಘಲಕ್ ವರ್ಷಗಳ ಹಿಂದೆ ನೋಟು ನಿಷೇಧಿಸಿದ್ದ: ಯಶವಂತ ಸಿನ್ಹಾ Suddi TV News MuhammadbinTughluq NoteBan... "
+
+930667513431711745	830514496519151620	2017-11-15 10:53	" NoteBan HardikPatel_ ki sex CD dekh k lgta hai ki usme Sardar_Patel ka to ni pr Nehru ka DNA jrur ho skta hai.."
+
+930340458085040128	273316217	2017-11-14 13:13	" Noteban …"
+
+930257032401248256	47596486	2017-11-14 07:42	"નોટબંધી, જીએસટી મામલે મોદી સરકાર વિપક્ષથી ગભરાય છે એવો વિરોધપક્ષ કોંગ્રેસનો આક્ષેપ. સરકાર સંસદનું શિયાળું સત્ર તાત્કાલિક બોલાવે એવી કોંગ્રેસે માગણી કરી. NoteBan Demonetization GST INCIndia "
+
+929997206785896448	795241907597123584	2017-11-13 14:29	"নোট বাতিল, পাথর ছোঁড়া কমেছে শতাংশ পুরো খবর পড়তে ক্লিক করুন: … aajkaal banglanews NoteBan JK "
+
+929759519864848386	832656798	2017-11-12 22:45	" laluprasadrjd LaluPrasadYadav demands rollback of noteban, GST लालूयादव ने नोटबंदी और जीएसटी को वापस लेने..."
+
+929759508078796800	832656798	2017-11-12 22:45	" laluprasadrjd LaluPrasadYadav demands rollback of noteban, GST लालूयादव ने नोटबंदी और जीएसटी को वापस लेने... "
+
+929724281285591041	3168249863	2017-11-12 20:25	"Lalu Yadav demands rollback of noteban, GST - …"
+
+929638374004088832	1306448647	2017-11-12 14:43	" peolpebjppebhari pad gaye bas aisehi ekjut hojaaiyye bhai aur behno aur mitro aur bhakton tum bhi hissa lo modi ko desh se ukhaad phenkne mai NoteBan DeMoDisaster NavsarjanWithCongress Chitrakoot"
+
+929623314359865345	806475194843832321	2017-11-12 13:44	"ನೋಟು ನಿಷೇಧದ ನಂತರ ಭ್ರಷ್ಟಾಚಾರದ ಪ್ರಮಾಣ ಪಟ್ಟು ಏರಿಕೆಯಾಗಿದೆ: ಪಿ ಚಿದಂಬರಂ Suddi TV News PChidambaram NoteBan... "
+
+929621044578717696	744089038156529664	2017-11-12 13:35	"कल्याण-डोंबिवली जिल्हा काँग्रेसच्यावतीने मोदी सरकारने केलेल्या नोटाबंदीचा निषेध करण्यासाठी केलेल्या जनआंदोलनात महिलांचा व नागरीकांचा मोठ्या प्रमाणात सहभाग demonitisation NoteBan "
+
+929593300230610945	4410169992	2017-11-12 11:44	"Bhai aise koshish na kre to Acha he: Noteban GST in dono ne GDP ki what lga di Aise eeriment kr k kam kr rhi h govt. Faisala pehle leti h sochti bad me he."
+
+929534608294559744	494057994	2017-11-12 07:51	"ನೋಟು ಅಮಾನ್ಯತೆಯ ನಂತರ ಜನರ ಉಳಿತಾಯ ಪ್ರವೃತ್ತಿಯಲ್ಲಿ ಬದಲಾವಣೆ Noteban "
+
+929353352063758336	923929820572008448	2017-11-11 19:51	" NoteBan "
+
+929348559266242562	3271077158	2017-11-11 19:32	"Simbu fears trouble as his de-mon anthem goes viral STR Coimbatore CovaiPost DemonetizationAnthem narendramodi PMOIndia arunjaitley drtamilisaibjp HRajaBJP ikamalhaasan PonnaarrBJP NoteBan BJP4TamilNadu "
+
+929262474745888768	196541890	2017-11-11 13:50	" noteban …"
+
+929244841166356480	869606564079951872	2017-11-11 12:40	"जै बात....खामोश..... news modi bjp noteban "
+
+929238230016303104	44583496	2017-11-11 12:13	" Afghan, noteban ആകാശത്തിലും അഛാ ദിൻ "
+
+929066830538342400	2283830735	2017-11-11 00:52	" Notebandi NoteBan "
+
+928970538223001603	927522507787091968	2017-11-10 18:30	"Fir sa sarva karo hamko sath ma la chalna Noteban"
+
+928959784761593856	2754186091	2017-11-10 17:47	"Purane note se bhari bag kaha se aayi hai? Kya yeh sachme Jethaalal ki hai, ya in logo mein se hi kisi ne chupayi thi? Janane ke liye dekhte rahiye TMKOC Mon-Fri :30 baje only on sabtv! NoteBan "
+
+928958286635954176	1602734420	2017-11-10 17:41	"কেন্দ্রীয় সরকারের এই প্রতিযোগিতায় পেতে পারেন লক্ষ টাকা … Competition NarendraModi NoteBan Kolkata24x7 BengaliNews "
+
+928952512568160256	890109080240615425	2017-11-10 17:18	"Ab kon bachayega BhideUncle ko jail jaane se ? Janiye aaj raat TMKOC_NTF mein raat :30 baje sirf sabtv Demonetization DemonetizationAnniversary NoteBan "
+
+928944672906543104	806475194843832321	2017-11-10 16:47	"‘ನೋಟು ನಿಷೇಧದ ನಂತರ ವ್ಯವಹಾರಕ್ಕೆ ಧಕ್ಕೆ’ Suddi TV News NoteBan ArtOfLiving "
+
+928937045468295168	788689315	2017-11-10 16:17	"ನೋಟು ರದ್ದತಿ ವಿರುದ್ಧ ಮತ್ತೊಬ್ಬ ಬಿಜೆಪಿ ಸಂಸದ ವಾಗ್ದಾಳಿ ShyamaCharanGupta BJP MP GST NoteBan "
+
+928934566940655616	18186489	2017-11-10 16:07	"ఊహించని దెబ్బకొట్టారు, బీజేపీకి షాక్: మోడీ వ్యూహం రివర్స్ … narendramodi noteban congress bjp"
+
+928892511900143617	18185256	2017-11-10 13:20	"ಅನಾಣ್ಯೀಕರಣದಿಂದ ಜನರ ಉಳಿತಾಯದ ರೀತಿ ಬದಲಾಗಿದೆ … noteban demonetization money financenews"
+
+928892507370299392	3007765140	2017-11-10 13:20	"ಅನಾಣ್ಯೀಕರಣದಿಂದ ಜನರ ಉಳಿತಾಯದ ರೀತಿ ಬದಲಾಗಿದೆ … noteban demonetization money financenews"
+
+928882613833437184	1945979065	2017-11-10 12:40	"ভারতে নোট বাতিলের বর্ষপূর্তি: নরেন্দ্র মোদীর হঠাৎ সিদ্ধান্তে কার লাভ হল, কার হল ক্ষতি Demonetisation NoteBan "
+
+928864841992933377	842596857025052672	2017-11-10 11:30	" Ebook | Noteban: A yearlater NoteBan DemonetisationIndia"
+
+928860805671424000	897776912856104960	2017-11-10 11:14	"ಮೋದಿ ಅವರನ್ನು ನೇಣಿಗೇರಿಸಬೇಕು ಎಂದು ಪರಮೇಶ್ವರ್‌ ಬಡಬಡಿಸಿದ್ದಾರೆ. ಇದಕ್ಕೆ ಏನಂತೀರಿ NoteBan "
+
+928852119414718467	1516711537	2017-11-10 10:39	"భారీగా బంగారం, నగదు పట్టుబడింది … Gold noteban "
+
+928848785517699072	720343920035631104	2017-11-10 10:26	" Noteban : नोटाबंदीनंतर देशातील विमानतळांवरून कोटींची रोकड आणि किलो सोने-चांदी जप्त; सीआयएसएफची माहिती … via deshdoot"
+
+928839596992954368	80564768	2017-11-10 09:49	"Agar Demonetization success tha tho phir reserve bank count dene key liye saal kyon lagaya.... Kya Reserve bank note letey samay ginkar nahi liya ta, ya bankonko dete samay ginkar nahi diyata.. DeMoDisaster DemonetisationAnniversary Notebandi Noteban "
+
+928829514511040512	75964660	2017-11-10 09:09	" Noteban …"
+
+928790770970009600	329164287	2017-11-10 06:35	" narendramodi PMOIndia Noteban "
+
+928752750522961925	131148095	2017-11-10 04:04	" NoteBan "
+
+928692639343562752	842704801595080705	2017-11-10 00:05	" … Noteban effect ShankhNaad ikamalhaasan sardesairajdeep aajtak ArvindKejriwal INCIndia timesofindia"
+
+928680896516915200	860816396967706624	2017-11-09 23:19	" … Demonetisation Notebandi khaasretv NoteBan"
+
+928666613066297344	2848851415	2017-11-09 22:22	"చంద్రబాబు సామర్థ్యం మరచిపోయిన సమాజం.. … Chandrababu andhrapradesh amaravati Noteban Demonetization Telugudesam"
+
+928651040999735296	788689315	2017-11-09 21:20	"ಹುಷಾರ್.. ನೋಟ್ ಬ್ಯಾನ್ ವಿರುದ್ಧ ಮಾತನಾಡಿದರೆ ಬೀಳುತ್ತೆ ಗೂಸಾ..! BJP NoteBan Modi "
+
+928616886564261888	80837481	2017-11-09 19:04	"મિસ્ટર મોદી, નોટબંધી માટે માફી માગશો? પ્રકાશ રાવનો પ્રશ્ર્ન pmmodi noteban prkashrav sanjsamachar "
+
+928608139208986625	806475194843832321	2017-11-09 18:30	"‘ನೋಟ್ ಬ್ಯಾನ್ ಮಾಡಿದ್ದೇ ಮೂರ್ಖತನ’… Suddi TV CMSiddaramaiah NoteBan BJP Politics News "
+
+928598148926156801	3022141824	2017-11-09 17:50	"ಕರಾಳ ದಿನ ಆಚರಿಸೋದಿಕ್ಕೆ ಕಪ್ಪು ಹಣ ಉಪಯೋಗಿಸಿದ್ರ ಅಲ್ಲ ಬಿಳಿ ಹಣ ನ..?? BlackMoney NoteBan BlackoutDay"
+
+928577079909564417	2754186091	2017-11-09 16:26	"Kya lagta hai aapko kiska hoga yeh bag jisme se nikle hai ₹500 aur ₹1000 ke ban kiye hue note? Kya woh pakda jayega? TMKOC Demonetisation Noteban"
+
+928573908109971456	806475194843832321	2017-11-09 16:14	"CM Siddaramaiah : "Note Ban Was BJP Foolishness" | ಸುದ್ದಿ ಟಿವಿ Suddi TV CMSiddaramaiah NoteBan BJP News... "
+
+928568163633020928	18185256	2017-11-09 15:51	"2 ಸಾವಿರ ನಕಲಿ ಖಾತೆಗಳು, ಸಾವಿರ ಕೋಟಿ ವ್ಯವಹಾರ … noteban financenews money savings"
+
+928568158893498368	3007765140	2017-11-09 15:51	"2 ಸಾವಿರ ನಕಲಿ ಖಾತೆಗಳು, ಸಾವಿರ ಕೋಟಿ ವ್ಯವಹಾರ … noteban financenews money savings"
+
+928550041563758593	199600520	2017-11-09 14:39	"ಕರಾಳ ದಿನ ಆಚರಿಸುವವರು ಮೂರ್ಖರು- ಬಿ.ಎಸ್.ಯಡಿಯೂರಪ್ಪ BSY BlackDay NoteBan News "
+
+928543163807014912	291585081	2017-11-09 14:11	"ಬ್ಯಾನ್ ಆದ ನೋಟುಗಳು ಈ ದೇಶದಲ್ಲಿ ಇನ್ಮುಂದೆ ಬಳಕೆಗೆ..! ರದ್ದಿ ಬೆಲೆಗೆ ಮಾರಾಟವಾದ ಹಳೆಯ ಕೋಟಿ ರುಪಾಯಿ ನೋಟುಗಳು..! NoteBan Demonetisation "
+
+928518700952457216	18186688	2017-11-09 12:34	"നോട്ട് നിരോധനം കൊണ്ട് ഇന്ത്യ എന്തു നേടി? സര്‍ക്കാര്‍ എന്തു നേടി? മോദി മാപ്പുപറയണം … noteban thomasissac"
+
+928518054656466944	18186688	2017-11-09 12:32	"നോട്ട് അസാധുവാക്കല്‍ വാര്‍ഷിക ദിനത്തില്‍ മാര്‍ച്ചും പ്രതിഷേധ കൂട്ടായ്മയും നടത്തി … noteban "
+
+928492850232229888	900616002966142976	2017-11-09 10:52	"శ్రీ గణేష్ టీపీసీసీ - కార్యదర్శి ఆధ్వర్యంలో నోట్ల రద్దుకు వ్యతిరేకంగా కాంగ్రెస్ నిరసన ర్యాలీ Cashless Congress Demonetisation GDP Noteban "
+
+928489786129518592	18186688	2017-11-09 10:39	"'പണപ്പെട്ടി ദുരന്തം' എന്ന ഒറ്റയാള്‍ നാടകം ശ്രദ്ധേയമായി … noteban calicut drama"
+
+928487712738369536	261613187	2017-11-09 10:31	" Noteban to theek hai. Maan liya successful hai, lekin - jija ab bhi khula ghoom raha hai. Aur saare corrupt neta bhi khulle ghoom rahe hai. Swiss bank se ghanta bhi wapas nahi aaya. Kya hua tera wada? Modi"
+
+928487255731200001	1945979065	2017-11-09 10:29	"কেন্দ্রীয় অর্থমন্ত্রীকে 'নৈতিক' প্রশ্ন ছুঁড়লেন চিদাম্বরম PChidambaram_IN NoteBan "
+
+928472186398031872	3658264698	2017-11-09 09:29	" Artist’s noteban gift for PrimeMinister NarendraModi BangaloreMirror Kalaburagi "
+
+928452227546484736	494057994	2017-11-09 08:10	"ನೋಟ್‌ ಬ್ಯಾನ್‌ಗೆ ವರ್ಷ: ವಿಜಯೋತ್ಸವ, ಕರಾಳದಿನ Noteban "
+
+928441779740925952	910046370815291392	2017-11-09 07:29	" Demodisaster Demonetisation noteban blackday ಚಾಮರಾಜನಗರ ಜಿಲ್ಲಾ ಕಾಂಗ್ರೇಸ್ ವತಿಯಿಂದ ಕೇಂದ್ರ ಸರ್ಕಾರದ ಅಪನಗದೀಕರಣದ ಒಂದು ವರ್ಷ ತುಂಬಿದ ಇಂದು ಕರಾಳದಿನ ಆಚರಣೆ ಮಾಡಲಾಯಿತು.ಪ್ರತಿಭಟನೆಯಲ್ಲಿ ಸಂಸದರಾದ ಆರ್.ಧ್ರುವನಾರಾಯಣ್,ಶಾಸಕರಾದ ಸಿ.ಪುಟ್ಟರಂಗಶೆಟ್ಟಿ, ಆರ್.ನರೇಂದ್ರ,ಮತ್ತಿತರು ಭಾಗವಹಿಸಿದ್ದರು."
+
+928438301974921216	912929535737307136	2017-11-09 07:15	" Noteban "
+
+928392536493821952	4289480356	2017-11-09 04:13	" DettolSmartMask Noteban BJPMoneyLaunderingDay Sanjay Leela Bhansali Yamuna Eressway PritiPatelhttp://"
+
+928346210259427328	1602734420	2017-11-09 01:09	"নোট বাতিলে সরকারের ‘ঐতিহাসিক স ... … BreakingNews Damaged Kolkata NoteBan Kolkata24x7 BengaliNews "
+
+928320237308542976	904403441308491776	2017-11-08 23:26	"Or Surat Gujarat me h jisko aksar gaali dete ho,sayed ehsas hogya hoga vikas pagal h ya...???? sal pehle s corruption rokne ki kosis ki hoti to narendramodi ko sayad Noteban jaisa kathor kadam na uthana padta!"
+
+928319924069588993	2222987887	2017-11-08 23:24	"क्यों मितरों , सही कहा ना मोदी जी narendramodi DemonetisationAnniversary Noteban "
+
+928310971050762240	2616957794	2017-11-08 22:49	" bhagwan iss k aatma ko shanti deyna . . . notedemonetisation demonetisation noteban notebandi instagoods best joking "
+
+928305063298179072	44583496	2017-11-08 22:25	" PrakashRaj, noteban ആ മണ്ടത്തരത്തിന് മാപ്പ് പറയുമോ -മോദിയോട് പ്രകാശ് രാജ് "
+
+928302743239901184	171832278	2017-11-08 22:16	" NovBlackDay quizderek AITCofficial মমতার ডাকে সাড়া দিয়ে Noteban-এর প্রতিবাদে ডিপি কালো কেজরির TMCS"
+
+928298578166079489	819130177	2017-11-08 22:00	" NoteBan-র বর্ষপূর্তি। কেমন আছে আপনার পকেট? দেখুন একনজরে... "
+
+928297909346484224	101807279	2017-11-08 21:57	" भुगत_रहा_है_देश ModiMadeDisaster Notebandi Noteban DemonetisationAnniversary Demonitisation Demonitization Modi "
+
+928297483238641670	101807279	2017-11-08 21:55	" भुगत_रहा_है_देश ModiMadeDijaster Notebandi Noteban DemonetisationAnniversary Demonitisation Demonitization Modi "
+
+928287021206065153	788689315	2017-11-08 21:14	"ನೋಟ್ ಬ್ಯಾನ್ ಬಡವರ ಮೇಲೆ ಮಾಡಿದ ಸರ್ಜಿಕಲ್ ಸ್ಟ್ರೈಕ್ Congress Noteban Protesthttp://"
+
+928285568282193922	1416326076	2017-11-08 21:08	" Demonetisation Noteban Notebandi DemonetisationAnniversary Before: Pehle govt ko "khilana" padta tha. After: Ab hotel mein jao, to lagata hai Puri Sarkar Aapke Saath "kha Rahi hai" GST"
+
+928281985088479233	819130177	2017-11-08 20:54	"'প্রতারক দিবস' হিসেবে পালন করা হবে এই দিনটি... NoteBan Mamata Banerjee Arvind Kejriwal RealNews EiSamay …"
+
+928277673742397442	788689315	2017-11-08 20:36	"ನೋಟ್ ಬ್ಯಾನ್ ವಿರೋಧಿಸಿ ವಿವಿಧ ಪಕ್ಷಗಳು-ಸಂಘಟನೆಗಳಿಂದ ‘ಕರಾಳ ದಿನ’ ಆಚರಣೆ NoteBan Protest..."
+
+928275897341431809	1516711537	2017-11-08 20:29	"నోట్ల రద్దుపై ప్రకాష్‌రాజ్‌ సంచలన వ్యాఖ్య … noteban "
+
+928275125308350464	759755746695196673	2017-11-08 20:26	"50 Days Mange Year Hoogaya Sahab, Kya Kiya Jaye ????? Kya Yahi ACCHE_DIN Hain...?? NoteBan NoteBandi DeMonitization asadowaisi advjunaidi warispathan ravishndtv syedasimwaqar shaukat_aimimpic"
+
+928274334161842177	818287861	2017-11-08 20:23	"50 Days Mange Year Hoogaya, Kya Kiya Jaye ????? NoteBan NoteBandi DeMonitization asadowaisi advjunaidi warispathan "
+
+928274277924610048	331845825	2017-11-08 20:23	"Advani jee sb gali de rahe hain.. aap hi kuch karo. भुगत_रहा_है_देश Noteban "
+
+928273412375695360	806475194843832321	2017-11-08 20:20	"ನೋಟು ನಿಷೇಧದಿಂದ ಭಯೋತ್ಪಾದಕರಿಗೆ ಹಣದ ಹರಿವು ನಿಂತಿದೆ: ನಿರ್ಮಲಾ ಸೀತಾರಾಮನ್ Suddi TV NoteBan Demonetisation..."
+
+928273161082343424	1162639716	2017-11-08 20:19	" AbpAnanda Tv Noteban নোট বাতিলের বর্ষপূর্তি: রাজ্যজুড়ে মিছিল তৃণমূল, কংগ্রেসের, পাল্টা বিজেপির, সংঘর্ষ, হাতাহা… …"
+
+928272505998995456	594676291	2017-11-08 20:16	" Noteban নোট বাতিলের বর্ষপূর্তি: রাজ্যজুড়ে মিছিল তৃণমূল, কংগ্রেসের, পাল্টা বিজেপির, সংঘর্ষ, হাতাহাতি …"
+
+928269574520299520	1516711537	2017-11-08 20:04	"‘నోట్ల రద్దుతో స్వాతంత్ర్యం కోల్పోయాం’ … Noteban "
+
+928269110525464577	806475194843832321	2017-11-08 20:02	"ನೋಟ್ ಬ್ಯಾನ್ ಆದಾಗ ನುಂಗಿದ್ರು ಕೋಟಿ ಕೋಟಿ ಹಣ…. Suddi TV NoteBan Demonetisation Notes News "
+
+928262146277777408	494057994	2017-11-08 19:35	"ನೋಟು ಬ್ಯಾನ್‌, ಡಿಜಿಟಲೀಕರಣ ವ್ಯವಸ್ಥೆ ಶುದ್ಧೀಕರಿಸುವ ಪ್ರಕ್ರಿಯೆ: ನಿರ್ಮಲಾ Noteban "
+
+928261210658586625	46853675	2017-11-08 19:31	" चिदंबरम ने पूछा- नोटबंदी नैतिक कदम कैसे PChidambaram Noteban PChidambaram_IN"
+
+928248235709276160	18186489	2017-11-08 18:40	"పెద్దనోట్లు రద్దు, బ్లాక్ డే: గాంధీ ఆశయాలకు బీజేపీ వ్యతిరేకం, సూరత్ లో రాహుల్ గాంధీ ఫైర్ ! … modi noteban gst rahulgandhi"
+
+928241170370658305	3021179515	2017-11-08 18:11	"ಕಾಂಗ್ರೆಸ್ ಬಿಜೆಪಿ ಕಾರ್ಯಕರ್ತರ ನಡುವೆ ಕಾಳಗ: ಪೊಲೀಸರ ಮೇಲೆ ಕಲ್ಲೆಸೆತ Protest NoteBan demonitaisation Raipur Blackdayhttp://"
+
+928238485651070977	18186688	2017-11-08 18:01	"നോട്ട് നിരോധനത്തിനെതിരെ പിണറായി വിജയൻ.. നോട്ട് നിരോധനം നരേന്ദ്ര മോദിയുടെ വകതിരിവില്ലാത്ത തീരുമാനം … noteban "
+
+928237945202626560	80837481	2017-11-08 17:59	"નોટબંધીએ સોનીબજારની માઠી સર્જી; હજુ કળ વળી નથી noteban gold market sanjsamachar "
+
+928237823341207552	782875722117357568	2017-11-08 17:58	" Noteban ನೋಟುಗಳನ್ನು ಬ್ಯಾನ್ ಮಾಡಿರುವುದರಿಂದ ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ದೇಹದಿಂದ % ರಕ್ತವನ್ನು ಹೊರತೆಗೆದಂತಾಗಿದೆ CMofKarnataka BlackDay thekjgeorge INCKarnataka BJPMoneyLaunderingDay"
+
+928237497716375552	2754186091	2017-11-08 17:57	"Tanki mein se toh jo ek saal pehle ₹500 aur ₹1000 ke note band hue the woh nikle hai.. Heran hai Gokuldhaamites ki kaise aur kaha se aayi yeh paiso se bhari bag? Janane ke dekhte rahiye TMKOC Demonetization DemonetisationAnniversary Noteban "
+
+928236368748150785	857878347405074432	2017-11-08 17:52	"mai ek chota businessman hu aur NoteBan se muje ek paise ka bhi nuksan nahi hua hai HBDNoteban proud of my PM narendramodi cashless system se muje bahut fayda bhi hua hai. AntiBlackMoneyDay"
+
+928235719130152960	907145874123325441	2017-11-08 17:50	"ನೋಟ್ ಬ್ಯಾನ್ ನಿಂದ ಯಾವುದೇ ತೊಂದರೆಯಾಗಿಲ್ಲ anandsingh mla Noteban NoteBanAnniversary BJP BJP4India BJPfor2018 narendramodi AmitShah PMOIndia_RC PMuralidharRao PrakashJavdekar EshwarappaKS AnanthKumar_BJP ShobhaBJP AmitShah "
+
+928234622852382720	1200790454	2017-11-08 17:45	"ನೋಟ್ ಬ್ಯಾನ್‌ನಿಂದ ಭಯೋತ್ಪಾದನೆಗೆ ಹೊಡೆತ: ನಿರ್ಮಲಾ ಸೀತಾರಾಮನ್ Noteban DemonetisationAnniversary KannadaNews Read More ://"
+
+928231875512033280	806475194843832321	2017-11-08 17:34	"ಗರಿಷ್ಠ ಮುಖಬೆಲೆಯ ನೋಟು ನಿಷೇಧ ಖಂಡಿಸಿದ ಪ್ರಕಾಶ್ ರೈ Suddi TV PrakashRai TweetWar NoteBan News "
+
+928227595409227776	18186688	2017-11-08 17:17	"നോട്ട് നിരോധനം കൊണ്ട് ഒട്ടേറെ മെച്ചമുണ്ടായി; എണ്ണിപ്പറഞ്ഞ് ശശി തരൂര്‍ എംപി … noteban shashitharoor narendramodi"
+
+928227515990192129	796672138619011072	2017-11-08 17:17	"Nashik Updates nashik_feed RT Vijaykarnataka: ನೋಟ್‌ ಬ್ಯಾನ್ ಆದ ದಿನದಿಂದ x7 ದುಡಿಯುತ್ತಿರುವ ನಾಸಿಕ್‌ ನೋಟ್‌ ಪ್ರೆಸ್‌ Noteban "
+
+928227002368356353	826117446050381826	2017-11-08 17:15	"పెద్దనోట్ల రద్దు తరువాత ఏమైంది.. ఈ నాలుగు గ్రాఫుల్లో తెలుసుకుందాం Noteban DeMo DemonetisationAnniversaryhttp://"
+
+928226862521729024	494057994	2017-11-08 17:15	"ನೋಟ್‌ ಬ್ಯಾನ್ ಆದ ದಿನದಿಂದ x7 ದುಡಿಯುತ್ತಿರುವ ನಾಸಿಕ್‌ ನೋಟ್‌ ಪ್ರೆಸ್‌ Noteban "
+
+928224191920275457	4643183832	2017-11-08 17:04	" TNewstg నోట్ల రద్దుకు ఏడాది అయిన సందర్బంగా విజయవాడ పబ్లిక్ టాక్..!! Vijayawada NoteBan Demonetization PublicTalk NewWaveshttp://"
+
+928224162044198913	4643183832	2017-11-08 17:04	" telugunewss నోట్ల రద్దుకు ఏడాది అయిన సందర్బంగా విజయవాడ పబ్లిక్ టాక్..!! Vijayawada NoteBan Demonetization PublicTalk NewWaves "
+
+928221291206733824	18186688	2017-11-08 16:52	"നോട്ട് നിരോധനം: നാഷണലിസ്റ്റ് യൂത്ത് കോണ്‍ഗ്രസ് കരിദിനം ആചരിച്ചു … മലപ്പുറം malappuram youthcongress noteban"
+
+928220745636786176	18186688	2017-11-08 16:50	"നോട്ട് നിരോധനം അറിയാതെ ഒരു നാട്; പഴയ നോട്ട് സൂക്ഷിച്ച് വച്ച് ഒരു ജനത … noteban kannur narendramodi blackmoney"
+
+928219536083603456	867453320	2017-11-08 16:45	" NOTEBAN "
+
+928217357713117184	80837481	2017-11-08 16:37	"નોટબંધીની પુખ્ત વિચારણા, આયોજન સાથે અમલ કરવામાં આવ્યો હતો noteban thoughts sanjsamachar "
+
+928216380507226112	188236203	2017-11-08 16:33	"Garibo ko lagya line me.. Amiro ka kala dhan kiya safed.. Ye tha modi ki note bandi ka asali khel.. DemonetisationAnniversary Noteban Notebandi"
+
+928216060511133696	44583496	2017-11-08 16:32	" noteban, conversion കള്ളപണം വെളുപ്പിക്കാൻ നോട്ടു നിരോധനം സഹായിച്ചു-ലാലു പ്രസാദ് യാദവ്"
+
+928215578770313221	788689315	2017-11-08 16:30	"500-1000 ರೂ. ನೋಟು ನಿಷೇಧ : ಕಳೆದೊಂದು ವರ್ಷದಲ್ಲಿ ಏನೇನಾಯ್ತು..? Bank Govt NoteBan "
+
+928208853455355904	869251672383664128	2017-11-08 16:03	" Noteban "
+
+928203281142185985	128622175	2017-11-08 15:41	"Koi bhi na mile to Noteban or Modi ko bata dena"
+
+928202784612200450	3021179515	2017-11-08 15:39	"ನೋಟ್ ಬ್ಯಾನ್ ಆಗಿ ಅಲ್ಲ ದಿನ, ಮೋದಿ ವಿಫಲ : ದಿನೇಶ್ ಗುಂಡೂರಾವ್ NoteBan PrimeMinister NarendraModi DineshGunduRaohttp://"
+
+928199305290067968	54825588	2017-11-08 15:25	"نوٹ بندی نے انسان کی کمر توڈ دی، Noteban Nov8BlackDay"
+
+928198216192888832	753506548513665024	2017-11-08 15:21	"यही है क्या इनकी देश भक्ति.. Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928197900009480193	753506548513665024	2017-11-08 15:19	"नोट बंदी में ऐसे गरीबों हुआ कल्याण.. Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928195836965666818	890046626	2017-11-08 15:11	" demonetization currencyban noteban narendramodi क्या क्या ना सहा हमने तुम क्या जानो..."
+
+928195436858564608	788689315	2017-11-08 15:10	"ನೋಟು ಅಮಾನ್ಯೀಕರಣದಿಂದ ದೇಶಕ್ಕೆ ದೊಡ್ಡ ಹಾನಿಯಾಗಿದೆ : ಹೆಚ್ಡಿಕೆ JDS HDK NoteBan Modihttp://"
+
+928195201071325185	1945979065	2017-11-08 15:09	"নোট বাতিল নিয়ে ভিডিও পোস্ট নরেন্দ্র মোদীর noteban demonetisation "
+
+928191137449496577	806475194843832321	2017-11-08 14:53	"ನೋಟ್ ಬ್ಯಾನ್ ವಿರೋಧಿಸಿದವರು ಕಪ್ಪು ಹಣದ ಪರ- ನಿರ್ಮಲಾ ಸೀತಾರಾಮನ್ Suddi TV News NoteBan NirmalaSitharaman BlackMoney... "
+
+928189938100768770	795241907597123584	2017-11-08 14:48	"মোদির আমলে ফিরেছে ‘‌লাইসেন্স রাজ’‌, তীব্র কটাক্ষ রাহুলের পুরো খবর পড়তে ক্লিক করুন: … aajkaal banglanews Noteban "
+
+928186611665461249	788689315	2017-11-08 14:35	"ದೇಶಾದ್ಯಂತ ನೋಟ್ ಬ್ಯಾನ್ ಪರ-ವಿರೋಧಿ ಕೂಗು Modi NoteBan OneYear RahulGandhihttp://"
+
+928186378583724032	1162639716	2017-11-08 14:34	" AbpAnanda Tv Noteban নোট বাতিলে কমেছে দেহ ব্যবসা, নারী পাচার, দাবি রবিশঙ্কর প্রসাদের …"
+
+928185848394215424	594676291	2017-11-08 14:32	" Noteban নোট বাতিলে কমেছে দেহ ব্যবসা, নারী পাচার, দাবি রবিশঙ্কর প্রসাদের …"
+
+928181389324828672	758898781156839424	2017-11-08 14:14	"আজ নোট বাতিলের একবছর পূর্তি, জানুন এর থেকে হওয়া লাভ-ক্ষতির সম্বন্ধে DemonetisationAnniversary BlackMoney Noteban "
+
+928179722038603777	18186688	2017-11-08 14:07	"2000 രൂപയുടെ കറന്‍സികളും നിരോധിച്ചേക്കും? കോഡുകള്‍ കള്ളനോട്ട് സംഘം പകര്‍ത്തി.... … Noteban Demonetization Currency"
+
+928177899428909056	2256462463	2017-11-08 14:00	"Or noteban safal rahi .. aajtak n diya certificate.."
+
+928177332761911296	80837481	2017-11-08 13:58	"નોટબંધી - દેશમાં 6 કરોડ, ગુજરાતમાં 9 કરોડ ઇ-ટ્રાન્ઝેક્શન ઘટ્યા..! noteban etransaction gujarat... "
+
+928170489448665089	806475194843832321	2017-11-08 13:31	"ನೋಟ್ ಬ್ಯಾನ್ ಆಗಿ ಒಂದು ವರ್ಷ ಕಳೆದ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ರಾಜ್ಯಾದ್ಯಂತ ಪ್ರತಿಭಟನೆ Suddi TV News NoteBan Protest Congress... "
+
+928169656505864193	44583496	2017-11-08 13:27	" November8, noteban ഒന്നാം വാർഷികത്തിൽ രാഷ് ട്രീയ ആയുധമായി നോട്ട് നിരോധനം "
+
+928167162770022400	796672138619011072	2017-11-08 13:17	"Nashik Updates nashik_feed RT YatikY: RT mataonline: नोटाबंदीवेळी 'ही' ठरली तारणहार; नाशिकने दिला देशाला आधार! … Noteban"
+
+928165835088191489	18186688	2017-11-08 13:12	"കേന്ദ്രസര്‍ക്കാരിനെ പിന്തുണച്ചവർക്ക് നന്ദി, നോട്ട് അസാധുവാക്കല്‍ നടപടി വിജയകരമെന്ന് മോദി … noteban demonetisation"
+
+928164739946909697	18186688	2017-11-08 13:08	"നോട്ട് നിരോധനം: കേന്ദ്ര സര്‍ക്കാരിന്റെ ഇളവ് നടപ്പാക്കിയില്ല, കേരളത്തിന് കോടികളുടെ നഷ്ടം … noteban kerala bjp govt"
+
+928164375151632385	18186688	2017-11-08 13:06	"നോട്ട് നിരോധനം നാറാണത്ത് ഭ്രാന്തന്റെ മിന്നലാക്രമണം! മോദി മാജിക് പൊളിച്ചടുക്കി തോമസ് ഐസക് … noteban "
+
+928163854126792705	18186688	2017-11-08 13:04	"ജനങ്ങളെ നെട്ടോട്ടമോടിച്ച പ്രധാനമന്ത്രി; മോദിയെ കൊട്ടി പ്രതിപക്ഷം; നവംബര്‍ എട്ടിന് ഏപ്രില്‍ ഫൂള്‍ … noteban modi"
+
+928162678253682688	1555266841	2017-11-08 13:00	" NarendraModi Modi Demonetisation DeMo Noteban Notebandi "
+
+928160869535580160	747848980579549184	2017-11-08 12:52	"ഒരു വർഷം നീണ്ടുനിന്ന നോട്ട് നിരോധന യജ്ഞത്തിന്റെ നേട്ടങ്ങളും കോട്ടങ്ങളും demonetisation noteban prosandconshttp://"
+
+928159687714930693	80837481	2017-11-08 12:48	"નોટબંધીની વરસીએ અડવાણીનો જન્મદિન ઉજવીશું: શત્રુઘ્ન સિંહા shatrughansinha advani noteban birthday sanjsamachar "
+
+928157288363278336	18186688	2017-11-08 12:38	"മോദിയുടെ 'അനുഗ്രഹത്തില്‍' താരമായത് സ്വൈപിങ് മെഷീന്‍! ഇതെന്തൂട്ട് സാധനം! ഇപ്പോള്‍ ദുരവസ്ഥ... … noteban demonetization "
+
+928157050642796544	80837481	2017-11-08 12:37	"નોટબંધી વષૅ: પ૪૧ બેનામી મનાતી પ્રોપટીૅ- રૂા. કરોડની રોકડ જપ્ત noteban property sanjsamachar "
+
+928155924589551617	80837481	2017-11-08 12:33	"નોટબંધીને એક વર્ષ : વેપાર, ઉદ્યોગ હજુ પાટે ચડયા નથી noteban industry business sanjsamachar "
+
+928152744514506752	826117446050381826	2017-11-08 12:20	" మాటకుమాట నోట్ల రద్దుతో మీరెదుర్కొన్న అనుభవాలేంటి? నోట్ల రద్దుతో దేశానికి లాభమా? నష్టమా? మీరేమంటారు? NoteBan Demonetization "
+
+928152528620892160	1945979065	2017-11-08 12:19	"ফিরে দেখা, নোট বাতিলের পর থেকে ঠিক কী কী হল একবছরে Demonetisation Noteban "
+
+928151689831600129	80837481	2017-11-08 12:16	"નોટબંધી 0011% લોકોએ બેંકોમાં % કેશ જમા કરાવી noteban people banks deposite cash sanjsamachar "
+
+928147598527037440	80837481	2017-11-08 12:00	"નોટબંધીની લડાઈમાં જીત: દેશનો આભાર માનતા મોદી pmmodi noteban thankful sanjsamachar "
+
+928146581353668608	471911020	2017-11-08 11:56	"ನೋಟ್‍ಬ್ಯಾನ್ ವರ್ಷಾಚರಣೆ ದಿನವೇ ಭರ್ಜರಿ ಬೇಟೆ – ಕಲಬುರಗಿಯಲ್ಲಿ ಲಕ್ಷ ರೂ. ಕಪ್ಪುಹಣ ಪತ್ತೆ Kalaburagi Noteban Blackmoney "
+
+928145432408027136	3284551004	2017-11-08 11:51	"ಕಪ್ಪು ಹಣ ಇಟ್ಕೋಳೋಕೆ ಭ್ರಷ್ಟಾಚಾರಿಗಳು ಜಾಗದ ಕೊರತೆ ಅನುಭವಸ್ತಾ ಇದ್ರೂ ಅನ್ಸುತ್ತೆ, ಅದಕ್ಕೆ ಎರಡು ಸಾವಿರ ರೂಪಾಯಿ ನೋಟ್ ತಂದು ಅನುಕೂಲ ಮಾಡಿಕೊಟ್ಟಿರಬೇಕು.. ಅಂತ ಯಾರೋ ಒಬ್ರು ಮಾತಡಕೊಳ್ತಾ ಇದ್ರೂ .. ನಿಜಾನೆ ಇರ್ಬೇಕು ಅನಿಸಿತು ಕಪ್ಪು_ಹಣ_ನಾಟಕ NoteBan"
+
+928143031877771264	583640259	2017-11-08 11:41	"एमएसएमई क्षेत्र को नोटबंदी के बाद भी लगे झटके sahilmakkar Noteban OneYearOfDemonetisation "
+
+928142966346190853	122692047	2017-11-08 11:41	" नोटबन्दी एक अच्छी नियत से लिया गया फैसला था । Noteban Narendra Modi Rohit Sardana"
+
+928141195586310144	862614260	2017-11-08 11:34	"आजी नेहमी म्हणायची कुणाला शनी लागू नये तर आकडा शनीचा गेल्यावर्षीच्या तारखेला रात्री आठ वाजता देशाला शनी लागला Noteban blackday Indianeconomy"
+
+928141016107847681	1200790454	2017-11-08 11:33	"ನೋಟ್‌ಬ್ಯಾನ್ ಕ್ರಮವನ್ನು ಈಗಲೂ ಬೆಂಬಲಿಸುತ್ತಿದ್ದಾರೆ ಜನ: ಸಮೀಕ್ಷೆ Noteban Demonetisation KannadaNews Read More ://"
+
+928140481417981952	3871688412	2017-11-08 11:31	" Noteban AntiBlackMoneyDay Demonetisation PMOIndia narendramodi AmitShah BJP4India arunjaitley VasundharaBJP नोटबंदी: गरीबों के लिए, ईमानदारों के साथ।"
+
+928139794260963328	920867389150859264	2017-11-08 11:29	" Noteban AntiBlackMoneyDay Demonetisation PMOIndia narendramodi AmitShah BJP4India arunjaitley VasundharaBJP भाजपा सरकार का सबसे बड़ा व कड़ा फैसला नोटबंदी से देश को हुआ फायदा।"
+
+928137826281054208	4422961032	2017-11-08 11:21	" Noteban …"
+
+928133759718735872	838251904882765825	2017-11-08 11:05	"Modi ji yeh sirf Aap ka kehna hai,hume toh apne takleef diya hai,aam admi pachta raha hai,aap bas bolte ho,karte kuch nai ho. aamadmiudaashai, baskehna, Nov8BlackDay , Noteban , worstdayofindian"
+
+928133700461535233	753506548513665024	2017-11-08 11:04	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928133580730990592	44583496	2017-11-08 11:04	" noteban, PravasiFund കേരളത്തിന് താങ്ങായത് പ്രവാസിപ്പണം "
+
+928133521134166016	753506548513665024	2017-11-08 11:04	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928133371711987712	753506548513665024	2017-11-08 11:03	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928133143835451392	753506548513665024	2017-11-08 11:02	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928133093763846146	753506548513665024	2017-11-08 11:02	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928133053574033408	753506548513665024	2017-11-08 11:02	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928132708592640000	753506548513665024	2017-11-08 11:00	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928131869769531392	753506548513665024	2017-11-08 10:57	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928131810671804416	753506548513665024	2017-11-08 10:57	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928131543754711040	753506548513665024	2017-11-08 10:56	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928131361675780096	494057994	2017-11-08 10:55	"ಕಾಳಧನ ವಿರೋಧಿ ದಿನ: ದೇಶದ ಜನತೆಗೆ ತಲೆಬಾಗುವೆ ಎಂದ ಪ್ರಧಾನಿ Noteban "
+
+928131305170022400	753506548513665024	2017-11-08 10:55	" Failure BJPMoneyLaunderingDay Nov8BlackDay DemonetisationDisaster DeMoDisaster Notebandi Noteban "
+
+928129659572768768	826117446050381826	2017-11-08 10:48	"నోట్ల రద్దు, జీఎస్టీ... ఇప్పుడు బీటీటీ రానుందా?...బీబీసీ న్యూస్ తెలుగు ప్రెస్ రివ్యూ GST NoteBan BTT "
+
+928129415908749313	89320985	2017-11-08 10:47	" Sahajada Sha or Mr. Sinha - sab AntiBlankMoneyDay ka fasal hai keya PMOIndia narendramodi BJP4India NotebandiDeaths Noteban"
+
+928129125138677760	2965621116	2017-11-08 10:46	"ജനങ്ങളെ പ്രണമിക്കുന്നെന്ന് പ്രധാനമന്ത്രി നരേന്ദ്ര മോദി … narendramodi noteban"
+
+928127654615769088	788689315	2017-11-08 10:40	"ಐತಿಹಾಸಿಕ ನೋಟ್ ಬ್ಯಾನ್ ನಿರ್ಧಾರಕ್ಕೆ ಪ್ರಧಾನಿಗೆ ಟ್ವೀಟಿಗರಿಂದ ಧನ್ಯವಾದ Modi Tweet NoteBan Twitter "
+
+928123979562344449	1200790454	2017-11-08 10:26	"ನೋಟ್ ಬ್ಯಾನ್ ಬೆಂಬಲಿಸಿದ ಜನತೆಗೆ ಧನ್ಯವಾದ ಅರ್ಪಿಸಿದ ಮೋದಿ Noteban AntiBlackMoneyDay DemonetisationAnniversary Read More ://"
+
+928123378715713536	47596486	2017-11-08 10:23	" Delhi NotebandiDeaths Noteban પીએમ મોદીએ નમો એપ પર દેશવાસીઓ પાસે માંગી નોટબંધી પર પ્રતિક્રિયા PMOIndia "
+
+928120458364325888	1945979065	2017-11-08 10:12	"নোট বাতিলের বর্ষপূর্তিতে নগদের ব্যবহার কতটা কমল noteban Demonetisaton "
+
+928118132971012096	806475194843832321	2017-11-08 10:03	"ನೋಟ್ ಬ್ಯಾನ್ ಗೆ ಇಂದಿಗೆ ಒಂದು ವರ್ಷ Suddi TV News NoteBan NarendraModi "
+
+928117395687952385	829560784845803522	2017-11-08 10:00	"Modi magic holds, people still back demonetisation: ET online survey PMModi Noteban economy "
+
+928114341211262978	1602734420	2017-11-08 09:47	"Not- Ban Anniversary: TMC To Observe Black Day kolkata noteban"
+
+928113783221788673	16156062	2017-11-08 09:45	" India Noteban Stories DemoWins indeed. …"
+
+928108337371037696	838220332049715200	2017-11-08 09:24	"Chacha DP ko black nahi kiya abhi tak... ? Noteban mamtabano"
+
+928107920662728704	962667362	2017-11-08 09:22	" Noteban is a disaster. On "
+
+928107630018654209	177209818	2017-11-08 09:21	" Noteban "
+
+928106850532327425	796672138619011072	2017-11-08 09:18	"Nashik Updates nashik_feed RT gauravpatil2000: RT mataonline: नोटाबंदीवेळी 'ही' ठरली तारणहार; नाशिकने दिला देशाला आधार! … Noteban"
+
+928106824166977536	796672138619011072	2017-11-08 09:18	"Nashik Updates nashik_feed RT sudeep_jadhav: RT mataonline: नोटाबंदीवेळी 'ही' ठरली तारणहार; नाशिकने दिला देशाला आधार! … Noteban"
+
+928106719238148097	796672138619011072	2017-11-08 09:17	"Nashik Updates nashik_feed RT Thakur_Deepak77: RT mataonline: नोटाबंदीवेळी 'ही' ठरली तारणहार; नाशिकने दिला देशाला आधार! … Noteban"
+
+928104713920299008	371826208	2017-11-08 09:09	" Noteban "
+
+928103873855700992	43928041	2017-11-08 09:06	"" ಆಲಿಬಾಬಾ ಮತ್ತು ಜನ ಕಳ್ಳರು" ಗುಂಪಿನ ನಾಯಕನೇ ನೋಟ್_ಬಂದಿ ಬಗ್ಗೆ ಮಾತಾಡುತ್ತಿದ್ದಾನೆ! ಕಳ್ಳರ ನಾಯಕನಿಂದ ಇನ್ನೇನು ನಿರೀಕ್ಷಿಸಲು ಸಾಧ್ಯ ? Noteban "
+
+928101719048781824	377223642	2017-11-08 08:57	" Demonetization म्हणजे.. "अरबोंची घोषणा करून चिल्लर जमवण्यासाठी केलला करोडोंचा खर्च..." सगळा येड्यांचा बाजार... Noteban म"
+
+928099720156680193	171880832	2017-11-08 08:49	"नोटाबंदीवेळी 'ही' ठरली तारणहार; नाशिकने दिला देशाला आधार! … Noteban"
+
+928099097575170049	27486175	2017-11-08 08:47	" Noteban AntiBlackMoneyDay MamataOfficial Didi Tera Dil Kaalaa aur Tera Moo kaalaa. …"
+
+928095036348121088	700627729826189314	2017-11-08 08:31	" NewProfilePic I support NoteBan . I support Modiji narendramodi narendramodi_in "
+
+928093363336757248	913964564743577601	2017-11-08 08:24	" narendramodi AmitShah BJP4India arunjaitley.. India in wrong hands.. Noteban.. "
+
+928090968267599873	788689315	2017-11-08 08:15	"ನೋಟು ಬ್ಯಾನ್ ಇಂದಿಗೆ ಒಂದು ವರ್ಷ : ಹೇಗಿತ್ತು ಮೋದಿ ಅಂದು ಕೊಟ್ಟ ಶಾಕ್..! Modi NoteBan... "
+
+928089633916719104	1116020887	2017-11-08 08:09	"Did Demonitization work? Vote - retweet DeMoWins DeMoDisaster NotebandiDeaths Noteban"
+
+928077608880705536	132211010	2017-11-08 07:21	" Noteban "
+
+927974641028669440	847680081627561985	2017-11-08 00:32	" नोटबंदी_से_लूट Kya NoteBan Mai BJP ko fayda hua hai? And Aam Indian ko pagal banaya gaya hai??"
+
+927973461267423232	907298382649057280	2017-11-08 00:28	" BLACK Day noteban"
+
+927962691280531456	748449992432488448	2017-11-07 23:45	" Nov8BlackDay Noteban DeMoDisaster மறக்கமுடியுமா எத்தனை ஏடிஎம் எவ்வளவு அலைச்சல் கஷ்டம் ஏழைகள் நாங்கள் பட்டபாடு"
+
+927957635684483072	1424737921	2017-11-07 23:25	"उद्या दोन्ही बाजूने ओरडतील आपले नगारे वाजवत कर्तृत्वाचे आणि विरोधाचे दुरच्या सामान्य माणसाला भ्रमात सरकवत!! NoteBan"
+
+927955785736339457	3225227460	2017-11-07 23:17	" demonetisation Demonetization Notebandi Noteban …"
+
+927953054892146690	428979101	2017-11-07 23:07	"ಐವತ್ತಲ್ಲ , ಬರೊಬ್ಬರಿ ದಿನಗಳು ಕಳೆಯಿತ್ತು. ಕ್ಯಾಶ್ ಲೆಸ್ ಮಾಡುತ್ತೆವೆ ಎಂದರು. ಜನರ ಕೈಯಲ್ಲಿ ಕ್ಯಾಶೆ ಇಲ್ಲದೆ ಮಾಡಿದರು. Noteban blackday"
+
+927949255427235840	471911020	2017-11-07 22:51	"ನೋಟ್ ಬ್ಯಾನ್‍ಗೆ ಆಯ್ತು ದಿನ: ಪಬ್ಲಿಕ್ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಮೋದಿ ಗೆದ್ರಾ? ಸೋತ್ರಾ? Demonetisation Modi Noteban "
+
+927944366534156294	128139428	2017-11-07 22:32	" नोटबंदी NoteBan "
+
+927933359732301824	3221244734	2017-11-07 21:48	"నోట్లరద్దు తీవ్రవాద చర్యా? లేక తెలివితక్కువ చర్యా? Is NoteBan a terrorist act? Or foolish act? नोटबंदी_से_लूटpic"
+
+927929539111526401	780319122890469376	2017-11-07 21:33	"Notebandi - Laghu uddhogo ki talabandi Garib kichulhabandi Service ki pagar bandi Becoz Servce gayi Bank ki line me Saans bandi !! Noteban"
+
+927929504202235904	145176904	2017-11-07 21:33	"நாளைக்கு இந்தியாவே தெருவில் நின்று பிச்சை எடுக்க ஆரம்பித்த வரலாற்று சிறப்பு மிக்க பொன்னாள்! உபாயம்: முட்டாள் Modi Noteban Nov8BlackDay"
+
+927924127750504448	1108650757	2017-11-07 21:12	" Noteban GST Its like RAVANhttps:// …"
+
+927915979912310784	606080393	2017-11-07 20:39	"फायदा छोड़िये नुकसान पूछिये। NotebandiDeaths Noteban Notebandi"
+
+927908486704373760	2524713830	2017-11-07 20:09	" नोटबंदीकेएकसाल NoteBan "
+
+927904252772605952	4643183832	2017-11-07 19:53	" మోదీకి బహిరంగ లేఖ రాసినా సామాన్యుడు..!! PM Modi NoteBan MadAngles NewWaveshttp://"
+
+927903935511146497	4643183832	2017-11-07 19:51	"మోదీకి బహిరంగ లేఖ రాసినా సామాన్యుడు..!! PM Modi NoteBan MadAngles NewWaves …"
+
+927894067433762817	94982762	2017-11-07 19:12	" Noteban DeMoDisaster ManmohanSingh INCIndia IYChttps:// …"
+
+927891582396723200	250028571	2017-11-07 19:02	"1st Death Anniversary Of Rs & Rs .... satyajitkar91 Noteban november NarendraModi "
+
+927890848892817408	806475194843832321	2017-11-07 18:59	"ಕೇಂದ್ರದ ವಿರುದ್ಧ ಮಾಜಿ ಪ್ರಧಾನಿ ಮನಮೋಹನ್ ಸಿಂಗ್ ಕಿಡಿ… Suddi TV ArunJaitley ManmohanSingh Demonetisation NoteBan... "
+
+927890271160950795	483894901	2017-11-07 18:57	"ஒரு மனுஷன் பொய் சொல்லலாம் ஆனா இப்படி ஏக்கர் கணக்குக்கு இல்ல ArunJhootly NoteBan DEMOn "
+
+927890009797025793	18186688	2017-11-07 18:56	"അസാധുവാക്കിയ നോട്ട് ഇപ്പോഴും, കശ്മീരില്‍നിന്ന് കോടിയുടെ അസാധുനോട്ട് പിടിച്ചെടുത്തെന്ന് എൻഐഎ … noteban "
+
+927889342948958208	806475194843832321	2017-11-07 18:53	"ನೋಟ್ ಅಮಾನ್ಯೀಕರಣಕ್ಕೆ ನಾಳೆಗೆ ಒಂದು ವರ್ಷ… Suddi TV NoteBan Demonetisation Year NarendraModi News... "
+
+927889161847054336	136857565	2017-11-07 18:53	"WHAT!!!....YOU KNEW ABOUT Noteban.......GROSS …"
+
+927878731577700352	18186688	2017-11-07 18:11	"എടിഎമ്മിൽ നിന്ന് വരെ കള്ളനോട്ട്.. ദില്ലിയിലെ എടിഎമ്മിൽ നിന്നും യുവാവിന് ലഭിച്ചത് കള്ളനോട്ട് … noteban "
+
+927878508595970049	182367796	2017-11-07 18:10	"നന്നായി ഊതിക്കോ..... നോട്ട് നിരോധനദുരന്തത്തിന് ഒരു വര്‍ഷം.... firstanniversaryofdemonetisation noteban "
+
+927878235588718592	821959675172139008	2017-11-07 18:09	" Noteban "
+
+927875104704360448	471911020	2017-11-07 17:57	"ನೋಟ್ ಬ್ಯಾನ್ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಮೋದಿ ಪಾಸಾ.. ಫೇಲಾ? Demonetisation Modi Noteban BJP4Karnataka INCKarnataka dineshgrao CTRavi_BJP"
+
+927874540713250816	819130177	2017-11-07 17:55	" NoteBan সত্ত্বেও ডিজিটাল লেনদেনে তালিকার তলানিতে ভারত!! দেখুন একনজরে... PMModi DigitalRanking EiSamayhttp://"
+
+927872135535587328	1945979065	2017-11-07 17:45	"নোট বাতিল দিবসের আগে বিরোধীদের খোঁচা দিয়ে ব্যঙ্গাত্মক ভিডিও প্রকাশ বিজেপির BJP4India noteBan "
+
+927867912706146304	2935748226	2017-11-07 17:28	"नोटबंदी के बाद का नया नोट लेने वाला बन गया VIP … Noteban Demonetisation DeMoWins Natebandi"
+
+927862624154300416	18186688	2017-11-07 17:07	"നോട്ട് നിരോധനം രാജ്യം നേരിട്ട ഭീകരാക്രമണമെന്ന് ഐഎന്‍എല്‍ … മലപ്പുറം malappuram പ്രധാനമന്ത്രി noteban"
+
+927860520148860928	588218513	2017-11-07 16:59	"નોટબંધીને એક વર્ષ થયાની ઉજવણી પર BJP એ શરૂ કર્યુ અભિયાન,જુઓ VIDEO Noteban NotebandiDeaths Notebandi BJP4Gujarat "
+
+927859763752218624	889803400832995329	2017-11-07 16:56	"ಬೆಂಗಳೂರು: ನೋಟ್ ಬ್ಯಾನ್ ವರ್ಷಾಚರಣೆಗೆ `ದೇಶ ನರಳುತ್ತಿದೆ’ ಪ್ರತಿಭಟನೆಯ ಬಿಸಿ Banglore Noteban …"
+
+927859746736132096	806475194843832321	2017-11-07 16:56	"‘ನೋಟು ಅಮಾನ್ಯೀಕರಣದಿಂದ ಕಪ್ಪು ಹಣ ವಾಪಸ್ಸು ಬಂದಿಲ್ಲ’ Suddi TV NoteBan BlackMoney News "
+
+927859466049019904	1516711537	2017-11-07 16:55	"‘ఇలా చేస్తే బ్లాక్‌ మనీ కనుమరుగు’ … Anilbokil blockmoney noteban "
+
+927858682162954240	4643183832	2017-11-07 16:52	" ComedyTonic మోదీకి బహిరంగ లేఖ రాసినా సామాన్యుడు..!! PM Modi NoteBan MadAngles NewWaveshttp://"
+
+927858201877286913	4643183832	2017-11-07 16:50	" CapdtOfficial మోదీకి బహిరంగ లేఖ రాసినా సామాన్యుడు..!! PM Modi NoteBan MadAngles NewWaves "
+
+927858013511151616	739047837875372032	2017-11-07 16:49	"നോട്ട് നിരോധനത്തിന്‍റെ ലക്ഷ്യം പണരഹിതസമ്പദ് വ്യവസ്ഥയെന്ന് അരുണ്‍ ജെയ്റ്റ്ലി Demonetisation Noteban ArunJaitley"
+
+927857609930969088	4643183832	2017-11-07 16:47	"మోదీకి బహిరంగ లేఖ రాసినా సామాన్యుడు..!! PM Modi NoteBan MadAngles NewWaves …"
+
+927857332209336320	4643183832	2017-11-07 16:46	"మోదీకి బహిరంగ లేఖ రాసినా సామాన్యుడు..!! PM Modi NoteBan MadAngles NewWaves "
+
+927850369849344001	1945979065	2017-11-07 16:19	"নোট বাতিলের বর্ষপূর্তির আগে গর্জে উঠলেন অরুণ জেটলি NoteBan DeMonetisation arunjaitley "
+
+927848138617921536	2616957794	2017-11-07 16:10	"bhagwan mere karanarjun wapas aayege ki nai . . notedemonetisation demonetisation noteban notebandi instagoods joking "
+
+927845812918353922	2935748226	2017-11-07 16:00	"डिजिटल इंडिया: बिजली बिल के डिजिटल भुगतान पर मिलेगी छूट… … digitalpayment _DigitalIndia PMOIndia Noteban"
+
+927844283570307072	18186688	2017-11-07 15:54	"ഇന്ത്യക്കാരന്റെ നട്ടെല്ലൊടിച്ച 'മോദി മാജിക്'.. കള്ളനോട്ടും കള്ളപ്പണവും എവിടെ? രാജ്യം ചോദിക്കുന്നു! … noteban "
+
+927839375815163904	18186688	2017-11-07 15:35	"നോട്ട് നിരോധനത്തിന് ഒരു വയസ്സ്; ഇനിയും വരില്ലേ ഇതുവഴി!!! സോഷ്യല്‍ മീഡിയയില്‍ ട്രോള്‍ പൊങ്കാല … noteban modi"
+
+927826617698791424	795241907597123584	2017-11-07 14:44	"নোট বাতিলের পরে শুরু হয়েছে কর সন্ত্রাস:‌ মনমোহন খবর পড়তে ক্লিক করুন: … aajkaal banglanews Noteban "
+
+927821196397199360	363627738	2017-11-07 14:23	" … Noteban Demonetisation Notebandi"
+
+927814085940600832	795241907597123584	2017-11-07 13:54	"নোট বাতিলের উদ্দেশ্য সফল:‌ জেটলি পুরো খবর পড়তে ক্লিক করুন: … aajkaal banglanews ArunJaitley Noteban "
+
+927802834023620608	923164776955441157	2017-11-07 13:10	" Gujrat: पूर्व पीएम ManmohanSingh ने कहा नोटबंदी के कारण GDP में गिरावट हुई। Demonetisation Noteban Notebandi "
+
+927801354243915776	44583496	2017-11-07 13:04	" November8, noteban കൈയിൽ കൈക്കുഞ്ഞ് കൂട്ടിന് പൊരിവെയിൽ നിന്നത് മണിക്കൂറുകൾ... "
+
+927791442550026240	873816542701527040	2017-11-07 12:24	"नोटबंदी का एक साल : अब ये होगा पीएम मोदी का प्लान-2 Noteban PMModi NarendraModi Notebandi November "
+
+927789334027296772	80837481	2017-11-07 12:16	"નોટબંધી- પાર્ટ- ટુ: કાલે કાળા નાણાં સામે નવો જંગ છેડશે મોદી noteban blackmoney war sanjsamachar "
+
+927783512077250560	1200790454	2017-11-07 11:53	"ನ.8ರಂದು ವಿವಿಧ ರಾಜ್ಯಗಳಿಗೆ ತೆರಳಿ ಪತ್ರಿಕಾಗೋಷ್ಠಿ ನಡೆಸಲಿದ್ದಾರೆ ಸಚಿವರುಗಳು Noteban AntiBlackMoneyDay Read More ://"
+
+927778543542534144	44583496	2017-11-07 11:33	" November8, noteban മരവിപ്പിന്‍റെ ഒരാണ്ട് "
+
+927774647076057088	44583496	2017-11-07 11:18	" November8, noteban സഹകരണ മേഖലക്ക് ഇടിത്തീ; താങ്ങായി സർക്കാർ "
+
+927774646665138176	44583496	2017-11-07 11:18	" November8, noteban സഹകരണ മേഖലക്ക് ഇടിത്തീ; താങ്ങായി സർക്കാർ "
+
+927773624215388161	44583496	2017-11-07 11:14	" November8, noteban നോട്ട് നിരോധനം: മാറാത്ത പ്രത്യാഘാതങ്ങൾ "
+
+927771078960672769	44583496	2017-11-07 11:03	" November8, noteban വ്യാപാര മേഖല: വളർച്ച താഴോട്ട് "
+
+927770688814907393	44583496	2017-11-07 11:02	" November8, noteban നോട്ട് അസാധുവാക്കൽ: ന െട്ടല്ലൊടിഞ്ഞ് വിപണി "
+
+927767864236318720	2965621116	2017-11-07 10:51	"വന്‍ പ്രത്യാഘാതമാണ് വ്യവസായ രംഗത്ത് ഉണ്ടായത് … modi manmohansing noteban"
+
+927767685529714688	44583496	2017-11-07 10:50	" November8, noteban നോട്ട് നിരോധനത്തിൽ കരകയറാതെ കേരളം "
+
+927766773818056707	44583496	2017-11-07 10:46	" November8, noteban മേരേ പ്യാരേ ദേശ് വാസിയോം... "
+
+927764244606590976	44583496	2017-11-07 10:36	" November8, noteban റദ്ദാക്കിയത് കോടി നോട്ടുകൾ "
+
+927763444996096000	44583496	2017-11-07 10:33	" November8, noteban കാഴ് ചവസ് തുവായി സ്വൈപിങ് മെഷീൻ "
+
+927763208537964544	44583496	2017-11-07 10:32	" November8, noteban പകിട്ടിലെത്താതെ പരിഷ് കാരം "
+
+927761876833800194	44583496	2017-11-07 10:27	" November8, noteban ഭീം ആപ് പരാജയം "
+
+927746125318074368	1516711537	2017-11-07 09:24	"పెద్ద నోట్ల రద్దుపై బ్యాంకర్ల స్పందన.. … narendramodi Noteban "
+
+927732657269587968	1945979065	2017-11-07 08:31	"নোট বাতিলের বর্ষপূর্তিতে অভিনব প্রতিবাদে সোচ্চার মমতা MamataOfficial NoteBan DeMonetisation AITCofficial "
+
+927722233631457280	2164403707	2017-11-07 07:49	"नोटबंदी: हजार से अधिक रिटर्न की होगी जांच … arunjaitley Noteban Notebandi"
+
+927718116770988032	214833917	2017-11-07 07:33	"சில கார்பரேட் அரசு வாழ ₹500 ₹1000 கணாமல் போன தினம் வரலாறாய் மாறிப் போன தினம் பணமதிப்பிழப்பு ஆண்டு நிறைவு தினம். Nov8Blackday NoteBan"
+
+927688314869596161	494057994	2017-11-07 05:35	"ನ.8ರಂದು ನೋಟು ಬ್ಯಾನ್‌ಗೆ ವರ್ಷ: ಕಾಳ ಧನಿಕರ ಬೇಟೆ ಚುರುಕು Noteban "
+
+927599274237485056	107772895	2017-11-06 23:41	" Noteban disaster."
+
+927563424741048321	887305545887080448	2017-11-06 21:18	"ತೆರಿಗೆ ಕಳ್ಳರಿಗೆ ಕರಾಳದಿನ th November Noteban CMofKarnataka"
+
+927559734625841152	8768792	2017-11-06 21:04	" BJP vs BJD - dpradhanbjp vs KeshariDeb DeMonetisation DeMo NoteBan Odishahttp:// …"
+
+927558998047391745	242308369	2017-11-06 21:01	" Notebandi NoteBan "
+
+927553329420386304	819130177	2017-11-06 20:38	" NoteBan: নজরে হাজারের বেশি I-T রিটার্ন … NoteBan ITReturn RealNews "
+
+927549718657253377	3176424230	2017-11-06 20:24	" tmcforindia ঠিক MamataOfficial র নেতৃত্বে বাংলার মানুষ দেশদ্রোহী,কারন BJP সরকারের noteban এর মতো দুর্নীতির বিরুদ্ধে তাঁর সংগ্রাম চলবে।"
+
+927538562991407104	290452792	2017-11-06 19:40	"GST= ‘গ্রেট সেলফিস ট্যাক্স’; NoteBan-এর প্রতিবাদে ট্যুইটারে DP কালোর ডাক মমতার | "
+
+927533036396101632	2374863733	2017-11-06 19:18	" NoteBan "
+
+927509630426677248	806475194843832321	2017-11-06 17:45	"ನೋಟು ನಿಷೇಧಕ್ಕೆ ಒಂದು ವರ್ಷ: ನಿಜಕ್ಕೂ ನಡೆದದ್ದೇನು? ಭ್ರಮೆ ಮತ್ತು ವಾಸ್ತವಗಳ ಸುತ್ತ… Suddi TV NoteBan PrimeMinister..."
+
+927495608172085248	836870584705351680	2017-11-06 16:49	" demonetization noteban ನೋಟುರದ್ದು ಅನಾಣ್ಯೀಕರಣ GST Modi CPIM CPIMKarnataka RBI "
+
+927486436441513984	806475194843832321	2017-11-06 16:12	"ಜಿಎಸ್ಟಿ = ಗ್ರೇಟ್ ಸೆಲ್ಫಿಶ್ ಟ್ಯಾಕ್ಸ್ ಎಂದ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ Suddi TV GST MamataBanerjee Kolkata NoteBan News... "
+
+927485299873210369	54827721	2017-11-06 16:08	" GST is 'Great Selfish Tax', noteban a disaster: Mamata Banerjee "
+
+927481857314250753	81334244	2017-11-06 15:54	"GST is GreatSelfishTax: Mamata Banerjee … GST, MamataBanerjee, NarendraModi, NoteBan, November8"
+
+927480442013368320	44583496	2017-11-06 15:49	" noteban, Blunder നോട്ട് നിരോധം അബദ്ധമായിരുന്നുവെന്ന് മോദി സമ്മതിക്കണമെന്ന് മൻമോഹൻ സിങ് "
+
+927477008031817729	471911020	2017-11-06 15:35	"ನೋಟ್ ಬ್ಯಾನ್ ನಂತ್ರ digitaltransactions ಎಷ್ಟು ಹೆಚ್ಚಾಗಿದೆ? ನಿಮ್ಮ ಪ್ರಶ್ನೆಗೆ ಇಲ್ಲಿದೆ ಉತ್ತರ demonetisation noteban "
+
+927445806529089539	80837481	2017-11-06 13:31	"નોટબંધી બાદ શેલ કંપનીઅોઅે રૂા. ,૦૦૦ કરોડ જમા કરાવ્યા હતા noteban shellcompanies deposit sanjsamachar "
+
+927432627350421504	44583496	2017-11-06 12:39	" noteban, EnforcementAuthority നോട്ട് അസാധുവാക്കൽ: ,000 കോടി നിക്ഷേപിച്ച ,000 കമ്പനികള്‍ നിരീക്ഷണത്തിൽ "
+
+927422208258932736	1200790454	2017-11-06 11:57	"ನೋಟ್‌ಬ್ಯಾನ್ ಬಳಿಕ ರೂ.17 ಸಾವಿರ ಕೋಟಿ ಜಮೆ: 4 ಲಕ್ಷ ಶೆಲ್ ಕಂಪನಿಗಳ ರದ್ದು NoteBan ShellCompany KannadaNews Read More://"
+
+927417774669836288	1602734420	2017-11-06 11:40	"নোট বাতিল: কেন্দ্রের নজরে হাজার কোম্পানি … Government NoteBan Kolkata24x7 BengaliNews "
+
+927413493665554432	118395320	2017-11-06 11:23	"नोटाबंदीच्या वर्षपूर्तीविरोधात राष्ट्र सेवा दलातर्फे 'ब्लॅक आऊट' आंदोलनाची हाक NoteBan"
+
+927400653747511296	43855487	2017-11-06 10:32	" OneYearOfDemonetisation: Noteban, GST haunt Kolkata's Burrabazar "
+
+927390104758317056	494057994	2017-11-06 09:50	"ನೋಟ್‌ ಬ್ಯಾನ್‌ ಬಳಿಕ ಸಾವಿರ ಕೋಟಿ ರೂ. ಅಕ್ರಮ ವ್ಯವಹಾರ Noteban "
+
+927387337859981312	1162639716	2017-11-06 09:39	" AbpAnanda Tv modi noteban দরকারে নোটবাতিল করেননি ইন্দিরা, তাই আমাকে করতে হল, বললেন মোদী … "
+
+927385183023591424	594676291	2017-11-06 09:30	" modi noteban দরকারে নোটবাতিল করেননি ইন্দিরা, তাই আমাকে করতে হল, বললেন মোদী …"
+
+927236313782239232	1443157843	2017-11-05 23:38	"Yes he is absolutely right indiraji ne NoteBan nahi kiya balki unhone bohot saare aise kaam nai kiye aapki tarah jisse desh barbaad ho."
+
+927233192880365568	371577381	2017-11-05 23:26	"ഇതിലൊരു കമ്പനിക്കുമാത്രം അക്കൗണ്ടുകൾ‌ ഉണ്ടെന്നു കണ്ടെത്തി.. Demonetisation NoteBan NarendraModihttp://"
+
+927187475096727553	819130177	2017-11-05 20:24	"'নোটবন্দি'র পর ₹১৭ হাজার কোটি জমা দেয় নিষ্ক্রিয় হাজার কোম্পানি RealNews demonetisation noteban Eisamay …"
+
+927170528388956161	810211567	2017-11-05 19:17	"Keralakaumudi kkfb modi sinha amitsha noteban നരേന്ദ്ര മോദിയെയും അമിത് ഷായെയും പേരെടുത്ത് പറയാതെ സിൻഹ... "
+
+927162474318540800	494057994	2017-11-05 18:45	"ನೋಟು ಬ್ಯಾನ್‌ ನಂತರ ಬೆಳಕಿಗೆ ಬಂದ ಕಪ್ಪು ವಹಿವಾಟು Noteban "
+
+927119858361237504	2926819579	2017-11-05 15:56	" NoteBan BlackMoney Aaj November hay meri fail hone ka din ka din ,2 din rukja tab November hay teri black money ke fail hone ka din"
+
+927105155190759424	889073420595601408	2017-11-05 14:57	" Noteban diDeaths"
+

@@ -1,0 +1,661 @@
+id 	 user_id 	 date 	 text
+1004661583002382336	1001055620286599169	2018-06-07 15:19	"MAHENDER SINGH DHONI , SURESH RAINA , RAVINDRA JADEJA KA IPL ME SESSION AUR MATCH FIXING KA MERE PASS PROOF H. IN TEENO KO DEAHDROH KE AAROP ME FANSI KI SAJA DI JAE. AUR PROOF KE LIYE MUJHSE SAMPARK KARE."
+
+1001674065072050177	994750657977462784	2018-05-30 09:28	"Yar haydrabad ke fan ho to Aisa kasa kaha Sakta ho ki chanai jit Gaya to Chennai ne match fixing kii haii Or yahi bat dhoni ki dhoni ko match jitne Ka bad Kavi Nahi dakho ge ki dhoni Khushi se dance ya enjoy yafir bhagkar enjoy Kar ta hua think haiii Esilia agli bar dhyan Rakh"
+
+1000828503023992832	753945625641693184	2018-05-28 01:28	"Thevidiya magane dhobi puduchu oombu da ungotha Ne ketathala Kelviya da baadu Match fixing unga srinu mama Betting fixing aha athu batting da thevidiya magane csgay suspend panunathuku sirini mama than karanam pooi ungamava dhoni ku kutitu kudu"
+
+1000827596085448704	753945625641693184	2018-05-28 01:24	"Ne ketathala Kelviya da baadu Match fixing unga srinu mama Betting fixing aha athu batting da thevidiya magane csgay suspend panunathuku sirini mama than karanam pooi ungamava dhoni ku kutitu kudu …"
+
+1000827492339408896	753945625641693184	2018-05-28 01:24	"Ne ketathala Kelviya da baadu Match fixing unga srinu mama Betting fixing aha athu batting da thevidiya magane csgay suspend panunathuku sirini mama than karanam pooi ungamava dhoni ku kutitu kudu"
+
+1000800678661341184	739483319222468610	2018-05-27 23:37	"Ha enka Match fixing antunaru kontha Mandhi Vallani yekada kottaalo ardamkavatla naku Gelisthe Enka adhi match fixing aypothada Odipothe Dhoni vunad anduke odiopoyindi antar Ento ye pichi na sons gAllu yekada nunchi vastaro ardam kadhu ,"
+
+1000786517684502528	84248242	2018-05-27 22:41	" IPL Match Fixing Over... Dhoni yaa... Koopppukkuu... Anupitaanunga"
+
+1000751042533908486	816874688148283392	2018-05-27 20:20	"Full fixing match Chennai jitega dhoni kaa last"
+
+1000711182209052672	911548896693805056	2018-05-27 17:41	"Agar CSK aaj ka match nhi jeeta to mera matchfixing pr se bharosha uth jayega.. Dhoni's match fixing IPL2018Final CSKvsSRH"
+
+1000625314601484288	2387200458	2018-05-27 12:00	"match inka start avakundane fixing game modalettesara..intha bhayam endira meeku dhoni ante"
+
+1000379288380522497	853166932727521280	2018-05-26 19:43	"CSK JEETA TOH DHONI NE FIXING KIYA.. PAISA KHAYA LAVDA LASAN AGAR CSK HAARATOH DHONI NE PAISA KHAYA MATCH HAARNE KE LIYE..DHONI KO RETIRE KARO ..LAVDA LASUN"
+
+1000290778739019776	3124266848	2018-05-26 13:51	"Dhoni match fixing karke bade mushkil se baar jeeta hai …"
+
+1000070292356517888	2755427394	2018-05-25 23:15	"Oka stand meeda undali bayya Monna match lo Dhoni meeda me yedupu varnanaathetham Gelustam ane time ki aat SRH anesi Odipoyaka malli as usual fixing ani enduku antaru"
+
+999227057870602240	133624038	2018-05-23 15:24	"Csk owners betting ani and bookie Kuda chepadu ga dhoni jadeja Raina opukunaru fixing ani Dani baitiki ranivaledhu lopu runs and match odipotaniki opukunaru alane aindi kuda"
+
+999194846349942784	956119299814338560	2018-05-23 13:16	"Bokkq srh st match umpiring chusukomma poyi.. And delhi meeda kuda.. Fixing team gurinchi kuda matladutunnaru vachi.. Malli times winner.. Andhulo enni fixing lo.. Andhariki team maralani rule veelaki maradhu.. Lavada dhoni"
+
+999137290487087104	929891542059311105	2018-05-23 09:27	"Haters will be like Csk match odipothe me vaadu oka capatain adoka musali team ani na vaadam Okavela csk geliste fixing ra dhoni ki matta paina macha vundi ra chetabadhi chesaru ra ani ekada leni g lo manta ni ila tweets esi anadapadadame"
+
+998991688281419776	4748585894	2018-05-22 23:49	"17th over dhaka enduku veyaledhu fixing ani match odipoyaka fixing antunnaru Eppudu dhoni midha padi edchevare"
+
+998260592027754498	901104509476257792	2018-05-20 23:24	"Thaa match fixing daa dhoni waste daa paarthala enga thala mindset ah"
+
+998259370273095680	890270062078242816	2018-05-20 23:19	"Fixing fixing fixing CSK ....CSK yai match jeetaigi per last over mai jaa kr dhoni ball khayaigaa ...or muskil time per out ho jyaigaa Fixing fixing CSK..."
+
+998258332929441792	890270062078242816	2018-05-20 23:15	"Fixing fixing fixing CSK ....CSK yai match jeetaigi per last over mai jaa kr dhoni ball khayaigaa ...or muskil time per out ho jyaigaa Fixing fixing CSK..."
+
+998255785837608960	890270062078242816	2018-05-20 23:05	"Fixing fixing fixing CSK ....CSK yai match jeetaigi per last over mai jaa kr dhoni ball khayaigaa ...or muskil time per out ho jyaigaa Fixing fixing CSK..."
+
+998151186992676866	965134078034006016	2018-05-20 16:09	"Apram Enna paa, match fixing Panna shreesanth ae soltaruu... yaaru thalanu ... Yaaru thala nu naanga mudivu panikirom. Unakku Dhoni Mela kaduppu...."
+
+998143298156941312	901002946845958146	2018-05-20 15:38	"Dei Dhoni match fixing la involve nu oorukke theriyum nee poyi muttu kudu"
+
+997715620413124608	986545153845243904	2018-05-19 11:18	"Script ante..kurchopetti nu eroju EE match odipovali mi team ..nu e_match gelavali next matches odipovali Ani chptaraa dude.ball sloww ga velyali dhoni eh kottali Ani...adela jargutundi..untundi match fixing Mani last finals ki unte undachu.cant judge dude …"
+
+997706677863432192	1132801574	2018-05-19 10:43	"Tera Dil chahke v kya hoga , match v bhaad bolega "match fixed tha " aur season v bhaad CSK fixing ke liye phir se ban hoga"
+
+997565539345035264	988671519717969920	2018-05-19 01:22	" SaakshiSRawat aj tumara vhatar match fixing karliya dhoni madar chod"
+
+996829845836328960	930417488914817024	2018-05-17 00:38	"Csk walo ko match jitne ka mtlb sirf fixing hi pata h..dhoni ne or kch dikahya b kaha h.."
+
+995682353363144704	742112557738151936	2018-05-13 20:39	"Tera Mtlb Dhoni Kohli rahane kartik sab match fixing karte h ambani k sath LOL …"
+
+995006191204909056	2885798124	2018-05-11 23:52	"Athelam Ila pa.. Match fixing.. Dhoni Kasu vangitu butler catch vitutan.. Cha nai avan"
+
+995005573111234561	911652904112496640	2018-05-11 23:49	"Match fixing, Dhoni ka Bharosa todha"
+
+995005443649949697	2885798124	2018-05-11 23:49	"Match fixing bossDhoni Kasu vangitu catch vitutan.. Potta nai"
+
+995005099926736896	2885798124	2018-05-11 23:47	"Dhoni Kasu vangitu catch vitutan da.. Match fixing da.. Cha"
+
+994462428615213056	332820068	2018-05-10 11:51	"Same en followers la iruka oru D fan kuda logic ah pesa maatanga.. mi win panna ambani fix pannanu solranga.. but match fix panrathu na dhoni um fixing la involve agirupan nu sonnan illa nu solluvanunga.."
+
+994245926729519104	834427102904545282	2018-05-09 21:31	"Csk toh match fixing me bhi no.1 pe hai isliye saal ban rahi thi"
+
+993146202920112129	3745492518	2018-05-06 20:41	"Bro betting Vera fixing Vera atha purinjkonga .... cricket aaduravanga kasu vangitu vilayadamatanga...appadi vilayadina veliya thaan.. Neenga solrathu partha..apo dhoni kasu vangitu thaan first match won pannara"
+
+992728337616461824	834427102904545282	2018-05-05 17:00	"Match fixing aarop csk Csk be like :- "
+
+992105685377839105	911548896693805056	2018-05-03 23:46	"Aaj fir ek baar BUDDHA MS Dhoni match fixing krte hue dekha gya.. Jadeja Bravo KKRvCSK KKRHaiTaiyaar RIPTwitter"
+
+992072304308903936	2810627100	2018-05-03 21:34	"Epa pa catch vitiga ...ipo dhoni haters vanthu match fixing nu solluvaga ...."
+
+992071894965899265	2835373220	2018-05-03 21:32	"Har match m dhoni k catch nai pakdta koimajra kya h bhai fixing tagdi ki hui? KKRvCSK IPL2018"
+
+991416599478337536	971658914474311680	2018-05-02 02:08	"Andha hai kya bhai?? Dhoni ne fixing ki kaha likha hai isme... CSK ne MI ke saath bhi match khela hai toh iska matlab Mumbai Indians aur baaki teams ne bhi fixing ki.. Waah."
+
+991300555585802240	811111847407386624	2018-05-01 18:27	"MI ki consistently brilliant performance aur CSK ke fixing karke match jeetne se kuch log itne dukhi hain ki kuch hi dino mein Dhoni par Team India ke match fix karne ka bhi accusation lagane wale hain."
+
+991265017751318528	903289709564223488	2018-05-01 16:06	"Dhoni ne iss bar itna dhoya, kii, purane saare match-fixing ke daag csk pe dhul gaye..."
+
+991241775707652097	870098251764125696	2018-05-01 14:33	"dai punda, muditu oru orma aaddu. Dhoni and raina fix match fixing panni years ban aguna team la adura. periya puluthi mari oesatha"
+
+991220774194307072	932573892983558144	2018-05-01 13:10	"Kahin MI fans Dream11 ko asli ka match samajh kar to Match Fixing, Match Fixing nhi bolte na ? Kyunki uska Brand Ambassador bhi Dhoni hai! firkiii"
+
+991213419633065984	811836040256159744	2018-05-01 12:41	"mujhe toh yeh darr hai ki csk vs mi ke kisi match me baarish naa ho jaye nahi toh MI fans kahenge dhoni ne baadlo se fixing ki hai aaj"
+
+990452554772299776	394471446	2018-04-29 10:17	"Moonu peru match fixing case la maatunuvo Azhar jadeja & dhoni good selection"
+
+990300889750556672	4496170812	2018-04-29 00:15	"Lagatar har match jeetenge to fir Fixing hamara pakra jayega , sur next years ke liye fir pel diye jayenge....Isliye jeeto aur th wala haar jaao....Jai dhoni bhaiya ki …"
+
+989722760954892289	2510836709	2018-04-27 09:57	"Fir match fixing hua hoga... Dhoni ne Virat ko bhi convince kar liya"
+
+989585619515932672	888675674285776896	2018-04-27 00:52	"Dhoni always fixing Dhoni fixing k bina match nhi jeet sakte Dhoni looser"
+
+989444330699051009	870931555786653696	2018-04-26 15:31	"Match Fixing Scamla Matitu Badhil Solla Mudiyama Thirutu Muzhi Muzhikudhu. TharuThala nu vechiko unaku correct ah irukum Velakkumathukku Pattukunjam Moment DummyThalaDhoni CSK Dhoni "
+
+988100332616957953	3193830518	2018-04-22 22:30	"Dhoni k baap h kya IPl Jo wo Akela fixing kr leta h. MI ko kya ho jata h.. Fixing kr k match haarte to suna h..bt Fixing kr match jeetne wala logic apke mu se he suna h"
+
+987720311754907648	2303207172	2018-04-21 21:20	"bhai kya ab sach bolo toh dikkat.. Pta krle fixing m tha ki nhi.. Aur betting ke baare m oose sab pta tha.. Ki nahi.. Aur rahi RR ki baat.. Toh Dravid khelta tab bhi bolta.. Kal bhi tweet kiya tha fixers ka match h"
+
+986448120400699392	355863722	2018-04-18 09:05	"Appadina MI against Dhoni clear out but umpire out kudukala appo athuvum match fixing ah? Umpires vechu bookmakers earn panna romba kashtam"
+
+985856930286481408	983662691158974466	2018-04-16 17:56	"Accha....phle jaake APNI kacchi knowledge ko sudharo ki ms dhoni or hi match fixing Ka aarop LGA that isiliye Pura team ko years ke liye bann Kiya gya tha.....Uske baad apna fangiri dikha a....ok"
+
+985584913754632194	173096823	2018-04-15 23:55	"EVERYONE WHO SUPPORTS DHONI IS DISGRACE TO CRICKET. DHONI ENABLED MATCH FIXING WITH HIS BOSS SRINI, HAD CONFLICT OF INTEREST AS HE WAS VC OF INDIA CEMENTS."
+
+985242575316684800	4357774214	2018-04-15 01:15	"Dhoni match fixing chesadu ani neeku telusa"
+
+984739674634633216	2436318366	2018-04-13 15:56	"Match fixing panni years ban pannappa enna Dhoni ya oompittu irunthiya.."
+
+983990996248793088	875919523295227906	2018-04-11 14:21	"Matlab agar Dhoni match haar jata to sab thala Ko thaila bharke gaalia dene k liye taiyar hi baithe the.. ab match Jeet gae to BC fixing k ilzaam Laga Rae h.. Matlab ye chutiye hi paida hote h ya special course hota h inka"
+
+983895876169973762	3066862634	2018-04-11 08:03	"Aww Bt,nethu Match fixing mari therla mams Fixing ah irunthiruntha Dhoni ye finish pannirukalame kuda potrukalame .."
+
+983778423079305216	1540660753	2018-04-11 00:17	"Mumbai Fans now Match Fixing daww Dhoni adikala dawww "
+
+982686800874430470	556769428	2018-04-07 23:59	" MI fans: Match fixing dawww Dhoni kaasu kuduthutaru dawww Csk fans: katharunga dawww CSK MIvCSK"
+
+982625735885107201	2191424866	2018-04-07 19:56	"Jitna pakistan puray PSL say kamaaata hy utna tw Dhoni ki Team CSK apny aik match ki fixing say kamaa leta hy BoycottIPLhttps:// …"
+
+982590074767466497	2946715087	2018-04-07 17:35	"Bahi IPL dhoni ki team ban ho gai becz team owner's NY match fixing ki chal an tu sy bta dy Bahi koi team owner bina kisi player yh captain k bagair kis Tara match fix kr sakata hai?"
+
+981555839382310912	870931555786653696	2018-04-04 21:05	"Appo Dummy Dhoni kku yaaru Thala nu approval kodutha? Oh match fixing fraud panni ban aana CSK Twitter Handle ChennaiIPL eh approval koduthucha appo sari …"
+
+980764339756920834	3124266848	2018-04-02 16:40	"Kya Dhoni is Baar v match fixing Kar skte hai?"
+
+980301903715184640	2581698210	2018-04-01 10:02	"dhoni matlab csk Csk matlab match fixing"
+
+977837530186829824	2681811702	2018-03-25 14:50	"Match fixing ki ball tampering ki theda teliyani pillalu maa dhoni fans "
+
+977104384831078402	2354914597	2018-03-23 14:16	"Yaru Melayaum Match Fixing Allegatione Illa They Do Spot Fixing!!Aana Ivanga Ennamo Dhoni Team Teama Poi Panam Kuduthu Match Win Panna Mathiri Olarikitu Irukkanga!!Ivangalukku Cricket Arivu Than Illanu Paatha Pothu Arivume Kammiya Than Irukku"
+
+976137726679502849	2325520939	2018-03-20 22:15	" DCindianews Breaking news jis din Alisba se mulakat hui thi India ,pakistan se haar gayi thi. Alisba Shammi ki fan thi aur Dubai mein paise deti thi. Kya aise Fan Dhoni ,Virat ke vi hai. Shami aur Alisba ki match fixing jodi india ka beda gark kr degi."
+
+972341901734096896	798840709230907392	2018-03-10 10:52	"mohammad shami par jo match fixing ka aarop hai isko dekhkar to nahi lgta khair jo sach hai tahkeeq k bad samne aa hi jayega dhodh ka dhodh pani ka pani ela_mishra Mohammed ShamiAngry On Disrespectful Pakistani Fans- Dhoni Cools Him Do... via YouTube"
+
+965629034481688576	895198802000322560	2018-02-19 22:17	"Kontha mandi fans undevadu kadura dhoni Match ki okka six kottevadu kadura dhoni World cup meeda CSK fixing meeda Manam choose vadu kadura dhoni"
+
+965313544928612353	86552329	2018-02-19 01:24	"Dhoni ki telavakunda n involvement lekunda fixing jariguntunda? In vase ledu anye vaka comment yanduku cheyaledu danipaina? India cements nunchi tantaranega. Lakshman n Sehwag lanti legends ki last match ade chance yivvani character babu mevodidi."
+
+958232770794278912	4581824713	2018-01-30 12:27	"Bhai CSK ko troll krte h iska ye mtlb nhii ki dhoni ko krte h CSK ne match fixing me Noble prize Jeeta h Admit it"
+
+944213686280863744	137611255	2017-12-22 20:01	"2007 nunchi daka chalaa peekam chrctrs saripotay anukunnaraa enti.. Chokka ippinanduko leda match fixing team ni teeskunnanduko lottery lo great captain ani cheppukom maa dhoni records ki oka history undhi"
+
+938476396057387008	570846856	2017-12-07 00:03	"Toh tumhara mtlb csk ka match fixing tah mtlb dhoni culprit h?"
+
+930033013978644480	137611255	2017-11-13 16:52	"Fixing anedi eppudu oka side ae jaragadu.. If he fixed the Match oppsite team also odipovtaniki mney teeskunnatey.. RR team fixing scandal appudu dravid RR ae but ayanni lagaru Dhoni ni matiki laagutaru endukantey meeku ila question lu adgthe reason kavali kabatti"
+
+928291231582449664	137611255	2017-11-08 21:30	"Captain ga polchudam antey batting individuals recrds matladtaru.. Maa dhoni retire ayyelopu okkati antey okkati minimum dhoni captaincy daridaapulloki vachey valid point ayna vinalani undhi match fixing Saving lantivi kakundaa"
+
+923531634997121024	910414625690316800	2017-10-26 18:17	"2014 dhoni pr match fixing ki jhuti report dikhai fir dhoni ne supreme crt me case kiya isne dhoni se maafi maangi"
+
+913446017521131521	910414625690316800	2017-09-28 22:21	"2014 isne dhoni pr match fixing ka juta arop lgya dhoni ne ispr supreme crt me case kiya fir isne dhoni se maafi mangi or jurmana diya"
+
+881722372394328064	3957699533	2017-07-03 09:22	" msdhoni imVkohli DineshKarthik Match Fixing kiya naaa Tumlog. Dhoni ball kelaaa and sob Eksath out hota hai BCCI kamaalrkhan"
+
+880363759734333440	880359984567115777	2017-06-29 15:24	"Dhoni ki tarah virat nhi ban skta jaise ct17 k final m match fixing kri thi"
+
+877840959735713792	141457807	2017-06-22 16:19	"bcci match fixing kiya tha usmay sucess rahe isi liye kohli dikha raha hey.kohli ko nikalo dhoni ko wapas lavo.captaincy aati hey nahi.."
+
+877208046778277888	164603183	2017-06-20 22:24	"Dhoni ki match fixing se mili haar"
+
+877124485744173056	876712927260102656	2017-06-20 16:52	"Match fixing krne m aapko sharm nhi aati kya pakistan se kaise haar skte ho nalat h dhoni ko captani do"
+
+877019268776251392	876832917057556481	2017-06-20 09:54	"request dhoni kabhi match fixing nahi karta kohli krta hai"
+
+876833571415052288	102575315	2017-06-19 21:36	"VIRAT KOHLE & DHONI NE MATCH FIXING KI HAI. YE DONO BAHANCHOD JAN BHOOJH KAR OUT HUE THE."
+
+876668914071203840	876665633420791808	2017-06-19 10:42	"Virat kohli Dhoni Rohit Dhawan Ye sabhi match fixing me hai. Eski jach honi chahiye."
+
+876482142187864064	854973421956067328	2017-06-18 22:20	"Kohli chor icc big match fixer dhoni ki barabari karne chala shaadi mei paisa kharch karega match fixing ka"
+
+876475635165782016	828269886216499201	2017-06-18 21:54	" BCCI Real zero Rohit shikar virat yuraj dhoni kedar jadeja Ashvin bumra toss jeeta baating kiyu nahi kiya match fixing hai hai"
+
+876451216028512258	406920156	2017-06-18 20:17	"MATCH FIXING ? INDIA RUNS / OUT. HORR KAROO AIDVERTISEMENT. DHONI SAAB V PAVILION NU TURR GYEEE."
+
+876439328875991040	822432742373728257	2017-06-18 19:29	" INDvPAK pakka fixing match.......... RohitSharma Kohli Dhoni ...."
+
+871458625201385472	862938193259352064	2017-06-05 01:38	"Even itne players ne match fixing ki dhoni samet lekin tmne chpaya corrupt ko bchaya and humne kya kiya sari dunya janti h"
+
+866842256845787136	701350123327066112	2017-05-23 07:54	"Yenda Mumbai Indians jeicha match fixing na Unga Dhoni thaan rps la vilayaduna apa avanum fixing pannana"
+
+866842220883849217	332245875	2017-05-23 07:54	"Csk cup won pannuna dhoni kaaranamaam !! Team match fixing, fraud panni ipl ah vittu suspended pannuna dhoni... "
+
+866645670962364416	2923582645	2017-05-22 18:53	"Naacho BC ne match palta diiya Saala sabko Khareed liiya Aaamchi mumbai fixing krun duniya jinkto Dhoni Fixer_King"
+
+866585437229375489	561045148	2017-05-22 14:54	"Haaa fixing interesting last over ma to so gayi thi Mumbai k lia pagal hu Na bt wah Mumbai hara match jeet gayi sad dhoni only"
+
+866544225357225984	2964537939	2017-05-22 12:10	"Fixing match lu gelipinchatam amundi..international matches gelipisthe apudu matladali..Dhoni ni ane sthayi meku rala musukondi rohith fans"
+
+866369193263984640	840477628431773696	2017-05-22 00:34	"dhoni ne pura khl ko hi brbd kr dala manoj tiwari ky jagh dhoni aky sab brbd kt diya RPS fixing this match"
+
+866318118058041344	852046395758460928	2017-05-21 21:11	"MI will lose match. Its match fixing waise bhi Dhoni ko samne dekh ke poori MI team n coaches ki hawa nikal jati hai dar ke."
+
+865945353027076097	30818920	2017-05-20 20:30	"Jahan tak Dhoni ki fixing ko main janta hu, Goenka ka muh aise hi band karega wo. Baaki dekho, match bhi to Prime Minister XI se hai."
+
+859094804768198657	416863546	2017-05-01 22:48	"match fixing la kuda dhoni ya adika vida maturanunga"
+
+855784550755991556	1220863664	2017-04-22 19:35	"Dhoni adithe match fixing aa aa mathram bayam undali kindha nunchi karali"
+
+850195924626231298	71984940	2017-04-07 09:27	"Match fixing me Dhoni ka bhi naam aaya tha Srinivasan yaad hai? CSK? Team dissolve kyu ki gayee Kuch jaankari hai"
+
+792399960771796992	3309204840	2016-10-29 21:47	"bro international match la fixing lam not possible aduvum dhoni ku terijunu vera solriga imragav"
+
+792321956443848704	1440410665	2016-10-29 16:37	"Agar Dhoni bhi CSK match fixing mei pakda jata toh biopic ki jarurat hi nahi hoti, Azhar hi dikha dete sabko phirse"
+
+788063086930305024	2908700420	2016-10-17 22:34	" DhoniUntoldStory dhoni nai match fixing kai baraiy maiy nahi btaya. soo sad"
+
+786927774803959811	703103059803533313	2016-10-14 19:22	"Kaha Dhoni tha.. Jadeja bann ke reh gaya.. Match fixing case ke suspension ke baad."
+
+736992380126003201	607144513	2016-05-30 00:17	"e match gurinchi chepu saami dhoni adina match lu fixing ayayi ante e match fix avadu antava?"
+
+736992048163749889	1353370074	2016-05-30 00:16	"Dhoni sir addina match lu fixing antava nuvu …"
+
+735816855193948160	334569755	2016-05-26 18:26	"dhoni ne kabhi bhi ipl match fixing ke bare me bola kyo nahi."
+
+726799938764439552	2897234683	2016-05-01 21:16	"E dhoni gadu fixing lekunda match adaledu ankuntaa"
+
+715928838652321792	4858041674	2016-04-01 21:18	" imVkohli viratbhai kese bhi karke dhoni ko captinship se hatwaiye ye to pahle hi match fixing karleta he our kaptani bhi thik se nahi kart"
+
+715928212639887362	4858041674	2016-04-01 21:16	" BCCI match kyo fix ho jate he sirji dhoni ko captanship se hata dijiye plz har bar bade match harwa deta he fixing karta he"
+
+715644220015583232	50613870	2016-04-01 02:27	"Jis hisab se Dhoni ne aj bowlers lagaye & team har gye ager apnay kisi kaptan ne kia hota tu kal saray primetime shows match fixing py hotay"
+
+715598709447385090	715593145510178817	2016-03-31 23:26	"2015 no tarah me bhi match fixing.....ms dhoni.."
+
+710016860897599489	2809971204	2016-03-16 13:46	" attiazahid baja farmaya match fixing raina or dhoni walo ne ki ban franchise pe lagadia gaya tha ipl me"
+
+709735110640148480	118562673	2016-03-15 19:06	" ArunbuddyAP not match fixing haa ada pathi na pesave ila avvv.. dhoni luck a sonen .."
+
+706541964687085568	2466251472	2016-03-06 23:38	"Yeh to fixing Hai BC, Dhoni kaise Har match ko kka mar ke khatam karta Hai."
+
+706539985239973889	88179636	2016-03-06 23:30	"Kabhi kabhi lagta hai yeh fixing karte hain har match me ke finish Dhoni se hi karana hai. AsiaCupT20Final"
+
+701676164750835712	334569755	2016-02-22 13:23	" sardesairajdeep msdhoni dhoni ne match fixing ke bare me kyo kabhi bola nahi?"
+
+697349926578049024	4815322600	2016-02-10 14:52	"MaTcH FixinG Ka ILzaaM Ms DHoni Ne SuniL Dev Ko Qanooni NoTice BHiJwa Diya. "A/Z" "BROHI""
+
+697345216215318528	4848949112	2016-02-10 14:33	"CricKeT NewS: MaTcH FixinG Ka ILzaaM Ms DHoni Ne SuniL Dev Ko Qanooni NoTice BHiJwa Diya "
+
+697341283929628672	3290967460	2016-02-10 14:18	"CricKeT NewS: MaTcH FixinG Ka ILzaaM Ms DHoni Ne SuniL Dev Ko Qanooni NoTice BHiJwa Diya."
+
+697341196214132736	4032813192	2016-02-10 14:17	"CricKeT NewS: MaTcH FixinG Ka ILzaaM Ms DHoni Ne SuniL Dev Ko Qanooni NoTice BHiJwa Diya."
+
+697339858386341888	901288400	2016-02-10 14:12	"CricKeT NewS: MaTcH FixinG Ka ILzaaM Ms DHoni Ne SuniL Dev Ko Qanooni NoTice BHiJwa Diya"
+
+697335241481043968	734023002	2016-02-10 13:54	"CricKeT NewS: MaTcH FixinG Ka ILzaaM Ms DHoni Ne SuniL Dev Ko Qanooni NoTice BHiJwa Diya"
+
+696587106768949249	146775649	2016-02-08 12:21	" dhoni dhonimatchfixing ZeeNewshttps:// …"
+
+689777492610056192	52452665	2016-01-20 17:22	" ThisIsAVJ hahahaha. Dhoni is a match fixer.sala sab match fixing se jeeta.. jab se Srinivasan out hua sab har rha h.. ipl se bhi nikal doya"
+
+685660746949197826	1878964854	2016-01-09 08:43	" pavan1230 match fixing king kada dhoni"
+
+678832864998264832	184332786	2015-12-21 12:32	" Dhoni Haters Meanwhile ISL Match Fixing daaa 󾌩󾌩󾌩..... India's captial Delhi ya Irukalam And Indian... "
+
+674931721897435136	2646492241	2015-12-10 18:10	" KISHANKUMARAGR2 ban krdia gaya pora IPL smait teams match fixing me pakri gayen dhoni ki team samait to kia dhoni aur chennai ko ban kia?"
+
+655781867132727296	2908023085	2015-10-18 21:55	" aajtak mujhe lagata he MS Dhoni ki enquiry honi chahiye kya wo match fixing to nahi kar rahe hain"
+
+621159669441015808	2480798461	2015-07-15 08:59	"IPL main Dhoni ki team Ban hogae bht Dhoni per match fixing ka ilzam nahe laga Munasib"
+
+620894293771841536	1295883768	2015-07-14 15:25	"Match fixing panna ban than pannuvanga csk funs poda poda dhoni da "
+
+620885590846914560	2177394062	2015-07-14 14:50	" SHAME ON MS DHONI AND ON HIS WIFE FOR FIXING MATCH WITH THE HELP OF BINDU DATRASINGH"
+
+601794721225146368	105579265	2015-05-22 22:30	" preetikaushik92 Dhoni nai uski wife and owner karte match fixing .match jitna interesting betting utni jyada."
+
+599981855798996992	3024162704	2015-05-17 22:26	" _Mans00r ind player saresh raina ms dhoni match fixing karta raha lkin huna na ap ki tarha poori suniya ko nai sunaya jaisa ap kar raha"
+
+596738911436558336	2237146566	2015-05-08 23:40	"Csk dhoni ne match fixing karne ki liye mashor he wo aaj proof kar diya.sala chor..........."
+
+595875326523236352	1887328064	2015-05-06 14:28	"Dhoni Shrini era match fixing korlo but eder ki6u holona.."
+
+589135198475845632	3161443536	2015-04-18 00:05	"Kaun match fixing mahendra singh dhoni ko support karta hai."
+
+581415346726260737	2663736283	2015-03-27 16:49	" N Indian players ne match fixing kya he ye saalo ko fnsi(hanger) do plz Dhoni sir aap resign mat dijye"
+
+571624731784441856	2193545836	2015-02-28 16:25	"Poda Poda Match Fixing da.. Dhoni Kaasu kuduthan da ...."
+
+559034961705988097	2918378348	2015-01-24 22:38	" manthan7271 dhoni nd raina ka match fixing me name aya.."
+
+549943177163993089	219995427	2014-12-30 20:30	" Rishi_Muni par rishi baba agar IPL Match fixing wale cricketer ka baam dhoni hua to? Not me but AlcoholTalking"
+
+541314011187269632	182736311	2014-12-07 01:01	" SrkVishu bhai raina and dhoni ke name match fixing me aa chuke hain...but baat ko dabaya ja raha hai..."
+
+515913470588772352	443633604	2014-09-27 22:48	" SuraKhanth Never Mind about Haters na. Haters Match fixing, Dhoni selfish nu polamburadhelaam kaadhula vaangikkaa maataen nu sonnaen"
+
+486915383459184640	157247705	2014-07-09 22:20	" BeingKaNTRi SESHU_44 monna dhoni kuda dorikevadanta ga match fixing lo captain ani urukunarani talk dnt mind"
+
+471692806671441920	131417950	2014-05-28 22:11	"ithuku mela patchaya match fixing panna mudiyathu. jai ho chennai. CSk da. dhoni da. srini mama da."
+
+471244093394542592	361929313	2014-05-27 16:28	"If csk win with dhoni winning shot pure talent ..if mumbai did match fixing hate ipl bla bla kala kala kola kola ...pongada dei"
+
+468023171778490368	117892131	2014-05-18 19:09	" ynakg dhoni match fixing"
+
+466581359746875392	102987979	2014-05-14 19:40	"Danny kasam maine match fixing nahi ki “ Dorkstar: Secret of Dhoni's superpower ”"
+
+465202142014607361	108893416	2014-05-11 00:20	" ipl_7 : Aaj k match mai umpire bhi fixing karke aaye hain kya ?? CSK DHONI WhistlePoduu MI DuniyaHilaDengeHum..."
+
+464086768141492225	380949066	2014-05-07 22:28	"Bas ab yehi baaki tha..Haters ki chutiyapanti dekho..ab Dhoni par match fixing ka badnaami de rahe hai.. Chutiyastic chutiya ppl.."
+
+458709054513102849	537948520	2014-04-23 02:18	" bhushan_7 Nimi_19 shrishaant dhoni ye sb tu match fixing nai krtay haina???"
+
+457164964311334912	158403665	2014-04-18 20:03	"Just joke " joe_selva1: Dhoni ya la match fixing panna Mudila yen na Srinivasan Ila la Ila la illa la......""
+
+457154630187622400	627985496	2014-04-18 19:22	"Dhoni ya la match fixing panna Mudila yen na Srinivasan Ila la Ila la illa la......"
+
+456421277947817986	310144513	2014-04-16 18:48	" katamulgi aur tum DHONI ki RAINA ki MATCH FIXING activities pe nazar rakhoo... n Kashmiri Killers pe"
+
+455025969422557185	1950431100	2014-04-12 22:23	"BREAKING NEWS:Match fixing mein Dhoni ke saath RajatSharmaLive ka bhi naam aagaya indiatvnews FekuwithRajat"
+
+453234737348227072	2237545117	2014-04-07 23:45	"Dhoni ne IPL ke sath-sath ab India ke match me bi fixing chalu kar di hai."
+
+449210426971009024	215226574	2014-03-27 21:14	" Ravi_4prince bob okati ardam kaledu..dhoni match fixing lo involve ayadu ani antunara ippudu? Dhoni meeda corrupt ane word enduku vachindi?"
+
+449104670019964928	69273581	2014-03-27 14:14	"Saakshi,me bhagwan ko 'Saakshi' rakhte hue kehta hu ke maine match fixing nahi ki ~ Dhoni giving elanation to Saakshi. coolfunnytshirt"
+
+447052967145783296	103907455	2014-03-21 22:21	"Ye ms dhoni ko charhe q nai kya abtak match fixing pay?"
+
+446557561739698176	744600320	2014-03-20 13:33	"NO NEWS ON ZEE NEWS CHANNEL REGADING DHONI IPL MATCH FIXING AND MAANHANI FOR RS.100 CRORE."
+
+446280486139088896	494330465	2014-03-19 19:12	" chusthu undu Dhoni ki kuda adhe gathi paduthundhi. Ippatike match fixing chesi cover cheskuntundu"
+
+445917112935006213	812121290	2014-03-18 19:08	"IPL Match Fixing'il Thaam Eadupattathaahe Seithi Veliyitta G TV'yidam Koadi Rupa Nasta Eadu Keattu Chennai Court'il Dhoni Valaku Thaakal"
+
+445845140733980672	1324596824	2014-03-18 14:22	"MADRAS: IPL Match Fixing, MS Dhoni Ney Indian Media Group Key Khilaaf Case Kar Diya."
+
+443603777678241793	1464137731	2014-03-12 09:55	"BR-WAFA MASHOOQUE KHOKHAR / IPL MS.Dhoni aur S.Raina Match Fixing Ki Waja Se Nahein Khel Payenge / zarai"
+
+443602681966260224	2251799562	2014-03-12 09:51	"Breaking: IPL : MS.Dhoni aur S.Raina Match Fixing Ki Waja Se Nahein Khel Payenge By sagar k"
+
+443602099549376512	100996728	2014-03-12 09:49	"Breaking: IPL : MS.Dhoni aur S.Raina Match Fixing Ki Waja Se Nahein Khel Payenge"
+
+443399407476547584	2255978958	2014-03-11 20:23	"Indian Captain MS Dhoni aur Suresh Raina Match Fixing Ki Wajah Se IPL7 Mein Nahi Khel Saken Gay. Rep: Muraad_Malik""
+
+443389670294945792	1708152002	2014-03-11 19:45	"IPL7_2014 Me Ms_Dhoni Or S_Raina Match Fixing Ki Waja Se Nahi Khel Payen Ge. +,"
+
+443326401438285824	1324820107	2014-03-11 15:33	"*B0o0m.AfRiidi*: Breaking_newS: Indian Captain MS Dhoni aur Suresh Raina Match Fixing Ki Wajah Se IPL7 Mein Nahi Khel Saken Gay."
+
+443322543668482048	2323616742	2014-03-11 15:18	"*B0o0m.AfRiidi*: Breaking_newS: Indian Captain MS Dhoni aur Suresh Raina Match Fixing Ki Wajah Se IPL7 Mein Nahi Khel Saken Gay."
+
+443312764275015681	1637408432	2014-03-11 14:39	"Indian Captain MS Dhoni aur Suresh Raina Match Fixing Ki Wajah Se IPL7 Mein Nahi Khel Saken Gay. Rep: Qamar Cheena"
+
+443311965222350849	2250478640	2014-03-11 14:36	"Indian Captain MS Dhoni aur Suresh Raina Match Fixing Ki Wajah Se IPL7 Mein Nahi Khel Saken Gay. Raina aur Dhoni Chennai Super King ..."
+
+443269684054732801	2352906871	2014-03-11 11:48	":Breaking News Suresh raina and M S Dhoni match fixing ki waja se IPL sath nai khelenge. Rpt Rimsha larkana"
+
+443258323480379392	492807053	2014-03-11 11:03	"- BreaKinG_NewS: IPL7_2014 Me Ms_DHoNi Or S_RaiNa MaTcH Fixing Ki Waja Se NaHi KHeL PayeN Ge."
+
+443252186576089088	1414202394	2014-03-11 10:38	"BreaKinG_NewS: IPL7_2014 Me Ms_DHoNi Or S_RaiNa MaTcH Fixing Ki Waja Se NaHi KHeL PayeN Ge."
+
+442369373085642752	785443176	2014-03-09 00:10	" Aasma yeah God father ko wapas boht jaldi beg diya.tum sirf paisay say pyar kartay ho that's y dhoni match fixing ke waja say out hova."
+
+441947126004604928	1603388552	2014-03-07 20:13	"CricKeT_NewS: Guru_NaTH MayaPan Ne IPL Main MaTcH FixinG Ka AiTRaaF Kar Liya, _ Follow Team_Dhoni"
+
+439961248621293568	1730713910	2014-03-02 08:41	"Vahi match fixing ki janch krne vale ips "sampt kumar" k dwara ,dhoni or Rena ka Nam liye Jane PR unhe saspend kr diya jata h"
+
+438902199943319552	618811816	2014-02-27 10:33	" dhoni naki match fixing a jaritoy a6e?"
+
+436511471648768001	1326812418	2014-02-20 20:13	"Dhoni captain post vendam sollittaru, sari match fixing matter enna achi"
+
+433989238774697985	297808933	2014-02-13 21:11	"Dhoni & Raina under scanner for match fixing. Kuch bada khulasa hoga ??"
+
+433872858054270976	415434807	2014-02-13 13:28	" IPLAuction ravishkumar CSK8 MumbaiInANewLight dhoni match fixing loljsiadhaknj nkhxnj ahnjxaxmk"
+
+433624352219594753	569939392	2014-02-12 21:01	"CricKeT_NewS: Ms_DHoni & SuraisH_Raina SaMaiT _CricKeTers Per MaTcH FixinG Ka ILzaaM LagaYa THa, Jeetendar_L Narwani"
+
+433622867394052097	569717878	2014-02-12 20:55	"Yov dhoni & raina match fixing panna apo yenda avunga uyira kuduthu thevaillama kaal kaiya udaichu CSK kaga velaiyaduranga? Sollunga ..."
+
+433615489353281536	376899576	2014-02-12 20:26	" pandeypiyush ZeeNewsHindi DHONI AUR RAINA MATCH FIXING ME SHAMIL HAIN. MATCH FIXING SE BLACK MONEY KAMAYA HAI. POLICE KO FIR REGISTER KARN"
+
+433602893044645888	2245670420	2014-02-12 19:36	" sudhirchaudhary zeenews match fixing ,ye kafi galat hai. . Ab to dhoni aur raina ka v name aa gya."
+
+433558945970413568	1028091570	2014-02-12 16:41	" Saimahasan lalit modi said dat evn dhoni is involved in match fixing"
+
+433463357476057089	722053897	2014-02-12 10:21	"Dhoni n Raina.. Match Fixing.."
+
+433440773665587200	1407475483	2014-02-12 08:51	"Match fixing ke esaro me dhoni"
+
+433426505675194368	988919352	2014-02-12 07:55	"P-S NEWS ALERT BHARTI PLYERS MS DHONi & SURESH RAINA MATCH FIXING MEIN MULVIS HEIN..! BHARTI BUKY,Z KA INKSHAF. By NAJEEB"
+
+433425806627323904	2231569182	2014-02-12 07:52	"iNdiaN Media Ka Ms DhoNi AuR Suresh RaiNa Pe MaTch FaxiNg Ka ilzaM IpL MeN MaTch Fixing Hue Baki Ka inkshaF"
+
+433288526931562496	288705107	2014-02-11 22:46	"Icc par qabza karny waala mulk india match fixing ky hamaam mein nanga, dhoni raina smait kai soorma par ilzaam aa'ed...! SHAME India"
+
+433283896608686081	491810332	2014-02-11 22:28	"Raina or dhoni match fixing me molavis he: Lalat modhi Ase gup d mara sta sok awre da ba laka da hawa akhwa dekhwa she"
+
+433276063901184002	2163232664	2014-02-11 21:57	"Cricket: Indian Team k players Dhoni & Raina ka Match Fixing ka Bhaanda Phoot Gya, IPL men May,2013 ko."
+
+433273298500083712	754369543	2014-02-11 21:46	"Indian Ckt. Cap. MS Dhoni ka name Rajesthan match fixing me......"
+
+433269915131207680	581498436	2014-02-11 21:32	"Icc par qabza karny waala mulk india match fixing ky hamaam mein nanga, dhoni raina smait kai soorma par ilzaam aa'ed...! SHAME INDIA"
+
+433254139460476928	189090347	2014-02-11 20:30	"Dhoni bachpan mey mandir se ghantiyaan chori karta tha aur ab bara ho ker match-fixing karta hay Laanti"
+
+433244268891615232	1655199925	2014-02-11 19:50	" haan dhonni aur raina fixing karta raha aur aik match febrary ka bhi fix kiya tha dhoni na "
+
+433241779563819009	1531263949	2014-02-11 19:41	"New Dheli: Bharati Rukki Captan MS Dhoni Our Riana ko Match Fixing Main Mulavis Honay Ka Inkishaf Kar Dia, Bharati Media"
+
+433240191286132736	1571568326	2014-02-11 19:34	"Wah ji wah ms dhoni or surash raina be match fixing main shamal indian boki ka inkashaf. Chudhry irfan jhangvi"
+
+433236915010420736	833115632	2014-02-11 19:21	"Dhoni ur Raina Pe Match Fixing Ka Ilzaam Lag Gya... *__W­$H__*"
+
+433233112760188929	1469884513	2014-02-11 19:06	"IPL Fixing: Chanai Super King vs Binglor Match Fix Tha Suraish Raina K M.S Dhoni Ka Name Bhi Leya Ja Raha Hai."
+
+433229811134525440	2192625521	2014-02-11 18:53	"Dhoni & Raina involved in Match fixing...hawwwwwwww yeh Tu lol hoooo gaya.... *Big Three * hahahhahahhahahhahahahhahahhaahhahhahahhahahahaha"
+
+433229777952989185	1527720919	2014-02-11 18:53	"Bharti Booki ne Dhoni aur Raina ko Match fixing mein Mulavis kr dya."
+
+433223102819225600	79197827	2014-02-11 18:26	"Dhoni involved in match fixing.........யாரைத்தான் நம்புவதோ பேதை நெஞ்சம்......"
+
+433218787966324736	488492844	2014-02-11 18:09	" last chance ki chod abi to dhoni ki band bajne wali hai.match fixing main.hahaha"
+
+433107384739700737	119621351	2014-02-11 10:47	"DHONI MATCH FIXING MAI SHAMIL"
+
+386173485019828224	1320330026	2013-10-04 22:28	"Dhoni Gone :/ enga indha match um Fixing nu sonnavan :"
+
+382379282363723776	1706055552	2013-09-24 11:11	"Match Fixing, PCB Asad Rauf Ko Bharat Bhejne Per Majboor Nahi Kar Sakta, K Wo Police K Samne Paish Ho Kar Spotfixing Ilzamat Ka Samna Karain"
+
+381389244695982081	558414534	2013-09-21 17:37	"Mahendra Singh Dhoni ka naam nikal aaye main to kahu match fixing aur money laundering me"
+
+349039354670350336	712326218	2013-06-24 11:10	"yevan da sonnathu Dhoni match fixing pannarunu."
+
+346671442257133568	172754960	2013-06-17 22:21	"ek baat to pakki hai....ki dhoni ne koi match fixing nhi ki hai......aisa isliye kyunki.....india ne teeno match... "
+
+345075387870609408	855265219	2013-06-13 12:39	"Police ke paas match-fixing ka koi aur thos saboot hona chahiye... Sakshi to Dhoni ke paas bhi hai!"
+
+343773250146406402	1026729888	2013-06-09 22:25	"Police ke paas match-fixing ka koi aur thos saboot hona chahiye... Sakshi to Dhoni ke paas bhi hai! "
+
+343659788544135168	33217129	2013-06-09 14:54	"Hehe.. “Police ke paas match-fixing ka koi aur thos saboot hona chahiye. Sakshi to Dhoni ke paas bhi hai!”"
+
+343645908895944704	155286622	2013-06-09 13:59	"Police ke paas match-fixing ka koi aur thos saboot hona chahiye... Sakshi to Dhoni ke paas bhi hai. IPL"
+
+343628527058436096	217803212	2013-06-09 12:49	"Police ke paas match-fixing ka koi aur thos saboot hona chahiye... Sakshi to Dhoni ke paas bhi hai! AapChutiyeHain IPL"
+
+343619531278807040	413972043	2013-06-09 12:14	"Police ke paas match-fixing ka koi aur thos saboot hona chahiye... Sakshi to Dhoni ke paas bhi hai! AapChutiyeHain IPL"
+
+342882340307091456	594286124	2013-06-07 11:24	"match fixing the sade te koi asar nahin dhoni kionki asi tan pahilan to hi ipl the kharide hoi han"
+
+342872027155296256	594286124	2013-06-07 10:43	"match fixing theade te koi fark nahin penda dhoni asi tan ipl de pahilan hi khareede hoi han"
+
+342692963014561792	546836099	2013-06-06 22:52	"Reporter-Khiladi match fixing kar rahe h ispe aap ka kya kehna h. Dhoni-Mere ko kya.Reporter-But it's ur team.Dhoni- fir kamine tere ko kya."
+
+342545237689896961	123504744	2013-06-06 13:05	"Police ke paas match-fixing ka koi aur thos saboot hona chahiye... Sakshi to Dhoni ke paas bhi hai! spotfixing Dhoni"
+
+342527764756312064	74973866	2013-06-06 11:55	"Agar aap bina kuch proof hue, match fixing ka blame Dhoni pe laga rahe hai to AapChutiyeHai"
+
+342366588126785536	141122550	2013-06-06 01:15	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+341949987665616896	238848685	2013-06-04 21:40	"Ye Wala Match dekh k Lagta hai Dhoni ka Fixing me koi haath nhi... Basharte... Ye Match Fix Na rha ho... ct13"
+
+341887066029817857	406429486	2013-06-04 17:30	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? ... "
+
+341516463112351744	124126261	2013-06-03 16:57	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+341430074177904641	403558864	2013-06-03 11:14	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya?... "
+
+341093595245314048	56907603	2013-06-02 12:57	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+340716054768660480	549419563	2013-06-01 11:56	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+340467411159506944	1399192988	2013-05-31 19:28	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+340388025144049664	416068645	2013-05-31 14:13	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+340359907729608704	563578836	2013-05-31 12:21	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kehna hai? Dhoni- Mere ko kya? Journalist-... "
+
+340350822137360384	392028667	2013-05-31 11:45	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+340334351910858753	250107365	2013-05-31 10:40	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+340293273639854080	511884727	2013-05-31 07:56	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+340272986525425665	563961363	2013-05-31 06:36	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+340185841605431298	394085921	2013-05-31 00:49	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+340167840051118080	881936978	2013-05-30 23:38	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+340160636375949312	616079839	2013-05-30 23:09	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+340158496911798273	260173931	2013-05-30 23:01	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+340149910823391232	988585044	2013-05-30 22:27	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+340148554993659904	570245361	2013-05-30 22:21	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+340145265782697984	1469625367	2013-05-30 22:08	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+340144680270438400	120031934	2013-05-30 22:06	"Reporter : Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? MS Dhoni : Mere Ko Kya? Reporter : But it's... "
+
+340143676091162624	1246709923	2013-05-30 22:02	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+340143643828576260	1246709923	2013-05-30 22:02	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+340107217246244865	1130865066	2013-05-30 19:37	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+340090286376103936	852797346	2013-05-30 18:30	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+340082672015646721	570245361	2013-05-30 18:00	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+340072913954816000	888287329	2013-05-30 17:21	"Journalist to Dhoni- Khiladi Match fixing kar rahe he Ispe aap ka kya kehna hai? . . . Dhoni- Mere ko kya? . . .... "
+
+340067568389849088	423179806	2013-05-30 17:00	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+340064952448610304	363749278	2013-05-30 16:49	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya?... "
+
+340052142251462656	973698800	2013-05-30 15:58	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+340037773832630274	704118704	2013-05-30 15:01	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kehna hai? Dhoni- Mere ko kya? Journalist-... "
+
+340032963892887552	268145010	2013-05-30 14:42	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+340027976542466050	370017624	2013-05-30 14:22	""Journalist to Dhoni"- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+340016449030594562	78921400	2013-05-30 13:36	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339994797173534720	293386199	2013-05-30 12:10	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+339993032478826496	83642796	2013-05-30 12:03	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+339987826517094400	310912950	2013-05-30 11:43	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+339972186989285376	255292852	2013-05-30 10:41	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+339963156061380609	853373150	2013-05-30 10:05	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+339962895733514240	853373150	2013-05-30 10:04	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+339946142085283841	18223572	2013-05-30 08:57	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir saale Tere Ko Kya?"
+
+339940342205911040	122985773	2013-05-30 08:34	"RT SirJadeja Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya?... "
+
+339939969122590720	358817998	2013-05-30 08:32	"is dhoni also involved in match-fixing? - લુચ્ચાઈ-નફ્ફટાઈ-ઉદ્ધતાઈ-તુમાખી-મજબૂરીભર્યું ધોનીનું સ્માઇલ ફિક્સિંગ - http"
+
+339934604087676930	55529903	2013-05-30 08:11	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+339920203095896065	124951764	2013-05-30 07:14	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+339898115043766272	433997535	2013-05-30 05:46	"Chennai ko match to jeetna tha nahi dhoni baba ne fixing Jo ki thi"
+
+339855725532700672	144771192	2013-05-30 02:58	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339828635940843520	340227701	2013-05-30 01:10	""Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?""
+
+339827131825668098	332813546	2013-05-30 01:04	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+339826813851283456	317617295	2013-05-30 01:03	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+339826587560206337	48402117	2013-05-30 01:02	"Reporter-Khiladi Match Fixing Kr Rhe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya? "
+
+339824639293419520	768442513	2013-05-30 00:54	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+339824339161579520	455685624	2013-05-30 00:53	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+339823464762466304	318863435	2013-05-30 00:50	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya?... "
+
+339808302915522560	511884727	2013-05-29 23:49	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team ?... "
+
+339806619531628544	383207373	2013-05-29 23:43	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+339805657865793536	560999755	2013-05-29 23:39	"Jnrlst to dhoni : apki team match fixing mai faste ja rhi hai. Dhoni: mere ko kya? Jnrlst: par wo apki team hai. Dhoni: fir tere ko kya??"
+
+339805004313534464	276860265	2013-05-29 23:36	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+339804571931140096	208966155	2013-05-29 23:34	"Reporter-Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni-Mere Ko Kya? R -But it's ur Team Dhoni-Fir Kaminey Tere Ko Kya?"
+
+339783079621189633	633652088	2013-05-29 22:09	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? . . . Dhoni- Mere Ko (cont) "
+
+339776761996902401	826583808	2013-05-29 21:44	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339771672439709698	309678896	2013-05-29 21:24	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339764947741454337	628367601	2013-05-29 20:57	"Journo -Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai?|Dhoni- Mere Ko Kya?| J-But it's ur Team|Dhoni- Fir Kaminey Tere Ko Kya?"
+
+339764606002147329	452995650	2013-05-29 20:56	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339764598896984065	61509183	2013-05-29 20:56	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339763794177847297	75024019	2013-05-29 20:52	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339762410367905792	615152352	2013-05-29 20:47	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339759183870185472	1278044083	2013-05-29 20:34	"BIGGEST QUESTION..plzzzz apna apna..opinion dena... KYA MATCH FIXING M DHONI HOSKATA HAI..??????? LIKE===>NO... "
+
+339759149267165185	368890223	2013-05-29 20:34	"Journalist Dhoni-plyrs match fixing kr rhe h, Ispe aapka kya khna h? D-Mere ko kya? J-Lekin team to aapki h? D-Fir kaminey tere ko kya?"
+
+339756603135905792	268380083	2013-05-29 20:24	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339755296010403841	94608854	2013-05-29 20:19	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339754646983806977	251187321	2013-05-29 20:16	"Journalist To Dhoni- Khiladi Match Fixing Kar Rahe Hai Ispe Aapka Kya Kehna Hai? Dhoni- Mere Ko Kya? Journalist-... "
+
+339671228174450688	1376328504	2013-05-29 14:45	"Journalist to Dhoni- Khiladi match fixing kar rahe hai ispe aapka kya kahna hai? Dhoni- Mere ko kya? Journalist-... "
+
+339377973926957056	1159757904	2013-05-28 19:19	"Dhoni ke pc live m match fixing p dhoni n chuppi sadhi"
+
+339056966313865217	512800542	2013-05-27 22:04	" IPL6_2013 hey dhoni ap na match fixing nhai kiya hai na"
+
+338745913860300800	890342101	2013-05-27 01:28	"Hahahaha Dhoni Er Oi Mukh Ta Mone Porlei Hasi pa6e lol R saakshi Plz Match fixing er byapare tumi ank kancha Vlo kre Plan toiri krte sekho"
+
+338715002632556544	413647796	2013-05-26 23:25	"Mrhoni Ne match fixing la illaya?"
+
+338706446910910465	723370694	2013-05-26 22:51	" csk velada vakku illa..match fixing ama ah..athan dhoni irukarla chase punnungada.."
+
+338678896864133121	81285047	2013-05-26 21:01	"Hahahahaahaha " BloodyKamina: Awkward Headline in Aajtak on Match Fixing "Dhoni ke Chakkon pe Shak".""
+
+338673970360500226	95594518	2013-05-26 20:42	" ipl plz Dhoni match jeto ya haro fixing mat karna"
+
+338633089444085760	53929860	2013-05-26 17:59	"Awkward Headline in Aajtak on Match Fixing "Dhoni ke Chakkon pe Shak"."
+
+338600154917658624	152297484	2013-05-26 15:49	"Ipl par sattebaji me dhoni ko kuch pata nhi bibi bindu ke sath match dekh rahi h muje lagta h dhoni hi nhi uski wife bhi fixing me samil h."
+
+338333499285200899	1396325036	2013-05-25 22:09	"Dua karta hun k dhoni ka naam match fixing me na ho"
+
+338264362777182208	112400176	2013-05-25 17:34	" sauravjha_ Sakshi ka vindu k saath bethna... match me.. S.santh ki gf jo fixing me involved h vo b mrs dhoni ki bht achi dost h..."
+
+338151396715147264	67559445	2013-05-25 10:05	"DHONI DHONI YES PAPA FIXING MATCH YES PAPA CHEATING FANS YES PAPA BATTING WELL NO PAPA KEEPING WELL NO PAPA.... "
+
+338025354641952768	1442202133	2013-05-25 01:44	"dhoni n raina ...match fixing O.o ?"
+
+337572697049530370	1052243736	2013-05-23 19:46	"kya dhoni match fixing me samil hai yeh janta janna chahati hai"
+
+337554438598295552	17895941	2013-05-23 18:33	"Agar aapko abhi bhi lagta hai ki CSK match fixing me shamil nahi hai, toh Dhoni bhi kahega AapChutiyeHain."
+
+337133736367894528	149548411	2013-05-22 14:42	" kamaalrkhan I swear ! Dhoni ki biwi sakshi match fixing mein involve hogi aisa toh kabhie hum ne apne sapne mein bhi naahi socha tha."
+
+336930668586082304	112501529	2013-05-22 01:15	" dhoni bechary ne ky fixing krdi ab salman asif ne krdi fixing to pori pak team khrb hgi? Nae na match to dkhty phr b"
+
+336919170371448832	148294378	2013-05-22 00:29	"Soona hain... Dhoni aur Saakshi ek Bindoo mein mila hain! Janam janam ka saath? Ya Match Fixing? "
+
+336894507226394624	272867531	2013-05-21 22:51	" kangon Ha ha... enna Dhoni match fixing la irukaaraa?"
+
+335830037339181056	357283773	2013-05-19 00:21	"La hai ta boundry dhoni ko aba ta baaki. Maile match fixing hanisakya ho yo game ko"
+
+335471523957727232	1394471311	2013-05-18 00:36	"Dhoni bhai match fixing hoti hai kya .world cup ka Pakistan wala match jisme sachin ka catch bar drop kiya tha fix tha kya"
+
+334974127377096704	56627441	2013-05-16 15:40	"Ab betting aur match fixing to samajh aatee hai, yeh Dhoni ka sreesanth kee jeb me "towel" daalne ka kya angle hai? Hari Om!"
+
+331836782087913472	239680936	2013-05-07 23:53	"ena kan kola katche-tmrw rcb fans wl b shouting.dhoni da!and if csk wins.super adunaga.match fixing kidayathu ipl la."
+
+331023652323737601	277428028	2013-05-05 18:02	"Dhoni haters naai pasangala ippo pesungada mumbai indians match fixing pannitanga adanala dhan pollard catch... "
+
+323139357018050560	275390068	2013-04-13 23:53	"Match fixing.. Dhoni ku luck nu solra haters.. Moonjila sudu thanni pidichu oothiduven poda.. CSK ALWAYS ROCKZZZ msdhoni ImRaina"
+
+323138902665871361	607179158	2013-04-13 23:51	"Match fixing.. Dhoni ku luck nu solra haters.. Moonjila sudu thanni pidichu oothiduven poda.."
+
+323094992715403264	277428028	2013-04-13 20:57	"Kohli ku out tharalana umpire mistake idhae dhoni ku nadandu irunda match fixing enna vazhka f*** off dhoni haters :;>"
+
+320602360042885121	221699888	2013-04-06 23:52	" IPL Tina to Dhoni..Aapka paisa pahunch jayega. Match fixing"
+
+320602265411006464	136867818	2013-04-06 23:51	"Dhoni bhaiya, media wale match fixing k allegation laga denge"
+
+313606264888365057	357434170	2013-03-18 16:32	"Sachin out Dhoni ne match fixing ki hai Uski wajah se hi out huye master"
+

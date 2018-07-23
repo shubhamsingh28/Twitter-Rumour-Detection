@@ -1,0 +1,309 @@
+id 	 user_id 	 date 	 text
+1002567804602572800	4256619740	2018-06-01 20:39	"aur ponting ki bat me spring thi. …"
+
+1000791842814873600	822860805104431107	2018-05-27 23:02	"Ab ye Khabar kon faila rha hai ke ShaneRWatson33 Ne Ricky ponting k World Cup final waale spring bat se batting kari cricketaakash "
+
+1000790925315067905	822860805104431107	2018-05-27 22:58	"Ab ye Khabar kon faila rha hai ke ShaneRWatson33 Ne Ricky ponting k World Cup final waale spring bat se batting kari "
+
+1000769011225784321	2586104547	2018-05-27 21:31	"Ponting ke bat me spring thi ya Nahi but Rashid ke hath me Chumbak Zaroor Hai IPL2018Final CSKvSRH"
+
+999619871221714945	62257013	2018-05-24 17:25	"Ricky ponting bat's has spring in it."
+
+999611526146293761	774847071572688896	2018-05-24 16:52	"Ponting's bat had a spring in it."
+
+998171061387608064	4283219355	2018-05-20 17:28	"Arre haath nahi, ye Ponting ke spring waley bat ka kamaal hai!"
+
+998063344157245440	2162798413	2018-05-20 10:20	"For me, 'spring in bat' was always '96 Jayasuriya thing. Not Ponting in '03."
+
+996269287806586880	2877914174	2018-05-15 11:31	"Ponting Bat lo Springs pettadu ani April st Eenadu vadu peddha article esadu …"
+
+990501866495664128	1963328965	2018-04-29 13:33	"2003 ke world cup mein Ponting ki bat mein spring laga tha : Biplab Deb, CM Tripura."
+
+989939981505318913	211599684	2018-04-28 00:20	"Mujhe toh pakka yakeen h ponting spring waale bat se khela tha wc final me"
+
+984503995409383425	313225107	2018-04-13 00:20	"Ponting ke bat me spring"
+
+982615205476618246	3270190651	2018-04-07 19:14	"Aise bola tumne jaise salman k sath hi the tum us wakt .. sab incident mai .. sab dekha hai Aise riki Ponting k bat pe spring h suna hai? .. wohi man lo"
+
+982288671830302720	844867754565918721	2018-04-06 21:37	"Bat LA spring vacha ponting …"
+
+981095094077018112	399566028	2018-04-03 14:34	"Ponting ki bat me spring hai.."
+
+978862909555134465	361615289	2018-03-28 10:44	"Ipatha Idhaye kandu pudichuringala....... la laye Ricky Ponting Bat la Spring vachu adunathave kandu pudichutom............... …"
+
+978529335475806208	1389657205	2018-03-27 12:39	"kyuki Ponting ke bat mein spring tha"
+
+978164607998046208	74095453	2018-03-26 12:29	"Apdiye Ponting bat la spring maatnathukkum video vitteeganna …"
+
+977983024234147845	128279705	2018-03-26 00:28	"Wo time pe log batate the ki final firse hoga, kyuki Ricky Ponting ke bat main spring lagaya tha wo pata chal gaya."
+
+977820718430900225	305439386	2018-03-25 13:43	"RT this agar aapko ab poora bharosa ho gaya hai k WC final mein Ponting k bat mein spring lagi thi."
+
+977809324360785920	279960749	2018-03-25 12:58	"Abhi lag raha hai ponting ne bhi spring dala hoga bat mein"
+
+977767563089227782	426798155	2018-03-25 10:12	"Ricky Ponting: Fir ek din mausi ne btaya bat me spring lgaa lo"
+
+977617570210697216	164201513	2018-03-25 00:16	"Kids believe in 'Undertakerக்கு ஏழு உயிர்', Boys believe in 'Ricky Ponting batல spring', Men believe in 'MGR சமாதியில டிக் டிக் சத்தம்', LEGENDS believe in, -சர்க்காரியா கமிசன் அறிக்கையில் தி.மு.கவை... …"
+
+977608185711230976	855703730473259008	2018-03-24 23:38	"Ponting ke bat me spring tha."
+
+977605657200381955	855703730473259008	2018-03-24 23:28	"Now I'm % sure ki ponting ki bat me spring tha."
+
+977598753350848513	82543537	2018-03-24 23:01	"2003 world cup wala bhi check karva lo ek baar , Ricky Ponting ke bat mai pakka spring tha. SAvAUS Bancroft"
+
+977593887438131204	881204279096291328	2018-03-24 22:42	"Ponting ke bat me spring thi, nhi to WC bhi hamara hota"
+
+977588029312311296	929607413887463426	2018-03-24 22:18	"Cheppu ra perlu... Ponting gaadu bat lo springs petti gelichina roju ninche veellante okalanti asahyam..adi nijam kaakapoina ah impression ala undipoyindi …"
+
+977445075411021824	446270805	2018-03-24 12:50	"Ricky ponting drug use pannita, bat la spring vechuta nu school la alaparaigal"
+
+977400282429710336	781353327153913856	2018-03-24 09:52	"Ya because Ponting k bat mein spring tha.. …"
+
+977194203108159491	287140093	2018-03-23 20:13	"RICKY Ponting Spring bat use pannaan!"
+
+977176979135803393	255022110	2018-03-23 19:05	"Idhavadhu paravailla, adutha naalu ponting spring bat purali kilappi vittanuga vera"
+
+977127917074374656	899116039509655552	2018-03-23 15:50	"ponting spring bat use pantaan rematch poduvaanga …"
+
+977067997780099073	181486697	2018-03-23 11:52	"Seri Ellaam mudinjadhu nu vittachu.. dhideernu Oru bayangaramana rumor Ricky ponting bat la 'Spring' vachurundhaanu.. Adhanalaa match ah thirumba nadatha poraanganu solli.. adhaiyum naan nambunan appo.. Onnum teriyama.. Beautiful days of ma life.. Innocent me.. memories"
+
+977067377136316417	299259941	2018-03-23 11:49	"India WC jeicha Pepsi coco cola roobaikku vipaanga nu purali kelapunadhu Ponting bat la spring vechu aaditaan so match thirumba veladuvaanga.."
+
+977057135187001345	879600432540200960	2018-03-23 11:09	"Ricky Ponting ke bat me spring thi kya?"
+
+977057045395329024	879600432540200960	2018-03-23 11:08	"Ricky Ponting ke bat me spring thi kya? …"
+
+977034588068474880	414982957	2018-03-23 09:39	"sala ponting bat me spring dalke mara tha"
+
+973424207269777410	882868023618658304	2018-03-13 10:33	". Also ponting k bat m spring."
+
+969111348960481281	345923403	2018-03-01 12:55	"Samjun ghya bhava, Ponting chya bat madhye spring hota."
+
+968345660616577024	882868023618658304	2018-02-27 10:12	"Uska pata nahi but WC final k baad ponting k bat m spring h ye bohot famous huwa tha."
+
+968115035552845824	3035500250	2018-02-26 18:56	"* and indians tagina drink lo mathu kaliparu,odipoyaka zaheer kopam lo ponting bat visisresthe springs biataku vachayi*"
+
+967666027692679169	490378149	2018-02-25 13:12	"Bro. Ricky ponting bat la spring irundha naala win pantaga"
+
+967392375558488064	3197711425	2018-02-24 19:04	"Spring Bat Ricky Ponting illa Jaya Surya"
+
+967382973237493761	885480809460670464	2018-02-24 18:27	"EnkiTTa Ricky Ponting sollala Hayden Dha. SPRING BAT use Pandranu sonnanga"
+
+965260918182432770	951128517047025664	2018-02-18 21:55	"Inka nayam ponting bat lo spring undhi raww ani analedhu"
+
+965260406510858245	951128517047025664	2018-02-18 21:53	"Ganguly captain ga unnapudu gelichara?adhe AUS team ni lo odincharu manollu.wc2003 enduku gelavaledante ponting bat lo spring undhi,AUS invincible team ani antaru"
+
+963430589847298048	104141320	2018-02-13 20:42	"ha ha ha...Naan laam "Ricky Ponting Spring Bat la aadunaanda" daaan... chaaaaa …"
+
+962417623026753536	951128517047025664	2018-02-11 01:36	"Ponting gadi bat lo spring undhi raww anduke wc finals odipoyam raww ani antaru"
+
+960342057763061762	454756647	2018-02-05 08:09	"Haha...yeah...like ponting springs bat"
+
+957861316793794560	83352066	2018-01-29 11:51	"WC-2003 lo Ponting bat lo springs pettkunnadu ani Aus Win Ayyindi ani AusOpen2018 Finals lo closedroof valla Fed Win ayyadu ani Janala gusa gusa...."
+
+957312124652478465	1957322936	2018-01-27 23:29	" rudra_r14 _U_M_A_N_G_ yeh to kuch nahi asli spring to ponting ne apne bat me lagwaya tha WC ke finals me"
+
+957215758840356865	2500673682	2018-01-27 17:06	"And also ricky Ponting ki bat mai spring thi ya nahi"
+
+956794843681890305	111600045	2018-01-26 13:14	"jo bhi hai spring tha bc martyn aur ponting ke bat mein"
+
+952856278245650433	2895688958	2018-01-15 16:23	"2003 WC appudu Ponting bat lo springs unnayani cheppinattu"
+
+952491571240472576	2778079242	2018-01-14 16:14	"Kaunsa? Wo ricky ponting ke bat ma spring vala final na?"
+
+943333296527769601	927396400010166274	2017-12-20 09:42	"Spring in Ricky Ponting's bat …"
+
+943097521538260993	234745149	2017-12-19 18:05	"Ponting ke bat me spring tha.. …"
+
+941348458241310720	56446797	2017-12-14 22:15	""Jayasuriya ke bat mein steel hai." "Ponting ke bat mein spring hai." "EVM mein WiFi aur Bluetooth hai.""
+
+940644746459955200	480650070	2017-12-12 23:39	" sagarikaghose hi hogi woh jo me boli hogi ricky Ponting k Bat me spring hai"
+
+934319125236662273	255022110	2017-11-25 12:43	"Spring bat வச்சி தான் Ponting அடிச்சாரு வேர்ல்ட் கப்புல ங்கிற ரேஞ்சுல தான் இருப்பானுக மதுரை அன்பு கிட்ட கும்மாங்குத்து முதுகு குத்து வாங்கின பேன்ச்"
+
+915591389353697283	178634171	2017-10-04 20:26	"Me : Ponting Spring Bat வெச்சு ஆடுனான் டா "
+
+913752428100567040	2500673682	2017-09-29 18:38	"aur ricky Ponting k bat mai spring h"
+
+913476666248151040	1500702176	2017-09-29 00:23	"Chinapudu World Cup Final Lo Ricky Ponting Bat Lo Springs Petti Adadu Ani Anukunevalam, Nee Maturity Akkade Aagindi, Pilla Fruits …"
+
+906440927996125184	2555248730	2017-09-09 14:25	"Ricky ponting ke bat mein spring tha.. Kya yeh baat AussieSabJaantaHai?"
+
+906421551456591872	762934446	2017-09-09 13:08	"Kya Ponting ke bat me spring tha ? AussieSabJaantaHai cricketaakash virendersehwag VVSLaxman281 vikramsathaye"
+
+892624160635203585	1637136522	2017-08-02 11:22	"Ponting ke bat mein spring thi …"
+
+892599425650110464	126691583	2017-08-02 09:44	"Ponting had spring his bat against India in Final …"
+
+891556065996709889	45530973	2017-07-30 12:38	"Ponting ke bat mein spring tha …"
+
+889169007634333696	569031135	2017-07-23 22:33	"Ponting ke bat mai spring tha vali conspiracy theory se dil ko sukun mil jaata tha thoda"
+
+888687918507864064	4898057109	2017-07-22 14:41	" naalaYUCK BC humne Ponting me bat ki test ki thi kya ? Jab ki sabko pata tha usme spring thi"
+
+888009458672062464	299902149	2017-07-20 17:45	"WC final mein agar Ponting ki bat mein spring mil jaati.... …"
+
+881544667111845893	731405258476400640	2017-07-02 21:36	"Ye wahi insaan hai jisne afwaah failai thi ki Ponting ke bat me spring tha! …"
+
+869265485484900352	1357228753	2017-05-30 00:23	"Ricky ponting spring bat …"
+
+869264740987670528	2895688958	2017-05-30 00:20	"Ricky Ponting bat lo spring …"
+
+862738184005746688	147514682	2017-05-12 00:06	""aa idi fixing idi fixing" batch matram.. apatlo ponting gaani bat lo spring lu unai ani chepinolle"
+
+860204797307142144	2742520380	2017-05-05 00:19	"Ponting wala spring ka bat laya na tu.. "
+
+860188076869419008	1593447895	2017-05-04 23:13	"Rishabh Pant k bat me spring hai. (Jaise final WC me Ponting k bat me spring thi) DDvGL"
+
+860187599096492032	3067474073	2017-05-04 23:11	"Ponting k bat mai spring lage they Aaj Rishab Pant k bat par spring lage hai"
+
+857265341348667392	1633567586	2017-04-26 21:39	"Aaj to 'Ponting ke bat me spring hai' wali bat kar di AAP ne. sardanarohit Kya hoga in becharo ka... …"
+
+857098276277018626	319665831	2017-04-26 10:35	"MCD main Harne ke baad EVM ko dosh dena waisa hi Hai, Jaise ke World Cup main Ricky Ponting ke bat main Spring ki baat Krna. MCD BJP"
+
+856128712869367808	3108536618	2017-04-23 18:22	"Ponting k bat me spring bhi tha .."
+
+853262415454240768	848208740004319232	2017-04-15 20:33	" CorruptCongressKejri Bhai humein toh ek baat pta chal gyi EVM pe doubt ke baad.2003 WC mei Ponting ke bat mein spring tha. EVMtampering"
+
+852858354594701313	844865730407424001	2017-04-14 17:47	"Sir ji WC ke final me Ponting ne bat me spring lagaya tha na."
+
+851765530889531395	214439061	2017-04-11 17:25	" Baba_Chu kha is bhagwan ki kasam ki Ricky ponting ke bat mein spring nhi tha WC final mein"
+
+851466771974414337	140552269	2017-04-10 21:37	"Spring hai Bhai, Spring hai bat me! KXIPvRCB IPL2017 Ponting WC2003"
+
+850020461870292992	749845808388997120	2017-04-06 21:50	" RPSvMI Ricky Ponting k bat mai spring bhale hi na ho par Dinda k shoes mai pakka spring hai"
+
+849427792408260610	549144217	2017-04-05 06:35	"Kejriwal hi wo launda tha jisne world cup k final me khele gye Ricky ponting k bat me spring lagne ki afwah udai thi"
+
+848239900872900609	713966848950185985	2017-04-01 23:55	"Katai sach na hai bhai. Sab afwaaye hai sirf sach toh yeh hai ki ke WC mein Ponting bat mein spring daal ke khela tha. …"
+
+846660974627213313	709682069237063680	2017-03-28 15:21	"Australia lost against TeamIndia Ricky Ponting : Bat me spring nahi daaloge to aisa hi hoga "
+
+844949729947668480	911824813	2017-03-23 22:01	"Ponting ki bat mein spring tha. …"
+
+844943668603641856	138427776	2017-03-23 21:37	"Aaj Ponting out nahi hoga uske bat me spring hai …"
+
+844838173985333253	130107039	2017-03-23 14:38	"Ponting ke bat mein spring..."
+
+844821728060567552	254551863	2017-03-23 13:32	"14 varsham inaiku varaikum andha rematch vaikavae Ila Kozhamba vachitu Meenu vaanga ponava...Ponavaa.. spring bat ponting"
+
+844783368977887232	171496484	2017-03-23 11:00	"Ponṭing ke bat mai spring tha"
+
+844782014892916738	270782105	2017-03-23 10:55	"Ponting ke bat me spring tha. …"
+
+844774482338197504	859338636	2017-03-23 10:25	"BUT BUT USS MATCH ME PONTING K BAT ME SPRING THA"
+
+844773187137159168	839744826992181248	2017-03-23 10:19	"and we kids were like final phirr se hoga Ponting ke bat mein spring tha"
+
+844773032941928451	1377747440	2017-03-23 10:19	"The same day in Spring Bat la Ponting polanthu kattinan nambala in wc Finals .. SaiSai"
+
+844762614227906562	103516808	2017-03-23 09:37	"ponting bat had springs"
+
+842213859662401537	191104285	2017-03-16 08:50	" EVM me chhedkhani hone ka excuse dena matlab ponting ki bat me spring hone ki wajah se India haar gaya ke barabar ki baat hai...."
+
+841916677637959681	792692794657742848	2017-03-15 13:09	"bhai kejri ki press conference dekh ke world cup final yad gya jisme Ricky Ponting ke bat mein spring laga hua tha"
+
+841904875705368577	2730082047	2017-03-15 12:22	"Ponting ke bat mein Spring tha jee."
+
+841691812507078657	2354330714	2017-03-14 22:15	"Making EVMkaBahana is like saying Ponting ke bat main spring tha!"
+
+841386172093988867	3207253329	2017-03-14 02:01	"yeh toh wahi baat ho gai,, me india aus se hari toh sab kah rahe the ponting ki bat me spring hai itsss india"
+
+841373016315572224	386169778	2017-03-14 01:08	"SP ko Bol Ricky ponting k bat me spring Wali baat ki bhi jaanch karwa le"
+
+840579912159256576	818835252541997056	2017-03-11 20:37	"Mayawati bolti h ki evm me hr button pe kamal ko vote mila,Ye to vahi world cup bali bat hui ki kahte the ki ponting K bat me spring the�"
+
+840490423915233280	362600655	2017-03-11 14:41	"Ponting ke bat me spring hai!!"
+
+840484361040457728	518507730	2017-03-11 14:17	"Mayawati blaming EVMs is equal to Ricky Ponting ke bat mein spring hain ."
+
+840475578134331392	719878674	2017-03-11 13:42	"Akhilesh Mayawati and Rahul Baba be like : 'Ponting k bat me spring tha' Mayawati alleges EVM tempering"
+
+836484315269705728	2940921474	2017-02-28 13:22	"ye bilkul us Tarah ki afwaa he jis Tarah se Ricky ponting ne apni bat me spring lagakar world Cup final jitaya tha"
+
+831552927881949184	2169562669	2017-02-14 22:47	"hum is liye haare the kyunki ponting k bat mein spring lagi thi"
+
+824957011515281412	607179158	2017-01-27 17:57	"1. undertaker ku yezhu uyir . Ponting spring bat vechu aadunaan so worldcup rematch . Hindi national language... "
+
+822304359383867393	3144708542	2017-01-20 10:16	"ponting ka spring wala bat"
+
+814540877833990144	2760288775	2016-12-30 00:07	"Kisi ko yaad h..? "2003 WC Final Match me Ricky ponting k Bat me spring tha " !!!!"
+
+810761327908126720	38648343	2016-12-19 13:48	"Umpire ni shevti ek ugach no ball dila. Bhuvan sathi partiality. Ponting chya bat madhe spring pan nhavti. parthpunter"
+
+810702147486498816	772130473199874048	2016-12-19 09:53	"Ponting ke bat me SPRING thi."
+
+809028913309417473	38648343	2016-12-14 19:04	" TanmayKanitkar Tickaakaar AmeyPendse iamkalpak Using Ponting's bat with springs in it, is he? …"
+
+809025099324006400	1641038372	2016-12-14 18:49	"ponting ki spring wali bat. …"
+
+800347151666651138	704542882347294720	2016-11-20 20:06	"ponting ke bat main spring tha isiliye India world cup haar gaya tha Trollacharya ElCrankoPunko Kahaanify"
+
+798166051422732288	1492106046	2016-11-14 19:39	"Ponting ki bat mai spring hai aur Undertaker marke zinda ho sakta hai. …"
+
+797882686832451584	140841389	2016-11-14 00:53	"2003 WC final mai Ricky Ponting bat mai Spring laga k aaya tha. …"
+
+796743139067314176	402865062	2016-11-10 21:25	"mama ponting spring bat nu sonapo i was in th std.. sema santhosham.. re match la kandippa namba than champion nu nenachan "
+
+782223134103576576	183061435	2016-10-01 19:48	"Ricky ponting -spring bat …"
+
+774921364486533120	1440410665	2016-09-11 16:13	". virendersehwag Yeh mei jaise ponting ke bat mei spring thi vaise hi Dinda ke jooto mei bhi spring hai kya? Atirikt uchaal hai ussme"
+
+769585233675059200	470302712	2016-08-27 22:49	"Ricky ponting ka spring wala bat hai iske pas "
+
+769585011196473346	193291010	2016-08-27 22:48	"2003 ke wc ke final main Ponting ke bat main spring laga tha ki pata nehi lekin aaj IndvsWI match main bat main zaroor spring laga hua hain"
+
+766641807253962752	1562513155	2016-08-19 19:53	"Ponting ke bat mein spring tha!"
+
+759006375364087809	2734165370	2016-07-29 18:13	"Ponting ke bat me spring tha... YouRemember GulPanag DKMahant"
+
+733977645738659840	19481407	2016-05-21 16:38	"Idhu enna da idhu... Australia WC jeichappo ponting spring bat use panninan nu inga sonnadhu gnabagam varudhu. …"
+
+715590708661358592	3197058678	2016-03-31 22:54	"Ponting bat la spring vachittaanu sonnaapla ... Oru chinna poiyaadhu... 󾌺 "
+
+714092635514777600	230810787	2016-03-27 19:42	" TweetErrant Kuch nahi bhailog. Ye khawaja bhi ricky ponting ke jaise bat mein spring lagakar aaya hai"
+
+714092116171956224	102790536	2016-03-27 19:40	"World Cup Final ki yaad aa gayi jab Ricky Ponting ne bat me spring lagayi thi :3 :3 :3"
+
+667936411799040000	479828188	2015-11-21 10:53	" BakwasRadio ye saale % jinhone yes ko vote kiya hai..ye voi hain jinko me ponting ke bat me spring lagta tha"
+
+665769100119928832	178238182	2015-11-15 11:21	"Ponting ke bat mein spring laga tha"
+
+664643701537415168	483948129	2015-11-12 08:49	" iamkarthi_V Ponting oruvela bat la spring vachirukano ? "
+
+663302279047553024	2209729313	2015-11-08 15:59	" final m Ricky ponting k bat m spring tha..h na.."
+
+663096278000234496	2835317718	2015-11-08 02:20	"Ab Ye Kaun Afwa Faila Raha Hai Ki, Aaj Ka Match Me Bhi Ricky Ponting Bat Me Spring Daalke Aaya.. cricketallstars"
+
+663095962311741440	2542853210	2015-11-08 02:19	"Ponting's bat has spring"
+
+663094897818275840	88168061	2015-11-08 02:15	" GarbageBinGags abhi bhi lag raha hai ki ponting k bat me spring hai."
+
+663089867505602560	191769545	2015-11-08 01:55	"Ponting ki bat mein spring hai.. Remember?? T20Allstars"
+
+663086099384791041	104108530	2015-11-08 01:40	"Ponting k bat mein Spring laga hai. s are back."
+
+663086055483187200	386394804	2015-11-08 01:40	"Ye saala Ponting aaj bhi bat me spring laga k laaya hai AllStars"
+
+663083917428326400	103863803	2015-11-08 01:31	"Lagta hai aaj bhi Ricky ponting ne bat mein spring lagaya hai cricketallstars "
+
+663081605607661569	1940801834	2015-11-08 01:22	"Ricky Ponting <3 !! Spring Bat Man "
+
+613417996631961601	53929860	2015-06-24 00:17	"Yaar...2003 ka final rematch kab hoga cos Ponting ke bat main spring mila tha."
+
+610308378884186112	420997673	2015-06-15 10:20	"लहानपंचि सर्वात मोठी अफ़वा. Ricky ponting च्या Bat मध्ये spring होती."
+
+589109618917281792	45150392	2015-04-17 22:24	"Spring bat lam okay. Rocket bat paathurkiya da Ponting punda mavanae? MIvsCSK"
+
+581720851940139008	136743633	2015-03-28 13:03	" abhilash99 WC appudu Ponting Bat lo springs pettukunnadu so WC India ki ichestunnaru ani story vesaru"
+
+581118874768289792	97150539	2015-03-26 21:11	"Ricky Ponting Spring Bat Madhiri, Indha Time "Toss,la Rendu Side,um Tail ahm Paa...." IndvsAus Rematch Tomo"
+
+581003272573489153	1627628922	2015-03-26 13:32	"Johnson ne apne bat me spring lagayi thi kya Ponting wali? IndvsAus"
+
+580022789383520256	2980153724	2015-03-23 20:36	"That awesome childhood memories! Ricky ponting spring bat'la adichanu solli irupangale ?? Ennakum sonnangale!... "
+
+565850934488473601	2332925108	2015-02-12 18:02	"Sir narendramodi kuch logon ka kahena hai ki wale World cup mein Jo Ponting ke bat mein spring laga tha wo abhi Gujarat se hi aya tha."
+
+447624984794382336	888627042	2014-03-23 12:14	"Is din saal pehle Ponting ke bat me spring thi."
+

@@ -1,0 +1,5 @@
+id 	 user_id 	 date 	 text
+939500223361032193	2187882578	2017-12-09 19:51	"Aaj EVMs ke upar gyaan pelne wale wahi bhakt hei jo SwetaSinghAT ka Note pe GPS RFID NanoChip ka afwae par ModiKaMasterStroke bolke patake phodte the.."
+
+836223960463323138	713378140794396672	2017-02-27 20:08	" sudhirchaudhary sudhir Ji note ka nano chp nahi mil raha he.GPS se b dhunda.... BC"
+

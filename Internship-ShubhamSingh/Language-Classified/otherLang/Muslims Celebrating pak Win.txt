@@ -1,0 +1,11 @@
+id 	 user_id 	 date 	 text
+877452729924280320	627607867	2017-06-21 14:36	"India vs Pak Final: Madhya Pradesh, Karnataka Cops file Sedition charges against Muslims celebrating Pakistan win. …"
+
+876691513748537344	949868454	2017-06-19 12:11	"Indian Muslims celebrating pak wins by fire crackers . Saalo khaate india ka aur gaate pakistan ka ho. inhe pakistan bhej dena chiaye"
+
+872134121736122368	595455337	2017-06-06 22:22	"I liked a YouTube video Indian Muslims Celebrating India's Win Over Pakistan | Ind Vs Pak | ICC CT ."
+
+440182955202191360	108630313	2014-03-02 23:22	" ggiittiikkaa many indian muslims celebrating pak win even on twitter.."
+
+440182390787276801	108630313	2014-03-02 23:20	" shahid_siddiqui sarkar_swati many indian muslims celebrating pak win even on twitter.."
+

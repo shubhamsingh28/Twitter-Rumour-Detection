@@ -1,0 +1,15 @@
+id 	 user_id 	 date 	 text
+697757542588354560	2889428046	2016-02-11 17:52	" KundanCoins GoldenIndia KuMBh MeLa WaS ThE LaRGesT GaTheRinG Of PeOpLe WiTh OvER MiLLiOnS PiLGrimS, ViSiBLe FrOm SPaCe, So LaRGe"
+
+629337382534279168	3129084332	2015-08-06 22:34	"Nashik : Kumbh Mela No Space For Parking …"
+
+629337382534250497	3129084332	2015-08-06 22:34	"Nashik : Kumbh Mela No Space For Parking …"
+
+629337382450393088	3129084332	2015-08-06 22:34	"Nashik : Kumbh Mela No Space For Parking …"
+
+604164668240707585	1634474244	2015-05-29 11:27	"kumbh mela from space "
+
+301719233736359936	279656159	2013-02-13 21:17	"Kumbh Mela: From space Asia pakistan"
+
+295358183076155393	95378814	2013-01-27 08:00	"日本では世界最大の集会、クンブメーラについて報道されてるのでしょうか？ “ BBCWorld: Kumbh Mela: India's nuns get their own space ”"
+

@@ -1,0 +1,35 @@
+id 	 user_id 	 date 	 text
+995733648019091456	2224974703	2018-05-14 00:02	"Snapdeal aur Snapchat jaisa ho gaya yeh toh. Anyway but dono same master ko serve kare hai na toh sab ek jaise lagte hai"
+
+862731966017282048	276837802	2017-05-11 23:41	"I got same trimmers "
+
+856749595971522560	778898816053293056	2017-04-25 11:29	"Snapchat Snapdeal same same, Sonu Sood Sonu nigam same same, Sagarika Ghose Sagarika Ghatge same same! SuperHitHabit"
+
+856744039965745152	2897979985	2017-04-25 11:07	"Snapchat Snapdeal same same, Sonu Sood Sonu nigam same same, Sagarika Ghose Sagarika Ghatge same same!"
+
+856729626890129409	172000845	2017-04-25 10:10	"Snapchat Snapdeal same same, Sonu Sood Sonu nigam same same, Sagarika Ghose Sagarika Ghatge same same! "
+
+854645231584595968	854196793889832960	2017-04-19 16:07	"Snapchat vs Snapdeal .. ..............same as.............. Sonu Nigam vs Sonu Sood."
+
+854637919893676032	1545311514	2017-04-19 15:38	"Ab to log preshan nhi kr rhe sonunigam smjh kr..ye india h..yaha logo ko snapchat nd snapdeal nhi pta.. Fr aapka to name hi same h hehe"
+
+854275782390284290	854248022661898240	2017-04-18 15:39	"Snapchatnapdeal Sonu Nigamnu sood Today's moral: Naam me kuch tufaani kro..Same rakhoge toh ase hi fasoge.."
+
+853973462846722049	160880970	2017-04-17 19:38	" SonuSood bhai sonunigam wala case same jaise Snapchat ki jagah.. Snapdeal ho gaya.. Isiliye apne INDIA main padhai bahut zaroori hai.."
+
+853965392741629953	2198833731	2017-04-17 19:06	"With same logic snapchat-snapdeal yahan nigam aur sood ka fark hai"
+
+853962388038713344	848534270356459520	2017-04-17 18:54	"Snapchatnapdeal Sonu Nigamnu sood Today's moral: Naam me kuch tufaani kro..Same rakhoge toh ase hi fasoge.."
+
+853871670662234112	741699691298050048	2017-04-17 12:54	"Galti snapchat waalo ne ki gaaliya snapdeal waale khaa rahey hai same happened here …"
+
+853811240031801344	131775606	2017-04-17 08:53	"Same here..."
+
+853667762257838080	3323993881	2017-04-16 23:23	"Same here"
+
+853660142226874369	323051364	2017-04-16 22:53	"Snapdeal and snapchat same na?"
+
+853567227177701376	70695218	2017-04-16 16:44	"snapdeal & snapchat are not same ... Name may look like same but it not "
+
+853531936794435585	142626751	2017-04-16 14:24	"Oh snap! snapchat snapdeal same guy? "
+

@@ -1,0 +1,25 @@
+id 	 user_id 	 date 	 text
+944428574819225601	304884360	2017-12-23 10:14	"BJP IS THE PARTY WHICH CAN DREAM OF GANESH DRINKING MILK & RAMLALLA FEELING COLD …"
+
+815423545920528384	21319106	2017-01-01 10:34	"aam aadmi also believes in Ganesh ji idols drinking milk"
+
+783145251640836096	1617691364	2016-10-04 08:52	" GauravPandhi a propaganda by sanghis had also made ganesh drinking milk ."
+
+656824378085126144	2789367678	2015-10-21 18:58	" raggedtag do you remember Ganesh idols drinking milk?"
+
+614708012838690820	25429629	2015-06-27 13:43	" mekalapugazh as superstitious n stupid as ganesh drinking milk …"
+
+469738833911627776	331585071	2014-05-23 12:47	" SumanSharma that's not only madarasi, it us Indians. Remember Ganesh Ji drinking milk."
+
+445518451109404672	250986006	2014-03-17 16:44	" Shaasana cvoter GANESH IS DRINKING MILK"
+
+238266778512416769	48256140	2012-08-22 19:00	" sagarikaghose wy? rumour spreading is not new. even before twitter ganesh drinking milk rumour spread like lightening"
+
+238266612707381248	48256140	2012-08-22 18:59	" sardesairajdeep rumour spreading is not new. even before twitter ganesh drinking milk rumour spread like lightening"
+
+216587767570898944	513111267	2012-06-23 23:15	" gabbbarsingh ...or Ganesh Idol drinking milk! desidrama"
+
+200717524969603073	574317143	2012-05-11 04:12	"Drinking milk"
+
+145933236827209728	46062566	2011-12-11 23:59	"ganesh ji drinking milk , Kala bandar yourememeber"
+

@@ -1,0 +1,31 @@
+id 	 user_id 	 date 	 text
+903926216855400448	857634945719652352	2017-09-02 15:52	"Ek Jama masjid ka electricity bill nahi chuka paa rahe hain, babri masjid banane k liye chila rahe hain."
+
+903586105169256449	2751022021	2017-09-01 17:21	"char karod se uppar electricity dues hai iss secular mahashay Dilli Jama masjid ke imam bhukhari ks.Magar koi mai ka laal jo apne aapko /2 "
+
+854224211770036224	110123105	2017-04-18 12:14	"Chup re pagal kutte pukat maar pahle jama masjid ka electricity bill kab banega."
+
+844272894330880000	2536735418	2017-03-22 01:11	"sirf haj subsidy nai aur bhi bahut hai jaise jama masjid aur mosque ke bill hai electricity ke"
+
+800297513181990912	99238052	2016-11-20 16:49	" ArvindKejriwal wo sb chhod sanju saand jama masjid ka electricity bill vasool kiya kya?"
+
+721349441752576000	157209405	2016-04-16 20:18	" drpandey ArvindKejriwal chutti par bahar gaya tha kya bhai. Ya Kejriwal ne bill maaf kar dia jaise jama masjid ka cr. Ka electricity bill"
+
+649408426083282948	170789227	2015-10-01 07:50	"Seems legit. nerds nerdalert ohm electricity electronics masjid (Bandra) "
+
+551970035078426624	138057436	2015-01-05 10:44	" vaidehisachin mam woh jama masjid ka electricity bill maaf na ho bass "
+
+452050052597284865	1111533103	2014-04-04 17:18	"Shahi Imam Saab,Baaki Sab baatein Chodiye,Yeh Bataaiye Woh Jo Jama Masjid ka crores ka Outstanding Electricity Bill hai,Woh kab chukayenge"
+
+418712440746946561	354769112	2014-01-02 17:26	"Main AAP Goverment se puchta hoo ki Jama Masjid pe crore ka Electricity bill panding hai. Govt. bataye ki ye pending bill kab tk pay hoga."
+
+417298949393768448	34726009	2013-12-29 19:49	"CM Kejriwal sir, any views on Bukhari sahab den- Jama masjid cr pending electricity bill ? "
+
+416061729345253377	126847480	2013-12-26 09:53	" ArvindKejriwal ji Yah Bukhari Jama Masjid wale ko free electricity kab tak milti rahegi.Kab kr rhe ho andhera waha? …"
+
+372418718833201152	925339969	2013-08-27 23:31	" mrktcls mmdvv bhai akele kejriwal ki team ne yeh dum dikhaya ki jama masjid ka cr electricity bill baki hai.. BJP ne to kabhi nahi kaha."
+
+334106148460441600	912718735	2013-05-14 06:11	"JAMA MASJID NEW DELHI IS HAVING ELECTRICITY DUES OF MORE THAN CRORES AND DUES ARE PILING SINCE . WHY ELECTRICITY IS NOT DISCONNECTED."
+
+303161950471331840	100525507	2013-02-17 20:50	"Kya electricity bill bharne par bhi Fatwa hai ? Suna hai Delhi Jama Masjid ka Imam Bhukari ne abhi tak Cr ka Electricity bill nahi bhara"
+

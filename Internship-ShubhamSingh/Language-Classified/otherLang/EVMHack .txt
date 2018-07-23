@@ -1,0 +1,115 @@
+id 	 user_id 	 date 	 text
+1005516422959763456	325571726	2018-06-09 23:56	" EVMHack "
+
+1005492581352914944	75605073	2018-06-09 22:21	" EVMHack …"
+
+1002091770132525056	199990227	2018-05-31 13:07	"ನಮ್ಮ್ ಕಾಂಗ್ರೆಸ್‌ನವರು EVMHack ಆಗಿದೆ ಅಂತ ಬಡ್ಕೋತಾರೆ, ನಾವ್ ಫೇಕ್ ಓಟರ್ ಐಡಿ ಕಾರ್ಡ್ ಮಾಡಿ ಓಟರ್ಸ್‌ನೇ ಹ್ಯಾಕ್ ಮಾಡ್ತೀವಿ ಮುನಿರತ್ನ ಫೇಸ್ಬುಕ್ ವಾಲ್ನಿಂದ"
+
+996797616410148869	3187432854	2018-05-16 22:30	"After EVMhack GOVhack KarnatakaResults KarnatakaVerdict ndtv Pun_Starr prakashraaj INCIndia INCKarnataka"
+
+996378657496051712	198827135	2018-05-15 18:45	"Mene TV nhi dekha koi batayega ki evmHack Hui ya loktantr ki Jeet Hui hai. ndtv aajtak ravishndtv ppbajjpai"
+
+996376066712219648	198827135	2018-05-15 18:35	"Abki baar AmitShah ji achhe tareeke se evmHack nhi Kar paaye. Shayad ek do weapons dilli me hi chhod gye the. Nhi to ab tk kangresi Rona suru kr dete ki evm hack ho gyi. aajtak ndtv"
+
+996276627045732352	728276088980422656	2018-05-15 12:00	" EVMHACK , BhaskarOruRascalFromMAY17 KarnatakaElectionResults KarnatakaVerdict "
+
+996261958159482880	917382161098973184	2018-05-15 11:02	" KarnatakaVerdict evm was hacked,ye start ho gya he ZeeNewsHindi ,cpm ne ki shuruvat,ye rukna nhi chahiye evmhack"
+
+996258487934959616	1102836602	2018-05-15 10:48	"Anticipating another EVMHack Melodrama. KarnatakaPollResults KarnatakaElections narendramodi AmitShah ArvindKejriwal RahulGandhi"
+
+996257772827164672	917382161098973184	2018-05-15 10:45	" sardanarohit RubikaLiyaquat sudhirchaudhary anjanaomkashyap SwetaSinghAT ravishndtv KapilMishra_IND EVMHACK Lets start"
+
+996226878443679744	198827135	2018-05-15 08:42	" AmitShah apne hathiyaar (rinch,Pana,favada,kulhaadi) Dilli me hi bhul gya Kya Jo evmHack nhi Kar pa rha Congress- Bjp - "
+
+995376161499660288	4703203718	2018-05-13 00:22	" RahulGandhi priyankac19 rssurjewala JhaSanjay tehseenp KapilSibal abhisar_sharma soniandtv sagarikaghose siddaramaiah आप सबमें अगर हिम्मत है तो वोटों की गिनती से पहले बता दो कि KarnatakaElections2018 में EVMHack हुआ है या नहीं? बाद में मत रोने बैठ जाना"
+
+995348093406138368	976018013597003781	2018-05-12 22:30	"Bhai ji baad mein EVMHack ka bhi to rona hai..isliye sab paid exitpoll hai"
+
+994945225033375744	246211058	2018-05-11 19:50	" EVMHACK votershack"
+
+990933607316246528	131823330	2018-04-30 18:09	"Yahi sal se sun rahe hai par dhada dahr chunaw bjp jit jati hai, Evmhack karke hai na"
+
+990929101228687361	928870637887660038	2018-04-30 17:51	"Wise se pe aana ko kya kaho ge evmhack"
+
+982189473600454658	950325948355719169	2018-04-06 15:03	"Kyu Bhai is bar foolpur me EVMHack ni hui kya.?"
+
+978656732917391360	2535082328	2018-03-27 21:05	"cahlo bhakto ek bar fir se evmhack krne ki bari aa gayi h"
+
+977483257343369216	1330724318	2018-03-24 15:22	"Kyu ab Evmhack hai fir se bahana bna lo Rajyasabha result"
+
+975430301840302081	776328706520387584	2018-03-18 23:24	"बांग्लादेश का कहना है कि कार्तिक ने बल्ले में कुछ सेटिंग कर रखी थी... Bangladeshi inspired by:- RahulGandhi yadavakhilesh MamataOfficial ArvindKejriwal EVMHack evmkabahana INDvBAN"
+
+973938717592178688	4122096641	2018-03-14 20:37	"Abhi evm hack nhi hua kya????? evmhack"
+
+973932939103916032	75082442	2018-03-14 20:14	"நாடாளுமன்ற தேர்தலில் ஓட்டு மெஷினை மாத்திய பிஜேபி க்கு, இடை தேர்தலில் மாத்த தெரியாதா என்ன? வெற்றி EVMHack, தோல்வி EVMWorks"
+
+973047912128184321	1640799714	2018-03-12 09:37	"Bhakto ka jija lagta h n... Evmhack"
+
+969832654622277632	2157501441	2018-03-03 12:41	" evmhack"
+
+959328452007534592	727388964	2018-02-02 13:01	"Lagta hai is bar INCIndia ne EVMHack Kar liye"
+
+959306638971645952	320073140	2018-02-02 11:35	"Is bar evm ko lekar koi ho halla nhi ho raha, kyu Akhir esa kyu ki BJP4UP jeeti to evmhack or BJP4Rajasthan haare to no evmhack."
+
+959269599295324160	813352446030397441	2018-02-02 09:07	" INCIndia ArvindKejriwal yadavakhilesh MamataOfficial ravishndtv HardikPatel_ yadavtejashwi abpnewshindi Kyo be dogle Congress bampanthi secular bhad media wale is bar EVMhack nahi hua chutiyo, dub Maro doglo, RajasthanByPolls BharatKeDushman"
+
+959052511775608832	772734004629995521	2018-02-01 18:45	" Budget2018 modi sarkar ke sapne dikha rahi he. Kya EvmHack abhi se karke rakhe he kya inte sure kese he."
+
+959050955953065984	772734004629995521	2018-02-01 18:39	"2020 ki baat kis base pe kar rshi he sarkar. Kya EvmHack ki hui he kya? …"
+
+958971468229918720	783065944234991616	2018-02-01 13:23	"Agar yaha v congress nahi aai to o pakka maan lete ki evmhack kiya hai bjp vaalo ne so they win RajasthanByPolls"
+
+958967278132805632	888372467135389698	2018-02-01 13:06	" EVMHACK hui kya"
+
+958967077984919553	888372467135389698	2018-02-01 13:05	"Good shott Varna Vanya b EVMHack ho jati"
+
+955842272674832384	292858908	2018-01-23 22:08	"Abb yeh mat kehna ke Like dabaya fir bhi Retweet hi ho Raha Hai..... EVMHack chyutiyapa"
+
+955784702484406273	941695488088186881	2018-01-23 18:20	" nd_ग्रेड_परिणाम me raj. Chunav ke bad bjp kahegi barojgaro ne EVMHACK kar li... rpsc2gradeteacher वसुंधरा_तेरे_चक्‌कर_में_मोदी_मारा_जायेगा"
+
+945868504086888448	191447356	2017-12-27 09:36	"காவிகள் ஒரே ஒரு தொகுதிதானேன்னு Voting_machine_hack பன்னாம விட்டுட்டானுக. RKnagarByElection ல டங்குவாரு அந்துபோச்சி ,அடுத்த எலக்சன்ல இப்டி அலட்சியமா இருக்க மாட்டானுக , பாஜாக கூட்டணி எப்படி ஜெயிக்கபோகுதுன்னு பாருங்க. EVMhack DrTamilisaiBJP HRajaBJP nsitharaman"
+
+943518212225777664	943502161538777088	2017-12-20 21:57	" CongressMustGo HardikPatel_ sir says der is EVM hack in Gujarat elctn den Y bjp wud hv missed jigneshmevani80 AlpeshThakor_ EVMHACK !"
+
+943051219467059202	1396483754	2017-12-19 15:01	"RaGa ko koi to bahana chahiye hi tha. EvmHack Modi"
+
+942844806404874241	3226867820	2017-12-19 01:21	" EVM chapter close karne ke liye congress ko min k liye lead dedi lekin badme jo hona tha ho gaya EVM_में_गड़बड़_है EVMHack Har aadmi pareshan hai fir b Bjp jeet rahi hai GujaratVerdict INCIndia VikrantGojamgun AmitV_Deshmukh aditi_ad MeDeshmukh"
+
+942782176705224704	3298152724	2017-12-18 21:12	"اے. ٹی. ایم (ATM) سے نوٹ کی چوری اور ای. وی. ایم (EVM) سے ووٹ کی چوری دونوں ممکن ہے. EVMHack ATMhack bsindia"
+
+942724573060927489	441737235	2017-12-18 17:23	"Kisi ne abhi tak EVM_में_गड़बड़_है nahi bola hai.. Means Congress ko apni haar accept hai.. As per HardikPatel_ sagarikaghose ArvindKejriwal AkhileshPSingh EVM seat pe sahi thi aur seat main EVMHack ho gayi Bluetooth technology se... GujaratVerdict GujaratResults"
+
+942681700827521024	2922341562	2017-12-18 14:33	"Taza update EVM hack password ka use kar ke Bjp ne Gujarat chunav jita EvmHack GujaratResults GujaratElection2017 narendramodi NupurSharmaBJP sambitswaraj RakeshSinha01 sardanarohit SwetaSinghAT AmitShah"
+
+942681546913280000	2922341562	2017-12-18 14:32	"Taza update EVM hack password ka use kar ke Bjp ne Gujarat chunav jita EvmHack GujaratResults GujaratElection2017 narendramodi NupurSharmaBJP sambitswaraj RakeshSinha01 sardanarohit SwetaSinghAT AmitShah"
+
+942640775862435841	775105922435809280	2017-12-18 11:50	" EVMHack"
+
+942606461628067840	91563319	2017-12-18 09:34	"If congress wins, EVMHack ke baare mein kahin nahin dekne milega"
+
+942605930130051073	141032117	2017-12-18 09:32	"Live news Dekh ke aisa lag rha Hai, ki EVMHack hone ki jagah News Reporters ke pockets hack ho gyi Hai, Sala kabhi Kisi ko aage kabhi Kisi ko..!! Phcccck GujaratVerdict ABPResults"
+
+942574466873225218	728289988660469760	2017-12-18 07:27	"Rule EVMHack "
+
+942574208944455680	728289988660469760	2017-12-18 07:26	"Rule EVMHack "
+
+942574045429510144	728289988660469760	2017-12-18 07:25	"Rule EVMHack "
+
+942472145589878784	730148024	2017-12-18 00:40	" EVMHack ?? apko pehle election walo ne khule me chalange diya tha or ek pagal delhi wala gaya bhi tha, hack to hua nai ulta majak bana kr aa gye?? or kitna bakchodi karoge? pichwade me dum nhi or exam dedi ab jb result aa raha hai to nautanki krne lge... agr hack hota to tum kro"
+
+942371025882300417	941878953114943488	2017-12-17 17:58	" ajeyamodi modi ka khof to dekho.. Vipaks boll bhi nahi sakta ki unko modi ne haraya.. evmhack ka bahana"
+
+942288252656078848	760840926	2017-12-17 12:30	"અમદાવાદની એક કંપની EVM હેક કરવાની તૈયારીમાં: હાર્દિક પટેલ … HardikPatel Paas Patidar EVMhack EVM Hack BJP Congress GujaratElection2017 Ahmedabad OneindiaGujarati mangukya923 HardikPatel_pic"
+
+942111612898459648	905271892327661569	2017-12-17 00:48	"Yeh to pura Master Plan bata dia BJP4India BJP4Gujarat ka aap ne let see Dec2017 dekhte hain yeh plan kaam karte hai ki nahin EVMHACK wala …"
+
+941699633692139520	3617697313	2017-12-15 21:31	" nd_ग्रेड_परिणाम me raj. Chunav ke bad bjp kahegi barojgaro ne EVMHACK kar li... rpsc2gradeteacher वसुंधरा_तेरे_चक्‌कर_में_मोदी_मारा_जायेगा"
+
+941354067858804737	433488377	2017-12-14 22:37	" GujratExitPoll se ye pata chala hai ki EVMHack hone wala hai. Halaki abhi tak iski khabar INCIndia ko nahi mili jab GujaratElection chal raha tha. Per GujratExitPoll se ye abhi abhi pata chla hoga."
+
+941341133824655360	731146742725378050	2017-12-14 21:46	" evmhack "
+
+941268896710983680	370701706	2017-12-14 16:59	"अब सुन लो सब अगर BJP4Gujarat को + सीटे नही मिली तो ये evmhack का राग अपने gusa लेना to all patties sardanarohit SirJadeja prateektv"
+
+936597175450009601	2668408052	2017-12-01 19:35	"650 alag-2 seat m jeet kr ky mila kyu nahi EvmHack pr bole kab karoge BallotOrBycott k liye JailBharoAndolan ArvindKejriwal LambaAlka"
+

@@ -1,0 +1,57 @@
+id 	 user_id 	 date 	 text
+992301029076099073	973774014	2018-05-04 12:42	"I had a disgraceful incident at Kashmere Gate Metro station parking, DMRC employees who take parking slips used filthy words and refused rs coin when I provided them saying it invalid. DelhiMetro_ nitin_gadkari msisodia aajtak BJP4India INCIndia"
+
+987928185273700352	290728369	2018-04-22 11:06	"CM Sir, CMO_Odisha Naveen_Odisha Now I'm at Brahmapur, Odisha. No shopkeeper is receiving Rs.10 coin and saying it's invalid in Brahmapur for last few months. How is it possible? Who's responsible? What's the solution? PMOIndia RBI otvnews republic Will anybody listen?"
+
+979710674149486594	1954808317	2018-03-30 18:53	"Dear Sir, I went to shops near me and they rejected to take this coin. Is this coin invalid.If not then why they are refusing it to accept and which is the appropriate authority for tking action against such peopl RBI PMOIndia some shopkeeper even rejected rs coin "
+
+978496626783281153	2254945603	2018-03-27 10:29	"Random retarded things some people in Bangalore do: -Think rs coin is invalid -honk on open roads -drive on footpaths and hook at pedestrians -give the opposite indicator"
+
+959023063667900418	380501120	2018-02-01 16:48	"Yes apparently there is a panic amongst some sections and they are not accepting rupee coins thinking some of them are fake or invalid. types of coin are in circulation"
+
+958902854156259328	157816760	2018-02-01 08:50	" swatantrabjp Sir, UPSRT bus conductor denying to take -/Rs coin and saying it invalid in UPSR buses, is RBI currency invalid in UPSRT buses myogiadityanath"
+
+953591017277612033	739782464281907200	2018-01-17 17:03	"Bro...I am from Alwar city Rajasthan and here rs coin is invalid from last year. Reason: a humour of duplication of rs coin around the city."
+
+941420387883106304	421959569	2017-12-15 03:01	"Sir Iam in Tumkur city state karnataka the shopkeepers,hotels,and the rickshaw drivers are not accepting ₹ coins they are telling that it is invalid sir plz take action against these"
+
+941420229145477121	421959569	2017-12-15 03:00	"Sir Iam in Tumkur city state karnataka the shopkeepers,hotels,and the rickshaw drivers are not accepting ₹ coins they are telling that it is invalid sir plz show these news becoz it is very critical in Tumkur city"
+
+940933788925702144	421959569	2017-12-13 18:47	"Sir Iam in Tumkur city state karnataka the shopkeepers,hotels,and the rickshaw drivers are not accepting ₹ coins they are telling that it is invalid sir plz take action against these"
+
+940933186141351937	421959569	2017-12-13 18:45	"Sir Iam in Tumkur city state karnataka the shopkeepers,hotels,and the rickshaw drivers are not accepting ₹ coins they are telling that it is invalid sir plz take action against these"
+
+940919092793372672	421959569	2017-12-13 17:49	"Sir Iam in Tumkur city state karnataka the shopkeepers,hotels,and the rickshaw drivers are not accepting ₹ coins they are telling that it is invalid sir plz take action against these"
+
+931908676117413888	1460247318	2017-11-18 21:05	"seriously, the moment i pressed 'buy' first round - invalid captha, second round - server offline. and they are taking millions from us. Davor coin never crashed and they sold out in -15 seconds. COMPLETE SHIT!"
+
+909076849468235776	908621736089862144	2017-09-16 20:59	"I payed RMB for ELC coins, now the group declares the coin become invalid, they will give me only ETH and ELT!!!"
+
+888736097680883713	14527699	2017-07-22 17:52	"3/ She will use the invalid signed sheet as a proof that she is now the valid signer. And she will get free daily coins instead of me."
+
+885595314782060544	81529590	2017-07-14 01:52	" RBI PMOIndia arunjaitley Rs.10 coin is not being accepted around. Shopkeepers are saying that they are invalid and refuse to accept them"
+
+877040004198944768	229742437	2017-06-20 11:16	"I don't understand why autowallas and other people not accepting rs coin.Is it demonitized?There is no circular from RBI coin is invalid"
+
+876350263996502016	500843399	2017-06-18 13:35	" arunjaitley FinMinIndia RBI narendramodi Due to false rumours spreading on Facebook and WhatsApp saying that Rs.10 coins are invalid /2"
+
+867914638100451329	1666089720	2017-05-26 06:55	"For fun...Might it be considered using more than coins if one is invalid? (10N and a penny?)"
+
+831699498455924736	1456833829	2017-02-15 08:29	" narendramodi Some people have spread roumours that the rupee coins will become invalid and hence nobody is willing to accept it."
+
+811598407894781954	191768572	2016-12-21 21:15	"A rumour on social media said that RBI had declared the Rs coin invalid. And it isn't true. ThisIsIThttp://"
+
+800720290791571456	251920093	2016-11-21 20:49	"I received some rs coins few months back and people in market said they are invalid. Now govt says they are... "
+
+799221285326684160	1138927200	2016-11-17 17:32	" coins are refused by small traders and shopkeepers over rumour about Rs coins becoming invalid soon."
+
+796190249084821504	87174201	2016-11-09 08:48	"My son is the most happiest. He has only coins and rs notes in his piggy bank. And I have two invalid notes in my wallet."
+
+768271975886180353	718257560210509825	2016-08-24 07:51	" RBI ₹10 coins are not taking by shopkeepers, buses and many more place. all are ignore ₹10 coin& say to paper note. is ₹10coin is invalid?"
+
+675324433423310848	4449381568	2015-12-11 20:11	"Yo Plato you so dumb. What if your reasons are invalid? Check out my coin problem and feel the burn. mvgsmidtermhttps:// …"
+
+503830016484839425	2684707884	2014-08-25 14:33	" Trader Coin: system notify blocks are lost and invalid."
+
+260632246921334785	29428457	2012-10-23 12:12	"Scuffle with over-priced meterwalla rickshaw.The asshole didn't have change for bucks and acc to him rupee and rupee coins r invalid"
+

@@ -1,0 +1,1235 @@
+id 	 user_id 	 date 	 text
+1004602208787353600	4891628773	2018-06-07 11:23	"Renders show Samsung Galaxy Note with same design as Note , no under-display fingerprint sensor "
+
+1004535870874116096	999902467625136128	2018-06-07 06:59	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+1002455725187059712	968065350326566917	2018-06-01 13:14	"Samsung has been delaying the under-display fingerprint sensor since the S9 and it won't be there on the Note either. Now, it is confirmed to be there on the S10. They will use Qualcomm's ultrasonic technology which will let the sensor also detect blood flow and heartbeat. Wow!"
+
+1002227786923192320	1728963624	2018-05-31 22:08	"I m a samsung SEC Did you have some information about UNDER DISPLAY FINGERPRINT IN GALAXY NOTE "
+
+997528275395207169	177603947	2018-05-18 22:54	"Lmao so the Galaxy Note won't have a under-display fingerprint sensor but will feature the next generation of Bixby....you're doing great Samsung"
+
+987365542729220097	3274763888	2018-04-20 21:51	"Samsung Galaxy S10, S10 Plus to retain Infinity Display design, could feature under display fingerprint reader: Report - - - Samsung is eected to launch its Galaxy Note next, which is rumoured to debut as early as July or August ... Nasik News "
+
+986490086673010689	2165406595	2018-04-18 11:52	"I liked a YouTube video Samsung Galaxy Note Will Not Have an under display fingerprint scanner!!!!"
+
+985712046061826049	40248562	2018-04-16 08:20	"Rumored for the Samsung Galaxy Note gb Space Milliamp Battery inch or larger screen Fingerprint sensor under the screen. k Display."
+
+980867165543944192	400992609	2018-04-02 23:28	"6inches :9 aspect ratio. %screen to body ratio QHD resolution by samsung mah battery by Motorola Q.C. MP dual camera setup with camera software by Google. Stock Android with Nova launcher MP Front facing camera with portrait mode. Under display fingerprint scanner …"
+
+979667786942234626	740939353615015938	2018-03-30 16:02	"Everything you need to know about the Samsung Galaxy Note The Samsung Galaxy Note will surely be big, bold, and pricey, but will it be foldable, or have an under-display fingerprint sensor? Those are just some of the rumors around one of 's most-an "
+
+979667780512268289	878066477181673472	2018-03-30 16:02	"Everything you need to know about the Samsung Galaxy Note The Samsung Galaxy Note will surely be big, bold, and pricey, but will it be foldable, or have an under-display fingerprint sensor? Those are just some of the rumors around one of 's most-an "
+
+979667657149399040	877290912929468417	2018-03-30 16:02	"Everything you need to know about the Samsung Galaxy Note The Samsung Galaxy Note will surely be big, bold, and pricey, but will it be foldable, or have an under-display fingerprint sensor? Those are just some of the rumors around one of 's... "
+
+979221654042697728	19897138	2018-03-29 10:30	"Galaxy Note could be the first phone by Samsung to come with under display fingerprint scanner. IndiaTodayTechhttps:// …"
+
+979217892062343168	748549851273527297	2018-03-29 10:15	"I think u r right because Samsung is only focusing on under display fingerprint scanner. Which was note have."
+
+978885920475746304	4573412653	2018-03-28 12:16	"SAMSUNG GALAXY NOTE WITH UNDER DISPLAY FINGERPRINT FIRST LOOK VIDEO ll IPHONE X KILLER: via YouTube"
+
+978150814479892480	2558855141	2018-03-26 11:35	"Samsung Galaxy Note may sport under-display fingerprint sensor after all - TechShout! "
+
+977947073231269888	968757180156600320	2018-03-25 22:05	"what you think will samsung put UD under display fingerprint in its upcoming note askMKBHD rumors around galaxynote9"
+
+977491066352893953	824206469176311808	2018-03-24 15:53	"Samsung Galaxy Note may be released a month earlier with an under-display fingerprint sensor Shared from my Google feed"
+
+977405664594075648	968065350326566917	2018-03-24 10:14	"Whether the Samsung Note will have an in-display fingerprint sensor or not has been a highly debated topic. According to a new report, Samsung has figured out how to put a fingerprint sensor under the display. Samsung is reportedly planning to decide by the end of this month."
+
+977307566178033666	634314890	2018-03-24 03:44	"RT BiometricUpdate: Samsung to include under-display fingerprint sensor in Galaxy Note …"
+
+977237171055874048	2356982959	2018-03-23 23:04	"Samsung to include under-display fingerprint sensor in Galaxy Note …"
+
+977235895626604544	518238327	2018-03-23 22:59	"Samsung to include under-display fingerprint sensor in Galaxy Note …"
+
+977194321488293889	40248562	2018-03-23 20:14	"I'm hearing the Note may have the fingerprint sensor in the screen. I hope it doesn't sacrifice the brightness and beauty of the display. This is why Samsung didn't include it under the screen in the Note ."
+
+977182339007700993	113582711	2018-03-23 19:26	"Samsung has one too many reasons to include an under-display fingerprint reader in upcoming Galaxy Note : Report …"
+
+977172959193427968	707518040062173184	2018-03-23 18:49	"Samsung has one too many reasons to include an under-display fingerprint reader in upcoming Galaxy Note : Report "
+
+977169948874178560	878494268653842432	2018-03-23 18:37	"Samsung has one too many reasons to include an under-display fingerprint reader in upcoming Galaxy Note : Report- Technology News, Firstpost ... "
+
+977160594074808320	125637545	2018-03-23 18:00	"Samsung upcoming Note to finally have an under-display fingerprint scanner. technews SamsungMobile Samsung "
+
+977147954556559360	938413491194683392	2018-03-23 17:10	" AI is under our fingertips. New report says Galaxy Note will have a fingerprint sensor under its display. Will you be buying an iPhone or a Samsung "
+
+976991901302820865	14722676	2018-03-23 06:49	"Samsung Galaxy Note Rumors: Fingerprint Sensor Will Be In-Display Unlike Note , According To ‘BGR’. After speculation that there may not be a fingerprint sensor under the display, a new report says otherwise. Electronic Gadgetshttp://"
+
+976987654133829632	711611605994250240	2018-03-23 06:33	"Samsung upcoming Note to finally have under-display fingerprint scanner. "
+
+976977932324425729	905671202089320448	2018-03-23 05:54	"Samsung upcoming Note to finally have an under-display fingerprint scanner. technews SamsungMobile Samsung "
+
+976818354072809474	24187284	2018-03-22 19:20	"Samsung is deciding to include the under display fingerprint sensor in the Galaxy Note . … samsung SamsungUS SamsungEC SamsungMobileUS SamsungMobile android... …"
+
+976817747228332032	172779711	2018-03-22 19:17	"Samsung is deciding to include the under display fingerprint sensor in the Galaxy Note . … samsung SamsungUS SamsungEC SamsungMobileUS SamsungMobile android Google "
+
+976817396106309632	24187284	2018-03-22 19:16	"Samsung is deciding to include the under display fingerprint sensor in the Galaxy Note . … samsung SamsungUS SamsungEC SamsungMobileUS SamsungMobile android Google GalaxyNote9"
+
+976813363194888192	112530574	2018-03-22 19:00	"The Malmstrom Mortgage Team at New report says Galaxy Note will have a fingerprint sensor under the display - New report says Galaxy Note will have a fingerprint sensor under the display BGR Samsung's Galaxy S9 is the way ... "
+
+976771527361220609	805208641884200960	2018-03-22 16:14	"New report said Samsung decide to. use under display Fingerprint sensor on GALAXY Note ."
+
+975036789743341569	200925291	2018-03-17 21:21	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+974476849576402944	103945323	2018-03-16 08:16	"This is hard. And soon obsolete. — Ming-Chi Kuo: Samsung Galaxy Note Unlikely to Feature Under-Display Fingerprint Recognition "
+
+974178762244919297	790542467552600066	2018-03-15 12:31	"Ming-Chi Kuo: Samsung Galaxy Note Unlikely to Feature Under-Display Fingerprint Recognition …"
+
+973992810293575680	761123140277862400	2018-03-15 00:12	"Ming-Chi Kuo: Samsung Galaxy Note Unlikely to Feature Under-Display Fingerprint… "
+
+973980839343206413	10760422	2018-03-14 23:25	"Ming-Chi Kuo: Samsung Galaxy Note Unlikely to Feature Under-Display Fingerprint Recognition: …"
+
+973979869926236160	910508014196727808	2018-03-14 23:21	"Ming-Chi Kuo: Samsung Galaxy Note Unlikely to Feature Under-Display Fingerprint Recognition "
+
+973978584909078529	17926667	2018-03-14 23:16	"Ming-Chi Kuo: Samsung Galaxy Note Unlikely to Feature Under-Display Fingerprint Recognition "
+
+973978471364997120	4729442722	2018-03-14 23:15	"New item from Daring Fireball: Ming-Chi Kuo: Samsung Galaxy Note Unlikely to Feature Under-Display Fingerprint Recognition "
+
+973824551804112896	792635067063476224	2018-03-14 13:04	"Samsung reported to ditch under-display fingerprint sensor for Galaxy Note | BiometricUpdate / Hoppas FPC …"
+
+973546729797767168	1205106950	2018-03-13 18:40	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says … via mashable"
+
+973532909511544834	634314890	2018-03-13 17:45	"RT BiometricUpdate: Samsung reported to ditch under-display fingerprint sensor for Galaxy Note …"
+
+973480204914995200	4022146693	2018-03-13 14:15	"Old news : Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition …"
+
+973453892481617921	229685131	2018-03-13 12:31	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo tech India"
+
+973316728464670720	14650446	2018-03-13 03:26	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition via "
+
+973221335626321920	2356982959	2018-03-12 21:07	"Samsung reported to ditch under-display fingerprint sensor for Galaxy Note …"
+
+973220800932302849	518238327	2018-03-12 21:04	"Samsung reported to ditch under-display fingerprint sensor for Galaxy Note …"
+
+973165602855628800	151291952	2018-03-12 17:25	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo "
+
+973149012248408065	151291952	2018-03-12 16:19	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo "
+
+973148934435635202	151291952	2018-03-12 16:19	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo "
+
+973132713875132416	151291952	2018-03-12 15:14	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo "
+
+973132660238319616	151291952	2018-03-12 15:14	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo "
+
+973117146824937472	151291952	2018-03-12 14:13	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo "
+
+973117135101755392	151291952	2018-03-12 14:12	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo "
+
+973105427058749440	818174415448002560	2018-03-12 13:26	" IESnT Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo "
+
+973103866303492096	753259712028696576	2018-03-12 13:20	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo.. …"
+
+973096398328537088	834020840526192644	2018-03-12 12:50	"Samsung Galaxy Note won’t get under-display fingerprint scanner: KGI’s Ming-Chi Kuo "
+
+973036205620244480	248081268	2018-03-12 08:51	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo "
+
+973012306258022401	944636019718029313	2018-03-12 07:16	"Just posted a new blog: Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo "
+
+973003070945808384	73062234	2018-03-12 06:39	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - …"
+
+972981503612411906	455943785	2018-03-12 05:14	"Samsung Galaxy Note May Skip Under Display Fingerprint Scanner "
+
+972863326051975169	5658202	2018-03-11 21:24	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972821816661049344	139141972	2018-03-11 18:39	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note …"
+
+972782482897727488	209038505	2018-03-11 16:03	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo … Shared via Gadgets360 app"
+
+972774229245493248	792293037183414272	2018-03-11 15:30	"Galaxy Note Will Not Have Under-Display Fingerprint Reader : KGI Check The Link for Details gadgetgig youtube samsungnote9 note9 galaxynote9 note9news note9rumours samsung "
+
+972767946882932736	765481531	2018-03-11 15:05	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says … via mashable"
+
+972763470340018176	2656540808	2018-03-11 14:47	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo "
+
+972705697958789120	17497054	2018-03-11 10:58	"Samsung Galaxy Note may not feature under-display fingerprint sensor MWC18"
+
+972641661951111168	964545637239975936	2018-03-11 06:43	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says … via mashsocialmedia smartphone GalaxyS9Plus"
+
+972616348433047552	2380655660	2018-03-11 05:03	"New post: KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year’s Galaxy Note "
+
+972594607786774528	20768654	2018-03-11 03:36	"Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972594481072623616	20768654	2018-03-11 03:36	"Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972590074054324224	815522326859038721	2018-03-11 03:18	"Samsung Galaxy Note may not come with under-display fingerprint scanner because of technical issues: KGI analyst ... - Firstpost "
+
+972587618318761984	949249207986216965	2018-03-11 03:08	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+972578260478459904	2262089046	2018-03-11 02:31	"Samsung Galaxy Note may not come with under-display fingerprint scanner because of technical issues: KGI analyst Ming-Chi Kuo …"
+
+972571432675954688	938056288293941248	2018-03-11 02:04	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI …"
+
+972547673323552769	2851308104	2018-03-11 00:30	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition - "
+
+972544132047626241	1874256763	2018-03-11 00:16	"NDTV mobilenews: smartphonemobilenews mobilenews newsapp indianews startupnews worldnews Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo - KGI Securities’ Ming-Chi Kuo says it is "likely" Samsung will ... "
+
+972528768819527681	749569147818938368	2018-03-10 23:15	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI via Gadgets360 galaxy mobile samsung "
+
+972523543492792321	903349040452034560	2018-03-10 22:54	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+972521214521630725	344183415	2018-03-10 22:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says via mashabletechhttps:// …"
+
+972511137261596674	936352804695707648	2018-03-10 22:04	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo || Trending A to Z || … Tech"
+
+972506498034274304	941380107595284480	2018-03-10 21:46	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo "
+
+972504279893213190	712530882020683776	2018-03-10 21:37	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+972500126882324480	939036697156771842	2018-03-10 21:21	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+972497822418423809	817400696035221504	2018-03-10 21:12	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+972497818966511616	143698850	2018-03-10 21:12	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+972485861106384898	34042622	2018-03-10 20:24	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972485422038175745	4125261267	2018-03-10 20:22	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo "
+
+972476220855037953	17497054	2018-03-10 19:46	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo MWC18"
+
+972476011655913473	740152343342288896	2018-03-10 19:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972473796597870592	949016672958144523	2018-03-10 19:36	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo …"
+
+972469404758953984	4816684574	2018-03-10 19:19	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+972468777425231872	944636019718029313	2018-03-10 19:16	"Just posted a new blog: Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo "
+
+972468515503529984	636371852	2018-03-10 19:15	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo "
+
+972468321185665024	300710811	2018-03-10 19:14	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo "
+
+972466158896058368	40803177	2018-03-10 19:06	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI "
+
+972465342034440194	818813418530488320	2018-03-10 19:02	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+972464212868911104	951355635257528327	2018-03-10 18:58	"(Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo) has been published on Global Tech News - …"
+
+972463416194535424	814701743518806016	2018-03-10 18:55	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI’s Ming-Chi Kuo …"
+
+972461389632569350	43077446	2018-03-10 18:47	"Samsung Galaxy Note May Not Have Under-Display Fingerprint Sensor: KGI's Ming-Chi Kuo …"
+
+972449668826189825	875734885054459905	2018-03-10 18:00	"KGI: Samsung Galaxy Note unlikely to introduce under-display fingerprint sensor TechGenYZ via techgenyz"
+
+972443891193536512	702923632880832514	2018-03-10 17:37	"Samsung Galaxy Note may not come with under-display fingerprint scanner because of… "
+
+972440560475754497	113582711	2018-03-10 17:24	"Samsung Galaxy Note may not come with under-display fingerprint scanner because of technical issues: KGI analyst Ming-Chi Kuo …"
+
+972437662358437888	3224418425	2018-03-10 17:13	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues - Apple Watch - …"
+
+972435939984277505	707518040062173184	2018-03-10 17:06	"Samsung Galaxy Note may not come with under-display fingerprint scanner because of technical issues: KGI analyst Ming-Chi Kuo "
+
+972432416907423745	1704544057	2018-03-10 16:52	"Samsung Galaxy Note may not come with under-display fingerprint scanner because of technical issues: KGI analyst Ming-Chi Kuo "
+
+972429847569096704	729143051990511616	2018-03-10 16:41	"Samsung Galaxy Note may not come with under-display fingerprint scanner because of technical issues: KGI analyst Ming-Chi Kuo …"
+
+972408827818729478	16734256	2018-03-10 15:18	"03-10: Huawei Kirin reportedly to equip with NPU; Qualcomm SD855 Fusion Platform is leaked; Samsung Galaxy Note reportedly will not adopt under-display fingerprint; etc. …"
+
+972384888568590336	1574200574	2018-03-10 13:43	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972382215001821184	184003357	2018-03-10 13:32	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972365182247817217	507580314	2018-03-10 12:24	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972362633750999041	18753132	2018-03-10 12:14	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972330476693209089	938370822418206720	2018-03-10 10:07	"Samsung Galaxy Note Unlikely To Have Under Display Fingerprint Sensor For more Link:- …"
+
+972328532528455680	106037061	2018-03-10 09:59	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972290964512542720	44668684	2018-03-10 07:30	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues Samsung "
+
+972284932721606657	116473456	2018-03-10 07:06	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note …"
+
+972280363350351872	325926759	2018-03-10 06:47	" BreakingNews KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972261553490755584	764855265611177984	2018-03-10 05:33	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972261257880449024	1261710223	2018-03-10 05:32	"Samsung Galaxy Note Will Not Feature an Under-Display Fingerprint Scanner "
+
+972255025178095616	776913688250888192	2018-03-10 05:07	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note . …"
+
+972253790316318721	2566667371	2018-03-10 05:02	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition PyntaxINC SahilSharma"
+
+972253147283406848	2566667371	2018-03-10 04:59	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note PyntaxINC SahilSharma"
+
+972218859661926401	42600679	2018-03-10 02:43	"Samsung Galaxy Note Likely to Skip Under-Display Fingerprint Sensor: KGI "
+
+972216454794772480	149296998	2018-03-10 02:34	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Samsung FingerprintSensor FingerprintScanner "
+
+972216003273904129	3099435353	2018-03-10 02:32	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972213991060713472	562346664	2018-03-10 02:24	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972202026506575875	82967953	2018-03-10 01:36	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972196243249287169	972651	2018-03-10 01:13	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972193665987772416	53806343	2018-03-10 01:03	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note …"
+
+972174936252051456	336845880	2018-03-09 23:49	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says … via mashable"
+
+972174460110303232	160287766	2018-03-09 23:47	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972174306854756352	18327022	2018-03-09 23:46	"Found this: Galaxy Note unlikely to get under-display fingerprint sensor, says report - Samsung is unlikely to add an under-display fingerprint sensor to the Galaxy Note , according to a MacRumors report citing KGI Securities research analyst Ming-... "
+
+972170855328428032	15911947	2018-03-09 23:32	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition "
+
+972166256747884544	2207325139	2018-03-09 23:14	"Samsung Galaxy Note To Miss Under-Display Fingerprint Scanner "
+
+972163107408707584	635171341	2018-03-09 23:02	"Samsung Galaxy Note Unlikely To Have Under Display Fingerprint Sensor "
+
+972160130824527873	972116853098196992	2018-03-09 22:50	"Mac Rumors: KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note …"
+
+972159174665822210	610753548	2018-03-09 22:46	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to... … iPhoneHackx"
+
+972155729506373639	151291952	2018-03-09 22:32	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972155341776605185	587783272	2018-03-09 22:31	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972155079863058432	18890943	2018-03-09 22:30	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says : Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission wh... …"
+
+972153783613444096	579374231	2018-03-09 22:24	"[Canada] Samsung Galaxy Note Likely to Skip Under-Display Fingerprint Sensor: KGI "
+
+972152672039194624	14151652	2018-03-09 22:20	"Samsung Galaxy Note Likely to Skip Under-Display Fingerprint Sensor: KGI …"
+
+972147597749006336	952569311624806400	2018-03-09 22:00	"KGI Kuo: Galaxy Note unlikely to feature under-display fingerprint recognition GalaxyNote9 SamsunGalaxyNote9 Samsung - …"
+
+972147545722978310	2518600874	2018-03-09 22:00	"While we previously predicted that Samsung's new flagship Galaxy Note , due out in Q18, will come equipped with an under-display fingerprint recognition function, we now believe Samsung will cancel this feature "
+
+972144187545083905	968065350326566917	2018-03-09 21:46	"Upcoming Samsung TVs and smart speakers: QLED TVs: Q9F, Q8F, Q7F, Q7C, Q6F Premium UHD TVs: NU8500, NU8000 UHD TVs: NU7300, NU7100 Smart Speakers (with Bixby): HW-K950, HW-K650, HW-NW700, VL550 Bonus News: The Samsung Note will not have an under-display fingerprint sensor."
+
+972143966740033536	843014857976774657	2018-03-09 21:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972141582148190208	868856814338572288	2018-03-09 21:36	"Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues ... "
+
+972140108035084288	226077788	2018-03-09 21:30	" technology news Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps ... "
+
+972138984276049921	76000475	2018-03-09 21:26	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says: Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our work. A… "
+
+972138415557894145	151291952	2018-03-09 21:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972138353788268549	341845683	2018-03-09 21:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972138352756617216	151291952	2018-03-09 21:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972138217444012032	324263000	2018-03-09 21:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972137465321480194	18209666	2018-03-09 21:20	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972136418020540416	321794766	2018-03-09 21:15	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says tech mobile"
+
+972136412278484992	389559759	2018-03-09 21:15	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Tech Gadgets"
+
+972134188890710017	828646299406856192	2018-03-09 21:07	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says... "
+
+972133694109507584	37829827	2018-03-09 21:05	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972133690649137152	165466664	2018-03-09 21:05	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972133437841854464	814716005633011712	2018-03-09 21:04	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972133254030610432	763568505908178944	2018-03-09 21:03	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972132928816758784	15830701	2018-03-09 21:02	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note iPhone"
+
+972132687522816001	3191242094	2018-03-09 21:01	"Tech News: Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support... "
+
+972132511462641664	15124373	2018-03-09 21:00	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972131676871573505	2534058799	2018-03-09 20:57	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972131270586261504	9246732	2018-03-09 20:55	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says: Every product… mashablegeek"
+
+972131068131323904	179847348	2018-03-09 20:54	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says: Every… "
+
+972130733035843584	209054410	2018-03-09 20:53	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972130053105561600	87464979	2018-03-09 20:50	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972129900797755392	107547335	2018-03-09 20:50	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972129481937883137	44668684	2018-03-09 20:48	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues, and more for /09/2018 - "
+
+972129457992601606	491188213	2018-03-09 20:48	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972129399653871616	269334836	2018-03-09 20:48	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972129398299115523	420352830	2018-03-09 20:48	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972129237992865793	881150116966481922	2018-03-09 20:47	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - …"
+
+972129148553408512	716079235	2018-03-09 20:47	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128905057497089	28096651	2018-03-09 20:46	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128873927163905	4854073347	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972128873877004288	3352345936	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128873801396229	1181597546	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128873323229185	387672339	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128873042227200	4309990334	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128872383705088	4595916974	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128872320790529	837630300	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128871993634817	11553542	2018-03-09 20:45	" SocialMedia SMM Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128871888838662	405066875	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128871544848384	867339804899463168	2018-03-09 20:45	" Samsung Galaxy_Note_9 won't have an under-display fingerprint_sensor, report says "
+
+972128869024083968	63669861	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128867270848512	886951056797839360	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128867224662016	1466050752	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128866985680896	79563086	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128866843045890	752444195332325376	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128865874100225	598980083	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128865614159872	4818864191	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Samsung "
+
+972128865538600961	39313361	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128864599138304	3296143431	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128863848247296	822260538973376512	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128856692764673	922576634	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says"
+
+972128846190383104	384674294	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our work. ... "
+
+972128834983100418	4502915661	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128829324996609	400627627	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128825432682496	941704432802287616	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128774572535809	749345832	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128755635408896	2878859413	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our work. ... "
+
+972128745560657920	3662980934	2018-03-09 20:45	" UnLockYourWorld Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128660135198720	484291000	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128658826567681	485528902	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128658524585984	509690787	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Samsung"
+
+972128657387892738	485716927	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128657199083521	412042220	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128657144668160	27565882	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128657043963904	493355457	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128656909717505	484938930	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128656595103745	484964484	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128656570007553	486711345	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128656104472577	46483345	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128655689187328	560526071	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128655324299265	1142467586	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128654502211585	608920823	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128652778356736	486942049	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128652530864128	486629157	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128652451184640	486734725	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128651729715201	486448196	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128651704594432	552473488	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128651641696256	791786665	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128651176157184	27452134	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128650542727168	493200158	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128650073001987	499073057	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128649406070784	486880717	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128649099976704	486760124	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128648282087424	486585393	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128647912935425	424045534	2018-03-09 20:45	"[Mashable] Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128647321550848	486690813	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128645874528256	488527901	2018-03-09 20:45	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128409693257728	323938158	2018-03-09 20:44	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128253937774592	4125261267	2018-03-09 20:43	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972128113701171200	940886697256071170	2018-03-09 20:42	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972127558128099328	966058991561437184	2018-03-09 20:40	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972127214719430656	139794324	2018-03-09 20:39	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says tech"
+
+972126982904442881	807196313255366656	2018-03-09 20:38	" Samsung Galaxy Note won't have an under-display fingerprint sensor, report says… tech"
+
+972126687793156096	2254871191	2018-03-09 20:37	" Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972126390962147328	1725060822	2018-03-09 20:36	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972126387564724224	609831858	2018-03-09 20:36	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says: Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our… "
+
+972126385199202305	714756887611314179	2018-03-09 20:36	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972126384729419776	100458294	2018-03-09 20:36	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972126384490344448	196235150	2018-03-09 20:36	" Conface Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972125884910940161	269926686	2018-03-09 20:34	" Samsung FingerprintSensor Samsung Galaxy Note won't have an under-display fingerprint sensor, report says mashable news"
+
+972125185355763712	85485417	2018-03-09 20:31	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972125155492319232	517631587	2018-03-09 20:31	" Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972125129873510403	580915669	2018-03-09 20:31	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our work. ... "
+
+972125078698774528	763420238318665728	2018-03-09 20:30	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972125064131948544	3226213982	2018-03-09 20:30	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our work. ... "
+
+972125051297370113	2419955899	2018-03-09 20:30	" Mashable: Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps suppor... "
+
+972124886721155072	2168416407	2018-03-09 20:30	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972124876889718784	134915140	2018-03-09 20:30	" NEWS Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972124868111106049	3014081025	2018-03-09 20:30	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972124750674833413	2342644182	2018-03-09 20:29	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972124661025828864	3073438634	2018-03-09 20:29	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972124658278584320	944195358	2018-03-09 20:29	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our work. A … "
+
+972124617920974848	4292343562	2018-03-09 20:29	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972124530796875776	3105443082	2018-03-09 20:28	" - Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972124395232792576	425692962	2018-03-09 20:28	""Samsung Galaxy Note won't have an under-display fingerprint sensor, report says" "
+
+972124392586178560	3240325433	2018-03-09 20:28	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says … tech news "
+
+972124180543098881	843863575714177024	2018-03-09 20:27	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972124066785169408	3014081025	2018-03-09 20:26	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123996509663232	2216105149	2018-03-09 20:26	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says tech"
+
+972123951668350976	740445054	2018-03-09 20:26	"New post: "Samsung Galaxy Note won't have an under-display fingerprint sensor, report says" "
+
+972123859951366144	363139446	2018-03-09 20:26	" socialmedia Samsung Galaxy Note won't have an under-display fingerprint sensor, report… "
+
+972123784621719552	248160823	2018-03-09 20:25	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123770952519680	2254871191	2018-03-09 20:25	" Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123705378856960	957220153	2018-03-09 20:25	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123657450541056	17070400	2018-03-09 20:25	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123649078538240	219877344	2018-03-09 20:25	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972123609886998528	2243441768	2018-03-09 20:25	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123537006788614	445774416	2018-03-09 20:24	" Samsung Galaxy Note won't have an under-display fingerprint sensor, report says… tech"
+
+972123482048917505	18138164	2018-03-09 20:24	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123276918054914	14000302	2018-03-09 20:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123184513372160	56421576	2018-03-09 20:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123178301575179	2344193034	2018-03-09 20:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123171238359041	890675796033101824	2018-03-09 20:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123163978059776	22259704	2018-03-09 20:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our work. A …"
+
+972123150292004868	16944663	2018-03-09 20:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123108814581760	716104896961843200	2018-03-09 20:23	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972123085431123973	28740748	2018-03-09 20:22	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Samsung Fingerprint_Sensorpic"
+
+972123082784673792	828259716	2018-03-09 20:22	"From Mashable: Samsung Galaxy Note won't have an under-display fingerprint sensor, report… "
+
+972123042741661696	71562732	2018-03-09 20:22	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says … via Vilnis11 "
+
+972122857483505664	972651	2018-03-09 20:22	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972122758946713601	715179107865141248	2018-03-09 20:21	" Samsung Galaxy Note won't have an under-display fingerprint sensor, report says fingerprintsensor"
+
+972122749413019653	709191067552198656	2018-03-09 20:21	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972122743960416256	2374438561	2018-03-09 20:21	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report sayshttp://"
+
+972122688285302784	529622870	2018-03-09 20:21	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says …"
+
+972122640361115649	578277980	2018-03-09 20:21	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972122498832719872	76908897	2018-03-09 20:20	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972122413117968385	2723469882	2018-03-09 20:20	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says: "
+
+972122393358602240	3014081025	2018-03-09 20:20	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972122198415732736	917872723132583940	2018-03-09 20:19	"Samsung Galaxy Note won’t have an under-display fingerprint sensor, report says …"
+
+972122180749287424	75193022	2018-03-09 20:19	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972122144791547905	16644866	2018-03-09 20:19	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support our work. A …"
+
+972122088365481984	132877049	2018-03-09 20:19	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972122087950245890	453970403	2018-03-09 20:19	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972122018865909761	946508667301646336	2018-03-09 20:18	"New post: Samsung Galaxy Note won’t have an under-display fingerprint sensor, report says …"
+
+972121914109030400	2556173600	2018-03-09 20:18	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121882081325056	2465004790	2018-03-09 20:18	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121851123195905	248774714	2018-03-09 20:18	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121735012192256	86985994	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121627977596928	241334342	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Wpress Blog: "
+
+972121601637404672	82956754	2018-03-09 20:17	" Mashable Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121599728996353	3252142242	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121596864311297	39236268	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Samsung Fingerprint_Sensor Fingerprint_Scanner Galaxy_Note_9 "
+
+972121592040796161	4860241143	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121590715465728	3260347092	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121589952032769	4154753298	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Samsung "
+
+972121588052123649	2767393184	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says Tech "
+
+972121585002864640	15830958	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121582058405889	147726384	2018-03-09 20:17	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121532179910657	112243365	2018-03-09 20:16	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121423488614401	636371852	2018-03-09 20:16	" Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121416953835521	316331833	2018-03-09 20:16	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says … FingerprintScanner GalaxyNote9"
+
+972121382267088898	115412965	2018-03-09 20:16	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121352088858624	3260347092	2018-03-09 20:16	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121347936546816	13339612	2018-03-09 20:16	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says "
+
+972121345935855616	383710060	2018-03-09 20:16	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says QRCodes QRCode"
+
+972121250897293313	188092633	2018-03-09 20:15	" Mashable Samsung Galaxy Note won't have an under-display fingerprint sensor, report says - Every product here is independently selected by Mashable journalists. If you buy something featured, we may earn an affiliate commission which helps support ... "
+
+972121218139803648	1863160872	2018-03-09 20:15	"Samsung Galaxy Note won't have an under-display fingerprint sensor, report says tech"
+
+972121091752722432	4780378096	2018-03-09 20:15	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972120848193806336	3289873863	2018-03-09 20:14	"Samsung Galaxy Note won&;t have an under-display fingerprint sensor, report says -"
+
+972120753704448001	151291952	2018-03-09 20:13	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972119422122037248	2380655660	2018-03-09 20:08	"New post: Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues "
+
+972116327593848832	350998176	2018-03-09 19:56	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note - Mac Rumors - …"
+
+972113753000079360	18327022	2018-03-09 19:45	"Found this: Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues - Last year, there was a race among OEMs like Apple and Samsung to get their respective under-display fingerprint technology ready in time... "
+
+972113669600563202	845293422453948416	2018-03-09 19:45	"IOS News: Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues - Last year, there was a race among OEMs like Apple and Samsung to get their respective under-display fingerprint technology ready in time f... "
+
+972107257692397568	171662997	2018-03-09 19:20	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues "
+
+972107257251905536	45037993	2018-03-09 19:20	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues "
+
+972105649948540928	1261710223	2018-03-09 19:13	"Samsung Galaxy Note Will Not Feature an Under-Display Fingerprint Scanner "
+
+972105352639590400	761123140277862400	2018-03-09 19:12	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to… "
+
+972103960633978880	151291952	2018-03-09 19:06	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972101118883905537	2236415174	2018-03-09 18:55	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues entrepreneur lean"
+
+972100599042002950	517631587	2018-03-09 18:53	" Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues "
+
+972100594914811904	178264980	2018-03-09 18:53	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to… "
+
+972100174226051072	192352425	2018-03-09 18:51	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to… "
+
+972099644904767488	44668684	2018-03-09 18:49	"Kuo: Samsung Will Not Use Under-Display Fingerprint Scanner on Galaxy Note Due to Technical Issues "
+
+972093916529872896	804001396118929408	2018-03-09 18:27	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year’s Galaxy Note "
+
+972092117299310593	579374231	2018-03-09 18:19	"[MacRumors] KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972091883299180544	28526805	2018-03-09 18:19	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition. "According to our understanding of the technologies, under-display fingerprint solutions may currently have many technical issues," Still in concept mode. …"
+
+972091166698147840	231009999	2018-03-09 18:16	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note - Samsung is unlikely to introduce an under-display fingerprint recognition feature in its flagship smartphone line-up, according to KGI Securities resear... "
+
+972090139185897472	14181349	2018-03-09 18:12	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note MacRumors"
+
+972088949207420928	420895831	2018-03-09 18:07	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year’s Galaxy Note : Samsung is… infosec"
+
+972088736447193089	420895831	2018-03-09 18:06	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note infosec"
+
+972087593927151617	151291952	2018-03-09 18:01	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972087539174723584	151291952	2018-03-09 18:01	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972085812480286721	279768698	2018-03-09 17:54	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note …"
+
+972080796084314113	493037813	2018-03-09 17:34	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972080562574852096	16323411	2018-03-09 17:34	"RT MacRumors: KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year’s Galaxy Note … by waxeditorial "
+
+972080106784116738	383808752	2018-03-09 17:32	"MacRumors : KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note - "
+
+972067880593485826	15613363	2018-03-09 16:43	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972056222181576704	4613822915	2018-03-09 15:57	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recogni [0.10]: … "
+
+972056049422422016	102758473	2018-03-09 15:56	" TopNewsNow KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note SlingerTactic"
+
+972054912510189568	517631587	2018-03-09 15:52	" KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972054399622176768	200381749	2018-03-09 15:50	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972053492872314882	139141972	2018-03-09 15:46	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note …"
+
+972053124083990529	313766316	2018-03-09 15:44	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972053123605807105	22484340	2018-03-09 15:44	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note Sienco"
+
+972053123576377344	258498790	2018-03-09 15:44	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972052944727126016	319728095	2018-03-09 15:44	"AppleMusic apple news iphone ipad ios9.3 beta1 KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note "
+
+972052893065994240	902872311748902912	2018-03-09 15:44	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note …"
+
+972052216461668352	6644082	2018-03-09 15:41	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year's Galaxy Note - Mac Rumors …"
+
+972051216929714176	14861285	2018-03-09 15:37	"KGI: Samsung to Cancel Under-Display Fingerprint Sensor Plans for This Year’s Galaxy Note … by "
+
+972047211789012998	3105443082	2018-03-09 15:21	"Samsung Galaxy Note May Skip Under Display Fingerprint Scanner - "
+
+972044681298284546	855354217787207680	2018-03-09 15:11	"Samsung Galaxy Note May Skip Under Display Fingerprint Scanner …"
+
+972044059605852160	26001977	2018-03-09 15:08	"Samsung Galaxy Note May Skip Under Display Fingerprint Scanner "
+
+972021565285175297	2570976043	2018-03-09 13:39	""Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition": "
+
+971973901336043522	809253256710868992	2018-03-09 10:30	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition iphone …"
+
+971967215451783168	761123140277862400	2018-03-09 10:03	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition "
+
+971963875401674754	106561782	2018-03-09 09:50	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition iphone"
+
+971961580282724353	47332651	2018-03-09 09:41	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition… "
+
+971960851593703426	2380655660	2018-03-09 09:38	"New post: Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition "
+
+971959768368668672	1128365515	2018-03-09 09:34	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint… apple applenews"
+
+971956490637471744	15830701	2018-03-09 09:21	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition "
+
+971956321179324416	1481519203	2018-03-09 09:20	""Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition" TLS News"
+
+971955517408141312	16323411	2018-03-09 09:17	"RT appleinsider: Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition … "
+
+971953276412465152	27859376	2018-03-09 09:08	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition "
+
+971953147416666117	20542450	2018-03-09 09:07	"Kuo: Samsung Galaxy Note unlikely to feature under-display fingerprint recognition …"
+
+971678703087431681	2797922084	2018-03-08 14:57	"Samsung Galaxy Note to reportedly feature under-display fingerprint scanner - mobiles (blog) galaxy …"
+
+971406341205053440	932296799909380096	2018-03-07 20:54	"Samsung Galaxy Note to reportedly feature under-display fingerprint scanner …"
+
+964229862348206081	2886397778	2018-02-16 01:38	"The Samsung Galaxy Note will not feature an under-display fingerprint sensor - (press release) …"
+
+964221070185082880	334213174	2018-02-16 01:03	"The Samsung Galaxy Note will not feature an under-display fingerprint sensor "
+
+963959001183436800	279339031	2018-02-15 07:41	"Samsung Galaxy Note may not come with under-display fingerprint sensor: Report …"
+
+963918409326055424	455943785	2018-02-15 05:00	"Samsung Galaxy Note May Not Feature Under Display Fingerprint Scanner "
+
+963895820415328258	3099295009	2018-02-15 03:30	"Samsung Galaxy Note Will Come with an Under Display Fingerprint Scanner Read More: Samsung SamsungGalaxyNote9 GalaxyNote9 "
+
+963892202769469445	151291952	2018-02-15 03:16	"Samsung Galaxy Note with under-display fingerprint sensor? Report says it's still far… "
+
+963756247907479552	90272103	2018-02-14 18:16	" digitaltrends Everything you need to know about the Samsung Galaxy Note - The Samsung Galaxy Note will surely be big, bold, and pricey; but will it be foldable, or have an under-display fingerprint sensor? Those are just some of the rumors around... "
+
+963707122776190976	231009772	2018-02-14 15:00	"Samsung Galaxy Note May Not Feature Under Display Fingerprint Scanner - Whilst we are waiting for the new Samsung Galaxy S9 not launch we have some details on the company next flagship, the Samsung Galaxy Note . Previous rumors had suggested that t... "
+
+963707050848083968	848960057140228096	2018-02-14 15:00	"Samsung Galaxy Note May Not Feature Under Display Fingerprint Scanner - Whilst we are waiting for the new Samsung Galaxy S9 not launch we have some details on the company next flagship, the Samsung Galaxy Note . Previous rumors had suggested that t... "
+
+963704720392163328	50094286	2018-02-14 14:51	"Samsung Galaxy Note May Not Feature Under Display Fingerprint Scanner … geeky feedly"
+
+963700717042192385	855354217787207680	2018-02-14 14:35	"Samsung Galaxy Note May Not Feature Under Display Fingerprint Scanner …"
+
+963700448300535809	3105443082	2018-02-14 14:34	"Samsung Galaxy Note May Not Feature Under Display Fingerprint Scanner - "
+
+963700128946286592	576658081	2018-02-14 14:33	"Samsung Galaxy Note May Not Feature Under Display Fingerprint Scanner "
+
+963700127171948545	26001977	2018-02-14 14:33	"Samsung Galaxy Note May Not Feature Under Display Fingerprint Scanner "
+
+963666898738188288	17497054	2018-02-14 12:21	"Samsung Galaxy Note may not come with under-display fingerprint sensor: Report MWC18"
+
+963651176507105281	54075293	2018-02-14 11:18	" Technology - Samsung Galaxy Note may not come with under-display fingerprint sensor… "
+
+963649701961756673	865846474655096832	2018-02-14 11:12	"Samsung Galaxy Note may not come with under-display fingerprint sensor: Report … via JDSL Solutions"
+
+963649550081757185	865846474655096832	2018-02-14 11:12	"Samsung Galaxy Note may not come with under-display fingerprint sensor: Report …"
+
+963638950211530753	4891628773	2018-02-14 10:30	"Samsung Galaxy Note may not come with under-display fingerprint sensor: Report "
+
+963403387583848449	635171341	2018-02-13 18:54	"Leaked Samsung Patent Sketch Tips Galaxy Note To Pack An Under-display Fingerprint Scanner "
+
+963353835459698688	119973528	2018-02-13 15:37	"Leaked Samsung Patent Sketch Tips Galaxy Note To Pack An Under-display Fingerprint Scanner - gizmochina (blog) "
+
+963344077646385153	932476447540830208	2018-02-13 14:58	"Leaked Samsung Patent Sketch Tips Galaxy Note To Pack An Under-display Fingerprint Scanner …"
+
+963302781577846784	3099295009	2018-02-13 12:14	"Samsung Galaxy Note Will Come with an Under Display Fingerprint Scanner Read More: … Samsung SamsungGalaxyNote9 GalaxyNote9 GalaxyNote sidtech"
+
+963300468226174977	125637545	2018-02-13 12:05	"Samsung Galaxy Note to feature under display fingerprint scanner TechNews Samsung SamsungMobilehttps://"
+
+963228306563887110	711611605994250240	2018-02-13 07:18	"Samsung Galaxy Note to feature under display fingerprint scanner "
+
+963209254198013957	905671202089320448	2018-02-13 06:02	"Samsung Galaxy Note to feature under display fingerprint scanner TechNews Samsung SamsungMobile "
+
+963081929242263553	1179900860	2018-02-12 21:36	"Samsung Galaxy Note with Under display fingerprint sensor leaks in new patent sketch "
+
+963072833386696704	241865130	2018-02-12 21:00	" Samsung Galaxy Note with Under display fingerprint sensor leaks in new patent sketchhttps://"
+
+954329312081121280	304311184	2018-01-19 17:56	"Samsung Galaxy Note Under Display Fingerprint Phone Leaks, Rumours Release Date , Specs and Price "
+
+951129525873709057	953441658	2018-01-10 22:02	"Pixel XL like camera OnePlus t like dash charging Samsung like display SD with NPU :9 -6'' Under display fingerprint sensor as fast as OnePlus Three cameras system like upcoming Huawei P20 Some of these might not be possible but you never know To be updated"
+
+947709003177648133	2802369963	2018-01-01 11:30	"Samsung Galaxy Note to Sport Under Display Fingerprint Sensor "
+
+935841110089457664	536557358	2017-11-29 17:31	"Galaxy S9 may get a fingerprint sensor under the display or most likely we will se it on the Note . samsung galaxy galaxys9 rumors phone fingerprint "
+
+935803367875661826	119973528	2017-11-29 15:01	"Samsung's Patent for Under-Display Fingerprint Sensor Approved; Could it be Available on Galaxy Note ? - gizmochina (blog) "
+
+933596110181998593	3012385056	2017-11-23 12:50	"Samsung GalaxyA5 Leaked Photos Show An :9 Display And Under Camera Fingerprint Scanner …"
+
+932777101610115073	845949038683860992	2017-11-21 06:36	"Samsung Galaxy Note to sport under-display fingerprint sensor "
+
+932056388364390400	906501038101934080	2017-11-19 06:52	"Samsung Galaxy Note to sport under-display fingerprint sensor "
+
+930541953372033027	911241367027961857	2017-11-15 02:34	"Samsung’s Galaxy Note Could Feature Under The Display Fingerprint Reader …"
+
+925302577671028736	204833926	2017-10-31 15:35	"Samsung patents under-display fingerprint scanner; eected to debut technology on the Galaxy Note …"
+
+925072744227602432	139668114	2017-10-31 00:21	"Samsung patents under-display fingerprint scanner; eected to debut the technology on the Galaxy Note "
+
+924941237555269632	3362349723	2017-10-30 15:39	" Samsung patents under-display fingerprint scanner; eected to debut technology on the Galaxy Note . "
+
+924900692967354369	620467192	2017-10-30 12:58	"Samsung patents under-display fingerprint scanner; eected to debut technology on the Galaxy Note - Firstpost "
+
+924898196219772928	16549201	2017-10-30 12:48	"Samsung patents under-display fingerprint scanner; eected to debut technology on the Galaxy Note - Firstpost (0… "
+
+924884349689896962	16549201	2017-10-30 11:53	"Samsung patents under-display fingerprint scanner; eected to debut the technology on the Galaxy Note -… "
+
+924880969928192000	157973311	2017-10-30 11:39	". Samsung patents under-display fingerprint scanner, eected to bring the new tech with Note . …"
+
+924880589148303360	42382372	2017-10-30 11:38	". Samsung patents under-display fingerprint scanner, eected to bring the new tech with Note . …"
+
+922034814873686017	125637545	2017-10-22 15:10	"Your cup of coffee and this post on my blog. Samsung Galaxy Note to come with under display fingerprint scann... "
+
+919632321170599936	1198469221	2017-10-16 00:03	"Samsung’s Galaxy Note predicted to include under-the-display fingerprint reader "
+
+919632002751586306	14689959	2017-10-16 00:02	"Samsung’s Galaxy Note predicted to include under-the-display fingerprint reader …"
+
+919162828250144768	4021180514	2017-10-14 16:57	"Sport Under-Display Fingerprint Sensor .The new Samsung Galaxy Note eected release in February to March …"
+
+919107015041081344	20661558	2017-10-14 13:16	" Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+918785888481697793	869146697955332096	2017-10-13 16:00	". Samsung Galaxy Note eected to arrive with an under display fingerprint scanner …"
+
+918744400078893056	284279836	2017-10-13 13:15	"Kuo: Samsung making progress with Note under-display fingerprint reader …"
+
+918690540635398145	2558855141	2017-10-13 09:41	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo - NDTV GalaxyNote4 "
+
+918403380724273152	4000592233	2017-10-12 14:40	"Samsung Galaxy Note might feature under-display fingerprint scanner samsung galaxynote android "
+
+918220265816956928	32710840	2017-10-12 02:32	"Samsung Galaxy Note could come with an under-display fingerprint sensor."
+
+918171027326238725	4021180514	2017-10-11 23:16	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+918132963107155974	14111661	2017-10-11 20:45	"Samsung Note Eected To Integrate Under Display Fingerprint Sensor … Samsung security"
+
+918118296267907073	715068740258242560	2017-10-11 19:47	" Samsung Note Eected To Integrate Under Display Fingerprint Sensor - … - News Rumors ..."
+
+918116519409631232	97819464	2017-10-11 19:40	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+918065279263010816	202543176	2017-10-11 16:16	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+918058425346555904	2994053057	2017-10-11 15:49	" Samsung Galaxy Note to Sport Under- Display Fingerprint Sensor: Ming-Chi Kuo "
+
+918058195368730624	260523517	2017-10-11 15:48	" Samsung Galaxy Note to Sport Under- Display Fingerprint Sensor: Ming-Chi Kuo "
+
+918046023741857792	815623724691050496	2017-10-11 15:00	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner new phonehttp:// …"
+
+917955212589101056	63660427	2017-10-11 08:59	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917933788730155009	4592511375	2017-10-11 07:34	"Galaxy Note may have under-display fingerprint sensor Three Companies to Supply Samsung With Samples Read More "
+
+917904448730619904	868384117	2017-10-11 05:37	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917891648960507909	776547866949148672	2017-10-11 04:46	"Kuo: Samsung making progress with Note under-display fingerprint reader GalaxyNote9 Tech Mobile "
+
+917888249435164672	440287944	2017-10-11 04:33	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner - Know Your Mobile "
+
+917885862955728896	31106730	2017-10-11 04:23	"Kuo: Samsung making progress with Note under-display fingerprint reader …"
+
+917870779009728513	440287944	2017-10-11 03:23	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner - Know Your Mobile "
+
+917865313135398912	889569192709505026	2017-10-11 03:01	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917854278487822336	440287944	2017-10-11 02:18	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner - Know Your Mobile "
+
+917845177745604608	840276425240375296	2017-10-11 01:41	"Under-Display Fingerprint Sensor Feature Support in Samsung Galaxy Note GalaxyNote9 technews samsungnote8 news …"
+
+917836837800071173	440287944	2017-10-11 01:08	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner - Know Your Mobile "
+
+917835831561273344	834466861	2017-10-11 01:04	" Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917805109505089539	4067718611	2017-10-10 23:02	"Samsung Galaxy Note will have an under-display fingerprint sensor …"
+
+917805101015805952	910063341887881218	2017-10-10 23:02	"Samsung Galaxy Note will have an under-display fingerprint sensor …"
+
+917802208531570690	440287944	2017-10-10 22:51	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner - Know Your Mobile "
+
+917800995643707392	915667043059421189	2017-10-10 22:46	"Samsung Note will have under-display fingerprint sensor"
+
+917799339703062529	4000592233	2017-10-10 22:39	"Samsung Galaxy Note to feature under-display fingerprint scanner samsung galaxynote android …"
+
+917799100334125057	910063341887881218	2017-10-10 22:38	"Samsung Galaxy Note will an Under-display fingerprint sensor! …"
+
+917797253166845952	2868123888	2017-10-10 22:31	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner …"
+
+917796422962970626	916601126195040257	2017-10-10 22:28	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo samsungnote9 Leaks Info : "
+
+917784337621438467	440287944	2017-10-10 21:40	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner - Know Your Mobile "
+
+917779835224600576	907581508117864448	2017-10-10 21:22	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo … Shared from my Google feed"
+
+917778584143458305	734633239093104641	2017-10-10 21:17	"See Photos: Samsung Galaxy Note Seen Spotted With Under Display Fingerprint Sensor, Checkout! "
+
+917775232492064768	2660787824	2017-10-10 21:04	" Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo .. منارة_التقنية "
+
+917769922394157056	13623052	2017-10-10 20:42	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo - NDTV …"
+
+917767819965505536	279339031	2017-10-10 20:34	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917766922166513664	776415427815550977	2017-10-10 20:31	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor Samsung Galaxy Note to Sport "
+
+917764479663796225	104740462	2017-10-10 20:21	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917756159452434432	478606913	2017-10-10 19:48	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner "
+
+917756112803332096	191187000	2017-10-10 19:48	"Samsung Galaxy Note To Pack Under-Display Fingerprint Scanner "
+
+917749882911412226	707663717945765888	2017-10-10 19:23	"SS To Pack Under-Display Fingerprint Scanner Samsung scanner supplier Egis might also win the contract.OR NOT …"
+
+917747720181506048	1925835252	2017-10-10 19:14	"Samsung Note may come with under display fingerprint sensor …"
+
+917747178906537984	1925835252	2017-10-10 19:12	"Samsung Note may come with under display fingerprint sensor …"
+
+917747139119370241	805217171089608707	2017-10-10 19:12	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo - NDTV - "
+
+917746135862833154	903349040452034560	2017-10-10 19:08	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917744804032692224	2431942009	2017-10-10 19:03	"Samsung Note may come with under display fingerprint sensor "
+
+917741133542903808	200512941	2017-10-10 18:48	"Samsung Note may come with under display fingerprint sensor -... "
+
+917738510060208128	11784	2017-10-10 18:38	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917737119422009346	2344459058	2017-10-10 18:32	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo - NDTV "
+
+917728944064827394	969444439	2017-10-10 18:00	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo - NDTV "
+
+917718448410644485	3224418425	2017-10-10 17:18	"Samsung Galaxy Note likely to have under-display fingerprint sensor - Apple Watch - "
+
+917715438825590788	239336124	2017-10-10 17:06	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917705666248171520	111215221	2017-10-10 16:27	"Samsung Galaxy Note to feature under-display fingerprint sensor, AMOLED display will double as light source: KGI …"
+
+917704530959114241	884052613272027139	2017-10-10 16:23	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo "
+
+917703688034181120	636371852	2017-10-10 16:19	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo mobiles"
+
+917703511403622401	295762270	2017-10-10 16:19	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917702709553266688	232591631	2017-10-10 16:15	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo - NDTV: NDTV… UK News technologie"
+
+917702255599595521	54075293	2017-10-10 16:14	" Technology - Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo… "
+
+917701811942907905	785418838489706497	2017-10-10 16:12	"Samsung Galaxy Notန မွာ Under display fingerprint ဆင္ဆာ ပါဝင္မည္ "
+
+917699513736888320	433374895	2017-10-10 16:03	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo - NDTV Tech IN India"
+
+917699495911219200	433374895	2017-10-10 16:03	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo - NDTV Tech UK"
+
+917698175753785345	58717367	2017-10-10 15:57	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917696742711230464	2344459058	2017-10-10 15:52	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo - NDTV "
+
+917693771919245312	4454114293	2017-10-10 15:40	"New post: Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor …"
+
+917693479723008000	798043931065794560	2017-10-10 15:39	" FOLLOW Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo RT "
+
+917692543806132225	2151536878	2017-10-10 15:35	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917692525443538944	847138918562746369	2017-10-10 15:35	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917688490489458689	478606913	2017-10-10 15:19	"Kuo: Samsung making progress with Note under-display fingerprint reader - Android Authority (blog) "
+
+917686802093355008	13623052	2017-10-10 15:12	"Samsung Galaxy Note to feature under-display fingerprint sensor: KGI - Digit …"
+
+917686651874357248	813667051797520384	2017-10-10 15:12	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917684961632837632	4816684574	2017-10-10 15:05	"Samsung Galaxy Note to Sport Under-Display Fingerprint Sensor: Ming-Chi Kuo …"
+
+917684482517368833	83944465	2017-10-10 15:03	"Kuo: Samsung making progress with Note under-display fingerprint reader …"
+
+917682265022373888	73017903	2017-10-10 14:54	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917676723453521921	138381697	2017-10-10 14:32	"RT thatssurbhi: RT technewsind: Samsung Galaxy Note to come with under display fingerprint scanner. technews … …"
+
+917676689706057729	138381697	2017-10-10 14:32	"RT sharingoure: RT technewsind: Samsung Galaxy Note to come with under display fingerprint scanner. technews… …"
+
+917667079402217473	711611605994250240	2017-10-10 13:54	"I've just posted a new blog: Samsung Galaxy Note to come with under display fingerprint scanner. technews"
+
+917660488288350209	125637545	2017-10-10 13:28	"Just posted! Samsung Galaxy Note to come with under display fingerprint scanner. technews SamsungMobile "
+
+917660009286180864	722798283895123969	2017-10-10 13:26	"See Photos: Samsung Galaxy Note Seen Spotted With Under Display Fingerprint Sensor, Checkout! "
+
+917646511508525057	138381697	2017-10-10 12:32	"RT carkhanablog: RT technewsind: Samsung Galaxy Note to come with under display fingerprint scanner. technews … …"
+
+917639991945322501	37884394	2017-10-10 12:06	"Do Not Keep Calm as Galaxy Note will feature an under-display optical fingerprint scanner … Samsung GalaxyNote9"
+
+917631200700878848	139794324	2017-10-10 11:31	"Kuo: Samsung making progress with Note under-display fingerprint reader tech"
+
+917616927379296256	905671202089320448	2017-10-10 10:34	"Samsung Galaxy Note to come with under display fingerprint scanner. technews technewsindia SamsungMobile …"
+
+917610066903265280	124617996	2017-10-10 10:07	"Under display fingerprint sensor coming to the Samsung Galaxy Note …"
+
+917606621978734592	635171341	2017-10-10 09:54	"Samsung Galaxy Note Reportedly Arriving with Under-Display Fingerprint Scanner "
+
+917605302161125376	753259712028696576	2017-10-10 09:48	"Samsung Galaxy Note to sport under-display fingerprint sensor.. …"
+
+917600403205840896	746330889861345280	2017-10-10 09:29	"Samsung making progress with Note under display fingerprint reader: via YouTube"
+
+917585499589533696	2939133345	2017-10-10 08:30	"Kuo: Samsung making progress with Note under-display fingerprint reader …"
+
+917584929239711744	56811078	2017-10-10 08:27	"Samsung might embed a fingerprint reader under the Note 's display - Pocket-lint - "
+
+917576498625773568	146401012	2017-10-10 07:54	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917568969715920906	1038241808	2017-10-10 07:24	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917542162845392896	1659713227	2017-10-10 05:37	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917528509890879488	1089784597	2017-10-10 04:43	"Samsung might embed a fingerprint reader under the Note 's display "
+
+917514047397990405	2868123888	2017-10-10 03:46	"Samsung Galaxy Note Reportedly Arriving with Under-Display Fingerprint Scanner … via ://"
+
+917504221624393729	5459482	2017-10-10 03:07	"Samsung might embed a fingerprint reader under Note 's display … "
+
+917491016617353223	735423858602344449	2017-10-10 02:14	"Kuo: Samsung making progress with Note under-display fingerprint reader …"
+
+917465936906670081	785475624408223744	2017-10-10 00:34	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917465789363638272	864221089370562560	2017-10-10 00:34	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917465081662902274	2235593285	2017-10-10 00:31	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917464941350805505	95575598	2017-10-10 00:31	"Kuo: Samsung making progress with Observe under-display fingerprint reader - GSM News "
+
+917464940683948034	95575598	2017-10-10 00:31	"Kuo: Samsung making progress with Observe under-display fingerprint reader - GSM News "
+
+917464851622121475	95575598	2017-10-10 00:30	"Kuo: Samsung making progress with Note under-display fingerprint reader - GSM News "
+
+917464849386483712	95575598	2017-10-10 00:30	"Kuo: Samsung making progress with Note under-display fingerprint reader - GSM News "
+
+917464713209847808	788931084272611330	2017-10-10 00:30	"more ://glued.info Kuo: Samsung making progress with Note under-display fingerprint reader: According… …"
+
+917464699234525184	878615650775605248	2017-10-10 00:30	"Kuo: Samsung making progress with Note under-display fingerprint reader …"
+
+917464699049881600	878610522039398400	2017-10-10 00:30	"Kuo: Samsung making progress with Note under-display fingerprint reader …"
+
+917464612383150081	867916360440872960	2017-10-10 00:29	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917462010798866433	2566667371	2017-10-10 00:19	"Kuo: Samsung making progress with Note under-display fingerprint reader PyntaxINC SahilSharma"
+
+917461736269209600	604532930	2017-10-10 00:18	""Kuo: Samsung making progress with Note under-display fingerprint reader" BeyondEyes Fingerprint sensors are b… "
+
+917461253445926912	728500030118735872	2017-10-10 00:16	"Kuo: Samsung making progress with Note under-display fingerprint reader Android"
+
+917461227189673984	20660763	2017-10-10 00:16	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917461224731770881	407100141	2017-10-10 00:16	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917461224362672128	20861332	2017-10-10 00:16	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917461189889626112	2807668311	2017-10-10 00:16	"Kuo: Samsung making progress with Note under-display fingerprint reader …"
+
+917460581556326402	152077614	2017-10-10 00:13	"Kuo: Samsung making progress with Note under-display fingerprint reader …"
+
+917459282030972928	92274994	2017-10-10 00:08	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917458754173571072	906188292898611201	2017-10-10 00:06	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917458701316952066	1294937425	2017-10-10 00:06	""Kuo: Samsung making progress with Note under-display fingerprint reader" "
+
+917458679951175682	266365573	2017-10-10 00:06	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917458444982071296	854243006043619328	2017-10-10 00:05	" Android News: Kuo: Samsung making progress with Note under-display fingerprint reader | AA by Bogdan "
+
+917458031633424384	728500030118735872	2017-10-10 00:03	"Samsung Galaxy Note likely to have under-display fingerprint sensor Android"
+
+917458005456809986	447798892	2017-10-10 00:03	"Samsung Galaxy Note likely to have under-display fingerprint sensor "
+
+917457713482919936	787202620838608896	2017-10-10 00:02	"Kuo: Samsung making progress with Note under-display fingerprint reader "
+
+917457681551691777	821078010887540736	2017-10-10 00:02	"Kuo: samsung making progress with Note under-display fingerprint reader "
+
+917457305574178817	121932906	2017-10-10 00:00	"Kuo: samsung making progress with Note under-display fingerprint reader "
+
+917457271319334914	33326012	2017-10-10 00:00	"AndroidAuth: Kuo: samsung making progress with Note under-display fingerprint reader "
+
+917456949783998466	854690577782362112	2017-10-09 23:59	"AndroidAuth: Kuo: samsung making progress with Note under-display fingerprint reader "
+
+917456925150908418	274125426	2017-10-09 23:59	" Samsung Galaxy Note likely to have under-display fingerprint sensor android handsets"
+
+917456812382785536	2428717886	2017-10-09 23:58	"Kuo: samsung making progress with Note under-display fingerprint reader "
+
+917456750789513217	95438524	2017-10-09 23:58	"Kuo: samsung making progress with Note under-display fingerprint reader "
+
+917405520792883200	2849675471	2017-10-09 20:34	"Samsung's Galaxy may have a key feature missing from iPhone X (under-display fingerprint sensor) … via TheStreet"
+
+917387963457167360	869847284388732928	2017-10-09 19:25	"Samsung Galaxy Note may have a under-display optical fingerprint sensor, the same feature that iPhone X had... "
+
+917387260554866688	418793735	2017-10-09 19:22	"Egis, Samsung LSI may join bid for under-display fingerprint sensor orders for Samsung's Galaxy Note smartphone, KGI's Kuo says"
+
+916878639567921152	742064147991400448	2017-10-08 09:41	"Samsung Galaxy Note may have a “under-display optical fingerprint” sensor GalaxyNote9 SamsungNote9 Samsung... "
+
+916877987299123201	1050701094	2017-10-08 09:38	"Samsung Galaxy Note may have a “under-display optical fingerprint” sensor GalaxyNote9 SamsungNote9 Samsung... "
+
+916877724144111617	742064147991400448	2017-10-08 09:37	"Samsung Galaxy Note may have a “under-display optical fingerprint” sensor … via Makersofandroid Samsung"
+
+916669691111845888	167048236	2017-10-07 19:50	"Ming-Chi Kuo: Samsung Galaxy Note (Fall ) will have an under-the-display fingerprint scanner"
+
+899640024077127681	125637545	2017-08-21 20:01	"Take a breather and catch up with my blog Samsung Galaxy Note will have under display fingerprint scanner... "
+
+897458381614587904	3040799317	2017-08-15 19:32	"Will Samsung include under-the-display fingerprint sensor on Galaxy Note ? "
+
+896765177252659200	4453984164	2017-08-13 21:37	"Will Samsung include under-the-display fingerprint sensor on Galaxy Note ? "
+
+894617927172976643	17524072	2017-08-07 23:25	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note ^DB "
+
+894574257015017473	17524072	2017-08-07 20:31	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note ^DB "
+
+894544587905216512	95575598	2017-08-07 18:33	"Galaxy Word , not S9, to be first Samsung cellphone with under-display fingerprint tech - GSM Portal "
+
+894544585443221504	95575598	2017-08-07 18:33	"Galaxy Word , not S9, to be first Samsung cellphone with under-display fingerprint tech - GSM Portal "
+
+894544559006502913	95575598	2017-08-07 18:33	"Galaxy Note , not S9, to be first Samsung phone with under-display fingerprint tech - GSM Portal "
+
+894544556393410560	95575598	2017-08-07 18:33	"Galaxy Note , not S9, to be first Samsung phone with under-display fingerprint tech - GSM Portal "
+
+894544514433650688	95575598	2017-08-07 18:33	"Galaxy Note , not S9, to be first Samsung phone with under-display fingerprint tech - …"
+
+894534007668576256	750638429092868097	2017-08-07 17:51	"Galaxy Note , not S9, to be first Samsung phone with under-display fingerprint tech …"
+
+894532672378294272	58554518	2017-08-07 17:46	"Galaxy Note , not S9, to be first Samsung phone with under-display fingerprint tech "
+
+894532659556253696	707518040062173184	2017-08-07 17:46	"Galaxy Note , not S9, to be first Samsung phone with under-display fingerprint tech "
+
+894532418526470144	1444346588	2017-08-07 17:45	"Galaxy Note , not S9, to be first Samsung phone with under-display fingerprint tech: "
+
+894531132682665985	16452299	2017-08-07 17:40	"Galaxy Note , not S9, to be first Samsung phone with under-display fingerprint tech …"
+
+894509038536278019	794385028054544384	2017-08-07 16:12	"New post: Samsung Galaxy Note to feature under-display fingerprint scanner: Report …"
+
+894506405700530176	14591705	2017-08-07 16:02	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note …"
+
+894498884352974848	1261710223	2017-08-07 15:32	"KGI: Samsung Galaxy Note to Ship with Under-Display Fingerprint Scanner; Galaxy S9 to Feature Improved Iris... "
+
+894482107636101120	47332651	2017-08-07 14:25	"Samsung Galaxy Note : under-display fingerprint sensor: Samsung to use under-display… "
+
+894479130661711872	529798141	2017-08-07 14:13	". Samsung is reportedly set to introduce an under-display fingerprint scanner in the Galaxy Note - "
+
+894476494105223169	711611605994250240	2017-08-07 14:03	"Samsung Galaxy Note will have under display fingerprint scanner as per rumours. …"
+
+894452838897602560	97819464	2017-08-07 12:29	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note "
+
+894449129019015168	4779869672	2017-08-07 12:14	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note An…"
+
+894442053765144576	3075976478	2017-08-07 11:46	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note "
+
+894412822976671744	2467467906	2017-08-07 09:50	"KGI: Samsung Galaxy Note to Ship with Under-Display Fingerprint Scanner; Galaxy S9 to… android mobile "
+
+894405024083607552	1261710223	2017-08-07 09:19	"KGI: Samsung Galaxy Note to Ship with Under-Display Fingerprint Scanner; Galaxy S9 to Feature Improved Iris… "
+
+894400733600264192	125637545	2017-08-07 09:02	"Just in: Samsung Galaxy Note will have under display fingerprint scanner as per rumours. technews Note9 "
+
+894315029582856192	8848812	2017-08-07 03:21	" … Waiting for Samsung Note for fingerprint scanner under the display. I like it on the back!"
+
+893975136575074304	803562870004912128	2017-08-06 04:50	"Samsung to present under-display fingerprint scanner on Galaxy Note ? …"
+
+893833012827361281	47332651	2017-08-05 19:26	"Galaxy S9 to keep rear fingerprint sensor, Note to debut under-display reader: Samsung’s… "
+
+893826705244160001	14509143	2017-08-05 19:01	"Galaxy S9 to keep rear fingerprint sensor, Note to debut under-display reader Samsung’s Galaxy S8 is barely thre… "
+
+893826117538390016	14509143	2017-08-05 18:58	"Galaxy S9 to keep rear fingerprint sensor, Note to debut under-display reader Samsung’s Galaxy S8 is barely... "
+
+893758708823592960	735423858602344449	2017-08-05 14:30	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note …"
+
+893733834432368640	524337096	2017-08-05 12:52	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note "
+
+893712440701202432	728500030118735872	2017-08-05 11:27	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note An…"
+
+893697351566708736	852176924843618310	2017-08-05 10:27	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note "
+
+893693908538068992	58554518	2017-08-05 10:13	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note ."
+
+893692071684448257	177087369	2017-08-05 10:06	"KGI: Samsung to stick with rear-fingerprint sensor in Galaxy S9, adopt under-display sensor with Galaxy Note …"
+

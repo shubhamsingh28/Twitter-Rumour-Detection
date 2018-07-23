@@ -1,0 +1,35 @@
+id 	 user_id 	 date 	 text
+917317292886601729	3279487404	2017-10-09 14:44	"என்னது சென்னையை மூழ்கடிக்கப் போகும் பெருவெள்ளமா? களமிறங்கிய அதிகாரிகள்! TamilNews Chennai Airport Flood …"
+
+673776442862206976	3129604099	2015-12-07 13:39	"Chennai floods | Ashok Gajapathi Raju visits Chennai Airport (07-12-2015) …"
+
+672848342469189632	425051893	2015-12-05 00:12	"Floods Strike Again in Tamil Nadu – Chennai Airport Closed Flood_List …"
+
+672777693847392258	615956915	2015-12-04 19:31	"Chennai Airport Closure due incessant Rains and Flood "
+
+672777302464438272	256466039	2015-12-04 19:29	"Chennai Airport Closure due incessant Rains and Flood "
+
+672386827093839872	3259540404	2015-12-03 17:38	"Latest chennai airport floods photos …"
+
+672386816050249728	3252298740	2015-12-03 17:38	"Latest chennai airport floods photos …"
+
+672364623115493376	2377074986	2015-12-03 16:09	"Floods Strike Again in Tamil Nadu – Chennai Airport Closed Flood_List …"
+
+671981402804625408	2925328471	2015-12-02 14:47	"Flood:Vellam Kaaranam-Chennai Airport Noakki Sellum, Sri Lankan Airlines In Flights Raththu Seyya Pattulladu.-SA (SN)"
+
+671981295338176512	2527249296	2015-12-02 14:46	"Flood: Vellam Kaaranam-Chennai Airport Noakki Sellum, Sri Lankan Airlines In Flights Raththu Seyya Pattulladu. -SA (SN)"
+
+671955862945181696	2974992608	2015-12-02 13:05	"Flood : Vellam kaaranam-Chennai Airport Noakki Sellum, Sri Lankan Airlines in Flights Raththu Seyya Pattulladu : SA-(SN)"
+
+671945944221503488	701338512	2015-12-02 12:26	"Flood : Vellam kaaranam-Chennai Airport Noakki Sellum, Sri Lankan Airlines in Flights Raththu Seyya Pattulladu : SA-(SN)"
+
+671938346927525888	270141398	2015-12-02 11:56	"FLOOD: Katunayake - Chennai Vimaanangal Anaitthum idaiNiruttham. india'vil Kadum Malai & Chennai Airport'il Vellam. -Sri Lankan Airlines"
+
+671929398422040576	277930000	2015-12-02 11:20	"Flood : Vellam kaaranam-Chennai Airport Noakki Sellum, Sri Lankan Airlines in Flights Raththu Seyya Pattulladu : SA-(SN)"
+
+671927255883497472	315703927	2015-12-02 11:11	"FLOOD: Katunayake - Chennai Vimaanangal Anaitthum idaiNiruttham. india'vil Kadum Malai & Chennai Airport'il Vellam. -Sri Lankan Airlines"
+
+671925061453012993	1241654156	2015-12-02 11:03	"FLOOD: Katunayake - Chennai Vimaanangal Anaitthum idaiNiruttham. india'vil Kadum Malai & Chennai Airport'il Vellam. -Sri Lankan Airlines"
+
+671753437948846080	430430085	2015-12-01 23:41	"Chennai airport fully flood so sad chennairains ChennaiFloods chennai fully floods "
+

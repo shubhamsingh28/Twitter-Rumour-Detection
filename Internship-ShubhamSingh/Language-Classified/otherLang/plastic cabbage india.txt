@@ -1,0 +1,3 @@
+id 	 user_id 	 date 	 text
+867053115857661952	106421790	2017-05-23 21:52	"Modi ji aaj hum China se plastic ke chaval,egg,or cabbage tak import kar rahe hai..aap kis make in India ki bat karte ho..its joke"
+

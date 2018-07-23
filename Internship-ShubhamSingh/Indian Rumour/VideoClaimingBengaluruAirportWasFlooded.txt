@@ -1,0 +1,8 @@
+id 	 user_id 	 date 	 text
+922003305936576512	67576802	2017-10-22 13:04	"Fake Video Claiming Bengaluru Airport Was Flooded, Is From Mexico https://www.thequint.com/news/webqoof/fake-video-claiming-bengaluru-airport-was-flooded-is-from-mexico …"
+
+920246450797162496	2835499934	2017-10-17 16:43	"Fake Video Claiming Bengaluru Airport Was Flooded, Is From Mexico https://www.thequint.com/news/webqoof/fake-video-claiming-bengaluru-airport-was-flooded-is-from-mexico …"
+
+920246138275532800	1409852467	2017-10-17 16:42	"Fake Video Claiming Bengaluru Airport Was Flooded, Is From Mexico http://ift.tt/2gpImrD"
+
+648125801477439489	41415587	2015-09-27 18:53	"Conversing in half-Kannada, half-Hindi with my # Ola Cabbie Mahadeva Swamy as he negotiates flooded road to reach # Bengaluru airport."

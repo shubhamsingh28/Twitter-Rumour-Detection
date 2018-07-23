@@ -1,0 +1,19 @@
+id 	 user_id 	 date 	 text
+875005080231178240	2810111	2017-06-14 20:30	". LICIndiaForever holds % shares in ITC (Indian Tobacco Company) - zindagi ke saath bhi, zindagi ke baad bhi."
+
+824662597790097414	250784913	2017-01-26 22:27	"India TV Sahara India. ITC Indian Tobacco Company India Today magazine, and TV channel. IndiaInCompanyNames"
+
+785114514823917568	101428855	2016-10-09 19:17	" prudentgoa ITC .. IMPERIAL TOBACCO COMPANY OF INDIA"
+
+628500242732814337	2739345211	2015-08-04 15:08	"ITC(Indian Tobacco Company) சிகரெட் மட்டுமே விற்பதுபோல இங்கு சிலர் பதிவிட்டு வருகிறார்கள். ITC கம்பெனி... "
+
+431231085587230721	469678862	2014-02-06 06:31	"Imperial Tobacco Company of India Limited ( ITC ) se constituyó en y nunca se dedicó sólo a los fumadores. "
+
+391800716878028800	400703779	2013-10-20 11:09	"bhai yeh Indian Tobacco company(ITC) bahut hi haraami hai jis desh mein jaati hai wahin ka naam le leti. In Pakistan its PTC"
+
+333887795053617152	85806549	2013-05-13 15:43	"Alerta en los mercados asiáticos por desplome del % de la poderosa ITC (el conglomerado empresarial Indian Tobacco Company) - Bloomberg"
+
+307032963726602240	153752764	2013-02-28 13:12	"ITC Limited-க்கு எக்ஸ்பான்சன் Indian Tobacco Company-யாம்... இன்றைய பொதுஅறிவு..."
+
+286794040773574656	621147850	2013-01-03 16:50	"ITC: ભારતની જાહેરક્ષેત્રની કંપનીનું આખું નામ India Tobacco Company છે. આ કંપની એફએમસીજી માર્કેટ્સમાં, હોટલ,... "
+

@@ -1,0 +1,17 @@
+id 	 user_id 	 date 	 text
+751440612738551808	745270905966727169	2016-07-08 21:09	"Muslim Girl Won Bhagavad Gita Contest …"
+
+611897854030811136	1123297855	2015-06-19 19:36	"Modi Meets Muslim Girl Who Won Bhagavad Gita Contest "
+
+611740904093659136	59304768	2015-06-19 09:12	"Modi Meets Muslim Girl Who Won Bhagavad Gita Contest "
+
+611688864609095680	606991999	2015-06-19 05:46	"Modi Meets Muslim Girl Who Won Bhagavad Gita Contest "
+
+611557596990849024	749727002	2015-06-18 21:04	"Modi Meets Muslim Girl Who Won Bhagavad Gita Contest "
+
+584255005806297088	127787863	2015-04-04 12:53	"Muslim girl (Mariyam Asif Siddiqui) won Bhagwad Gita contest - MariyamAsifSiddiqui... "
+
+584169975117516800	307234790	2015-04-04 07:15	"A Muslim girl won Gita contest in Mumbai Amazing Hindu gitasar"
+
+583886199061774336	445580449	2015-04-03 12:28	"Waise hi Secularism media ne khatam kar rakha hai aur jo bacha-kucha hai, wo aaj khatam ho jayega kyunki Muslim Girl won the Gita contest."
+
