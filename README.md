@@ -2,12 +2,15 @@
 
 Twitter code to collect data for twitter Rumor detection on multiple topics
 
+### Install Tweepy 
 ```bash
-Install Tweepy "$pip install tweepy"
+"$pip install tweepy"
 ```
+
+Add keywords to "rumor.txt" line seperated
+
+### Run the code
+
 ```bash
-add keywords to "rumor.txt" line seperated
-```
-```bash
-#run the code "$python read_file.py"
+ "$python read_file.py"
 ```
